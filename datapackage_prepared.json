@@ -1,0 +1,47 @@
+{
+    "resources": [
+        {
+            "name": "odds",
+            "path": "odds.csv",
+            "langugage": "cs",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "date",
+                        "type": "date",
+                        "format": "YYYY-mm-ddTHH:ii:ss.uuuuuu",
+                        "description": "Date and time (UTC) of retrieving the information"
+                    },
+                    {
+                        "name": "title",
+                        "type": "string",
+                        "description": "Title of the bet/race"
+                    },
+                    {
+                        "name": "odds",
+                        "type": "number",
+                        "description": "Odds for the result"
+                    },
+                    {
+                        "name": "date_bet",
+                        "type": "date",
+                        "format": "d.m.Y HH:ii",
+                        "description": "Date of the bet/race"
+                    },
+                    {
+                        "name": "identifier",
+                        "type": "integer",
+                        "description": "Identifier from tipsport.cz"
+                    }
+                ]
+            }
+        }
+    ],
+    "language": "en",
+    "sources": [
+        {
+            "name": "Tipsport",
+            "web": "https://tisport.cz"
+        }
+    ]
+}
