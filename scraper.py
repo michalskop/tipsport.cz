@@ -19,6 +19,7 @@ git_ssh_identity_file = settings.ssh_file
 o = repo.remotes.origin
 git_ssh_cmd = 'ssh -i %s' % git_ssh_identity_file
 
+total_groups = 0
 for fdir in settings.tipsport_dirs:
     dat = utils.scrape_races(fdir)
     date = datetime.datetime.utcnow().isoformat()
@@ -45,7 +46,7 @@ for fdir in settings.tipsport_dirs:
                 os.makedirs(settings.git_dir + data_path + row['matchId'])
             with open(settings.git_dir + data_path + row['matchId'] +'/datapackage.json', 'w') as fout:
                 fout.write(dp.to_json())
-            repo.git.add(settings.git_dir + data_path + group['identifier']  +'/datapackage.json')
+            repo.git.add(settings.git_dir + data_path + row['matchId']  +'/datapackage.json')
             with open(settings.git_dir + data_path + row['matchId'] +'/odds.csv',"w") as fout:
                 header = []
                 for resource in dp.resources:
@@ -54,7 +55,7 @@ for fdir in settings.tipsport_dirs:
                             header.append(field['name'])
                 dw = csv.DictWriter(fout,header)
                 dw.writeheader()
-            repo.git.add(settings.git_dir + data_path + group['identifier']  +'/odds.csv')
+            repo.git.add(settings.git_dir + data_path + row['matchId']  +'/odds.csv')
 
         with open(settings.git_dir + data_path + row['matchId']  +'/odds.csv',"a") as fout:
             header = []
@@ -76,14 +77,11 @@ for fdir in settings.tipsport_dirs:
                         }
                         dw.writerow(item)
 
-        repo.git.add(settings.git_dir + data_path + group['identifier']  +'/odds.csv')
+        repo.git.add(settings.git_dir + data_path + row['matchId']  +'/odds.csv')
 
-try:
-    datalen = len(data)
-except:
-    datalen = 0
+    total_groups += len(dat)
 
 with repo.git.custom_environment(GIT_COMMITTER_NAME=settings.bot_name, GIT_COMMITTER_EMAIL=settings.bot_email):
-    repo.git.commit(message="happily updating data %s groups of bets" % (str(datalen)), author="%s <%s>" % (settings.bot_name, settings.bot_email))
+    repo.git.commit(message="happily updating data %s groups of bets" % (str(total_groups)), author="%s <%s>" % (settings.bot_name, settings.bot_email))
 with repo.git.custom_environment(GIT_SSH_COMMAND=git_ssh_cmd):
     o.push()
