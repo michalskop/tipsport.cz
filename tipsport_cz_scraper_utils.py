@@ -17,11 +17,14 @@ def scrape_race(match):
         for trn in range(2,len(trs)):
             tr = trs[trn]
             item = {}
-            item['title'] = tr.xpath('td')[1].text.strip()
-            item['identifier'] = tr.xpath('td/span')[0].text.strip()
-            item['odds'] =  tr.xpath('td/a')[0].text.strip()
-            item['date_bet'] = date_bet
-            rows.append(item)
+            try:
+                item['title'] = tr.xpath('td')[1].text.strip()
+                item['identifier'] = tr.xpath('td/span')[0].text.strip()
+                item['odds'] =  tr.xpath('td/a')[0].text.strip()
+                item['date_bet'] = date_bet
+                rows.append(item)
+            except:
+                nothing = None
         group['rows'] = rows
         data.append(group)
     return data
