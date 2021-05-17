@@ -17,7 +17,8 @@ jobs:
         uses: actions/checkout@v2
   
       - name: get social
-        run: curl "https://ban.tipsport.cz/c/feed.php?feed=1101&pid=10661&sid=12302&tid=2161&bid=3284" > social.xml
+        run: |-
+          curl "https://ban.tipsport.cz/c/feed.php?feed=1101&pid=10661&sid=12302&tid=2161&bid=3284" > social.xml
 
       - name: Commit and push if it changed
         run: |-
