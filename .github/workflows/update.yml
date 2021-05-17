@@ -1,0 +1,30 @@
+name: Update data
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+  schedule:
+    - cron: '04 4,16 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+  
+      - name: get social
+        run: |-
+          curl "https://ban.tipsport.cz/c/feed.php?feed=1101&pid=10661&sid=12302&tid=2161&bid=3284" > social.xml
+
+      - name: Commit and push if it changed
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push
