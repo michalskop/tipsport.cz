@@ -18,7 +18,7 @@ jobs:
         name: Configure pip caching
         with:
           path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements_simulations.txt') }}
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements_reorder_social.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
       - name: Install Python dependencies
