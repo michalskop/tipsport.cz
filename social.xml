@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odds>
- <timestamp>1632197955246</timestamp>
- <date>21.09.2021 06:19</date>
+ <timestamp>1632241158586</timestamp>
+ <date>21.09.2021 18:19</date>
  <refresh>15</refresh>
  <max>9000</max>
   <competition id="91111" sport="Zábava" competitionName="StarDance XI" annualName="2021" urlOld="https://www.tipsport.cz/kurzy?competId=91111&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/kurzy/spolecenske-sazky/zabava/stardance-xi-91111?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" priority="1">
    <match id="3998036" matchId="3998036" name="StarDance XI" nameFull="StarDance XI - vítězná celebrita" dateClosed="2021.10.16 20:00" urlOld="https://www.tipsport.cz/kurzy?matchId=3998036&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/spolecenske-sazky-stardance-xi-3998036?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284">
      <event id="989313228" name="Vítěz" eventType="-45" eventTypeDescription="Vítěz" gamePart="1/a">
-       <odd id="1281366844" eventId="989313228" opportunityId="1281366844" opportunityNumber="90000" opportunityType="null" fullName="Cina Jan" rate="2.60" percentDeposit="0" tickets="4346"/>
-       <odd id="1281366848" eventId="989313228" opportunityId="1281366848" opportunityNumber="90004" opportunityType="null" fullName="Verner Tomáš" rate="6.00" percentDeposit="0" tickets="430"/>
-       <odd id="1281366845" eventId="989313228" opportunityId="1281366845" opportunityNumber="90008" opportunityType="null" fullName="Kopecká Martina Viktorie" rate="9.00" percentDeposit="0" tickets="95"/>
+       <odd id="1281366844" eventId="989313228" opportunityId="1281366844" opportunityNumber="90000" opportunityType="null" fullName="Cina Jan" rate="2.60" percentDeposit="0" tickets="4377"/>
+       <odd id="1281366848" eventId="989313228" opportunityId="1281366848" opportunityNumber="90004" opportunityType="null" fullName="Verner Tomáš" rate="6.00" percentDeposit="0" tickets="431"/>
+       <odd id="1281366845" eventId="989313228" opportunityId="1281366845" opportunityNumber="90008" opportunityType="null" fullName="Kopecká Martina Viktorie" rate="9.00" percentDeposit="0" tickets="96"/>
        <odd id="1281366847" eventId="989313228" opportunityId="1281366847" opportunityNumber="90009" opportunityType="null" fullName="Sestini Hlaváčková Andrea" rate="11.00" percentDeposit="0" tickets="31"/>
-       <odd id="1281366842" eventId="989313228" opportunityId="1281366842" opportunityNumber="90007" opportunityType="null" fullName="Šoposká Marika" rate="11.00" percentDeposit="0" tickets="102"/>
+       <odd id="1281366842" eventId="989313228" opportunityId="1281366842" opportunityNumber="90007" opportunityType="null" fullName="Šoposká Marika" rate="11.00" percentDeposit="0" tickets="103"/>
        <odd id="1281366840" eventId="989313228" opportunityId="1281366840" opportunityNumber="90003" opportunityType="null" fullName="Navrátil Mirai" rate="12.00" percentDeposit="0" tickets="96"/>
-       <odd id="1281366843" eventId="989313228" opportunityId="1281366843" opportunityNumber="90005" opportunityType="null" fullName="Babčáková Simona" rate="15.00" percentDeposit="0" tickets="68"/>
+       <odd id="1281366843" eventId="989313228" opportunityId="1281366843" opportunityNumber="90005" opportunityType="null" fullName="Babčáková Simona" rate="15.00" percentDeposit="0" tickets="69"/>
        <odd id="1281366846" eventId="989313228" opportunityId="1281366846" opportunityNumber="90002" opportunityType="null" fullName="Trávníček Pavel" rate="15.00" percentDeposit="0" tickets="51"/>
        <odd id="1281366841" eventId="989313228" opportunityId="1281366841" opportunityNumber="90006" opportunityType="null" fullName="Černochová Tereza" rate="17.00" percentDeposit="0" tickets="28"/>
-       <odd id="1281366839" eventId="989313228" opportunityId="1281366839" opportunityNumber="90001" opportunityType="null" fullName="Godla Zdeněk" rate="25.00" percentDeposit="0" tickets="42"/>
+       <odd id="1281366839" eventId="989313228" opportunityId="1281366839" opportunityNumber="90001" opportunityType="null" fullName="Godla Zdeněk" rate="25.00" percentDeposit="0" tickets="43"/>
      </event>
    </match>
   </competition>
   <competition id="75143" sport="Politika" competitionName="Politické sázky na rok 2021" annualName="2021" urlOld="https://www.tipsport.cz/kurzy?competId=75143&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/kurzy/spolecenske-sazky/politika/politicke-sazky-na-rok-2021-75143?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" priority="1">
    <match id="2863190" matchId="2863190" name="Politické události v roce 2021" nameFull="Politické události v roce 2021" dateClosed="2021.10.08 14:00" urlOld="https://www.tipsport.cz/kurzy?matchId=2863190&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/spolecenske-sazky-politicke-udalosti-v-roce-2021-2863190?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284">
      <event id="979612215" name="Ivan Bartoš bude 31.12.2021 předseda vlády ČR s důvěrou PS" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1255982604" eventId="979612215" opportunityId="1255982604" opportunityNumber="90014" opportunityType="1" fullName="Ano" rate="11.00" percentDeposit="0" tickets="341"/>
-       <odd id="1255982603" eventId="979612215" opportunityId="1255982603" opportunityNumber="90015" opportunityType="2" fullName="Ne" rate="1.01" percentDeposit="0" tickets="608"/>
+       <odd id="1255982604" eventId="979612215" opportunityId="1255982604" opportunityNumber="90014" opportunityType="1" fullName="Ano" rate="11.00" percentDeposit="0" tickets="343"/>
+       <odd id="1255982603" eventId="979612215" opportunityId="1255982603" opportunityNumber="90015" opportunityType="2" fullName="Ne" rate="1.01" percentDeposit="0" tickets="625"/>
      </event>
      <event id="979612214" name="Andrej Babiš bude 31.12.2021 předseda vlády ČR s důvěrou PS" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1255982602" eventId="979612214" opportunityId="1255982602" opportunityNumber="90012" opportunityType="1" fullName="Ano" rate="4.00" percentDeposit="0" tickets="1164"/>
-       <odd id="1255982601" eventId="979612214" opportunityId="1255982601" opportunityNumber="90013" opportunityType="2" fullName="Ne" rate="1.20" percentDeposit="0" tickets="172"/>
+       <odd id="1255982602" eventId="979612214" opportunityId="1255982602" opportunityNumber="90012" opportunityType="1" fullName="Ano" rate="4.00" percentDeposit="0" tickets="1170"/>
+       <odd id="1255982601" eventId="979612214" opportunityId="1255982601" opportunityNumber="90013" opportunityType="2" fullName="Ne" rate="1.20" percentDeposit="0" tickets="173"/>
      </event>
      <event id="979612220" name="Petr Fiala bude 31.12.2021 předseda vlády ČR s důvěrou PS" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1255982613" eventId="979612220" opportunityId="1255982613" opportunityNumber="90024" opportunityType="1" fullName="Ano" rate="6.00" percentDeposit="0" tickets="290"/>
-       <odd id="1255982614" eventId="979612220" opportunityId="1255982614" opportunityNumber="90025" opportunityType="2" fullName="Ne" rate="1.09" percentDeposit="0" tickets="203"/>
+       <odd id="1255982613" eventId="979612220" opportunityId="1255982613" opportunityNumber="90024" opportunityType="1" fullName="Ano" rate="6.00" percentDeposit="0" tickets="292"/>
+       <odd id="1255982614" eventId="979612220" opportunityId="1255982614" opportunityNumber="90025" opportunityType="2" fullName="Ne" rate="1.09" percentDeposit="0" tickets="204"/>
      </event>
    </match>
   </competition>
@@ -40,19 +40,19 @@
    <match id="3808883" matchId="3808883" name="Volby do poslanecké sněmovny Parlamentu ČR 2021" nameFull="Volby do poslanecké sněmovny Parlamentu ČR 2021" dateClosed="2021.10.08 14:00" urlOld="https://www.tipsport.cz/kurzy?matchId=3808883&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/spolecenske-sazky-volby-do-poslanecke-snemovny-parlamentu-cr-2021-3808883?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284">
      <event id="982937028" name="ANO 2011 - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
        <odd id="1264693255" eventId="982937028" opportunityId="1264693255" opportunityNumber="90022" opportunityType="u" fullName="Méně než 24.01%" rate="3.57" percentDeposit="0" tickets="90"/>
-       <odd id="1264693254" eventId="982937028" opportunityId="1264693254" opportunityNumber="90023" opportunityType="o" fullName="24.01% a více" rate="1.24" percentDeposit="0" tickets="683"/>
+       <odd id="1264693254" eventId="982937028" opportunityId="1264693254" opportunityNumber="90023" opportunityType="o" fullName="24.01% a více" rate="1.24" percentDeposit="0" tickets="684"/>
      </event>
      <event id="1004692995" name="Piráti+STAN - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
-       <odd id="1322207115" eventId="1004692995" opportunityId="1322207115" opportunityNumber="90074" opportunityType="u" fullName="Méně než 19.01%" rate="2.00" percentDeposit="0" tickets="33"/>
-       <odd id="1322207114" eventId="1004692995" opportunityId="1322207114" opportunityNumber="90075" opportunityType="o" fullName="19.01% a více" rate="1.70" percentDeposit="0" tickets="118"/>
+       <odd id="1322207115" eventId="1004692995" opportunityId="1322207115" opportunityNumber="90074" opportunityType="u" fullName="Méně než 19.01%" rate="2.05" percentDeposit="0" tickets="34"/>
+       <odd id="1322207114" eventId="1004692995" opportunityId="1322207114" opportunityNumber="90075" opportunityType="o" fullName="19.01% a více" rate="1.67" percentDeposit="0" tickets="123"/>
      </event>
      <event id="1004692996" name="Piráti+STAN - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
-       <odd id="1322207117" eventId="1004692996" opportunityId="1322207117" opportunityNumber="90076" opportunityType="u" fullName="Méně než 20.01%" rate="1.70" percentDeposit="0" tickets="26"/>
+       <odd id="1322207117" eventId="1004692996" opportunityId="1322207117" opportunityNumber="90076" opportunityType="u" fullName="Méně než 20.01%" rate="1.70" percentDeposit="0" tickets="27"/>
        <odd id="1322207116" eventId="1004692996" opportunityId="1322207116" opportunityNumber="90077" opportunityType="o" fullName="20.01% a více" rate="2.00" percentDeposit="0" tickets="37"/>
      </event>
      <event id="962090148" name="Vítěz ANO 2011" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
-       <odd id="1209619257" eventId="962090148" opportunityId="1209619257" opportunityNumber="90000" opportunityType="1" fullName="Ano" rate="1.11" percentDeposit="0" tickets="18373"/>
-       <odd id="1209619256" eventId="962090148" opportunityId="1209619256" opportunityNumber="90001" opportunityType="2" fullName="Ne" rate="5.37" percentDeposit="0" tickets="6847"/>
+       <odd id="1209619257" eventId="962090148" opportunityId="1209619257" opportunityNumber="90000" opportunityType="1" fullName="Ano" rate="1.11" percentDeposit="0" tickets="18424"/>
+       <odd id="1209619256" eventId="962090148" opportunityId="1209619256" opportunityNumber="90001" opportunityType="2" fullName="Ne" rate="5.37" percentDeposit="0" tickets="6858"/>
      </event>
      <event id="1003664320" name="Zelení - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
        <odd id="1319423624" eventId="1003664320" opportunityId="1319423624" opportunityNumber="90062" opportunityType="u" fullName="Méně než 5.01%" rate="1.01" percentDeposit="0" tickets="11"/>
@@ -63,12 +63,12 @@
        <odd id="1332564688" eventId="1008514108" opportunityId="1332564688" opportunityNumber="90155" opportunityType="2" fullName="Ne" rate="1.00" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1008514109" name="Umístění SPD do 2. místa" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
-       <odd id="1332564691" eventId="1008514109" opportunityId="1332564691" opportunityNumber="90156" opportunityType="1" fullName="Ano" rate="40.00" percentDeposit="0" tickets="8"/>
+       <odd id="1332564691" eventId="1008514109" opportunityId="1332564691" opportunityNumber="90156" opportunityType="1" fullName="Ano" rate="40.00" percentDeposit="0" tickets="9"/>
        <odd id="1332564690" eventId="1008514109" opportunityId="1332564690" opportunityNumber="90157" opportunityType="2" fullName="Ne" rate="1.00" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1008514110" name="Umístění SPOLU do 2. místa" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
-       <odd id="1332564692" eventId="1008514110" opportunityId="1332564692" opportunityNumber="90158" opportunityType="1" fullName="Ano" rate="1.40" percentDeposit="0" tickets="123"/>
-       <odd id="1332564693" eventId="1008514110" opportunityId="1332564693" opportunityNumber="90159" opportunityType="2" fullName="Ne" rate="2.68" percentDeposit="0" tickets="10"/>
+       <odd id="1332564692" eventId="1008514110" opportunityId="1332564692" opportunityNumber="90158" opportunityType="1" fullName="Ano" rate="1.45" percentDeposit="0" tickets="130"/>
+       <odd id="1332564693" eventId="1008514110" opportunityId="1332564693" opportunityNumber="90159" opportunityType="2" fullName="Ne" rate="2.52" percentDeposit="0" tickets="11"/>
      </event>
      <event id="1008514111" name="Umístění Švýcarská demokracie do 2. místa" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
        <odd id="1332564695" eventId="1008514111" opportunityId="1332564695" opportunityNumber="90160" opportunityType="1" fullName="Ano" rate="400.00" percentDeposit="0" tickets="0"/>
@@ -76,22 +76,22 @@
      </event>
      <event id="1008514104" name="Umístění ANO 2011 do 2. místa" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
        <odd id="1332564680" eventId="1008514104" opportunityId="1332564680" opportunityNumber="90146" opportunityType="1" fullName="Ano" rate="1.01" percentDeposit="0" tickets="5"/>
-       <odd id="1332564681" eventId="1008514104" opportunityId="1332564681" opportunityNumber="90147" opportunityType="2" fullName="Ne" rate="11.00" percentDeposit="0" tickets="3"/>
+       <odd id="1332564681" eventId="1008514104" opportunityId="1332564681" opportunityNumber="90147" opportunityType="2" fullName="Ne" rate="11.00" percentDeposit="0" tickets="4"/>
      </event>
      <event id="1008514105" name="Umístění ČSSD do 2. místa" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
        <odd id="1332564683" eventId="1008514105" opportunityId="1332564683" opportunityNumber="90148" opportunityType="1" fullName="Ano" rate="180.00" percentDeposit="0" tickets="0"/>
        <odd id="1332564682" eventId="1008514105" opportunityId="1332564682" opportunityNumber="90149" opportunityType="2" fullName="Ne" rate="1.00" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1008514106" name="Umístění KSČM do 2. místa" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
-       <odd id="1332564685" eventId="1008514106" opportunityId="1332564685" opportunityNumber="90150" opportunityType="1" fullName="Ano" rate="150.00" percentDeposit="0" tickets="0"/>
+       <odd id="1332564685" eventId="1008514106" opportunityId="1332564685" opportunityNumber="90150" opportunityType="1" fullName="Ano" rate="170.00" percentDeposit="0" tickets="0"/>
        <odd id="1332564684" eventId="1008514106" opportunityId="1332564684" opportunityNumber="90151" opportunityType="2" fullName="Ne" rate="1.00" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1008514107" name="Umístění Piráti+STAN do 2. místa" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
-       <odd id="1332564686" eventId="1008514107" opportunityId="1332564686" opportunityNumber="90152" opportunityType="1" fullName="Ano" rate="2.40" percentDeposit="0" tickets="17"/>
-       <odd id="1332564687" eventId="1008514107" opportunityId="1332564687" opportunityNumber="90153" opportunityType="2" fullName="Ne" rate="1.49" percentDeposit="0" tickets="72"/>
+       <odd id="1332564686" eventId="1008514107" opportunityId="1332564686" opportunityNumber="90152" opportunityType="1" fullName="Ano" rate="2.25" percentDeposit="0" tickets="21"/>
+       <odd id="1332564687" eventId="1008514107" opportunityId="1332564687" opportunityNumber="90153" opportunityType="2" fullName="Ne" rate="1.56" percentDeposit="0" tickets="74"/>
      </event>
      <event id="1008514124" name="Umístění Volný blok do 3. místa" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
-       <odd id="1332564721" eventId="1008514124" opportunityId="1332564721" opportunityNumber="90186" opportunityType="1" fullName="Ano" rate="60.00" percentDeposit="0" tickets="37"/>
+       <odd id="1332564721" eventId="1008514124" opportunityId="1332564721" opportunityNumber="90186" opportunityType="1" fullName="Ano" rate="60.00" percentDeposit="0" tickets="39"/>
        <odd id="1332564720" eventId="1008514124" opportunityId="1332564720" opportunityNumber="90187" opportunityType="2" fullName="Ne" rate="1.00" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1008514125" name="Umístění Zelení do 3. místa" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
@@ -99,12 +99,12 @@
        <odd id="1332564723" eventId="1008514125" opportunityId="1332564723" opportunityNumber="90189" opportunityType="2" fullName="Ne" rate="1.00" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1008514120" name="Umístění SPD do 3. místa" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
-       <odd id="1332564713" eventId="1008514120" opportunityId="1332564713" opportunityNumber="90178" opportunityType="1" fullName="Ano" rate="8.50" percentDeposit="0" tickets="35"/>
-       <odd id="1332564712" eventId="1008514120" opportunityId="1332564712" opportunityNumber="90179" opportunityType="2" fullName="Ne" rate="1.03" percentDeposit="0" tickets="19"/>
+       <odd id="1332564713" eventId="1008514120" opportunityId="1332564713" opportunityNumber="90178" opportunityType="1" fullName="Ano" rate="8.50" percentDeposit="0" tickets="36"/>
+       <odd id="1332564712" eventId="1008514120" opportunityId="1332564712" opportunityNumber="90179" opportunityType="2" fullName="Ne" rate="1.03" percentDeposit="0" tickets="20"/>
      </event>
      <event id="1008514121" name="Umístění SPOLU do 3. místa" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
        <odd id="1332564715" eventId="1008514121" opportunityId="1332564715" opportunityNumber="90180" opportunityType="1" fullName="Ano" rate="1.01" percentDeposit="0" tickets="5"/>
-       <odd id="1332564714" eventId="1008514121" opportunityId="1332564714" opportunityNumber="90181" opportunityType="2" fullName="Ne" rate="20.00" percentDeposit="0" tickets="1"/>
+       <odd id="1332564714" eventId="1008514121" opportunityId="1332564714" opportunityNumber="90181" opportunityType="2" fullName="Ne" rate="20.00" percentDeposit="0" tickets="2"/>
      </event>
      <event id="1008514122" name="Umístění Švýcarská demokracie do 3. místa" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
        <odd id="1332564717" eventId="1008514122" opportunityId="1332564717" opportunityNumber="90182" opportunityType="1" fullName="Ano" rate="100.00" percentDeposit="0" tickets="0"/>
@@ -115,16 +115,16 @@
        <odd id="1332564719" eventId="1008514123" opportunityId="1332564719" opportunityNumber="90185" opportunityType="2" fullName="Ne" rate="1.00" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1008514116" name="Umístění ČSSD do 3. místa" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
-       <odd id="1332564704" eventId="1008514116" opportunityId="1332564704" opportunityNumber="90170" opportunityType="1" fullName="Ano" rate="45.00" percentDeposit="0" tickets="1"/>
+       <odd id="1332564704" eventId="1008514116" opportunityId="1332564704" opportunityNumber="90170" opportunityType="1" fullName="Ano" rate="45.00" percentDeposit="0" tickets="2"/>
        <odd id="1332564705" eventId="1008514116" opportunityId="1332564705" opportunityNumber="90171" opportunityType="2" fullName="Ne" rate="1.00" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1008514117" name="Umístění KSČM do 3. místa" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
-       <odd id="1332564706" eventId="1008514117" opportunityId="1332564706" opportunityNumber="90172" opportunityType="1" fullName="Ano" rate="35.00" percentDeposit="0" tickets="0"/>
+       <odd id="1332564706" eventId="1008514117" opportunityId="1332564706" opportunityNumber="90172" opportunityType="1" fullName="Ano" rate="40.00" percentDeposit="0" tickets="1"/>
        <odd id="1332564707" eventId="1008514117" opportunityId="1332564707" opportunityNumber="90173" opportunityType="2" fullName="Ne" rate="1.00" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1008514118" name="Umístění Piráti+STAN do 3. místa" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
        <odd id="1332564708" eventId="1008514118" opportunityId="1332564708" opportunityNumber="90174" opportunityType="1" fullName="Ano" rate="1.01" percentDeposit="0" tickets="5"/>
-       <odd id="1332564709" eventId="1008514118" opportunityId="1332564709" opportunityNumber="90175" opportunityType="2" fullName="Ne" rate="12.00" percentDeposit="0" tickets="3"/>
+       <odd id="1332564709" eventId="1008514118" opportunityId="1332564709" opportunityNumber="90175" opportunityType="2" fullName="Ne" rate="12.00" percentDeposit="0" tickets="4"/>
      </event>
      <event id="1008514119" name="Umístění Přísaha - OH R. Šlachty do 3. místa" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
        <odd id="1332564711" eventId="1008514119" opportunityId="1332564711" opportunityNumber="90176" opportunityType="1" fullName="Ano" rate="45.00" percentDeposit="0" tickets="5"/>
@@ -135,7 +135,7 @@
        <odd id="1332564697" eventId="1008514112" opportunityId="1332564697" opportunityNumber="90163" opportunityType="2" fullName="Ne" rate="1.00" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1008514113" name="Umístění Volný blok do 2. místa" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
-       <odd id="1332564698" eventId="1008514113" opportunityId="1332564698" opportunityNumber="90164" opportunityType="1" fullName="Ano" rate="300.00" percentDeposit="0" tickets="15"/>
+       <odd id="1332564698" eventId="1008514113" opportunityId="1332564698" opportunityNumber="90164" opportunityType="1" fullName="Ano" rate="300.00" percentDeposit="0" tickets="17"/>
        <odd id="1332564699" eventId="1008514113" opportunityId="1332564699" opportunityNumber="90165" opportunityType="2" fullName="Ne" rate="1.00" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1008514114" name="Umístění Zelení do 2. místa" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
@@ -144,7 +144,7 @@
      </event>
      <event id="1008514115" name="Umístění ANO 2011 do 3. místa" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
        <odd id="1332564702" eventId="1008514115" opportunityId="1332564702" opportunityNumber="90168" opportunityType="1" fullName="Ano" rate="1.00" percentDeposit="0" tickets="0"/>
-       <odd id="1332564703" eventId="1008514115" opportunityId="1332564703" opportunityNumber="90169" opportunityType="2" fullName="Ne" rate="50.00" percentDeposit="0" tickets="0"/>
+       <odd id="1332564703" eventId="1008514115" opportunityId="1332564703" opportunityNumber="90169" opportunityType="2" fullName="Ne" rate="50.00" percentDeposit="0" tickets="1"/>
      </event>
      <event id="1003664307" name="Vítěz ČSSD" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
        <odd id="1319423598" eventId="1003664307" opportunityId="1319423598" opportunityNumber="90064" opportunityType="1" fullName="Ano" rate="1300.00" percentDeposit="0" tickets="16"/>
@@ -155,32 +155,32 @@
        <odd id="1319423604" eventId="1003664310" opportunityId="1319423604" opportunityNumber="90043" opportunityType="o" fullName="5.01% a více" rate="70.00" percentDeposit="0" tickets="5"/>
      </event>
      <event id="1003664311" name="ČSSD - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
-       <odd id="1319423606" eventId="1003664311" opportunityId="1319423606" opportunityNumber="90044" opportunityType="u" fullName="Méně než 5.01%" rate="1.47" percentDeposit="0" tickets="974"/>
-       <odd id="1319423607" eventId="1003664311" opportunityId="1319423607" opportunityNumber="90045" opportunityType="o" fullName="5.01% a více" rate="2.45" percentDeposit="0" tickets="533"/>
+       <odd id="1319423606" eventId="1003664311" opportunityId="1319423606" opportunityNumber="90044" opportunityType="u" fullName="Méně než 5.01%" rate="1.45" percentDeposit="0" tickets="1160"/>
+       <odd id="1319423607" eventId="1003664311" opportunityId="1319423607" opportunityNumber="90045" opportunityType="o" fullName="5.01% a více" rate="2.52" percentDeposit="0" tickets="540"/>
      </event>
      <event id="1003664308" name="Vítěz Piráti+STAN" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
-       <odd id="1319423601" eventId="1003664308" opportunityId="1319423601" opportunityNumber="90066" opportunityType="1" fullName="Ano" rate="13.00" percentDeposit="0" tickets="299"/>
+       <odd id="1319423601" eventId="1003664308" opportunityId="1319423601" opportunityNumber="90066" opportunityType="1" fullName="Ano" rate="13.00" percentDeposit="0" tickets="303"/>
        <odd id="1319423600" eventId="1003664308" opportunityId="1319423600" opportunityNumber="90067" opportunityType="2" fullName="Ne" rate="1.00" percentDeposit="0" tickets="388"/>
      </event>
      <event id="1003664309" name="Vítěz SPOLU" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
-       <odd id="1319423602" eventId="1003664309" opportunityId="1319423602" opportunityNumber="90068" opportunityType="1" fullName="Ano" rate="6.50" percentDeposit="0" tickets="418"/>
-       <odd id="1319423603" eventId="1003664309" opportunityId="1319423603" opportunityNumber="90069" opportunityType="2" fullName="Ne" rate="1.07" percentDeposit="0" tickets="23"/>
+       <odd id="1319423602" eventId="1003664309" opportunityId="1319423602" opportunityNumber="90068" opportunityType="1" fullName="Ano" rate="7.00" percentDeposit="0" tickets="426"/>
+       <odd id="1319423603" eventId="1003664309" opportunityId="1319423603" opportunityNumber="90069" opportunityType="2" fullName="Ne" rate="1.06" percentDeposit="0" tickets="23"/>
      </event>
      <event id="1003664314" name="Piráti+STAN - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
        <odd id="1319423612" eventId="1003664314" opportunityId="1319423612" opportunityNumber="90050" opportunityType="u" fullName="Méně než 22.01%" rate="1.20" percentDeposit="0" tickets="19"/>
-       <odd id="1319423613" eventId="1003664314" opportunityId="1319423613" opportunityNumber="90051" opportunityType="o" fullName="22.01% a více" rate="3.94" percentDeposit="0" tickets="140"/>
+       <odd id="1319423613" eventId="1003664314" opportunityId="1319423613" opportunityNumber="90051" opportunityType="o" fullName="22.01% a více" rate="3.94" percentDeposit="0" tickets="141"/>
      </event>
      <event id="1003664315" name="SPOLU - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
-       <odd id="1319423614" eventId="1003664315" opportunityId="1319423614" opportunityNumber="90052" opportunityType="u" fullName="Méně než 22.01%" rate="1.84" percentDeposit="0" tickets="103"/>
-       <odd id="1319423615" eventId="1003664315" opportunityId="1319423615" opportunityNumber="90053" opportunityType="o" fullName="22.01% a více" rate="1.84" percentDeposit="0" tickets="273"/>
+       <odd id="1319423614" eventId="1003664315" opportunityId="1319423614" opportunityNumber="90052" opportunityType="u" fullName="Méně než 22.01%" rate="1.80" percentDeposit="0" tickets="109"/>
+       <odd id="1319423615" eventId="1003664315" opportunityId="1319423615" opportunityNumber="90053" opportunityType="o" fullName="22.01% a více" rate="1.88" percentDeposit="0" tickets="277"/>
      </event>
      <event id="1003664312" name="Piráti+STAN - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
-       <odd id="1319423609" eventId="1003664312" opportunityId="1319423609" opportunityNumber="90046" opportunityType="u" fullName="Méně než 21.01%" rate="1.40" percentDeposit="0" tickets="45"/>
-       <odd id="1319423608" eventId="1003664312" opportunityId="1319423608" opportunityNumber="90047" opportunityType="o" fullName="21.01% a více" rate="2.68" percentDeposit="0" tickets="33"/>
+       <odd id="1319423609" eventId="1003664312" opportunityId="1319423609" opportunityNumber="90046" opportunityType="u" fullName="Méně než 21.01%" rate="1.40" percentDeposit="0" tickets="46"/>
+       <odd id="1319423608" eventId="1003664312" opportunityId="1319423608" opportunityNumber="90047" opportunityType="o" fullName="21.01% a více" rate="2.68" percentDeposit="0" tickets="34"/>
      </event>
      <event id="1003664313" name="Piráti+STAN - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
        <odd id="1319423610" eventId="1003664313" opportunityId="1319423610" opportunityNumber="90048" opportunityType="u" fullName="Méně než 21.51%" rate="1.28" percentDeposit="0" tickets="9"/>
-       <odd id="1319423611" eventId="1003664313" opportunityId="1319423611" opportunityNumber="90049" opportunityType="o" fullName="21.51% a více" rate="3.27" percentDeposit="0" tickets="34"/>
+       <odd id="1319423611" eventId="1003664313" opportunityId="1319423611" opportunityNumber="90049" opportunityType="o" fullName="21.51% a více" rate="3.27" percentDeposit="0" tickets="36"/>
      </event>
      <event id="1003664318" name="TSS - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
        <odd id="1319423620" eventId="1003664318" opportunityId="1319423620" opportunityNumber="90058" opportunityType="u" fullName="Méně než 5.01%" rate="1.09" percentDeposit="0" tickets="38"/>
@@ -188,59 +188,59 @@
      </event>
      <event id="1003664319" name="Volný blok - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
        <odd id="1319423623" eventId="1003664319" opportunityId="1319423623" opportunityNumber="90060" opportunityType="u" fullName="Méně než 5.01%" rate="1.02" percentDeposit="0" tickets="22"/>
-       <odd id="1319423622" eventId="1003664319" opportunityId="1319423622" opportunityNumber="90061" opportunityType="o" fullName="5.01% a více" rate="9.00" percentDeposit="0" tickets="924"/>
+       <odd id="1319423622" eventId="1003664319" opportunityId="1319423622" opportunityNumber="90061" opportunityType="o" fullName="5.01% a více" rate="9.00" percentDeposit="0" tickets="944"/>
      </event>
      <event id="1003664316" name="SPOLU - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
-       <odd id="1319423617" eventId="1003664316" opportunityId="1319423617" opportunityNumber="90054" opportunityType="u" fullName="Méně než 22.51%" rate="1.65" percentDeposit="0" tickets="33"/>
-       <odd id="1319423616" eventId="1003664316" opportunityId="1319423616" opportunityNumber="90055" opportunityType="o" fullName="22.51% a více" rate="2.08" percentDeposit="0" tickets="16"/>
+       <odd id="1319423617" eventId="1003664316" opportunityId="1319423617" opportunityNumber="90054" opportunityType="u" fullName="Méně než 22.51%" rate="1.60" percentDeposit="0" tickets="34"/>
+       <odd id="1319423616" eventId="1003664316" opportunityId="1319423616" opportunityNumber="90055" opportunityType="o" fullName="22.51% a více" rate="2.16" percentDeposit="0" tickets="19"/>
      </event>
      <event id="1003664317" name="SPOLU - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
        <odd id="1319423619" eventId="1003664317" opportunityId="1319423619" opportunityNumber="90056" opportunityType="u" fullName="Méně než 23.01%" rate="1.45" percentDeposit="0" tickets="41"/>
-       <odd id="1319423618" eventId="1003664317" opportunityId="1319423618" opportunityNumber="90057" opportunityType="o" fullName="23.01% a více" rate="2.52" percentDeposit="0" tickets="129"/>
+       <odd id="1319423618" eventId="1003664317" opportunityId="1319423618" opportunityNumber="90057" opportunityType="o" fullName="23.01% a více" rate="2.52" percentDeposit="0" tickets="130"/>
      </event>
      <event id="1009561268" name="Do PS bude zvoleno volebních subjektů" eventType="-151" eventTypeDescription="Obecná otázka (méně/více)" gamePart="1/a">
-       <odd id="1335371376" eventId="1009561268" opportunityId="1335371376" opportunityNumber="90222" opportunityType="1" fullName="Méně než 6" rate="1.75" percentDeposit="0" tickets="0"/>
-       <odd id="1335371375" eventId="1009561268" opportunityId="1335371375" opportunityNumber="90223" opportunityType="2" fullName="6 a více" rate="1.94" percentDeposit="0" tickets="0"/>
+       <odd id="1335371376" eventId="1009561268" opportunityId="1335371376" opportunityNumber="90222" opportunityType="1" fullName="Méně než 6" rate="1.55" percentDeposit="0" tickets="5"/>
+       <odd id="1335371375" eventId="1009561268" opportunityId="1335371375" opportunityNumber="90223" opportunityType="2" fullName="6 a více" rate="2.26" percentDeposit="0" tickets="2"/>
      </event>
      <event id="1009561269" name="Do PS bude zvoleno volebních subjektů" eventType="-151" eventTypeDescription="Obecná otázka (méně/více)" gamePart="1/a">
-       <odd id="1335371377" eventId="1009561269" opportunityId="1335371377" opportunityNumber="90224" opportunityType="1" fullName="Méně než 7" rate="1.10" percentDeposit="0" tickets="0"/>
-       <odd id="1335371378" eventId="1009561269" opportunityId="1335371378" opportunityNumber="90225" opportunityType="2" fullName="7 a více" rate="5.50" percentDeposit="0" tickets="1"/>
+       <odd id="1335371377" eventId="1009561269" opportunityId="1335371377" opportunityNumber="90224" opportunityType="1" fullName="Méně než 7" rate="1.06" percentDeposit="0" tickets="0"/>
+       <odd id="1335371378" eventId="1009561269" opportunityId="1335371378" opportunityNumber="90225" opportunityType="2" fullName="7 a více" rate="6.97" percentDeposit="0" tickets="1"/>
      </event>
      <event id="1009561270" name="Do PS bude zvoleno volebních subjektů" eventType="-151" eventTypeDescription="Obecná otázka (méně/více)" gamePart="1/a">
        <odd id="1335371380" eventId="1009561270" opportunityId="1335371380" opportunityNumber="90226" opportunityType="1" fullName="Méně než 8" rate="1.00" percentDeposit="0" tickets="0"/>
-       <odd id="1335371379" eventId="1009561270" opportunityId="1335371379" opportunityNumber="90227" opportunityType="2" fullName="8 a více" rate="22.00" percentDeposit="0" tickets="1"/>
+       <odd id="1335371379" eventId="1009561270" opportunityId="1335371379" opportunityNumber="90227" opportunityType="2" fullName="8 a více" rate="30.00" percentDeposit="0" tickets="1"/>
      </event>
      <event id="1009561266" name="Do PS bude zvoleno volebních subjektů" eventType="-151" eventTypeDescription="Obecná otázka (méně/více)" gamePart="1/a">
        <odd id="1335371372" eventId="1009561266" opportunityId="1335371372" opportunityNumber="90218" opportunityType="1" fullName="Méně než 4" rate="25.00" percentDeposit="0" tickets="0"/>
        <odd id="1335371371" eventId="1009561266" opportunityId="1335371371" opportunityNumber="90219" opportunityType="2" fullName="4 a více" rate="1.00" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1009561267" name="Do PS bude zvoleno volebních subjektů" eventType="-151" eventTypeDescription="Obecná otázka (méně/více)" gamePart="1/a">
-       <odd id="1335371373" eventId="1009561267" opportunityId="1335371373" opportunityNumber="90220" opportunityType="1" fullName="Méně než 5" rate="4.30" percentDeposit="0" tickets="1"/>
-       <odd id="1335371374" eventId="1009561267" opportunityId="1335371374" opportunityNumber="90221" opportunityType="2" fullName="5 a více" rate="1.17" percentDeposit="0" tickets="0"/>
+       <odd id="1335371373" eventId="1009561267" opportunityId="1335371373" opportunityNumber="90220" opportunityType="1" fullName="Méně než 5" rate="3.84" percentDeposit="0" tickets="4"/>
+       <odd id="1335371374" eventId="1009561267" opportunityId="1335371374" opportunityNumber="90221" opportunityType="2" fullName="5 a více" rate="1.21" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1008510448" name="Kdo získá více hlasů (Přísaha - OH R. Šlachty x ČSSD)" eventType="-413" eventTypeDescription="Kdo získá více hlasů" gamePart="1/a">
-       <odd id="1332554710" eventId="1008510448" opportunityId="1332554710" opportunityNumber="90144" opportunityType="1" fullName="Přísaha - OH R. Šlachty" rate="1.80" percentDeposit="0" tickets="8"/>
-       <odd id="1332554709" eventId="1008510448" opportunityId="1332554709" opportunityNumber="90145" opportunityType="2" fullName="ČSSD" rate="1.88" percentDeposit="0" tickets="24"/>
+       <odd id="1332554710" eventId="1008510448" opportunityId="1332554710" opportunityNumber="90144" opportunityType="1" fullName="Přísaha - OH R. Šlachty" rate="1.84" percentDeposit="0" tickets="9"/>
+       <odd id="1332554709" eventId="1008510448" opportunityId="1332554709" opportunityNumber="90145" opportunityType="2" fullName="ČSSD" rate="1.84" percentDeposit="0" tickets="25"/>
      </event>
      <event id="1008510444" name="Kdo získá více hlasů (SPOLU x SPD)" eventType="-413" eventTypeDescription="Kdo získá více hlasů" gamePart="1/a">
        <odd id="1332554701" eventId="1008510444" opportunityId="1332554701" opportunityNumber="90136" opportunityType="1" fullName="SPOLU" rate="1.01" percentDeposit="0" tickets="1"/>
-       <odd id="1332554702" eventId="1008510444" opportunityId="1332554702" opportunityNumber="90137" opportunityType="2" fullName="SPD" rate="18.00" percentDeposit="0" tickets="7"/>
+       <odd id="1332554702" eventId="1008510444" opportunityId="1332554702" opportunityNumber="90137" opportunityType="2" fullName="SPD" rate="18.00" percentDeposit="0" tickets="8"/>
      </event>
      <event id="1008510445" name="Kdo získá více hlasů (Piráti+STAN x SPD)" eventType="-413" eventTypeDescription="Kdo získá více hlasů" gamePart="1/a">
        <odd id="1332554703" eventId="1008510445" opportunityId="1332554703" opportunityNumber="90138" opportunityType="1" fullName="Piráti+STAN" rate="1.01" percentDeposit="0" tickets="0"/>
-       <odd id="1332554704" eventId="1008510445" opportunityId="1332554704" opportunityNumber="90139" opportunityType="2" fullName="SPD" rate="13.00" percentDeposit="0" tickets="11"/>
+       <odd id="1332554704" eventId="1008510445" opportunityId="1332554704" opportunityNumber="90139" opportunityType="2" fullName="SPD" rate="13.00" percentDeposit="0" tickets="12"/>
      </event>
      <event id="1008510446" name="Kdo získá více hlasů (KSČM x Přísaha - OH R. Šlachty)" eventType="-413" eventTypeDescription="Kdo získá více hlasů" gamePart="1/a">
-       <odd id="1332554706" eventId="1008510446" opportunityId="1332554706" opportunityNumber="90140" opportunityType="1" fullName="KSČM" rate="1.45" percentDeposit="0" tickets="12"/>
-       <odd id="1332554705" eventId="1008510446" opportunityId="1332554705" opportunityNumber="90141" opportunityType="2" fullName="Přísaha - OH R. Šlachty" rate="2.52" percentDeposit="0" tickets="20"/>
+       <odd id="1332554706" eventId="1008510446" opportunityId="1332554706" opportunityNumber="90140" opportunityType="1" fullName="KSČM" rate="1.55" percentDeposit="0" tickets="16"/>
+       <odd id="1332554705" eventId="1008510446" opportunityId="1332554705" opportunityNumber="90141" opportunityType="2" fullName="Přísaha - OH R. Šlachty" rate="2.26" percentDeposit="0" tickets="20"/>
      </event>
      <event id="1008510447" name="Kdo získá více hlasů (KSČM x ČSSD)" eventType="-413" eventTypeDescription="Kdo získá více hlasů" gamePart="1/a">
-       <odd id="1332554708" eventId="1008510447" opportunityId="1332554708" opportunityNumber="90142" opportunityType="1" fullName="KSČM" rate="1.45" percentDeposit="0" tickets="24"/>
-       <odd id="1332554707" eventId="1008510447" opportunityId="1332554707" opportunityNumber="90143" opportunityType="2" fullName="ČSSD" rate="2.52" percentDeposit="0" tickets="30"/>
+       <odd id="1332554708" eventId="1008510447" opportunityId="1332554708" opportunityNumber="90142" opportunityType="1" fullName="KSČM" rate="1.55" percentDeposit="0" tickets="26"/>
+       <odd id="1332554707" eventId="1008510447" opportunityId="1332554707" opportunityNumber="90143" opportunityType="2" fullName="ČSSD" rate="2.26" percentDeposit="0" tickets="30"/>
      </event>
      <event id="1008510440" name="Kdo získá více hlasů (ANO 2011 x SPOLU)" eventType="-413" eventTypeDescription="Kdo získá více hlasů" gamePart="1/a">
-       <odd id="1332554693" eventId="1008510440" opportunityId="1332554693" opportunityNumber="90128" opportunityType="1" fullName="ANO 2011" rate="1.08" percentDeposit="0" tickets="2"/>
-       <odd id="1332554694" eventId="1008510440" opportunityId="1332554694" opportunityNumber="90129" opportunityType="2" fullName="SPOLU" rate="6.21" percentDeposit="0" tickets="3"/>
+       <odd id="1332554693" eventId="1008510440" opportunityId="1332554693" opportunityNumber="90128" opportunityType="1" fullName="ANO 2011" rate="1.07" percentDeposit="0" tickets="3"/>
+       <odd id="1332554694" eventId="1008510440" opportunityId="1332554694" opportunityNumber="90129" opportunityType="2" fullName="SPOLU" rate="6.56" percentDeposit="0" tickets="3"/>
      </event>
      <event id="1008510441" name="Kdo získá více hlasů (ANO 2011 x Piráti+STAN)" eventType="-413" eventTypeDescription="Kdo získá více hlasů" gamePart="1/a">
        <odd id="1332554696" eventId="1008510441" opportunityId="1332554696" opportunityNumber="90130" opportunityType="1" fullName="ANO 2011" rate="1.02" percentDeposit="0" tickets="0"/>
@@ -251,39 +251,39 @@
        <odd id="1332554698" eventId="1008510442" opportunityId="1332554698" opportunityNumber="90133" opportunityType="2" fullName="SPD" rate="50.00" percentDeposit="0" tickets="1"/>
      </event>
      <event id="1008510443" name="Kdo získá více hlasů (SPOLU x Piráti+STAN)" eventType="-413" eventTypeDescription="Kdo získá více hlasů" gamePart="1/a">
-       <odd id="1332554700" eventId="1008510443" opportunityId="1332554700" opportunityNumber="90134" opportunityType="1" fullName="SPOLU" rate="1.36" percentDeposit="0" tickets="23"/>
-       <odd id="1332554699" eventId="1008510443" opportunityId="1332554699" opportunityNumber="90135" opportunityType="2" fullName="Piráti+STAN" rate="2.84" percentDeposit="0" tickets="24"/>
+       <odd id="1332554700" eventId="1008510443" opportunityId="1332554700" opportunityNumber="90134" opportunityType="1" fullName="SPOLU" rate="1.42" percentDeposit="0" tickets="25"/>
+       <odd id="1332554699" eventId="1008510443" opportunityId="1332554699" opportunityNumber="90135" opportunityType="2" fullName="Piráti+STAN" rate="2.60" percentDeposit="0" tickets="27"/>
      </event>
      <event id="1009557452" name="Kraj Vysočina - vítěz bude ANO 2011" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1335361462" eventId="1009557452" opportunityId="1335361462" opportunityNumber="90198" opportunityType="1" fullName="Ano" rate="1.35" percentDeposit="0" tickets="6"/>
-       <odd id="1335361463" eventId="1009557452" opportunityId="1335361463" opportunityNumber="90199" opportunityType="2" fullName="Ne" rate="2.89" percentDeposit="0" tickets="0"/>
+       <odd id="1335361462" eventId="1009557452" opportunityId="1335361462" opportunityNumber="90198" opportunityType="1" fullName="Ano" rate="1.40" percentDeposit="0" tickets="13"/>
+       <odd id="1335361463" eventId="1009557452" opportunityId="1335361463" opportunityNumber="90199" opportunityType="2" fullName="Ne" rate="2.68" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1009557453" name="Královéhradecký kraj - vítěz bude ANO 2011" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1335361465" eventId="1009557453" opportunityId="1335361465" opportunityNumber="90200" opportunityType="1" fullName="Ano" rate="1.25" percentDeposit="0" tickets="2"/>
+       <odd id="1335361465" eventId="1009557453" opportunityId="1335361465" opportunityNumber="90200" opportunityType="1" fullName="Ano" rate="1.25" percentDeposit="0" tickets="3"/>
        <odd id="1335361464" eventId="1009557453" opportunityId="1335361464" opportunityNumber="90201" opportunityType="2" fullName="Ne" rate="3.48" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1009557454" name="Liberecký kraj - vítěz bude ANO 2011" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1335361467" eventId="1009557454" opportunityId="1335361467" opportunityNumber="90202" opportunityType="1" fullName="Ano" rate="1.50" percentDeposit="0" tickets="3"/>
-       <odd id="1335361466" eventId="1009557454" opportunityId="1335361466" opportunityNumber="90203" opportunityType="2" fullName="Ne" rate="2.38" percentDeposit="0" tickets="8"/>
+       <odd id="1335361467" eventId="1009557454" opportunityId="1335361467" opportunityNumber="90202" opportunityType="1" fullName="Ano" rate="1.50" percentDeposit="0" tickets="5"/>
+       <odd id="1335361466" eventId="1009557454" opportunityId="1335361466" opportunityNumber="90203" opportunityType="2" fullName="Ne" rate="2.38" percentDeposit="0" tickets="12"/>
      </event>
      <event id="1009557455" name="Moravskoslezský kraj - vítěz bude ANO 2011" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
        <odd id="1335361469" eventId="1009557455" opportunityId="1335361469" opportunityNumber="90204" opportunityType="1" fullName="Ano" rate="1.00" percentDeposit="0" tickets="0"/>
-       <odd id="1335361468" eventId="1009557455" opportunityId="1335361468" opportunityNumber="90205" opportunityType="2" fullName="Ne" rate="20.00" percentDeposit="0" tickets="0"/>
+       <odd id="1335361468" eventId="1009557455" opportunityId="1335361468" opportunityNumber="90205" opportunityType="2" fullName="Ne" rate="20.00" percentDeposit="0" tickets="2"/>
      </event>
      <event id="1009557448" name="Hlavní město Praha - vítěz bude SPOLU" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1335361454" eventId="1009557448" opportunityId="1335361454" opportunityNumber="90190" opportunityType="1" fullName="Ano" rate="1.45" percentDeposit="0" tickets="36"/>
-       <odd id="1335361455" eventId="1009557448" opportunityId="1335361455" opportunityNumber="90191" opportunityType="2" fullName="Ne" rate="2.52" percentDeposit="0" tickets="2"/>
+       <odd id="1335361454" eventId="1009557448" opportunityId="1335361454" opportunityNumber="90190" opportunityType="1" fullName="Ano" rate="1.45" percentDeposit="0" tickets="88"/>
+       <odd id="1335361455" eventId="1009557448" opportunityId="1335361455" opportunityNumber="90191" opportunityType="2" fullName="Ne" rate="2.52" percentDeposit="0" tickets="4"/>
      </event>
      <event id="1009557449" name="Jihočeský kraj - vítěz bude ANO 2011" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1335361457" eventId="1009557449" opportunityId="1335361457" opportunityNumber="90192" opportunityType="1" fullName="Ano" rate="1.50" percentDeposit="0" tickets="12"/>
-       <odd id="1335361456" eventId="1009557449" opportunityId="1335361456" opportunityNumber="90193" opportunityType="2" fullName="Ne" rate="2.38" percentDeposit="0" tickets="1"/>
+       <odd id="1335361457" eventId="1009557449" opportunityId="1335361457" opportunityNumber="90192" opportunityType="1" fullName="Ano" rate="1.60" percentDeposit="0" tickets="18"/>
+       <odd id="1335361456" eventId="1009557449" opportunityId="1335361456" opportunityNumber="90193" opportunityType="2" fullName="Ne" rate="2.16" percentDeposit="0" tickets="2"/>
      </event>
      <event id="1009557450" name="Jihomoravský kraj - vítěz bude ANO 2011" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1335361459" eventId="1009557450" opportunityId="1335361459" opportunityNumber="90194" opportunityType="1" fullName="Ano" rate="1.60" percentDeposit="0" tickets="4"/>
-       <odd id="1335361458" eventId="1009557450" opportunityId="1335361458" opportunityNumber="90195" opportunityType="2" fullName="Ne" rate="2.16" percentDeposit="0" tickets="1"/>
+       <odd id="1335361459" eventId="1009557450" opportunityId="1335361459" opportunityNumber="90194" opportunityType="1" fullName="Ano" rate="1.60" percentDeposit="0" tickets="5"/>
+       <odd id="1335361458" eventId="1009557450" opportunityId="1335361458" opportunityNumber="90195" opportunityType="2" fullName="Ne" rate="2.16" percentDeposit="0" tickets="3"/>
      </event>
      <event id="1009557451" name="Karlovarský kraj - vítěz bude ANO 2011" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1335361461" eventId="1009557451" opportunityId="1335361461" opportunityNumber="90196" opportunityType="1" fullName="Ano" rate="1.03" percentDeposit="0" tickets="0"/>
+       <odd id="1335361461" eventId="1009557451" opportunityId="1335361461" opportunityNumber="90196" opportunityType="1" fullName="Ano" rate="1.03" percentDeposit="0" tickets="1"/>
        <odd id="1335361460" eventId="1009557451" opportunityId="1335361460" opportunityNumber="90197" opportunityType="2" fullName="Ne" rate="8.61" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1009557460" name="Ústecký kraj - vítěz bude ANO 2011" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
@@ -291,24 +291,24 @@
        <odd id="1335361478" eventId="1009557460" opportunityId="1335361478" opportunityNumber="90215" opportunityType="2" fullName="Ne" rate="20.00" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1009557461" name="Zlínský kraj - vítěz bude SPOLU" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1335361481" eventId="1009557461" opportunityId="1335361481" opportunityNumber="90216" opportunityType="1" fullName="Ano" rate="2.30" percentDeposit="0" tickets="2"/>
-       <odd id="1335361480" eventId="1009557461" opportunityId="1335361480" opportunityNumber="90217" opportunityType="2" fullName="Ne" rate="1.53" percentDeposit="0" tickets="2"/>
+       <odd id="1335361481" eventId="1009557461" opportunityId="1335361481" opportunityNumber="90216" opportunityType="1" fullName="Ano" rate="2.70" percentDeposit="0" tickets="3"/>
+       <odd id="1335361480" eventId="1009557461" opportunityId="1335361480" opportunityNumber="90217" opportunityType="2" fullName="Ne" rate="1.40" percentDeposit="0" tickets="21"/>
      </event>
      <event id="1009557456" name="Olomoucký kraj - vítěz bude ANO 2011" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1335361471" eventId="1009557456" opportunityId="1335361471" opportunityNumber="90206" opportunityType="1" fullName="Ano" rate="1.15" percentDeposit="0" tickets="2"/>
-       <odd id="1335361470" eventId="1009557456" opportunityId="1335361470" opportunityNumber="90207" opportunityType="2" fullName="Ne" rate="4.60" percentDeposit="0" tickets="0"/>
+       <odd id="1335361471" eventId="1009557456" opportunityId="1335361471" opportunityNumber="90206" opportunityType="1" fullName="Ano" rate="1.15" percentDeposit="0" tickets="5"/>
+       <odd id="1335361470" eventId="1009557456" opportunityId="1335361470" opportunityNumber="90207" opportunityType="2" fullName="Ne" rate="4.60" percentDeposit="0" tickets="1"/>
      </event>
      <event id="1009557457" name="Pardubický kraj - vítěz bude ANO 2011" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
        <odd id="1335361472" eventId="1009557457" opportunityId="1335361472" opportunityNumber="90208" opportunityType="1" fullName="Ano" rate="1.20" percentDeposit="0" tickets="2"/>
        <odd id="1335361473" eventId="1009557457" opportunityId="1335361473" opportunityNumber="90209" opportunityType="2" fullName="Ne" rate="3.94" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1009557458" name="Plzeňský kraj - vítěz bude ANO 2011" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1335361475" eventId="1009557458" opportunityId="1335361475" opportunityNumber="90210" opportunityType="1" fullName="Ano" rate="1.50" percentDeposit="0" tickets="14"/>
-       <odd id="1335361474" eventId="1009557458" opportunityId="1335361474" opportunityNumber="90211" opportunityType="2" fullName="Ne" rate="2.38" percentDeposit="0" tickets="0"/>
+       <odd id="1335361475" eventId="1009557458" opportunityId="1335361475" opportunityNumber="90210" opportunityType="1" fullName="Ano" rate="1.45" percentDeposit="0" tickets="30"/>
+       <odd id="1335361474" eventId="1009557458" opportunityId="1335361474" opportunityNumber="90211" opportunityType="2" fullName="Ne" rate="2.52" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1009557459" name="Středočeský kraj - vítěz bude Piráti+STAN" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1335361477" eventId="1009557459" opportunityId="1335361477" opportunityNumber="90212" opportunityType="1" fullName="Ano" rate="1.88" percentDeposit="0" tickets="1"/>
-       <odd id="1335361476" eventId="1009557459" opportunityId="1335361476" opportunityNumber="90213" opportunityType="2" fullName="Ne" rate="1.80" percentDeposit="0" tickets="4"/>
+       <odd id="1335361477" eventId="1009557459" opportunityId="1335361477" opportunityNumber="90212" opportunityType="1" fullName="Ano" rate="1.80" percentDeposit="0" tickets="2"/>
+       <odd id="1335361476" eventId="1009557459" opportunityId="1335361476" opportunityNumber="90213" opportunityType="2" fullName="Ne" rate="1.88" percentDeposit="0" tickets="7"/>
      </event>
      <event id="1008506927" name="Vítěz Zelení" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
        <odd id="1332545083" eventId="1008506927" opportunityId="1332545083" opportunityNumber="90126" opportunityType="1" fullName="Ano" rate="2100.00" percentDeposit="0" tickets="1"/>
@@ -319,55 +319,55 @@
        <odd id="1332541441" eventId="1008505469" opportunityId="1332541441" opportunityNumber="90125" opportunityType="2" fullName="Ne" rate="1.00" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1005226610" name="ANO 2011 - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
-       <odd id="1323674076" eventId="1005226610" opportunityId="1323674076" opportunityNumber="90082" opportunityType="u" fullName="Méně než 28.01%" rate="1.80" percentDeposit="0" tickets="110"/>
-       <odd id="1323674075" eventId="1005226610" opportunityId="1323674075" opportunityNumber="90083" opportunityType="o" fullName="28.01% a více" rate="1.88" percentDeposit="0" tickets="108"/>
+       <odd id="1323674076" eventId="1005226610" opportunityId="1323674076" opportunityNumber="90082" opportunityType="u" fullName="Méně než 28.01%" rate="1.80" percentDeposit="0" tickets="112"/>
+       <odd id="1323674075" eventId="1005226610" opportunityId="1323674075" opportunityNumber="90083" opportunityType="o" fullName="28.01% a více" rate="1.88" percentDeposit="0" tickets="111"/>
      </event>
      <event id="1005226608" name="ANO 2011 - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
-       <odd id="1323674071" eventId="1005226608" opportunityId="1323674071" opportunityNumber="90078" opportunityType="u" fullName="Méně než 26.51%" rate="2.24" percentDeposit="0" tickets="7"/>
-       <odd id="1323674072" eventId="1005226608" opportunityId="1323674072" opportunityNumber="90079" opportunityType="o" fullName="26.51% a více" rate="1.56" percentDeposit="0" tickets="47"/>
+       <odd id="1323674071" eventId="1005226608" opportunityId="1323674071" opportunityNumber="90078" opportunityType="u" fullName="Méně než 26.51%" rate="2.29" percentDeposit="0" tickets="7"/>
+       <odd id="1323674072" eventId="1005226608" opportunityId="1323674072" opportunityNumber="90079" opportunityType="o" fullName="26.51% a více" rate="1.54" percentDeposit="0" tickets="49"/>
      </event>
      <event id="1005226609" name="ANO 2011 - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
        <odd id="1323674073" eventId="1005226609" opportunityId="1323674073" opportunityNumber="90080" opportunityType="u" fullName="Méně než 27.01%" rate="2.08" percentDeposit="0" tickets="64"/>
-       <odd id="1323674074" eventId="1005226609" opportunityId="1323674074" opportunityNumber="90081" opportunityType="o" fullName="27.01% a více" rate="1.65" percentDeposit="0" tickets="67"/>
+       <odd id="1323674074" eventId="1005226609" opportunityId="1323674074" opportunityNumber="90081" opportunityType="o" fullName="27.01% a více" rate="1.65" percentDeposit="0" tickets="69"/>
      </event>
      <event id="1008504767" name="ČSSD - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
        <odd id="1332539579" eventId="1008504767" opportunityId="1332539579" opportunityNumber="90112" opportunityType="u" fullName="Méně než 3.51%" rate="2.98" percentDeposit="0" tickets="3"/>
        <odd id="1332539578" eventId="1008504767" opportunityId="1332539578" opportunityNumber="90113" opportunityType="o" fullName="3.51% a více" rate="1.33" percentDeposit="0" tickets="54"/>
      </event>
      <event id="1008504772" name="Přísaha - OH R. Šlachty - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
-       <odd id="1332539588" eventId="1008504772" opportunityId="1332539588" opportunityNumber="90122" opportunityType="u" fullName="Méně než 4.71%" rate="1.65" percentDeposit="0" tickets="10"/>
-       <odd id="1332539589" eventId="1008504772" opportunityId="1332539589" opportunityNumber="90123" opportunityType="o" fullName="4.71% a více" rate="2.08" percentDeposit="0" tickets="75"/>
+       <odd id="1332539588" eventId="1008504772" opportunityId="1332539588" opportunityNumber="90122" opportunityType="u" fullName="Méně než 4.71%" rate="1.60" percentDeposit="0" tickets="10"/>
+       <odd id="1332539589" eventId="1008504772" opportunityId="1332539589" opportunityNumber="90123" opportunityType="o" fullName="4.71% a více" rate="2.16" percentDeposit="0" tickets="90"/>
      </event>
      <event id="1008504768" name="ČSSD - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
        <odd id="1332539580" eventId="1008504768" opportunityId="1332539580" opportunityNumber="90114" opportunityType="u" fullName="Méně než 4.01%" rate="2.16" percentDeposit="0" tickets="6"/>
-       <odd id="1332539581" eventId="1008504768" opportunityId="1332539581" opportunityNumber="90115" opportunityType="o" fullName="4.01% a více" rate="1.60" percentDeposit="0" tickets="51"/>
+       <odd id="1332539581" eventId="1008504768" opportunityId="1332539581" opportunityNumber="90115" opportunityType="o" fullName="4.01% a více" rate="1.60" percentDeposit="0" tickets="54"/>
      </event>
      <event id="1008504769" name="ČSSD - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
-       <odd id="1332539583" eventId="1008504769" opportunityId="1332539583" opportunityNumber="90116" opportunityType="u" fullName="Méně než 4.51%" rate="1.78" percentDeposit="0" tickets="2"/>
-       <odd id="1332539582" eventId="1008504769" opportunityId="1332539582" opportunityNumber="90117" opportunityType="o" fullName="4.51% a více" rate="1.90" percentDeposit="0" tickets="33"/>
+       <odd id="1332539583" eventId="1008504769" opportunityId="1332539583" opportunityNumber="90116" opportunityType="u" fullName="Méně než 4.51%" rate="1.78" percentDeposit="0" tickets="3"/>
+       <odd id="1332539582" eventId="1008504769" opportunityId="1332539582" opportunityNumber="90117" opportunityType="o" fullName="4.51% a více" rate="1.90" percentDeposit="0" tickets="37"/>
      </event>
      <event id="1008504770" name="Přísaha - OH R. Šlachty - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
-       <odd id="1332539585" eventId="1008504770" opportunityId="1332539585" opportunityNumber="90118" opportunityType="u" fullName="Méně než 3.81%" rate="2.38" percentDeposit="0" tickets="7"/>
-       <odd id="1332539584" eventId="1008504770" opportunityId="1332539584" opportunityNumber="90119" opportunityType="o" fullName="3.81% a více" rate="1.50" percentDeposit="0" tickets="14"/>
+       <odd id="1332539585" eventId="1008504770" opportunityId="1332539585" opportunityNumber="90118" opportunityType="u" fullName="Méně než 3.81%" rate="2.26" percentDeposit="0" tickets="9"/>
+       <odd id="1332539584" eventId="1008504770" opportunityId="1332539584" opportunityNumber="90119" opportunityType="o" fullName="3.81% a více" rate="1.55" percentDeposit="0" tickets="16"/>
      </event>
      <event id="1008504771" name="Přísaha - OH R. Šlachty - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
-       <odd id="1332539586" eventId="1008504771" opportunityId="1332539586" opportunityNumber="90120" opportunityType="u" fullName="Méně než 4.41%" rate="1.80" percentDeposit="0" tickets="4"/>
-       <odd id="1332539587" eventId="1008504771" opportunityId="1332539587" opportunityNumber="90121" opportunityType="o" fullName="4.41% a více" rate="1.88" percentDeposit="0" tickets="8"/>
+       <odd id="1332539586" eventId="1008504771" opportunityId="1332539586" opportunityNumber="90120" opportunityType="u" fullName="Méně než 4.41%" rate="1.75" percentDeposit="0" tickets="5"/>
+       <odd id="1332539587" eventId="1008504771" opportunityId="1332539587" opportunityNumber="90121" opportunityType="o" fullName="4.41% a více" rate="1.94" percentDeposit="0" tickets="8"/>
      </event>
      <event id="1005227469" name="SPD - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
        <odd id="1323676396" eventId="1005227469" opportunityId="1323676396" opportunityNumber="90084" opportunityType="u" fullName="Méně než 9.51%" rate="2.46" percentDeposit="0" tickets="3"/>
-       <odd id="1323676395" eventId="1005227469" opportunityId="1323676395" opportunityNumber="90085" opportunityType="o" fullName="9.51% a více" rate="1.47" percentDeposit="0" tickets="151"/>
+       <odd id="1323676395" eventId="1005227469" opportunityId="1323676395" opportunityNumber="90085" opportunityType="o" fullName="9.51% a více" rate="1.47" percentDeposit="0" tickets="153"/>
      </event>
      <event id="1007322424" name="SPD - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
        <odd id="1329374633" eventId="1007322424" opportunityId="1329374633" opportunityNumber="90090" opportunityType="u" fullName="Méně než 13.01%" rate="1.15" percentDeposit="0" tickets="9"/>
-       <odd id="1329374632" eventId="1007322424" opportunityId="1329374632" opportunityNumber="90091" opportunityType="o" fullName="13.01% a více" rate="4.60" percentDeposit="0" tickets="40"/>
+       <odd id="1329374632" eventId="1007322424" opportunityId="1329374632" opportunityNumber="90091" opportunityType="o" fullName="13.01% a více" rate="4.60" percentDeposit="0" tickets="42"/>
      </event>
      <event id="1007322425" name="SPD - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
-       <odd id="1329374635" eventId="1007322425" opportunityId="1329374635" opportunityNumber="90092" opportunityType="u" fullName="Méně než 14.01%" rate="1.08" percentDeposit="0" tickets="7"/>
+       <odd id="1329374635" eventId="1007322425" opportunityId="1329374635" opportunityNumber="90092" opportunityType="u" fullName="Méně než 14.01%" rate="1.08" percentDeposit="0" tickets="8"/>
        <odd id="1329374634" eventId="1007322425" opportunityId="1329374634" opportunityNumber="90093" opportunityType="o" fullName="14.01% a více" rate="6.21" percentDeposit="0" tickets="42"/>
      </event>
      <event id="1008269736" name="ANO 2011 - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
-       <odd id="1331908052" eventId="1008269736" opportunityId="1331908052" opportunityNumber="90108" opportunityType="u" fullName="Méně než 29.01%" rate="1.65" percentDeposit="0" tickets="28"/>
+       <odd id="1331908052" eventId="1008269736" opportunityId="1331908052" opportunityNumber="90108" opportunityType="u" fullName="Méně než 29.01%" rate="1.65" percentDeposit="0" tickets="29"/>
        <odd id="1331908051" eventId="1008269736" opportunityId="1331908051" opportunityNumber="90109" opportunityType="o" fullName="29.01% a více" rate="2.08" percentDeposit="0" tickets="9"/>
      </event>
      <event id="1008269737" name="ANO 2011 - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
@@ -375,16 +375,16 @@
        <odd id="1331908054" eventId="1008269737" opportunityId="1331908054" opportunityNumber="90111" opportunityType="o" fullName="30.01% a více" rate="2.60" percentDeposit="0" tickets="9"/>
      </event>
      <event id="994756940" name="Přísaha - OH R. Šlachty - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
-       <odd id="1295685605" eventId="994756940" opportunityId="1295685605" opportunityNumber="90038" opportunityType="u" fullName="Méně než 5.01%" rate="1.50" percentDeposit="0" tickets="416"/>
-       <odd id="1295685604" eventId="994756940" opportunityId="1295685604" opportunityNumber="90039" opportunityType="o" fullName="5.01% a více" rate="2.38" percentDeposit="0" tickets="374"/>
+       <odd id="1295685605" eventId="994756940" opportunityId="1295685605" opportunityNumber="90038" opportunityType="u" fullName="Méně než 5.01%" rate="1.43" percentDeposit="0" tickets="419"/>
+       <odd id="1295685604" eventId="994756940" opportunityId="1295685604" opportunityNumber="90039" opportunityType="o" fullName="5.01% a více" rate="2.58" percentDeposit="0" tickets="378"/>
      </event>
      <event id="994758576" name="Vítěz Přísaha - OH R. Šlachty" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
-       <odd id="1295690442" eventId="994758576" opportunityId="1295690442" opportunityNumber="90040" opportunityType="1" fullName="Ano" rate="1200.00" percentDeposit="0" tickets="242"/>
+       <odd id="1295690442" eventId="994758576" opportunityId="1295690442" opportunityNumber="90040" opportunityType="1" fullName="Ano" rate="1300.00" percentDeposit="0" tickets="243"/>
        <odd id="1295690441" eventId="994758576" opportunityId="1295690441" opportunityNumber="90041" opportunityType="2" fullName="Ne" rate="1.00" percentDeposit="0" tickets="0"/>
      </event>
      <event id="1003818077" name="SPD - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
        <odd id="1319838189" eventId="1003818077" opportunityId="1319838189" opportunityNumber="90070" opportunityType="u" fullName="Méně než 9.01%" rate="2.89" percentDeposit="0" tickets="20"/>
-       <odd id="1319838190" eventId="1003818077" opportunityId="1319838190" opportunityNumber="90071" opportunityType="o" fullName="9.01% a více" rate="1.35" percentDeposit="0" tickets="230"/>
+       <odd id="1319838190" eventId="1003818077" opportunityId="1319838190" opportunityNumber="90071" opportunityType="o" fullName="9.01% a více" rate="1.35" percentDeposit="0" tickets="237"/>
      </event>
      <event id="980906554" name="ANO 2011 - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
        <odd id="1259367988" eventId="980906554" opportunityId="1259367988" opportunityNumber="90018" opportunityType="u" fullName="Méně než 25.51%" rate="2.76" percentDeposit="0" tickets="14"/>
@@ -392,18 +392,18 @@
      </event>
      <event id="980906553" name="ANO 2011 - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
        <odd id="1259367985" eventId="980906553" opportunityId="1259367985" opportunityNumber="90016" opportunityType="u" fullName="Méně než 25.01%" rate="2.98" percentDeposit="0" tickets="107"/>
-       <odd id="1259367986" eventId="980906553" opportunityId="1259367986" opportunityNumber="90017" opportunityType="o" fullName="25.01% a více" rate="1.33" percentDeposit="0" tickets="577"/>
+       <odd id="1259367986" eventId="980906553" opportunityId="1259367986" opportunityNumber="90017" opportunityType="o" fullName="25.01% a více" rate="1.33" percentDeposit="0" tickets="580"/>
      </event>
      <event id="980906552" name="Volební účast v procentech" eventType="-115" eventTypeDescription="Volební účast v procentech" gamePart="1/a">
-       <odd id="1259367983" eventId="980906552" opportunityId="1259367983" opportunityNumber="90020" opportunityType="u" fullName="Méně než 64.05%" rate="1.50" percentDeposit="0" tickets="186"/>
-       <odd id="1259367984" eventId="980906552" opportunityId="1259367984" opportunityNumber="90021" opportunityType="o" fullName="64.05% a více" rate="2.38" percentDeposit="0" tickets="366"/>
+       <odd id="1259367983" eventId="980906552" opportunityId="1259367983" opportunityNumber="90020" opportunityType="u" fullName="Méně než 64.05%" rate="1.50" percentDeposit="0" tickets="187"/>
+       <odd id="1259367984" eventId="980906552" opportunityId="1259367984" opportunityNumber="90021" opportunityType="o" fullName="64.05% a více" rate="2.38" percentDeposit="0" tickets="367"/>
      </event>
      <event id="1007772725" name="Volební účast v procentech" eventType="-115" eventTypeDescription="Volební účast v procentech" gamePart="1/a">
        <odd id="1330574939" eventId="1007772725" opportunityId="1330574939" opportunityNumber="90096" opportunityType="u" fullName="Méně než 61.95%" rate="2.89" percentDeposit="0" tickets="6"/>
        <odd id="1330574938" eventId="1007772725" opportunityId="1330574938" opportunityNumber="90097" opportunityType="o" fullName="61.95% a více" rate="1.35" percentDeposit="0" tickets="3"/>
      </event>
      <event id="1007772724" name="Volební účast v procentech" eventType="-115" eventTypeDescription="Volební účast v procentech" gamePart="1/a">
-       <odd id="1330574937" eventId="1007772724" opportunityId="1330574937" opportunityNumber="90094" opportunityType="u" fullName="Méně než 61.65%" rate="3.20" percentDeposit="0" tickets="33"/>
+       <odd id="1330574937" eventId="1007772724" opportunityId="1330574937" opportunityNumber="90094" opportunityType="u" fullName="Méně než 61.65%" rate="3.20" percentDeposit="0" tickets="35"/>
        <odd id="1330574936" eventId="1007772724" opportunityId="1330574936" opportunityNumber="90095" opportunityType="o" fullName="61.65% a více" rate="1.29" percentDeposit="0" tickets="25"/>
      </event>
      <event id="1007772727" name="Volební účast v procentech" eventType="-115" eventTypeDescription="Volební účast v procentech" gamePart="1/a">
@@ -416,43 +416,43 @@
      </event>
      <event id="1007772729" name="Volební účast v procentech" eventType="-115" eventTypeDescription="Volební účast v procentech" gamePart="1/a">
        <odd id="1330574946" eventId="1007772729" opportunityId="1330574946" opportunityNumber="90104" opportunityType="u" fullName="Méně než 63.15%" rate="1.96" percentDeposit="0" tickets="12"/>
-       <odd id="1330574947" eventId="1007772729" opportunityId="1330574947" opportunityNumber="90105" opportunityType="o" fullName="63.15% a více" rate="1.73" percentDeposit="0" tickets="27"/>
+       <odd id="1330574947" eventId="1007772729" opportunityId="1330574947" opportunityNumber="90105" opportunityType="o" fullName="63.15% a více" rate="1.73" percentDeposit="0" tickets="28"/>
      </event>
      <event id="1007772728" name="Volební účast v procentech" eventType="-115" eventTypeDescription="Volební účast v procentech" gamePart="1/a">
        <odd id="1330574945" eventId="1007772728" opportunityId="1330574945" opportunityNumber="90102" opportunityType="u" fullName="Méně než 62.85%" rate="2.11" percentDeposit="0" tickets="5"/>
-       <odd id="1330574944" eventId="1007772728" opportunityId="1330574944" opportunityNumber="90103" opportunityType="o" fullName="62.85% a více" rate="1.63" percentDeposit="0" tickets="36"/>
+       <odd id="1330574944" eventId="1007772728" opportunityId="1330574944" opportunityNumber="90103" opportunityType="o" fullName="62.85% a více" rate="1.63" percentDeposit="0" tickets="37"/>
      </event>
      <event id="1007772730" name="Volební účast v procentech" eventType="-115" eventTypeDescription="Volební účast v procentech" gamePart="1/a">
        <odd id="1330574948" eventId="1007772730" opportunityId="1330574948" opportunityNumber="90106" opportunityType="u" fullName="Méně než 63.45%" rate="1.80" percentDeposit="0" tickets="2"/>
        <odd id="1330574949" eventId="1007772730" opportunityId="1330574949" opportunityNumber="90107" opportunityType="o" fullName="63.45% a více" rate="1.88" percentDeposit="0" tickets="25"/>
      </event>
      <event id="1004492928" name="Vítěz Volný blok" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
-       <odd id="1321662261" eventId="1004492928" opportunityId="1321662261" opportunityNumber="90072" opportunityType="1" fullName="Ano" rate="2000.00" percentDeposit="0" tickets="269"/>
+       <odd id="1321662261" eventId="1004492928" opportunityId="1321662261" opportunityNumber="90072" opportunityType="1" fullName="Ano" rate="2000.00" percentDeposit="0" tickets="280"/>
        <odd id="1321662260" eventId="1004492928" opportunityId="1321662260" opportunityNumber="90073" opportunityType="2" fullName="Ne" rate="1.00" percentDeposit="0" tickets="0"/>
      </event>
      <event id="979613711" name="Volební účast v procentech" eventType="-115" eventTypeDescription="Volební účast v procentech" gamePart="1/a">
-       <odd id="1255986853" eventId="979613711" opportunityId="1255986853" opportunityNumber="90008" opportunityType="u" fullName="Méně než 63.75%" rate="1.65" percentDeposit="0" tickets="390"/>
-       <odd id="1255986854" eventId="979613711" opportunityId="1255986854" opportunityNumber="90009" opportunityType="o" fullName="63.75% a více" rate="2.08" percentDeposit="0" tickets="1659"/>
+       <odd id="1255986853" eventId="979613711" opportunityId="1255986853" opportunityNumber="90008" opportunityType="u" fullName="Méně než 63.75%" rate="1.65" percentDeposit="0" tickets="391"/>
+       <odd id="1255986854" eventId="979613711" opportunityId="1255986854" opportunityNumber="90009" opportunityType="o" fullName="63.75% a více" rate="2.08" percentDeposit="0" tickets="1662"/>
      </event>
      <event id="979613710" name="Vítěz SPD" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
-       <odd id="1255986852" eventId="979613710" opportunityId="1255986852" opportunityNumber="90012" opportunityType="1" fullName="Ano" rate="250.00" percentDeposit="0" tickets="630"/>
+       <odd id="1255986852" eventId="979613710" opportunityId="1255986852" opportunityNumber="90012" opportunityType="1" fullName="Ano" rate="250.00" percentDeposit="0" tickets="631"/>
        <odd id="1255986851" eventId="979613710" opportunityId="1255986851" opportunityNumber="90013" opportunityType="2" fullName="Ne" rate="1.00" percentDeposit="0" tickets="0"/>
      </event>
      <event id="979613709" name="Vítěz KSČM" eventType="-75" eventTypeDescription="Umístění závodníka do pořadí" gamePart="1/a">
-       <odd id="1255986849" eventId="979613709" opportunityId="1255986849" opportunityNumber="90010" opportunityType="1" fullName="Ano" rate="1000.00" percentDeposit="0" tickets="215"/>
+       <odd id="1255986849" eventId="979613709" opportunityId="1255986849" opportunityNumber="90010" opportunityType="1" fullName="Ano" rate="1200.00" percentDeposit="0" tickets="216"/>
        <odd id="1255986850" eventId="979613709" opportunityId="1255986850" opportunityNumber="90011" opportunityType="2" fullName="Ne" rate="1.00" percentDeposit="0" tickets="0"/>
      </event>
      <event id="979613714" name="SPD - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
-       <odd id="1255986860" eventId="979613714" opportunityId="1255986860" opportunityNumber="90006" opportunityType="u" fullName="Méně než 10.01%" rate="2.08" percentDeposit="0" tickets="571"/>
-       <odd id="1255986859" eventId="979613714" opportunityId="1255986859" opportunityNumber="90007" opportunityType="o" fullName="10.01% a více" rate="1.65" percentDeposit="0" tickets="1204"/>
+       <odd id="1255986860" eventId="979613714" opportunityId="1255986860" opportunityNumber="90006" opportunityType="u" fullName="Méně než 10.01%" rate="2.08" percentDeposit="0" tickets="572"/>
+       <odd id="1255986859" eventId="979613714" opportunityId="1255986859" opportunityNumber="90007" opportunityType="o" fullName="10.01% a více" rate="1.65" percentDeposit="0" tickets="1206"/>
      </event>
      <event id="979613713" name="KSČM - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
-       <odd id="1255986858" eventId="979613713" opportunityId="1255986858" opportunityNumber="90004" opportunityType="u" fullName="Méně než 5.01%" rate="2.20" percentDeposit="0" tickets="253"/>
-       <odd id="1255986857" eventId="979613713" opportunityId="1255986857" opportunityNumber="90005" opportunityType="o" fullName="5.01% a více" rate="1.58" percentDeposit="0" tickets="4094"/>
+       <odd id="1255986858" eventId="979613713" opportunityId="1255986858" opportunityNumber="90004" opportunityType="u" fullName="Méně než 5.01%" rate="1.94" percentDeposit="0" tickets="254"/>
+       <odd id="1255986857" eventId="979613713" opportunityId="1255986857" opportunityNumber="90005" opportunityType="o" fullName="5.01% a více" rate="1.75" percentDeposit="0" tickets="4108"/>
      </event>
      <event id="979613712" name="ANO 2011 - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
        <odd id="1255986855" eventId="979613712" opportunityId="1255986855" opportunityNumber="90002" opportunityType="u" fullName="Méně než 26.01%" rate="2.43" percentDeposit="0" tickets="147"/>
-       <odd id="1255986856" eventId="979613712" opportunityId="1255986856" opportunityNumber="90003" opportunityType="o" fullName="26.01% a více" rate="1.48" percentDeposit="0" tickets="185"/>
+       <odd id="1255986856" eventId="979613712" opportunityId="1255986856" opportunityNumber="90003" opportunityType="o" fullName="26.01% a více" rate="1.48" percentDeposit="0" tickets="271"/>
      </event>
      <event id="988909097" name="Volební účast v procentech" eventType="-115" eventTypeDescription="Volební účast v procentech" gamePart="1/a">
        <odd id="1280313255" eventId="988909097" opportunityId="1280313255" opportunityNumber="90032" opportunityType="u" fullName="Méně než 64.35%" rate="1.40" percentDeposit="0" tickets="32"/>
@@ -463,20 +463,20 @@
        <odd id="1280313258" eventId="988909099" opportunityId="1280313258" opportunityNumber="90025" opportunityType="o" fullName="23.01% a více" rate="1.12" percentDeposit="0" tickets="433"/>
      </event>
      <event id="988909098" name="Volební účast v procentech" eventType="-115" eventTypeDescription="Volební účast v procentech" gamePart="1/a">
-       <odd id="1280313257" eventId="988909098" opportunityId="1280313257" opportunityNumber="90034" opportunityType="u" fullName="Méně než 64.65%" rate="1.29" percentDeposit="0" tickets="191"/>
-       <odd id="1280313256" eventId="988909098" opportunityId="1280313256" opportunityNumber="90035" opportunityType="o" fullName="64.65% a více" rate="3.21" percentDeposit="0" tickets="223"/>
+       <odd id="1280313257" eventId="988909098" opportunityId="1280313257" opportunityNumber="90034" opportunityType="u" fullName="Méně než 64.65%" rate="1.29" percentDeposit="0" tickets="192"/>
+       <odd id="1280313256" eventId="988909098" opportunityId="1280313256" opportunityNumber="90035" opportunityType="o" fullName="64.65% a více" rate="3.21" percentDeposit="0" tickets="224"/>
      </event>
      <event id="988909101" name="SPD - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
        <odd id="1280313263" eventId="988909101" opportunityId="1280313263" opportunityNumber="90028" opportunityType="u" fullName="Méně než 11.01%" rate="1.56" percentDeposit="0" tickets="174"/>
-       <odd id="1280313262" eventId="988909101" opportunityId="1280313262" opportunityNumber="90029" opportunityType="o" fullName="11.01% a více" rate="2.25" percentDeposit="0" tickets="412"/>
+       <odd id="1280313262" eventId="988909101" opportunityId="1280313262" opportunityNumber="90029" opportunityType="o" fullName="11.01% a více" rate="2.25" percentDeposit="0" tickets="417"/>
      </event>
      <event id="988909100" name="KSČM - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
-       <odd id="1280313261" eventId="988909100" opportunityId="1280313261" opportunityNumber="90026" opportunityType="u" fullName="Méně než 5.51%" rate="1.49" percentDeposit="0" tickets="152"/>
-       <odd id="1280313260" eventId="988909100" opportunityId="1280313260" opportunityNumber="90027" opportunityType="o" fullName="5.51% a více" rate="2.40" percentDeposit="0" tickets="421"/>
+       <odd id="1280313261" eventId="988909100" opportunityId="1280313261" opportunityNumber="90026" opportunityType="u" fullName="Méně než 5.51%" rate="1.42" percentDeposit="0" tickets="152"/>
+       <odd id="1280313260" eventId="988909100" opportunityId="1280313260" opportunityNumber="90027" opportunityType="o" fullName="5.51% a více" rate="2.61" percentDeposit="0" tickets="425"/>
      </event>
      <event id="988909102" name="SPD - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
        <odd id="1280313264" eventId="988909102" opportunityId="1280313264" opportunityNumber="90030" opportunityType="u" fullName="Méně než 12.01%" rate="1.30" percentDeposit="0" tickets="249"/>
-       <odd id="1280313265" eventId="988909102" opportunityId="1280313265" opportunityNumber="90031" opportunityType="o" fullName="12.01% a více" rate="3.15" percentDeposit="0" tickets="457"/>
+       <odd id="1280313265" eventId="988909102" opportunityId="1280313265" opportunityNumber="90031" opportunityType="o" fullName="12.01% a více" rate="3.15" percentDeposit="0" tickets="466"/>
      </event>
      <event id="991421640" name="ANO 2011 - počet hlasů v procentech" eventType="-217" eventTypeDescription="Celkový počet procent účastníka" gamePart="1/a">
        <odd id="1286907507" eventId="991421640" opportunityId="1286907507" opportunityNumber="90036" opportunityType="u" fullName="Méně než 22.01%" rate="9.38" percentDeposit="0" tickets="127"/>
