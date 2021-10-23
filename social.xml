@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odds>
- <timestamp>1634962289623</timestamp>
- <date>23.10.2021 06:11</date>
+ <timestamp>1635005492093</timestamp>
+ <date>23.10.2021 18:11</date>
  <refresh>15</refresh>
  <max>9000</max>
   <competition id="91111" sport="Zábava" competitionName="StarDance XI" annualName="2021" urlOld="https://www.tipsport.cz/kurzy?competId=91111&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/kurzy/spolecenske-sazky/zabava/stardance-xi-91111?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" priority="1">
    <match id="3998036" matchId="3998036" name="StarDance XI" nameFull="StarDance XI - vítězná celebrita" dateClosed="2021.10.23 20:05" urlOld="https://www.tipsport.cz/kurzy?matchId=3998036&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/spolecenske-sazky-stardance-xi-3998036?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284">
      <event id="1014267518" name="Umístění do 3. místa" eventType="-47" eventTypeDescription="Umístění" gamePart="1/a">
-       <odd id="1347661387" eventId="1014267518" opportunityId="1347661387" opportunityNumber="90010" opportunityType="null" fullName="Cina Jan" rate="1.11" percentDeposit="0" tickets="8"/>
-       <odd id="1347661385" eventId="1014267518" opportunityId="1347661385" opportunityNumber="90014" opportunityType="null" fullName="Verner Tomáš" rate="1.25" percentDeposit="0" tickets="16"/>
-       <odd id="1347661380" eventId="1014267518" opportunityId="1347661380" opportunityNumber="90018" opportunityType="null" fullName="Kopecká Martina Viktorie" rate="2.00" percentDeposit="0" tickets="30"/>
-       <odd id="1347661388" eventId="1014267518" opportunityId="1347661388" opportunityNumber="90013" opportunityType="null" fullName="Navrátil Mirai" rate="3.20" percentDeposit="0" tickets="9"/>
-       <odd id="1347661386" eventId="1014267518" opportunityId="1347661386" opportunityNumber="90019" opportunityType="null" fullName="Sestini Hlaváčková Andrea" rate="3.20" percentDeposit="0" tickets="6"/>
-       <odd id="1347661382" eventId="1014267518" opportunityId="1347661382" opportunityNumber="90017" opportunityType="null" fullName="Šoposká Marika" rate="3.20" percentDeposit="0" tickets="6"/>
-       <odd id="1347661384" eventId="1014267518" opportunityId="1347661384" opportunityNumber="90015" opportunityType="null" fullName="Babčáková Simona" rate="3.25" percentDeposit="0" tickets="7"/>
-       <odd id="1347661381" eventId="1014267518" opportunityId="1347661381" opportunityNumber="90016" opportunityType="null" fullName="Černochová Tereza" rate="5.50" percentDeposit="0" tickets="3"/>
+       <odd id="1347661387" eventId="1014267518" opportunityId="1347661387" opportunityNumber="90010" opportunityType="null" fullName="Cina Jan" rate="1.11" percentDeposit="0" tickets="10"/>
+       <odd id="1347661385" eventId="1014267518" opportunityId="1347661385" opportunityNumber="90014" opportunityType="null" fullName="Verner Tomáš" rate="1.25" percentDeposit="0" tickets="19"/>
+       <odd id="1347661380" eventId="1014267518" opportunityId="1347661380" opportunityNumber="90018" opportunityType="null" fullName="Kopecká Martina Viktorie" rate="2.10" percentDeposit="0" tickets="31"/>
+       <odd id="1347661384" eventId="1014267518" opportunityId="1347661384" opportunityNumber="90015" opportunityType="null" fullName="Babčáková Simona" rate="2.70" percentDeposit="0" tickets="9"/>
+       <odd id="1347661388" eventId="1014267518" opportunityId="1347661388" opportunityNumber="90013" opportunityType="null" fullName="Navrátil Mirai" rate="3.20" percentDeposit="0" tickets="10"/>
+       <odd id="1347661386" eventId="1014267518" opportunityId="1347661386" opportunityNumber="90019" opportunityType="null" fullName="Sestini Hlaváčková Andrea" rate="3.20" percentDeposit="0" tickets="7"/>
+       <odd id="1347661382" eventId="1014267518" opportunityId="1347661382" opportunityNumber="90017" opportunityType="null" fullName="Šoposká Marika" rate="3.50" percentDeposit="0" tickets="6"/>
+       <odd id="1347661381" eventId="1014267518" opportunityId="1347661381" opportunityNumber="90016" opportunityType="null" fullName="Černochová Tereza" rate="5.50" percentDeposit="0" tickets="5"/>
        <odd id="1347661383" eventId="1014267518" opportunityId="1347661383" opportunityNumber="90012" opportunityType="null" fullName="Trávníček Pavel" rate="8.00" percentDeposit="0" tickets="3"/>
-       <odd id="1347661379" eventId="1014267518" opportunityId="1347661379" opportunityNumber="90011" opportunityType="null" fullName="Godla Zdeněk" rate="11.00" percentDeposit="0" tickets="9"/>
+       <odd id="1347661379" eventId="1014267518" opportunityId="1347661379" opportunityNumber="90011" opportunityType="null" fullName="Godla Zdeněk" rate="11.00" percentDeposit="0" tickets="11"/>
      </event>
      <event id="989313228" name="Vítěz" eventType="-45" eventTypeDescription="Vítěz" gamePart="1/a">
-       <odd id="1281366844" eventId="989313228" opportunityId="1281366844" opportunityNumber="90000" opportunityType="null" fullName="Cina Jan" rate="1.85" percentDeposit="0" tickets="5087"/>
-       <odd id="1281366848" eventId="989313228" opportunityId="1281366848" opportunityNumber="90004" opportunityType="null" fullName="Verner Tomáš" rate="3.50" percentDeposit="0" tickets="622"/>
-       <odd id="1281366845" eventId="989313228" opportunityId="1281366845" opportunityNumber="90008" opportunityType="null" fullName="Kopecká Martina Viktorie" rate="8.00" percentDeposit="0" tickets="210"/>
-       <odd id="1281366843" eventId="989313228" opportunityId="1281366843" opportunityNumber="90005" opportunityType="null" fullName="Babčáková Simona" rate="13.50" percentDeposit="0" tickets="119"/>
-       <odd id="1281366840" eventId="989313228" opportunityId="1281366840" opportunityNumber="90003" opportunityType="null" fullName="Navrátil Mirai" rate="13.50" percentDeposit="0" tickets="197"/>
-       <odd id="1281366847" eventId="989313228" opportunityId="1281366847" opportunityNumber="90009" opportunityType="null" fullName="Sestini Hlaváčková Andrea" rate="13.50" percentDeposit="0" tickets="100"/>
-       <odd id="1281366842" eventId="989313228" opportunityId="1281366842" opportunityNumber="90007" opportunityType="null" fullName="Šoposká Marika" rate="14.00" percentDeposit="0" tickets="169"/>
-       <odd id="1281366841" eventId="989313228" opportunityId="1281366841" opportunityNumber="90006" opportunityType="null" fullName="Černochová Tereza" rate="25.00" percentDeposit="0" tickets="39"/>
-       <odd id="1281366846" eventId="989313228" opportunityId="1281366846" opportunityNumber="90002" opportunityType="null" fullName="Trávníček Pavel" rate="35.00" percentDeposit="0" tickets="68"/>
+       <odd id="1281366844" eventId="989313228" opportunityId="1281366844" opportunityNumber="90000" opportunityType="null" fullName="Cina Jan" rate="1.85" percentDeposit="0" tickets="5091"/>
+       <odd id="1281366848" eventId="989313228" opportunityId="1281366848" opportunityNumber="90004" opportunityType="null" fullName="Verner Tomáš" rate="3.50" percentDeposit="0" tickets="628"/>
+       <odd id="1281366845" eventId="989313228" opportunityId="1281366845" opportunityNumber="90008" opportunityType="null" fullName="Kopecká Martina Viktorie" rate="8.00" percentDeposit="0" tickets="213"/>
+       <odd id="1281366843" eventId="989313228" opportunityId="1281366843" opportunityNumber="90005" opportunityType="null" fullName="Babčáková Simona" rate="12.00" percentDeposit="0" tickets="120"/>
+       <odd id="1281366840" eventId="989313228" opportunityId="1281366840" opportunityNumber="90003" opportunityType="null" fullName="Navrátil Mirai" rate="14.00" percentDeposit="0" tickets="199"/>
+       <odd id="1281366847" eventId="989313228" opportunityId="1281366847" opportunityNumber="90009" opportunityType="null" fullName="Sestini Hlaváčková Andrea" rate="14.00" percentDeposit="0" tickets="101"/>
+       <odd id="1281366842" eventId="989313228" opportunityId="1281366842" opportunityNumber="90007" opportunityType="null" fullName="Šoposká Marika" rate="16.00" percentDeposit="0" tickets="171"/>
+       <odd id="1281366841" eventId="989313228" opportunityId="1281366841" opportunityNumber="90006" opportunityType="null" fullName="Černochová Tereza" rate="25.00" percentDeposit="0" tickets="40"/>
+       <odd id="1281366846" eventId="989313228" opportunityId="1281366846" opportunityNumber="90002" opportunityType="null" fullName="Trávníček Pavel" rate="35.00" percentDeposit="0" tickets="69"/>
        <odd id="1281366839" eventId="989313228" opportunityId="1281366839" opportunityNumber="90001" opportunityType="null" fullName="Godla Zdeněk" rate="55.00" percentDeposit="0" tickets="82"/>
      </event>
    </match>
    <match id="4263860" matchId="4263860" name="StarDance XI - 23.10. nejméně bodů" nameFull="StarDance XI - 23.10. nejméně bodů" dateClosed="2021.10.23 20:05" urlOld="https://www.tipsport.cz/kurzy?matchId=4263860&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/spolecenske-sazky-stardance-xi-2310-nejmene-bodu-4263860?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284">
      <event id="1014925425" name="Vítěz" eventType="-45" eventTypeDescription="Vítěz" gamePart="1/a">
-       <odd id="1349399774" eventId="1014925425" opportunityId="1349399774" opportunityNumber="90001" opportunityType="null" fullName="Godla Zdeněk" rate="1.34" percentDeposit="0" tickets="47"/>
-       <odd id="1349399771" eventId="1014925425" opportunityId="1349399771" opportunityNumber="90002" opportunityType="null" fullName="Trávníček Pavel" rate="5.00" percentDeposit="0" tickets="5"/>
-       <odd id="1349399773" eventId="1014925425" opportunityId="1349399773" opportunityNumber="90006" opportunityType="null" fullName="Černochová Tereza" rate="15.00" percentDeposit="0" tickets="1"/>
+       <odd id="1349399774" eventId="1014925425" opportunityId="1349399774" opportunityNumber="90001" opportunityType="null" fullName="Godla Zdeněk" rate="1.34" percentDeposit="0" tickets="97"/>
+       <odd id="1349399771" eventId="1014925425" opportunityId="1349399771" opportunityNumber="90002" opportunityType="null" fullName="Trávníček Pavel" rate="5.00" percentDeposit="0" tickets="9"/>
+       <odd id="1349399773" eventId="1014925425" opportunityId="1349399773" opportunityNumber="90006" opportunityType="null" fullName="Černochová Tereza" rate="15.00" percentDeposit="0" tickets="2"/>
        <odd id="1349399775" eventId="1014925425" opportunityId="1349399775" opportunityNumber="90008" opportunityType="null" fullName="Kopecká Martina Viktorie" rate="15.00" percentDeposit="0" tickets="0"/>
        <odd id="1349399769" eventId="1014925425" opportunityId="1349399769" opportunityNumber="90003" opportunityType="null" fullName="Navrátil Mirai" rate="15.00" percentDeposit="0" tickets="0"/>
        <odd id="1349399770" eventId="1014925425" opportunityId="1349399770" opportunityNumber="90009" opportunityType="null" fullName="Sestini Hlaváčková Andrea" rate="15.00" percentDeposit="0" tickets="0"/>
        <odd id="1349399772" eventId="1014925425" opportunityId="1349399772" opportunityNumber="90005" opportunityType="null" fullName="Babčáková Simona" rate="18.00" percentDeposit="0" tickets="0"/>
        <odd id="1349399766" eventId="1014925425" opportunityId="1349399766" opportunityNumber="90007" opportunityType="null" fullName="Šoposká Marika" rate="18.00" percentDeposit="0" tickets="0"/>
        <odd id="1349399768" eventId="1014925425" opportunityId="1349399768" opportunityNumber="90004" opportunityType="null" fullName="Verner Tomáš" rate="40.00" percentDeposit="0" tickets="0"/>
-       <odd id="1349399767" eventId="1014925425" opportunityId="1349399767" opportunityNumber="90000" opportunityType="null" fullName="Cina Jan" rate="50.00" percentDeposit="0" tickets="0"/>
+       <odd id="1349399767" eventId="1014925425" opportunityId="1349399767" opportunityNumber="90000" opportunityType="null" fullName="Cina Jan" rate="50.00" percentDeposit="0" tickets="1"/>
      </event>
    </match>
    <match id="4263838" matchId="4263838" name="StarDance XI - 23.10. vypadne" nameFull="StarDance XI - 23.10. vypadne" dateClosed="2021.10.23 20:05" urlOld="https://www.tipsport.cz/kurzy?matchId=4263838&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/spolecenske-sazky-stardance-xi-2310-vypadne-4263838?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284">
      <event id="1014924401" name="Bude vyřazen" eventType="-415" eventTypeDescription="Bude vyřazen" gamePart="1/a">
-       <odd id="1349397129" eventId="1014924401" opportunityId="1349397129" opportunityNumber="90001" opportunityType="null" fullName="Godla Zdeněk" rate="1.95" percentDeposit="0" tickets="58"/>
-       <odd id="1349397130" eventId="1014924401" opportunityId="1349397130" opportunityNumber="90002" opportunityType="null" fullName="Trávníček Pavel" rate="4.00" percentDeposit="0" tickets="21"/>
-       <odd id="1349397123" eventId="1014924401" opportunityId="1349397123" opportunityNumber="90006" opportunityType="null" fullName="Černochová Tereza" rate="5.00" percentDeposit="0" tickets="12"/>
-       <odd id="1349397126" eventId="1014924401" opportunityId="1349397126" opportunityNumber="90009" opportunityType="null" fullName="Sestini Hlaváčková Andrea" rate="9.00" percentDeposit="0" tickets="2"/>
-       <odd id="1349397124" eventId="1014924401" opportunityId="1349397124" opportunityNumber="90003" opportunityType="null" fullName="Navrátil Mirai" rate="14.00" percentDeposit="0" tickets="5"/>
-       <odd id="1349397122" eventId="1014924401" opportunityId="1349397122" opportunityNumber="90007" opportunityType="null" fullName="Šoposká Marika" rate="14.00" percentDeposit="0" tickets="4"/>
-       <odd id="1349397127" eventId="1014924401" opportunityId="1349397127" opportunityNumber="90005" opportunityType="null" fullName="Babčáková Simona" rate="17.00" percentDeposit="0" tickets="2"/>
-       <odd id="1349397125" eventId="1014924401" opportunityId="1349397125" opportunityNumber="90008" opportunityType="null" fullName="Kopecká Martina Viktorie" rate="22.00" percentDeposit="0" tickets="0"/>
-       <odd id="1349397128" eventId="1014924401" opportunityId="1349397128" opportunityNumber="90004" opportunityType="null" fullName="Verner Tomáš" rate="35.00" percentDeposit="0" tickets="0"/>
+       <odd id="1349397129" eventId="1014924401" opportunityId="1349397129" opportunityNumber="90001" opportunityType="null" fullName="Godla Zdeněk" rate="1.85" percentDeposit="0" tickets="111"/>
+       <odd id="1349397130" eventId="1014924401" opportunityId="1349397130" opportunityNumber="90002" opportunityType="null" fullName="Trávníček Pavel" rate="3.90" percentDeposit="0" tickets="44"/>
+       <odd id="1349397123" eventId="1014924401" opportunityId="1349397123" opportunityNumber="90006" opportunityType="null" fullName="Černochová Tereza" rate="5.00" percentDeposit="0" tickets="33"/>
+       <odd id="1349397126" eventId="1014924401" opportunityId="1349397126" opportunityNumber="90009" opportunityType="null" fullName="Sestini Hlaváčková Andrea" rate="12.00" percentDeposit="0" tickets="7"/>
+       <odd id="1349397124" eventId="1014924401" opportunityId="1349397124" opportunityNumber="90003" opportunityType="null" fullName="Navrátil Mirai" rate="14.00" percentDeposit="0" tickets="16"/>
+       <odd id="1349397122" eventId="1014924401" opportunityId="1349397122" opportunityNumber="90007" opportunityType="null" fullName="Šoposká Marika" rate="14.00" percentDeposit="0" tickets="10"/>
+       <odd id="1349397127" eventId="1014924401" opportunityId="1349397127" opportunityNumber="90005" opportunityType="null" fullName="Babčáková Simona" rate="20.00" percentDeposit="0" tickets="8"/>
+       <odd id="1349397125" eventId="1014924401" opportunityId="1349397125" opportunityNumber="90008" opportunityType="null" fullName="Kopecká Martina Viktorie" rate="22.00" percentDeposit="0" tickets="12"/>
+       <odd id="1349397128" eventId="1014924401" opportunityId="1349397128" opportunityNumber="90004" opportunityType="null" fullName="Verner Tomáš" rate="35.00" percentDeposit="0" tickets="1"/>
        <odd id="1349397131" eventId="1014924401" opportunityId="1349397131" opportunityNumber="90000" opportunityType="null" fullName="Cina Jan" rate="45.00" percentDeposit="0" tickets="0"/>
      </event>
    </match>
    <match id="4263851" matchId="4263851" name="StarDance XI - 23.10. nejvíce bodů" nameFull="StarDance XI - 23.10. nejvíce bodů" dateClosed="2021.10.23 20:05" urlOld="https://www.tipsport.cz/kurzy?matchId=4263851&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/spolecenske-sazky-stardance-xi-2310-nejvice-bodu-4263851?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284">
      <event id="1014924965" name="Vítěz" eventType="-45" eventTypeDescription="Vítěz" gamePart="1/a">
-       <odd id="1349398662" eventId="1014924965" opportunityId="1349398662" opportunityNumber="90000" opportunityType="null" fullName="Cina Jan" rate="2.10" percentDeposit="0" tickets="7"/>
-       <odd id="1349398663" eventId="1014924965" opportunityId="1349398663" opportunityNumber="90004" opportunityType="null" fullName="Verner Tomáš" rate="2.60" percentDeposit="0" tickets="2"/>
-       <odd id="1349398666" eventId="1014924965" opportunityId="1349398666" opportunityNumber="90008" opportunityType="null" fullName="Kopecká Martina Viktorie" rate="12.00" percentDeposit="0" tickets="0"/>
-       <odd id="1349398667" eventId="1014924965" opportunityId="1349398667" opportunityNumber="90009" opportunityType="null" fullName="Sestini Hlaváčková Andrea" rate="12.00" percentDeposit="0" tickets="1"/>
-       <odd id="1349398668" eventId="1014924965" opportunityId="1349398668" opportunityNumber="90007" opportunityType="null" fullName="Šoposká Marika" rate="12.00" percentDeposit="0" tickets="0"/>
+       <odd id="1349398662" eventId="1014924965" opportunityId="1349398662" opportunityNumber="90000" opportunityType="null" fullName="Cina Jan" rate="2.10" percentDeposit="0" tickets="20"/>
+       <odd id="1349398663" eventId="1014924965" opportunityId="1349398663" opportunityNumber="90004" opportunityType="null" fullName="Verner Tomáš" rate="2.60" percentDeposit="0" tickets="7"/>
+       <odd id="1349398666" eventId="1014924965" opportunityId="1349398666" opportunityNumber="90008" opportunityType="null" fullName="Kopecká Martina Viktorie" rate="12.00" percentDeposit="0" tickets="3"/>
+       <odd id="1349398667" eventId="1014924965" opportunityId="1349398667" opportunityNumber="90009" opportunityType="null" fullName="Sestini Hlaváčková Andrea" rate="12.00" percentDeposit="0" tickets="3"/>
+       <odd id="1349398668" eventId="1014924965" opportunityId="1349398668" opportunityNumber="90007" opportunityType="null" fullName="Šoposká Marika" rate="12.00" percentDeposit="0" tickets="1"/>
        <odd id="1349398664" eventId="1014924965" opportunityId="1349398664" opportunityNumber="90005" opportunityType="null" fullName="Babčáková Simona" rate="14.00" percentDeposit="0" tickets="0"/>
        <odd id="1349398661" eventId="1014924965" opportunityId="1349398661" opportunityNumber="90006" opportunityType="null" fullName="Černochová Tereza" rate="15.00" percentDeposit="0" tickets="0"/>
-       <odd id="1349398665" eventId="1014924965" opportunityId="1349398665" opportunityNumber="90003" opportunityType="null" fullName="Navrátil Mirai" rate="15.00" percentDeposit="0" tickets="0"/>
+       <odd id="1349398665" eventId="1014924965" opportunityId="1349398665" opportunityNumber="90003" opportunityType="null" fullName="Navrátil Mirai" rate="15.00" percentDeposit="0" tickets="1"/>
        <odd id="1349398660" eventId="1014924965" opportunityId="1349398660" opportunityNumber="90002" opportunityType="null" fullName="Trávníček Pavel" rate="25.00" percentDeposit="0" tickets="2"/>
        <odd id="1349398669" eventId="1014924965" opportunityId="1349398669" opportunityNumber="90001" opportunityType="null" fullName="Godla Zdeněk" rate="60.00" percentDeposit="0" tickets="1"/>
      </event>
@@ -76,17 +76,13 @@
   </competition>
   <competition id="75143" sport="Politika" competitionName="Politické sázky na rok 2021" annualName="2021" urlOld="https://www.tipsport.cz/kurzy?competId=75143&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/kurzy/spolecenske-sazky/politika/politicke-sazky-na-rok-2021-75143?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" priority="1">
    <match id="2863190" matchId="2863190" name="Politické události v roce 2021" nameFull="Politické události v roce 2021" dateClosed="2021.11.07 23:00" urlOld="https://www.tipsport.cz/kurzy?matchId=2863190&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/spolecenske-sazky-politicke-udalosti-v-roce-2021-2863190?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284">
-     <event id="1014950157" name="Kateřina Konečná bude 1.11.2021 předsedkyně ÚV KSČM" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1349463517" eventId="1014950157" opportunityId="1349463517" opportunityNumber="90042" opportunityType="1" fullName="Ano" rate="1.35" percentDeposit="0" tickets="13"/>
-       <odd id="1349463518" eventId="1014950157" opportunityId="1349463518" opportunityNumber="90043" opportunityType="2" fullName="Ne" rate="2.89" percentDeposit="0" tickets="9"/>
-     </event>
      <event id="979612214" name="Andrej Babiš bude 31.12.2021 předseda vlády ČR s důvěrou PS" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1255982602" eventId="979612214" opportunityId="1255982602" opportunityNumber="90012" opportunityType="1" fullName="Ano" rate="60.00" percentDeposit="0" tickets="1473"/>
+       <odd id="1255982602" eventId="979612214" opportunityId="1255982602" opportunityNumber="90012" opportunityType="1" fullName="Ano" rate="60.00" percentDeposit="0" tickets="1476"/>
        <odd id="1255982601" eventId="979612214" opportunityId="1255982601" opportunityNumber="90013" opportunityType="2" fullName="Ne" rate="1.00" percentDeposit="0" tickets="188"/>
      </event>
      <event id="979612220" name="Petr Fiala bude 31.12.2021 předseda vlády ČR s důvěrou PS" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1255982613" eventId="979612220" opportunityId="1255982613" opportunityNumber="90024" opportunityType="1" fullName="Ano" rate="1.07" percentDeposit="0" tickets="686"/>
-       <odd id="1255982614" eventId="979612220" opportunityId="1255982614" opportunityNumber="90025" opportunityType="2" fullName="Ne" rate="6.56" percentDeposit="0" tickets="332"/>
+       <odd id="1255982613" eventId="979612220" opportunityId="1255982613" opportunityNumber="90024" opportunityType="1" fullName="Ano" rate="1.07" percentDeposit="0" tickets="688"/>
+       <odd id="1255982614" eventId="979612220" opportunityId="1255982614" opportunityNumber="90025" opportunityType="2" fullName="Ne" rate="6.56" percentDeposit="0" tickets="341"/>
      </event>
    </match>
   </competition>
