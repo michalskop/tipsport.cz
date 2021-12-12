@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odds>
- <timestamp>1639282158176</timestamp>
- <date>12.12.2021 05:09</date>
+ <timestamp>1639325351239</timestamp>
+ <date>12.12.2021 17:09</date>
  <refresh>15</refresh>
  <max>9000</max>
   <competition id="91111" sport="Zábava" competitionName="StarDance XI" annualName="2021" urlOld="https://www.tipsport.cz/kurzy?competId=91111&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/kurzy/spolecenske-sazky/zabava/stardance-xi-91111?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" priority="1">
    <match id="3998036" matchId="3998036" name="StarDance XI" nameFull="StarDance XI - vítězná celebrita" dateClosed="2021.12.18 20:05" urlOld="https://www.tipsport.cz/kurzy?matchId=3998036&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/spolecenske-sazky-stardance-xi-3998036?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284">
      <event id="989313228" name="Vítěz" eventType="-45" eventTypeDescription="Vítěz" gamePart="1/a">
-       <odd id="1281366848" eventId="989313228" opportunityId="1281366848" opportunityNumber="90004" opportunityType="null" fullName="Verner Tomáš" rate="1.40" percentDeposit="0" tickets="1460"/>
-       <odd id="1281366844" eventId="989313228" opportunityId="1281366844" opportunityNumber="90000" opportunityType="null" fullName="Cina Jan" rate="4.10" percentDeposit="0" tickets="6019"/>
-       <odd id="1281366845" eventId="989313228" opportunityId="1281366845" opportunityNumber="90008" opportunityType="null" fullName="Kopecká Martina Viktorie" rate="6.00" percentDeposit="0" tickets="539"/>
+       <odd id="1281366848" eventId="989313228" opportunityId="1281366848" opportunityNumber="90004" opportunityType="null" fullName="Verner Tomáš" rate="1.40" percentDeposit="0" tickets="1485"/>
+       <odd id="1281366844" eventId="989313228" opportunityId="1281366844" opportunityNumber="90000" opportunityType="null" fullName="Cina Jan" rate="4.10" percentDeposit="0" tickets="6045"/>
+       <odd id="1281366845" eventId="989313228" opportunityId="1281366845" opportunityNumber="90008" opportunityType="null" fullName="Kopecká Martina Viktorie" rate="6.00" percentDeposit="0" tickets="548"/>
      </event>
    </match>
   </competition>
