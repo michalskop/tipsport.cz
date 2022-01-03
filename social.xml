@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odds>
- <timestamp>1641183130985</timestamp>
- <date>03.01.2022 05:12</date>
+ <timestamp>1641226331731</timestamp>
+ <date>03.01.2022 17:12</date>
  <refresh>15</refresh>
  <max>9000</max>
   <competition id="75144" sport="Politika" competitionName="Politické sázky na rok 2022" annualName="2022" urlOld="https://www.tipsport.cz/kurzy?competId=75144&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/kurzy/spolecenske-sazky/politika/politicke-sazky-na-rok-2022-75144?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" priority="1">
@@ -11,24 +11,24 @@
        <odd id="1376306190" eventId="1025356757" opportunityId="1376306190" opportunityNumber="90013" opportunityType="2" fullName="Ne" rate="2.08" percentDeposit="0" tickets="26"/>
      </event>
      <event id="1025356756" name="Vlastimil Válek bude 30.6.2022 ministr zdravotnictví vlády ČR s důvěrou PS" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1376306187" eventId="1025356756" opportunityId="1376306187" opportunityNumber="90010" opportunityType="1" fullName="Ano" rate="1.30" percentDeposit="0" tickets="100"/>
-       <odd id="1376306188" eventId="1025356756" opportunityId="1376306188" opportunityNumber="90011" opportunityType="2" fullName="Ne" rate="3.15" percentDeposit="0" tickets="65"/>
+       <odd id="1376306187" eventId="1025356756" opportunityId="1376306187" opportunityNumber="90010" opportunityType="1" fullName="Ano" rate="1.30" percentDeposit="0" tickets="123"/>
+       <odd id="1376306188" eventId="1025356756" opportunityId="1376306188" opportunityNumber="90011" opportunityType="2" fullName="Ne" rate="3.15" percentDeposit="0" tickets="68"/>
      </event>
      <event id="1025356753" name="Jozef Síkela bude 31.12.2022 ministr průmyslu a obchodu vlády ČR s důvěrou PS" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
        <odd id="1376306182" eventId="1025356753" opportunityId="1376306182" opportunityNumber="90004" opportunityType="1" fullName="Ano" rate="1.20" percentDeposit="0" tickets="37"/>
        <odd id="1376306181" eventId="1025356753" opportunityId="1376306181" opportunityNumber="90005" opportunityType="2" fullName="Ne" rate="3.94" percentDeposit="0" tickets="5"/>
      </event>
      <event id="1025356752" name="Jan Lipavský bude 31.12.2022 ministr zahraničních věcí vlády ČR s důvěrou PS" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1376306179" eventId="1025356752" opportunityId="1376306179" opportunityNumber="90002" opportunityType="1" fullName="Ano" rate="1.35" percentDeposit="0" tickets="53"/>
-       <odd id="1376306180" eventId="1025356752" opportunityId="1376306180" opportunityNumber="90003" opportunityType="2" fullName="Ne" rate="2.89" percentDeposit="0" tickets="31"/>
+       <odd id="1376306179" eventId="1025356752" opportunityId="1376306179" opportunityNumber="90002" opportunityType="1" fullName="Ano" rate="1.40" percentDeposit="0" tickets="54"/>
+       <odd id="1376306180" eventId="1025356752" opportunityId="1376306180" opportunityNumber="90003" opportunityType="2" fullName="Ne" rate="2.68" percentDeposit="0" tickets="32"/>
      </event>
      <event id="1025356755" name="Petr Gazdík bude 31.12.2022 ministr školství vlády ČR s důvěrou PS" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1376306186" eventId="1025356755" opportunityId="1376306186" opportunityNumber="90008" opportunityType="1" fullName="Ano" rate="1.12" percentDeposit="0" tickets="183"/>
-       <odd id="1376306185" eventId="1025356755" opportunityId="1376306185" opportunityNumber="90009" opportunityType="2" fullName="Ne" rate="5.15" percentDeposit="0" tickets="8"/>
+       <odd id="1376306186" eventId="1025356755" opportunityId="1376306186" opportunityNumber="90008" opportunityType="1" fullName="Ano" rate="1.15" percentDeposit="0" tickets="191"/>
+       <odd id="1376306185" eventId="1025356755" opportunityId="1376306185" opportunityNumber="90009" opportunityType="2" fullName="Ne" rate="4.60" percentDeposit="0" tickets="10"/>
      </event>
      <event id="1025356754" name="Pavel Blažek bude 31.12.2022 ministr spravedlnosti vlády ČR s důvěrou PS" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1376306184" eventId="1025356754" opportunityId="1376306184" opportunityNumber="90006" opportunityType="1" fullName="Ano" rate="1.15" percentDeposit="0" tickets="130"/>
-       <odd id="1376306183" eventId="1025356754" opportunityId="1376306183" opportunityNumber="90007" opportunityType="2" fullName="Ne" rate="4.60" percentDeposit="0" tickets="4"/>
+       <odd id="1376306184" eventId="1025356754" opportunityId="1376306184" opportunityNumber="90006" opportunityType="1" fullName="Ano" rate="1.20" percentDeposit="0" tickets="130"/>
+       <odd id="1376306183" eventId="1025356754" opportunityId="1376306183" opportunityNumber="90007" opportunityType="2" fullName="Ne" rate="3.94" percentDeposit="0" tickets="4"/>
      </event>
    </match>
   </competition>
