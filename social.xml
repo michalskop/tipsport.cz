@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odds>
- <timestamp>1645892069534</timestamp>
- <date>26.02.2022 17:14</date>
+ <timestamp>1645935255730</timestamp>
+ <date>27.02.2022 05:14</date>
  <refresh>15</refresh>
  <max>9000</max>
   <competition id="74943" sport="Zábava" competitionName="Český Lev 2022" annualName="2022" urlOld="https://www.tipsport.cz/kurzy?competId=74943&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/kurzy/spolecenske-sazky/zabava/cesky-lev-2022-74943?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" priority="1">
    <match id="4244031" matchId="4244031" name="Český Lev - Nejlepší film" nameFull="Český Lev - Nejlepší film" dateClosed="2022.03.05 20:10" urlOld="https://www.tipsport.cz/kurzy?matchId=4244031&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/spolecenske-sazky-cesky-lev-nejlepsi-film-4244031?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284">
      <event id="1032305111" name="Vítěz" eventType="-45" eventTypeDescription="Vítěz" gamePart="1/a">
-       <odd id="1393882962" eventId="1032305111" opportunityId="1393882962" opportunityNumber="90000" opportunityType="null" fullName="Zátopek" rate="1.15" percentDeposit="0" tickets="1126"/>
-       <odd id="1393882964" eventId="1032305111" opportunityId="1393882964" opportunityNumber="90003" opportunityType="null" fullName="Okupace" rate="4.00" percentDeposit="0" tickets="37"/>
+       <odd id="1393882962" eventId="1032305111" opportunityId="1393882962" opportunityNumber="90000" opportunityType="null" fullName="Zátopek" rate="1.15" percentDeposit="0" tickets="1158"/>
+       <odd id="1393882964" eventId="1032305111" opportunityId="1393882964" opportunityNumber="90003" opportunityType="null" fullName="Okupace" rate="4.00" percentDeposit="0" tickets="40"/>
        <odd id="1393882965" eventId="1032305111" opportunityId="1393882965" opportunityNumber="90004" opportunityType="null" fullName="Chyby" rate="17.00" percentDeposit="0" tickets="0"/>
        <odd id="1393882966" eventId="1032305111" opportunityId="1393882966" opportunityNumber="90001" opportunityType="null" fullName="Atlas ptáků" rate="20.00" percentDeposit="0" tickets="2"/>
        <odd id="1393882963" eventId="1032305111" opportunityId="1393882963" opportunityNumber="90002" opportunityType="null" fullName="Muž se zaječíma ušima" rate="30.00" percentDeposit="0" tickets="2"/>
@@ -16,7 +16,7 @@
    </match>
    <match id="4244030" matchId="4244030" name="Český Lev - Nejlepší herečka - hlavní role" nameFull="Český Lev - Nejlepší herečka - hlavní role" dateClosed="2022.03.05 20:10" urlOld="https://www.tipsport.cz/kurzy?matchId=4244030&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/spolecenske-sazky-cesky-lev-nejlepsi-herecka-hlavni-role-4244030?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284">
      <event id="1032305186" name="Vítěz" eventType="-45" eventTypeDescription="Vítěz" gamePart="1/a">
-       <odd id="1393883162" eventId="1032305186" opportunityId="1393883162" opportunityNumber="90004" opportunityType="null" fullName="Gajdošíková Pavla" rate="1.40" percentDeposit="0" tickets="114"/>
+       <odd id="1393883162" eventId="1032305186" opportunityId="1393883162" opportunityNumber="90004" opportunityType="null" fullName="Gajdošíková Pavla" rate="1.40" percentDeposit="0" tickets="115"/>
        <odd id="1393883163" eventId="1032305186" opportunityId="1393883163" opportunityNumber="90002" opportunityType="null" fullName="Issova Martha" rate="2.80" percentDeposit="0" tickets="47"/>
        <odd id="1393883160" eventId="1032305186" opportunityId="1393883160" opportunityNumber="90001" opportunityType="null" fullName="Mihulová Alena" rate="10.00" percentDeposit="0" tickets="0"/>
        <odd id="1393883161" eventId="1032305186" opportunityId="1393883161" opportunityNumber="90000" opportunityType="null" fullName="Křenková Eliška" rate="20.00" percentDeposit="0" tickets="2"/>
@@ -25,7 +25,7 @@
    </match>
    <match id="4244029" matchId="4244029" name="Český Lev - Nejlepší herec - hlavní role" nameFull="Český Lev - Nejlepší herec - hlavní role" dateClosed="2022.03.05 20:10" urlOld="https://www.tipsport.cz/kurzy?matchId=4244029&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/spolecenske-sazky-cesky-lev-nejlepsi-herec-hlavni-role-4244029?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284">
      <event id="1032305204" name="Vítěz" eventType="-45" eventTypeDescription="Vítěz" gamePart="1/a">
-       <odd id="1393883210" eventId="1032305204" opportunityId="1393883210" opportunityNumber="90000" opportunityType="null" fullName="Neužil Václav" rate="1.05" percentDeposit="0" tickets="74"/>
+       <odd id="1393883210" eventId="1032305204" opportunityId="1393883210" opportunityNumber="90000" opportunityType="null" fullName="Neužil Václav" rate="1.05" percentDeposit="0" tickets="75"/>
        <odd id="1393883211" eventId="1032305204" opportunityId="1393883211" opportunityNumber="90004" opportunityType="null" fullName="Pechlát Martin" rate="8.00" percentDeposit="0" tickets="0"/>
        <odd id="1393883209" eventId="1032305204" opportunityId="1393883209" opportunityNumber="90001" opportunityType="null" fullName="Donutil Miroslav" rate="11.00" percentDeposit="0" tickets="7"/>
        <odd id="1393883208" eventId="1032305204" opportunityId="1393883208" opportunityNumber="90003" opportunityType="null" fullName="Krobot Miroslav" rate="20.00" percentDeposit="0" tickets="2"/>
@@ -40,23 +40,23 @@
        <odd id="1376306190" eventId="1025356757" opportunityId="1376306190" opportunityNumber="90013" opportunityType="2" fullName="Ne" rate="2.52" percentDeposit="0" tickets="109"/>
      </event>
      <event id="1025356756" name="Vlastimil Válek bude 30.6.2022 ministr zdravotnictví vlády ČR s důvěrou PS" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1376306187" eventId="1025356756" opportunityId="1376306187" opportunityNumber="90010" opportunityType="1" fullName="Ano" rate="1.14" percentDeposit="0" tickets="774"/>
-       <odd id="1376306188" eventId="1025356756" opportunityId="1376306188" opportunityNumber="90011" opportunityType="2" fullName="Ne" rate="4.77" percentDeposit="0" tickets="277"/>
+       <odd id="1376306187" eventId="1025356756" opportunityId="1376306187" opportunityNumber="90010" opportunityType="1" fullName="Ano" rate="1.14" percentDeposit="0" tickets="775"/>
+       <odd id="1376306188" eventId="1025356756" opportunityId="1376306188" opportunityNumber="90011" opportunityType="2" fullName="Ne" rate="4.77" percentDeposit="0" tickets="279"/>
      </event>
      <event id="1025356753" name="Jozef Síkela bude 31.12.2022 ministr průmyslu a obchodu vlády ČR s důvěrou PS" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1376306182" eventId="1025356753" opportunityId="1376306182" opportunityNumber="90004" opportunityType="1" fullName="Ano" rate="1.11" percentDeposit="0" tickets="84"/>
+       <odd id="1376306182" eventId="1025356753" opportunityId="1376306182" opportunityNumber="90004" opportunityType="1" fullName="Ano" rate="1.11" percentDeposit="0" tickets="85"/>
        <odd id="1376306181" eventId="1025356753" opportunityId="1376306181" opportunityNumber="90005" opportunityType="2" fullName="Ne" rate="5.37" percentDeposit="0" tickets="10"/>
      </event>
      <event id="1025356752" name="Jan Lipavský bude 31.12.2022 ministr zahraničních věcí vlády ČR s důvěrou PS" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1376306179" eventId="1025356752" opportunityId="1376306179" opportunityNumber="90002" opportunityType="1" fullName="Ano" rate="1.33" percentDeposit="0" tickets="154"/>
-       <odd id="1376306180" eventId="1025356752" opportunityId="1376306180" opportunityNumber="90003" opportunityType="2" fullName="Ne" rate="2.98" percentDeposit="0" tickets="160"/>
+       <odd id="1376306179" eventId="1025356752" opportunityId="1376306179" opportunityNumber="90002" opportunityType="1" fullName="Ano" rate="1.33" percentDeposit="0" tickets="158"/>
+       <odd id="1376306180" eventId="1025356752" opportunityId="1376306180" opportunityNumber="90003" opportunityType="2" fullName="Ne" rate="2.98" percentDeposit="0" tickets="161"/>
      </event>
      <event id="1025356755" name="Petr Gazdík bude 31.12.2022 ministr školství vlády ČR s důvěrou PS" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1376306186" eventId="1025356755" opportunityId="1376306186" opportunityNumber="90008" opportunityType="1" fullName="Ano" rate="1.07" percentDeposit="0" tickets="445"/>
+       <odd id="1376306186" eventId="1025356755" opportunityId="1376306186" opportunityNumber="90008" opportunityType="1" fullName="Ano" rate="1.07" percentDeposit="0" tickets="446"/>
        <odd id="1376306185" eventId="1025356755" opportunityId="1376306185" opportunityNumber="90009" opportunityType="2" fullName="Ne" rate="6.56" percentDeposit="0" tickets="16"/>
      </event>
      <event id="1025356754" name="Pavel Blažek bude 31.12.2022 ministr spravedlnosti vlády ČR s důvěrou PS" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1376306184" eventId="1025356754" opportunityId="1376306184" opportunityNumber="90006" opportunityType="1" fullName="Ano" rate="1.10" percentDeposit="0" tickets="158"/>
+       <odd id="1376306184" eventId="1025356754" opportunityId="1376306184" opportunityNumber="90006" opportunityType="1" fullName="Ano" rate="1.10" percentDeposit="0" tickets="159"/>
        <odd id="1376306183" eventId="1025356754" opportunityId="1376306183" opportunityNumber="90007" opportunityType="2" fullName="Ne" rate="5.62" percentDeposit="0" tickets="43"/>
      </event>
    </match>
