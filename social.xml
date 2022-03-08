@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odds>
- <timestamp>1646670193214</timestamp>
- <date>07.03.2022 17:23</date>
+ <timestamp>1646712439511</timestamp>
+ <date>08.03.2022 05:07</date>
  <refresh>15</refresh>
  <max>9000</max>
   <competition id="75144" sport="Politika" competitionName="Politické sázky na rok 2022" annualName="2022" urlOld="https://www.tipsport.cz/kurzy?competId=75144&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/kurzy/spolecenske-sazky/politika/politicke-sazky-na-rok-2022-75144?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" priority="1">
@@ -11,8 +11,8 @@
        <odd id="1376306190" eventId="1025356757" opportunityId="1376306190" opportunityNumber="90013" opportunityType="2" fullName="Ne" rate="2.80" percentDeposit="0" tickets="130"/>
      </event>
      <event id="1025356756" name="Vlastimil Válek bude 30.6.2022 ministr zdravotnictví vlády ČR s důvěrou PS" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1376306187" eventId="1025356756" opportunityId="1376306187" opportunityNumber="90010" opportunityType="1" fullName="Ano" rate="1.08" percentDeposit="0" tickets="793"/>
-       <odd id="1376306188" eventId="1025356756" opportunityId="1376306188" opportunityNumber="90011" opportunityType="2" fullName="Ne" rate="6.21" percentDeposit="0" tickets="291"/>
+       <odd id="1376306187" eventId="1025356756" opportunityId="1376306187" opportunityNumber="90010" opportunityType="1" fullName="Ano" rate="1.08" percentDeposit="0" tickets="794"/>
+       <odd id="1376306188" eventId="1025356756" opportunityId="1376306188" opportunityNumber="90011" opportunityType="2" fullName="Ne" rate="6.21" percentDeposit="0" tickets="292"/>
      </event>
      <event id="1025356753" name="Jozef Síkela bude 31.12.2022 ministr průmyslu a obchodu vlády ČR s důvěrou PS" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
        <odd id="1376306182" eventId="1025356753" opportunityId="1376306182" opportunityNumber="90004" opportunityType="1" fullName="Ano" rate="1.09" percentDeposit="0" tickets="86"/>
