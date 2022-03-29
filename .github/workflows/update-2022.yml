@@ -33,6 +33,10 @@ jobs:
       - name: get data
         run: |-
           python 2022/update.py
+        env: 
+          TIPSPORT_USER: ${{ secrets.TIPSPORT_USER }}
+          TIPSPORT_PASSWORD: ${{ secrets.TIPSPORT_PASSWORD }}
+          TIPSPORT_PRODUCTID: ${{ secrets.TIPSPORT_PRODUCTID }}
 
       - name: Commit and push if it changed
         run: |-

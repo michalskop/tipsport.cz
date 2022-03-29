@@ -30,7 +30,6 @@ print(credentials)
 
 r = requests.post(url_root + 'rest/common/v1/session', data=credentials, headers=headers)
 auth = r.json()
-print(auth)
 cookies = r.cookies
 token = auth['sessionToken']
 headers = {'Authorization': "Bearer {}".format(token)}
