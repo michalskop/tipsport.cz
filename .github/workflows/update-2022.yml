@@ -28,7 +28,7 @@ jobs:
             ${{ runner.os }}-pip-
       - name: Install Python dependencies
         run: |
-          pip install -r 2022/requirements_simulations.txt
+          pip install -r 2022/requirements.txt
   
       - name: get data
         run: |-
