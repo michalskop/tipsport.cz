@@ -1,0 +1,43 @@
+,box_id,box_name,event_name,match_close,match_id,match_title,race_id,race_name,sport_title
+0,b1041621639,,Cena 1 barel ropa Brent v USD dne 19.4.2022 v 15:00 SEČ (vyhodnocení podle kurzy.cz),2022-04-05T15:00:00.000+02:00,95954,Ceny komodit a devizové kurzy,4457294,Ceny komodit a devizové kurzy,Finance
+1,b1041571136,,Cena 1 oz zlata v USD dne 19.4.2022 v 15:00 SEČ (vyhodnocení podle kurzy.cz),2022-04-05T15:00:00.000+02:00,95954,Ceny komodit a devizové kurzy,4457294,Ceny komodit a devizové kurzy,Finance
+2,b1041571137,,Kurz 1 Bitcoin v USD dne 3.5.2022 v 15:00 SEČ (vyhodnocení podle kurzy.cz),2022-04-05T15:00:00.000+02:00,95954,Ceny komodit a devizové kurzy,4457294,Ceny komodit a devizové kurzy,Finance
+3,b1041571138,,Kurz devizového trhu 1 EUR podle ČNB pro den 3.5.2022,2022-04-05T15:00:00.000+02:00,95954,Ceny komodit a devizové kurzy,4457294,Ceny komodit a devizové kurzy,Finance
+4,b1036288405,,Vítěz,2022-04-10T07:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316624,Francouzské prezidentské volby 2022 - celkově,Politika
+5,b1041464814,Macron Emmanuel,Vítěz Ano/Ne,2022-04-10T07:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316624,Francouzské prezidentské volby 2022 - celkově,Politika
+6,b1041049694,Macron Emmanuel,Vítěz Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+7,b1041049695,Le Pen Marine,Vítěz Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+8,b1041049696,Mélenchon Jean-Luc,Vítěz Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+9,b1041049697,Zemmour Éric,Vítěz Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+10,b1041049698,Pécresse Valérie,Vítěz Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+11,b1041049699,Jadot Yannick,Vítěz Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+12,b1041049700,Roussel Fabien,Vítěz Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+13,b1041049701,Lassalle Jean,Vítěz Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+14,b1041049702,Hidalgo Anne,Vítěz Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+15,b1041049703,Arthaud Nathalie,Vítěz Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+16,b1041049704,Dupont-Aignan Nicolas,Vítěz Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+17,b1041049705,Poutou Philippe,Vítěz Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+18,b1041049706,Macron Emmanuel,Umístění do 2. místa Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+19,b1041049707,Le Pen Marine,Umístění do 2. místa Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+20,b1041049708,Mélenchon Jean-Luc,Umístění do 2. místa Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+21,b1041049709,Zemmour Éric,Umístění do 2. místa Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+22,b1041049710,Pécresse Valérie,Umístění do 2. místa Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+23,b1041049711,Jadot Yannick,Umístění do 2. místa Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+24,b1041049712,Roussel Fabien,Umístění do 2. místa Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+25,b1041049713,Lassalle Jean,Umístění do 2. místa Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+26,b1041049714,Hidalgo Anne,Umístění do 2. místa Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+27,b1041049715,Arthaud Nathalie,Umístění do 2. místa Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+28,b1041049716,Dupont-Aignan Nicolas,Umístění do 2. místa Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+29,b1041049717,Poutou Philippe,Umístění do 2. místa Ano/Ne,2022-04-10T20:00:00.000+02:00,94393,Francouzské prezidentské volby 2022,4316623,Francouzské prezidentské volby 2022 - 1.kolo,Politika
+30,b1041048994,Fidesz-KDNP x EM,Kdo získá více hlasů,2022-04-03T07:00:00.000+02:00,95447,Maďarské parlamentní volby 2022,4396370,Maďarské parlamentní volby 2022,Politika
+31,b1041048995,"Fidesz-KDNP, 132.5",Počet získaných mandátů,2022-04-03T07:00:00.000+02:00,95447,Maďarské parlamentní volby 2022,4396370,Maďarské parlamentní volby 2022,Politika
+32,b1041048996,,Nejvíce mandátů získá,2022-04-03T07:00:00.000+02:00,95447,Maďarské parlamentní volby 2022,4396370,Maďarské parlamentní volby 2022,Politika
+33,b1025356752,,Jan Lipavský bude 31.12.2022 ministr zahraničních věcí vlády ČR s důvěrou PS,2022-04-17T23:00:00.000+02:00,75144,Politické sázky na rok 2022,2863191,Politické události v roce 2022,Politika
+34,b1025356753,,Jozef Síkela bude 31.12.2022 ministr průmyslu a obchodu vlády ČR s důvěrou PS,2022-04-17T23:00:00.000+02:00,75144,Politické sázky na rok 2022,2863191,Politické události v roce 2022,Politika
+35,b1025356754,,Pavel Blažek bude 31.12.2022 ministr spravedlnosti vlády ČR s důvěrou PS,2022-04-17T23:00:00.000+02:00,75144,Politické sázky na rok 2022,2863191,Politické události v roce 2022,Politika
+36,b1025356755,,Petr Gazdík bude 31.12.2022 ministr školství vlády ČR s důvěrou PS,2022-04-17T23:00:00.000+02:00,75144,Politické sázky na rok 2022,2863191,Politické události v roce 2022,Politika
+37,b1025356757,,Vlastimil Válek bude 31.12.2022 ministr zdravotnictví vlády ČR s důvěrou PS,2022-04-17T23:00:00.000+02:00,75144,Politické sázky na rok 2022,2863191,Politické události v roce 2022,Politika
+38,b1013277721,,Vítěz,2022-05-01T23:00:00.000+02:00,75501,3.přímá volba prezidenta ČR,2878450,3.přímá volba prezidenta ČR,Politika
+39,b1039388654,,Maximální denní teplota ve stupních C podle chmi.cz bude 15.4.2022 8:00 – 16.4.2022 8:00 SELČ na met. stanici Praha-Ruzyně,2022-04-01T23:00:00.000+02:00,94653,Počasí v ČR 2022,4337194,Maximální denní teplota ve stupních C,Společenské sázky
+40,b1040973988,,Vítěz,2022-03-29T22:00:00.000+02:00,96119,Trenér fotbalové reprezentace ČR,4478490,"Hlavní trenér české fotbalové reprezentace ""A tým"" 1.9.2022",Sportovní sázky
+41,b1036311682,,Vítěz,2022-04-03T20:30:00.000+02:00,95436,Slovensko - Let’s Dance 7,4394774,Slovensko - Let’s Dance 7 - vítězná celebrita,Zábava

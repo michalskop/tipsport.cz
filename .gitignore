@@ -5,3 +5,5 @@ __pycache__
 tempdata
 *~lock*
 settings.py
+secret.py
+.~lock*
