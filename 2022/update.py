@@ -1,4 +1,4 @@
-"""Test connection"""
+"""Download current odds"""
 
 import datetime
 import os
@@ -26,7 +26,6 @@ credentials = {
   'password': os.getenv('TIPSPORT_PASSWORD'),
   'productId': os.getenv('TIPSPORT_PRODUCTID')
 }
-print(credentials)
 
 r = requests.post(url_root + 'rest/common/v1/session', data=credentials, headers=headers)
 auth = r.json()
