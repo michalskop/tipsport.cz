@@ -22,9 +22,9 @@ except:
 
 headers = {'Content-Type': 'application/x-www-form-urlencoded'}
 credentials = {
-  'username': os.getenv['TIPSPORT_USER'], 
-  'password': os.getenv['TIPSPORT_PASSWORD'],
-  'productId': os.getenv['TIPSPORT_PRODUCTID']
+  'username': os.getenv('TIPSPORT_USER'), 
+  'password': os.getenv('TIPSPORT_PASSWORD'),
+  'productId': os.getenv('TIPSPORT_PRODUCTID')
 }
 
 r = requests.post(url_root + 'rest/common/v1/session', data=credentials, headers=headers)
