@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odds>
- <timestamp>1648587618935</timestamp>
- <date>29.03.2022 23:00</date>
+ <timestamp>1648613531920</timestamp>
+ <date>30.03.2022 06:12</date>
  <refresh>15</refresh>
  <max>9000</max>
   <competition id="75144" sport="Politika" competitionName="Politické sázky na rok 2022" annualName="2022" urlOld="https://www.tipsport.cz/kurzy?competId=75144&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/kurzy/spolecenske-sazky/politika/politicke-sazky-na-rok-2022-75144?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" priority="1">
@@ -11,7 +11,7 @@
        <odd id="1376306190" eventId="1025356757" opportunityId="1376306190" opportunityNumber="90013" opportunityType="2" fullName="Ne" rate="3.15" percentDeposit="0" tickets="179"/>
      </event>
      <event id="1025356753" name="Jozef Síkela bude 31.12.2022 ministr průmyslu a obchodu vlády ČR s důvěrou PS" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1376306182" eventId="1025356753" opportunityId="1376306182" opportunityNumber="90004" opportunityType="1" fullName="Ano" rate="1.09" percentDeposit="0" tickets="99"/>
+       <odd id="1376306182" eventId="1025356753" opportunityId="1376306182" opportunityNumber="90004" opportunityType="1" fullName="Ano" rate="1.09" percentDeposit="0" tickets="100"/>
        <odd id="1376306181" eventId="1025356753" opportunityId="1376306181" opportunityNumber="90005" opportunityType="2" fullName="Ne" rate="6.00" percentDeposit="0" tickets="13"/>
      </event>
      <event id="1025356752" name="Jan Lipavský bude 31.12.2022 ministr zahraničních věcí vlády ČR s důvěrou PS" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
