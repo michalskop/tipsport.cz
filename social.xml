@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odds>
- <timestamp>1660191793555</timestamp>
- <date>11.08.2022 06:23</date>
+ <timestamp>1660234651826</timestamp>
+ <date>11.08.2022 18:17</date>
  <refresh>15</refresh>
  <max>9000</max>
   <competition id="75144" sport="Politika" competitionName="Politické sázky na rok 2022" annualName="2022" urlOld="https://www.tipsport.cz/kurzy?competId=75144&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/kurzy/spolecenske-sazky/politika/politicke-sazky-na-rok-2022-75144?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" priority="1">
    <match id="2863191" matchId="2863191" name="Politické události v roce 2022" nameFull="Politické události v roce 2022" dateClosed="2022.08.31 23:00" urlOld="https://www.tipsport.cz/kurzy?matchId=2863191&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284" url="https://www.tipsport.cz/spolecenske-sazky-politicke-udalosti-v-roce-2022-2863191?&amp;pid=10661&amp;sid=12302&amp;tid=2161&amp;bid=3284">
      <event id="1056943007" name="Petr Fiala bude 31.12.2022 předsedou Vlády ČR s důvěrou PS" eventType="-150" eventTypeDescription="Obecná otázka (ano/ne)" gamePart="1/a">
-       <odd id="1458043790" eventId="1056943007" opportunityId="1458043790" opportunityNumber="90016" opportunityType="1" fullName="Ano" rate="1.12" percentDeposit="0" tickets="184"/>
-       <odd id="1458043791" eventId="1056943007" opportunityId="1458043791" opportunityNumber="90017" opportunityType="2" fullName="Ne" rate="5.15" percentDeposit="0" tickets="156"/>
+       <odd id="1458043790" eventId="1056943007" opportunityId="1458043790" opportunityNumber="90016" opportunityType="1" fullName="Ano" rate="1.12" percentDeposit="0" tickets="186"/>
+       <odd id="1458043791" eventId="1056943007" opportunityId="1458043791" opportunityNumber="90017" opportunityType="2" fullName="Ne" rate="5.15" percentDeposit="0" tickets="157"/>
      </event>
    </match>
   </competition>
