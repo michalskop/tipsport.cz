@@ -17,9 +17,16 @@ try:
   os.environ['TIPSPORT_USER'] = secret.TIPSPORT_USER
   os.environ['TIPSPORT_PASSWORD'] = secret.TIPSPORT_PASSWORD
   os.environ['TIPSPORT_PRODUCTID'] = secret.TIPSPORT_PRODUCTID
+  os.environ['PROXY_SERVERS'] = secret.PROXY_SERVERS
 except:
   pass
 
+# proxy
+proxy_servers = {
+  'https': os.environ.get('PROXY_SERVERS')
+}
+
+# authentization
 headers = {'Content-Type': 'application/x-www-form-urlencoded'}
 credentials = {
   'username': os.getenv('TIPSPORT_USER'), 
@@ -27,14 +34,14 @@ credentials = {
   'productId': os.getenv('TIPSPORT_PRODUCTID')
 }
 
-r = requests.post(url_root + 'rest/common/v1/session', data=credentials, headers=headers)
+r = requests.post(url_root + 'rest/common/v1/session', data=credentials, headers=headers, proxies=proxy_servers)
 auth = r.json()
 cookies = r.cookies
 token = auth['sessionToken']
 headers = {'Authorization': "Bearer {}".format(token)}
 
 # 'společenské sázky' - get matches
-r1 = requests.get(url_root + 'rest/external/offer/v1/sports', headers=headers, cookies=cookies)
+r1 = requests.get(url_root + 'rest/external/offer/v1/sports', headers=headers, cookies=cookies, proxies=proxy_servers)
 data = r1.json()
 
 matches = []
@@ -53,7 +60,7 @@ for category in data['data']['children']:
 # get races
 races = []
 for match in matches:
-  r2 = requests.get(url_root + 'rest/external/offer/v2/competitions/{}/matches'.format(match['match_id']), headers=headers, cookies=cookies)
+  r2 = requests.get(url_root + 'rest/external/offer/v2/competitions/{}/matches'.format(match['match_id']), headers=headers, cookies=cookies, proxies=proxy_servers)
   data2 = r2.json()
   for race in data2['matches']:
     item = match.copy()
@@ -65,7 +72,7 @@ for match in matches:
 events = []
 now = datetime.datetime.now().isoformat()
 for race in races:
-  r3 = requests.get(url_root + 'rest/offer/v2/matches/{}?withOdds=true'.format(race['race_id']), headers=headers, cookies=cookies)
+  r3 = requests.get(url_root + 'rest/offer/v2/matches/{}?withOdds=true'.format(race['race_id']), headers=headers, cookies=cookies, proxies=proxy_servers)
   # print(race['race_name'])
   data3 = r3.json()
   datetimeClosed = data3['match']['datetimeClosed']
