@@ -37,6 +37,7 @@ jobs:
           TIPSPORT_USER: ${{ secrets.TIPSPORT_USER }}
           TIPSPORT_PASSWORD: ${{ secrets.TIPSPORT_PASSWORD }}
           TIPSPORT_PRODUCTID: ${{ secrets.TIPSPORT_PRODUCTID }}
+          PROXY_SERVERS: ${{ secrets.PROXY_SERVERS }}
 
       - name: Commit and push if it changed
         run: |-
