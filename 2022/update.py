@@ -23,7 +23,7 @@ except:
 
 # proxy
 proxy_servers = {
-  'https': os.environ.get('PROXY_SERVERS')
+  'https': os.getenv('PROXY_SERVERS')
 }
 
 # authentization
