@@ -1,13 +1,12 @@
 name: Update data through API
 
 on:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
   workflow_dispatch:
   schedule:
-    - cron: '01 4,16 * * *'
-
+    - cron: '04 1,4,9,12,16,19,22 * * *'
 jobs:
   update:
     runs-on: ubuntu-latest
