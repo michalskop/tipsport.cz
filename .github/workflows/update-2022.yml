@@ -6,7 +6,7 @@ on:
   #     - main
   workflow_dispatch:
   schedule:
-    - cron: '04 1,4,9,12,16,19,22 * * *'
+    - cron: '04 4,16 * * *'
 jobs:
   update:
     runs-on: ubuntu-latest
