@@ -13,7 +13,7 @@ path = "2022/"
 # the first part is local, the other takes the values from Github secrets
 try:
   sys.path.append('2022')
-  import secret
+  import v3.secret as secret
   os.environ['TIPSPORT_USER'] = secret.TIPSPORT_USER
   os.environ['TIPSPORT_PASSWORD'] = secret.TIPSPORT_PASSWORD
   os.environ['TIPSPORT_PRODUCTID'] = secret.TIPSPORT_PRODUCTID
