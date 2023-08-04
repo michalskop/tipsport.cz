@@ -55,50 +55,74 @@ headers = {'Authorization': "Bearer {}".format(token)}
 matches = []
 r2 = requests.get(url_root_p + 'rest/external/offer/v1/matches', headers=headers, cookies=cookies, proxies=proxy_servers)
 data2 = r2.json()
-
-# json.dump(data2, open('data2.json', 'w'))
+# json.dump(data2, open(path + 'data2test.json', 'w'))
 
 for match in data2['matches']:
   if match['nameSuperSport'] == 'Společenské sázky':
     matches.append(match)
 now = datetime.datetime.now()
+# json.dump(matches, open(path + 'matchestest.json', 'w'))
+"105903"
+
+matches3 = []
+for match in matches:
+  params = {
+    'idCompetition': match['idCompetition'],
+    'allEvents': 'True',
+  }
+  r3 = requests.get(url_root_p + 'rest/external/offer/v1/matches/' + str(match['id']), params=params, headers=headers, cookies=cookies, proxies=proxy_servers)
+  data3 = r3.json()
+  try:
+    matches3.append(data3['match'])
+  except:
+    pass
+# json.dump(matches3, open(path + 'matches3test.json', 'w'))
 
 # 'společenské sázky' - get odds, read / write
 try:
   meta = pd.read_csv(path + 'meta.csv')
 except:
   meta = pd.DataFrame()
-for match in matches:
+for match in matches3:
+  # break
   match_id = match['id']
   try:
     table = pd.read_csv(path + 'data/' + str(match_id) + '.csv')
   except:
     table = pd.DataFrame()
-  if match['mainEvent']:
-    main_event_id = match['mainEvent']['id']
-    for opp in match['mainEvent']['opps']:
-      row = {
-        'date': now,
-        'id': opp['id'],
-        'name': opp['name'],
-        'odd': opp['odd'],
-      }
-      table = pd.concat([table, pd.DataFrame([row])])
-  table = table.drop_duplicates(subset=['id', 'date'])
-  if len(table) > 0:
-    table.to_csv(path + 'data/' + str(match_id) + '.csv', index=False)
-  # meta
-  meta_row = {
-    'date': now,
-    'match_id': match_id,
-    'match_name': match['name'],
-    'match_url': match['matchUrl'],
-    'competition_id': match['idCompetition'],
-    'competition_name': match['nameCompetition'],
-    'sport_id': match['idSport'],
-    'sport_name': match['nameSport'],
-    'date_closed': datetime.datetime.fromtimestamp(match['dateClosed'] / 1000).isoformat(),
-  }
-  meta = pd.concat([meta, pd.DataFrame([meta_row])])
-meta = meta.drop_duplicates(subset=['match_id', 'date'])
+  
+  for et in match['eventTables']:
+    # odds
+    for box in et['boxes']:
+      for cell in box['cells']:
+        row = {
+          'date': now,
+          'id': cell['id'],
+          'name': cell['name'],
+          'odd': cell['odd'],
+          'supername': box['name']
+        }
+        table = pd.concat([table, pd.DataFrame([row])])
+
+    table = table.drop_duplicates(subset=['id', 'date', 'name'])
+    if len(table) > 0:
+      table.to_csv(path + 'data/' + str(match_id) + '.csv', index=False)
+
+    # meta
+    meta_row = {
+      'date': now,
+      'match_id': match_id,
+      'match_name': match['name'],
+      'match_url': match['matchUrl'],
+      'competition_id': match['idCompetition'],
+      'competition_name': match['nameCompetition'],
+      'sport_id': match['idSport'],
+      'sport_name': match['nameSport'],
+      'date_closed': datetime.datetime.fromtimestamp(match['dateClosed'] / 1000).isoformat(),
+      'event_id': et['id'],
+      'event_name': et['name'],
+    }
+    meta = pd.concat([meta, pd.DataFrame([meta_row])])
+
+meta = meta.drop_duplicates(subset=['match_id', 'event_id', 'date'])
 meta.to_csv(path + 'meta.csv', index=False)

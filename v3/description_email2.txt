@@ -1,0 +1,15 @@
+Dobrý den,
+
+ 
+
+endpoint /rest/external/offer/v1/matches defaultně vrací jen kurzy na událost Vítěz zápasu. Pomocí query parametrů je možné získat kurzy na všechny události a rovněž je možné filtrovat události z vybraných supersportů, sportů a soutěží. Všechny query parametry jsou uvedené v dokumentaci.
+
+ 
+
+Kurzy na Počasí v ČR tedy získáte takto: /rest/external/offer/v1/matches?idCompetition=102960&allEvents=True. Zobrazí se kurzy na všechny události z vyfiltrované „soutěže“ Počasí v ČR.
+
+Děkuji
+
+Ondřej Tejkal
+
+Tipsport  
