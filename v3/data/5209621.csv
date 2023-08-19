@@ -3671,3 +3671,155 @@ date,id,name,odd,supername,hypername
 2023-08-18 20:07:03.110137,1826982512,Ne,1.0,SDKÚ-DS,Umístění do 3. místa podle počtu hlasů Ano/Ne
 2023-08-18 20:07:03.110137,1826982515,Ano,1000.0,SPRAVODLIVOSŤ,Umístění do 3. místa podle počtu hlasů Ano/Ne
 2023-08-18 20:07:03.110137,1826982514,Ne,1.0,SPRAVODLIVOSŤ,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1840121712,Méně než 63.01%,2.08,,Volební účast v procentech
+2023-08-19 12:07:38.487350,1840121713,63.01% a více,1.65,,Volební účast v procentech
+2023-08-19 12:07:38.487350,1826982379,Méně než 5.01%,1.07,Aliancia,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982378,5.01% a více,6.56,Aliancia,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982380,Méně než 5.01%,1.05,Demokrati,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982381,5.01% a více,7.43,Demokrati,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982382,Méně než 5.01%,11.0,HLAS-SD,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982383,5.01% a více,1.0,HLAS-SD,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982385,Méně než 5.01%,2.08,KDH,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982384,5.01% a více,1.65,KDH,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982387,Méně než 5.01%,1.0,KSS,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982386,5.01% a více,400.0,KSS,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982388,Méně než 5.01%,1.0,ĽS Naše Slovensko,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982389,5.01% a více,30.0,ĽS Naše Slovensko,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982390,Méně než 5.01%,1.0,"Modrí, Most – Híd",Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982391,5.01% a více,40.0,"Modrí, Most – Híd",Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982392,Méně než 5.01%,6.21,OĽANO A PRIATELIA,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982393,5.01% a více,1.08,OĽANO A PRIATELIA,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982394,Méně než 7.01%,2.11,OĽANO A PRIATELIA,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982395,7.01% a více,1.63,OĽANO A PRIATELIA,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982397,Méně než 5.01%,1.0,Piráti,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982396,5.01% a více,400.0,Piráti,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982399,Méně než 5.01%,90.0,Progresívne Slovensko,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982398,5.01% a více,1.0,Progresívne Slovensko,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982400,Méně než 5.01%,5.62,Republika,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982401,5.01% a více,1.1,Republika,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982403,Méně než 5.01%,2.24,SaS,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982402,5.01% a více,1.56,SaS,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982405,Méně než 5.01%,1.0,SDKÚ-DS,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982404,5.01% a více,400.0,SDKÚ-DS,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982407,Méně než 5.01%,2.13,Sme rodina,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982406,5.01% a více,1.62,Sme rodina,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982408,Méně než 5.01%,375.0,SMER-SD,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982409,5.01% a více,1.0,SMER-SD,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982411,Méně než 5.01%,2.43,SNS,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982410,5.01% a více,1.48,SNS,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982413,Méně než 5.01%,1.0,SPRAVODLIVOSŤ,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1826982412,5.01% a více,400.0,SPRAVODLIVOSŤ,Počet hlasů v procentech
+2023-08-19 12:07:38.487350,1836839877,Méně než 4,45.0,,Počet volebních subjektů v parlamentu
+2023-08-19 12:07:38.487350,1836839878,4 a více,1.0,,Počet volebních subjektů v parlamentu
+2023-08-19 12:07:38.487350,1836839880,Méně než 5,11.0,,Počet volebních subjektů v parlamentu
+2023-08-19 12:07:38.487350,1836839879,5 a více,1.01,,Počet volebních subjektů v parlamentu
+2023-08-19 12:07:38.487350,1836839881,Méně než 6,6.56,,Počet volebních subjektů v parlamentu
+2023-08-19 12:07:38.487350,1836839882,6 a více,1.07,,Počet volebních subjektů v parlamentu
+2023-08-19 12:07:38.487350,1836839884,Méně než 7,2.61,,Počet volebních subjektů v parlamentu
+2023-08-19 12:07:38.487350,1836839883,7 a více,1.42,,Počet volebních subjektů v parlamentu
+2023-08-19 12:07:38.487350,1836839886,Méně než 8,1.51,,Počet volebních subjektů v parlamentu
+2023-08-19 12:07:38.487350,1836839885,8 a více,2.35,,Počet volebních subjektů v parlamentu
+2023-08-19 12:07:38.487350,1836839887,Méně než 9,1.14,,Počet volebních subjektů v parlamentu
+2023-08-19 12:07:38.487350,1836839888,9 a více,4.7,,Počet volebních subjektů v parlamentu
+2023-08-19 12:07:38.487350,1826982414,Ano,1.57,SMER-SD,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982415,Ne,2.22,SMER-SD,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982417,Ano,2.6,Progresívne Slovensko,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982416,Ne,1.42,Progresívne Slovensko,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982419,Ano,33.0,HLAS-SD,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982418,Ne,1.0,HLAS-SD,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982422,Ano,95.0,OĽANO A PRIATELIA,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982423,Ne,1.0,OĽANO A PRIATELIA,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982421,Ano,175.0,Republika,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982420,Ne,1.0,Republika,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982424,Ano,650.0,SaS,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982425,Ne,1.0,SaS,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982426,Ano,700.0,Sme rodina,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982427,Ne,1.0,Sme rodina,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982430,Ano,750.0,SNS,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982431,Ne,1.0,SNS,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982428,Ano,800.0,KDH,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982429,Ne,1.0,KDH,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982433,Ano,2800.0,Aliancia,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982432,Ne,1.0,Aliancia,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982434,Ano,3000.0,Demokrati,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982435,Ne,1.0,Demokrati,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982437,Ano,3600.0,ĽS Naše Slovensko,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982436,Ne,1.0,ĽS Naše Slovensko,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982438,Ano,4000.0,"Modrí, Most – Híd",Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982439,Ne,1.0,"Modrí, Most – Híd",Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982441,Ano,5000.0,KSS,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982440,Ne,1.0,KSS,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982443,Ano,5000.0,Piráti,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982442,Ne,1.0,Piráti,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982445,Ano,5000.0,SDKÚ-DS,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982444,Ne,1.0,SDKÚ-DS,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982446,Ano,5000.0,SPRAVODLIVOSŤ,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982447,Ne,1.0,SPRAVODLIVOSŤ,Nejvíc hlasů získá Ano/Ne
+2023-08-19 12:07:38.487350,1826982449,Ano,1.02,SMER-SD,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982448,Ne,9.38,SMER-SD,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982451,Ano,1.17,Progresívne Slovensko,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982450,Ne,4.31,Progresívne Slovensko,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982452,Ano,6.0,HLAS-SD,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982453,Ne,1.09,HLAS-SD,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982457,Ano,13.0,OĽANO A PRIATELIA,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982456,Ne,1.0,OĽANO A PRIATELIA,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982454,Ano,21.0,Republika,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982455,Ne,1.0,Republika,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982458,Ano,160.0,SaS,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982459,Ne,1.0,SaS,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982460,Ano,190.0,Sme rodina,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982461,Ne,1.0,Sme rodina,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982465,Ano,230.0,SNS,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982464,Ne,1.0,SNS,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982462,Ano,300.0,KDH,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982463,Ne,1.0,KDH,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982467,Ano,1100.0,Aliancia,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982466,Ne,1.0,Aliancia,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982468,Ano,1200.0,Demokrati,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982469,Ne,1.0,Demokrati,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982471,Ano,1400.0,ĽS Naše Slovensko,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982470,Ne,1.0,ĽS Naše Slovensko,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982472,Ano,1600.0,"Modrí, Most – Híd",Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982473,Ne,1.0,"Modrí, Most – Híd",Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982475,Ano,2400.0,KSS,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982474,Ne,1.0,KSS,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982476,Ano,2400.0,Piráti,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982477,Ne,1.0,Piráti,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982479,Ano,2400.0,SDKÚ-DS,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982478,Ne,1.0,SDKÚ-DS,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982480,Ano,2400.0,SPRAVODLIVOSŤ,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982481,Ne,1.0,SPRAVODLIVOSŤ,Umístění do 2. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982483,Ano,1.0,SMER-SD,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982482,Ne,20.0,SMER-SD,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982484,Ano,1.02,Progresívne Slovensko,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982485,Ne,9.38,Progresívne Slovensko,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982486,Ano,1.47,HLAS-SD,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982487,Ne,2.46,HLAS-SD,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982490,Ano,3.9,OĽANO A PRIATELIA,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982491,Ne,1.2,OĽANO A PRIATELIA,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982488,Ano,5.0,Republika,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982489,Ne,1.13,Republika,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982492,Ano,30.0,SaS,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982493,Ne,1.0,SaS,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982494,Ano,33.0,Sme rodina,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982495,Ne,1.0,Sme rodina,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982498,Ano,35.0,SNS,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982499,Ne,1.0,SNS,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982496,Ano,45.0,KDH,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982497,Ne,1.0,KDH,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982500,Ano,500.0,Aliancia,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982501,Ne,1.0,Aliancia,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982503,Ano,550.0,Demokrati,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982502,Ne,1.0,Demokrati,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982505,Ano,600.0,ĽS Naše Slovensko,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982504,Ne,1.0,ĽS Naše Slovensko,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982506,Ano,700.0,"Modrí, Most – Híd",Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982507,Ne,1.0,"Modrí, Most – Híd",Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982508,Ano,1000.0,KSS,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982509,Ne,1.0,KSS,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982510,Ano,1000.0,Piráti,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982511,Ne,1.0,Piráti,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982513,Ano,1000.0,SDKÚ-DS,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982512,Ne,1.0,SDKÚ-DS,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982515,Ano,1000.0,SPRAVODLIVOSŤ,Umístění do 3. místa podle počtu hlasů Ano/Ne
+2023-08-19 12:07:38.487350,1826982514,Ne,1.0,SPRAVODLIVOSŤ,Umístění do 3. místa podle počtu hlasů Ano/Ne
