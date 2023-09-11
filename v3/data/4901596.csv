@@ -503,3 +503,11 @@ date,id,name,odd,supername,hypername
 2023-09-11 06:07:36.704980,1849916087,28432.5 a více,2.15,,Kurz 1 Bitcoin v USD dne 7.11.2023 v 15:02 SEČ (vyhodnocení podle kurzy.cz)
 2023-09-11 06:07:36.704980,1849916088,Méně než 24.25,3.15,,Kurz devizového trhu 1 EUR podle ČNB pro den 7.11.2023
 2023-09-11 06:07:36.704980,1849916089,24.25 a více,1.3,,Kurz devizového trhu 1 EUR podle ČNB pro den 7.11.2023
+2023-09-11 10:06:54.114575,1849916082,Méně než 85.5,2.38,,Cena 1 barel ropa Brent v USD dne 7.11.2023 v 15:02 SEČ (vyhodnocení podle kurzy.cz)
+2023-09-11 10:06:54.114575,1849916083,85.5 a více,1.5,,Cena 1 barel ropa Brent v USD dne 7.11.2023 v 15:02 SEČ (vyhodnocení podle kurzy.cz)
+2023-09-11 10:06:54.114575,1849916085,Méně než 1971.5,1.65,,Cena 1 oz zlata v USD dne 7.11.2023 v 15:02 SEČ (vyhodnocení podle kurzy.cz)
+2023-09-11 10:06:54.114575,1849916084,1971.5 a více,2.08,,Cena 1 oz zlata v USD dne 7.11.2023 v 15:02 SEČ (vyhodnocení podle kurzy.cz)
+2023-09-11 10:06:54.114575,1849916086,Méně než 28432.5,1.61,,Kurz 1 Bitcoin v USD dne 7.11.2023 v 15:02 SEČ (vyhodnocení podle kurzy.cz)
+2023-09-11 10:06:54.114575,1849916087,28432.5 a více,2.15,,Kurz 1 Bitcoin v USD dne 7.11.2023 v 15:02 SEČ (vyhodnocení podle kurzy.cz)
+2023-09-11 10:06:54.114575,1849916088,Méně než 24.25,3.48,,Kurz devizového trhu 1 EUR podle ČNB pro den 7.11.2023
+2023-09-11 10:06:54.114575,1849916089,24.25 a více,1.25,,Kurz devizového trhu 1 EUR podle ČNB pro den 7.11.2023
