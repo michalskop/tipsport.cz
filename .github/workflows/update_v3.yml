@@ -7,7 +7,7 @@ on:
   #     - master
   workflow_dispatch:
   schedule:
-    - cron: '02,17,32,47 6-21 * * *'
+    - cron: '02,12,22,32,42,52 6-21 * * *'
     - cron: '02 22,00,02,04 * * *'
 
 jobs:
