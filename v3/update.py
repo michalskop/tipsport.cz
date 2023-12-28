@@ -94,7 +94,19 @@ for match in matches3:
   for et in match['eventTables']:
     # odds
     for box in et['boxes']:
-      for cell in box['cells']:
+      if 'name' in box:
+        for cell in box['cells']:
+          row = {
+            'date': now,
+            'id': cell['id'],
+            'name': cell['name'],
+            'odd': cell['odd'],
+            'supername': box['name'],
+            'hypername': et['name'],
+          }
+          table = pd.concat([table, pd.DataFrame([row])])
+      else:
+        continue
         row = {
           'date': now,
           'id': cell['id'],
