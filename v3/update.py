@@ -100,7 +100,7 @@ for match in matches3:
           'id': cell['id'],
           'name': cell['name'],
           'odd': cell['odd'],
-          'supername': box['name'],
+          'supername': box.get('name', 'N/A'),
           'hypername': et['name'],
         }
         table = pd.concat([table, pd.DataFrame([row])])
