@@ -37,14 +37,14 @@ headers = {'Content-Type': 'application/json'}
 for i in range(10):
   r = requests.post(url_root_p + 'rest/external/common/v2/session', data=json.dumps(credentials), headers=headers, proxies=proxy_servers)
   cookies = r.cookies
-  if r.status_code == 200:
+  if r.status_code == 200 or (r.status_code >= 400 and r.status_code < 500):
     break
   else:
     r2 = requests.get(url_root_p + 'rest/external/offer/v1/matches', headers=headers, cookies=cookies, proxies=proxy_servers)
     print(r.status_code, r2.status_code)
 
 if r.status_code != 200:
-  raise Exception('Could not authenticate, status code {}.'.format(r.status_code))
+  raise Exception(f'Could not authenticate. Status code: {r.status_code}, Response body: {r.text}')
 
 auth = r.json()
 cookies = r.cookies
