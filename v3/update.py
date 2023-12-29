@@ -21,6 +21,12 @@ try:
 except:
   pass
 
+# Check if all necessary environment variables are set
+required_env_vars = ['TIPSPORT_USER', 'TIPSPORT_PASSWORD', 'TIPSPORT_PRODUCTID', 'PROXY_SERVERS']
+for var in required_env_vars:
+  if os.environ.get(var) is None:
+    raise Exception('Environment variable {} is not set'.format(var))
+
 # proxy
 proxy_servers = {
   'https': os.environ.get('PROXY_SERVERS')
@@ -38,12 +44,15 @@ for i in range(10):
   r = requests.post(url_root_p + 'rest/external/common/v2/session', data=json.dumps(credentials), headers=headers, proxies=proxy_servers)
   cookies = r.cookies
   if r.status_code == 200:
+    print("Authentication successful")
     break
   else:
+    print("Authentication failed with status code {}. Response body: {}".format(r.status_code, r.text))
     r2 = requests.get(url_root_p + 'rest/external/offer/v1/matches', headers=headers, cookies=cookies, proxies=proxy_servers)
     print(r.status_code, r2.status_code)
 
 if r.status_code != 200:
+  raise Exception('Could not authenticate after 10 attempts, final status code {}.'.format(r.status_code))
   raise Exception('Could not authenticate, status code {}.'.format(r.status_code))
 
 auth = r.json()
@@ -85,6 +94,13 @@ except:
   meta = pd.DataFrame()
 for match in matches3:
   # break
+  print("Request to get matches returned status code {}. Response body: {}".format(r2.status_code, r2.text))
+  if r2.status_code != 200:
+    raise Exception('Could not get matches, status code {}.'.format(r2.status_code))
+
+  print("Request to get match details returned status code {}. Response body: {}".format(r3.status_code, r3.text))
+  if r3.status_code != 200:
+    raise Exception('Could not get match details, status code {}.'.format(r3.status_code))
   match_id = match['id']
   try:
     table = pd.read_csv(path + 'data/' + str(match_id) + '.csv')
