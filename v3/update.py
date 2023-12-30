@@ -10,7 +10,6 @@ url_root_p = "https://partners.tipsport.cz/"
 path = "v3/"
 
 # authentization
-# the first part is local, the other takes the values from Github secrets
 try:
   # sys.path.append('2022')
   import v3.secret as secret
@@ -22,9 +21,9 @@ except:
   pass
 
 # proxy
-proxy_servers = {
-  'https': os.environ.get('PROXY_SERVERS')
-}
+# proxy_servers = {
+#   'https': os.environ.get('PROXY_SERVERS')
+# }
 
 # authentization
 headers = {'Content-Type': 'application/x-www-form-urlencoded'}
@@ -35,12 +34,12 @@ credentials = {
 }
 headers = {'Content-Type': 'application/json'}
 for i in range(10):
-  r = requests.post(url_root_p + 'rest/external/common/v2/session', data=json.dumps(credentials), headers=headers, proxies=proxy_servers)
+  r = requests.post(url_root_p + 'rest/external/common/v2/session', data=json.dumps(credentials), headers=headers)
   cookies = r.cookies
   if r.status_code == 200:
     break
   else:
-    r2 = requests.get(url_root_p + 'rest/external/offer/v1/matches', headers=headers, cookies=cookies, proxies=proxy_servers)
+    r2 = requests.get(url_root_p + 'rest/external/offer/v1/matches', headers=headers, cookies=cookies)
     print(r.status_code, r2.status_code)
 
 if r.status_code != 200:
@@ -53,7 +52,7 @@ headers = {'Authorization': "Bearer {}".format(token)}
 
 # 'společenské sázky' - get matches
 matches = []
-r2 = requests.get(url_root_p + 'rest/external/offer/v1/matches', headers=headers, cookies=cookies, proxies=proxy_servers)
+r2 = requests.get(url_root_p + 'rest/external/offer/v1/matches', headers=headers, cookies=cookies)
 data2 = r2.json()
 # json.dump(data2, open(path + 'data2test.json', 'w'))
 
@@ -70,7 +69,7 @@ for match in matches:
     'idCompetition': match['idCompetition'],
     'allEvents': 'True',
   }
-  r3 = requests.get(url_root_p + 'rest/external/offer/v1/matches/' + str(match['id']), params=params, headers=headers, cookies=cookies, proxies=proxy_servers)
+  r3 = requests.get(url_root_p + 'rest/external/offer/v1/matches/' + str(match['id']), params=params, headers=headers, cookies=cookies)
   data3 = r3.json()
   try:
     matches3.append(data3['match'])
@@ -94,13 +93,17 @@ for match in matches3:
   for et in match['eventTables']:
     # odds
     for box in et['boxes']:
+      try:
+        box_name = box['name']
+      except:
+        box_name = ''
       for cell in box['cells']:
         row = {
           'date': now,
           'id': cell['id'],
           'name': cell['name'],
           'odd': cell['odd'],
-          'supername': box['name'],
+          'supername': box_name,
           'hypername': et['name'],
         }
         table = pd.concat([table, pd.DataFrame([row])])
@@ -119,7 +122,7 @@ for match in matches3:
       'competition_name': match['nameCompetition'],
       'sport_id': match['idSport'],
       'sport_name': match['nameSport'],
-      'date_closed': datetime.datetime.fromtimestamp(match['dateClosed'] / 1000).isoformat(),
+      'date_closed': match['datetimeClosed'],
       'event_id': et['id'],
       'event_name': et['name'],
     }
