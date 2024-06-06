@@ -1,12 +1,14 @@
-name: Update daily 
+name: Update data v4
 
 on:
   # push:
   #   branches:
   #     - main
+  #     - master
   workflow_dispatch:
   schedule:
-    - cron: '12 4,12,20 * * *'
+    - cron: '02 4,12,20 * * *'
+    # - cron: '*/15 * * * *'
 
 jobs:
   update:
@@ -24,16 +26,21 @@ jobs:
         name: Configure pip caching
         with:
           path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements_daily.txt') }}
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
+            
       - name: Install Python dependencies
         run: |
-          pip install -r v3/requirements_daily.txt
-  
-      - name: Calculate daily data
-        run: |-
-          python v3/daily.py
+          pip install -r v4/requirements.txt
+      
+      - name: Update data 
+        run: python v4/update.py
+        env:
+          TIPSPORT_USER: ${{ secrets.TIPSPORT_USER }}
+          TIPSPORT_PASSWORD: ${{ secrets.TIPSPORT_PASSWORD }}
+          TIPSPORT_PRODUCTID: ${{ secrets.TIPSPORT_PRODUCTID }}
+          PROXY_SERVERS: ${{ secrets.PROXY_SERVERS }}
 
       - name: Commit and push if it changed
         run: |-

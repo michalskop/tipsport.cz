@@ -61,7 +61,13 @@ for match in data2['matches']:
     matches.append(match)
 now = datetime.datetime.now()
 # json.dump(matches, open(path + 'matchestest.json', 'w'))
-"105903"
+# "105903"
+
+# rx = requests.get(url_root_p + 'rest/external/offer/v1/matches?allEvents=true&idSuperSport=25', headers=headers, cookies=cookies)
+# datax = rx.json()
+# print(datax)
+# with open('datax.json', 'w') as f:
+#   json.dump(datax, f, indent=2, ensure_ascii=False)
 
 matches3 = []
 for match in matches:
