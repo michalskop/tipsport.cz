@@ -1,11 +1,16 @@
 date,id,name,odd,event_name,selection_id
-2024-06-06 03:24:34.181285,2035977730,Green Party,1000.0,Nejvíce mandátů získá,25-MOST_SEATS-a
-2024-06-06 03:24:34.181285,2035977731,Liberální demokraté,750.0,Nejvíce mandátů získá,25-MOST_SEATS-a
-2024-06-06 03:24:34.181285,2035977732,Reform UK,105.0,Nejvíce mandátů získá,25-MOST_SEATS-a
-2024-06-06 03:24:34.181285,2035977733,Konzervativní strana,25.0,Nejvíce mandátů získá,25-MOST_SEATS-a
-2024-06-06 03:24:34.181285,2035977734,Labouristé,1.01,Nejvíce mandátů získá,25-MOST_SEATS-a
-2024-06-06 03:31:45.090595,2035977730,Green Party,1000.0,Nejvíce mandátů získá,25-MOST_SEATS-a
-2024-06-06 03:31:45.090595,2035977731,Liberální demokraté,750.0,Nejvíce mandátů získá,25-MOST_SEATS-a
-2024-06-06 03:31:45.090595,2035977732,Reform UK,105.0,Nejvíce mandátů získá,25-MOST_SEATS-a
-2024-06-06 03:31:45.090595,2035977733,Konzervativní strana,25.0,Nejvíce mandátů získá,25-MOST_SEATS-a
-2024-06-06 03:31:45.090595,2035977734,Labouristé,1.01,Nejvíce mandátů získá,25-MOST_SEATS-a
+2024-06-06T04:04:38,2035977730,Green Party,1000.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2024-06-06T04:04:38,2035977731,Liberální demokraté,750.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2024-06-06T04:04:38,2035977732,Reform UK,105.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2024-06-06T04:04:38,2035977733,Konzervativní strana,25.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2024-06-06T04:04:38,2035977734,Labouristé,1.01,Nejvíce mandátů získá,25-MOST_SEATS-a
+2024-06-06T03:31:45,2035977730,Green Party,1000.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2024-06-06T03:31:45,2035977731,Liberální demokraté,750.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2024-06-06T03:31:45,2035977732,Reform UK,105.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2024-06-06T03:31:45,2035977733,Konzervativní strana,25.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2024-06-06T03:31:45,2035977734,Labouristé,1.01,Nejvíce mandátů získá,25-MOST_SEATS-a
+2024-06-06T03:24:34,2035977730,Green Party,1000.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2024-06-06T03:24:34,2035977731,Liberální demokraté,750.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2024-06-06T03:24:34,2035977732,Reform UK,105.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2024-06-06T03:24:34,2035977733,Konzervativní strana,25.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2024-06-06T03:24:34,2035977734,Labouristé,1.01,Nejvíce mandátů získá,25-MOST_SEATS-a

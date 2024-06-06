@@ -1,175 +1,262 @@
 date,id,name,odd,event_name,selection_id
-2024-06-06 03:24:34.181285,2010679850,Progresívne Slovensko,2.4,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2010679851,Demokrati,400.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2010679852,KDH,250.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2010679853,"SLOVENSKO, ZA ĽUDÍ",475.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2010679854,SaS,250.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2010679855,HLAS-SD,100.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2010679856,SNS,600.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2010679857,Republika,150.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2010679858,SMER-SD,1.5,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2010771854,Maďarská aliancia,450.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036175389,ĽS Naše Slovensko,1000.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181454,Demokrati,170.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181455,ĽS Naše Slovensko,500.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181456,SNS,300.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181457,"SLOVENSKO, ZA ĽUDÍ",215.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181458,SaS,100.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181460,HLAS-SD,45.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181461,Republika,65.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181462,Maďarská aliancia,200.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181463,KDH,100.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181465,ĽS Naše Slovensko,200.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181466,SNS,75.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181468,Republika,3.4,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181469,Demokrati,20.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181470,HLAS-SD,1.25,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181471,SaS,13.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181472,KDH,13.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181474,"SLOVENSKO, ZA ĽUDÍ",25.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181475,Maďarská aliancia,23.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181476,Demokrati,8.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181478,Maďarská aliancia,12.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181480,SaS,5.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181484,SNS,30.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181485,"SLOVENSKO, ZA ĽUDÍ",15.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181486,HLAS-SD,1.01,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181487,ĽS Naše Slovensko,80.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181488,Republika,1.07,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181490,KDH,5.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181491,ĽS Naše Slovensko,35.0,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181492,Demokrati,3.6,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181493,SNS,13.0,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181494,KDH,1.7,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181499,"SLOVENSKO, ZA ĽUDÍ",7.5,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181500,Maďarská aliancia,6.5,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036181501,SaS,1.7,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:24:34.181285,2036357418,Méně než 5.01%,1.55,Demokrati - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:24:34.181285,2036357419,5.01% a více,2.2,Demokrati - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:24:34.181285,2036357420,5.01% a více,1.23,KDH - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:24:34.181285,2036357421,Méně než 5.01%,3.5,KDH - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:24:34.181285,2036357422,5.01% a více,25.0,ĽS Naše Slovensko - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:24:34.181285,2036357423,Méně než 5.01%,1.0,ĽS Naše Slovensko - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:24:34.181285,2036357424,Méně než 5.01%,1.4,Maďarská aliancia - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:24:34.181285,2036357425,5.01% a více,2.6,Maďarská aliancia - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:24:34.181285,2036357426,5.01% a více,1.1,Republika - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:24:34.181285,2036357427,Méně než 5.01%,5.27,Republika - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:24:34.181285,2036357428,Méně než 5.01%,3.5,SaS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:24:34.181285,2036357429,5.01% a více,1.23,SaS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:24:34.181285,2036357430,5.01% a více,3.77,"SLOVENSKO, ZA ĽUDÍ - počet hlasů v procentech",25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:24:34.181285,2036357431,Méně než 5.01%,1.2,"SLOVENSKO, ZA ĽUDÍ - počet hlasů v procentech",25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:24:34.181285,2036357432,Méně než 5.01%,1.11,SNS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:24:34.181285,2036357433,5.01% a více,5.05,SNS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:24:34.181285,2036421894,Republika,3.35,Kdo získá více hlasů (HLAS-SD x Republika),25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421895,HLAS-SD,1.25,Kdo získá více hlasů (HLAS-SD x Republika),25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421896,KDH,6.83,Kdo získá více hlasů (HLAS-SD x KDH),25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421897,HLAS-SD,1.05,Kdo získá více hlasů (HLAS-SD x KDH),25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421898,HLAS-SD,1.05,Kdo získá více hlasů (HLAS-SD x SaS),25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421899,SaS,6.83,Kdo získá více hlasů (HLAS-SD x SaS),25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421900,HLAS-SD,1.0,"Kdo získá více hlasů (HLAS-SD x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421901,"SLOVENSKO, ZA ĽUDÍ",15.0,"Kdo získá více hlasů (HLAS-SD x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421902,KDH,3.77,Kdo získá více hlasů (Republika x KDH),25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421903,Republika,1.2,Kdo získá více hlasů (Republika x KDH),25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421904,Republika,1.2,Kdo získá více hlasů (Republika x SaS),25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421905,SaS,3.77,Kdo získá více hlasů (Republika x SaS),25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421908,Republika,1.02,"Kdo získá více hlasů (Republika x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421909,"SLOVENSKO, ZA ĽUDÍ",8.44,"Kdo získá více hlasů (Republika x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421910,KDH,1.82,Kdo získá více hlasů (KDH x SaS),25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421911,SaS,1.82,Kdo získá více hlasů (KDH x SaS),25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421912,"SLOVENSKO, ZA ĽUDÍ",4.22,"Kdo získá více hlasů (KDH x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421913,KDH,1.16,"Kdo získá více hlasů (KDH x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421914,SaS,1.16,"Kdo získá více hlasů (SaS x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421915,"SLOVENSKO, ZA ĽUDÍ",4.22,"Kdo získá více hlasů (SaS x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421916,"SLOVENSKO, ZA ĽUDÍ",2.31,"Kdo získá více hlasů (SLOVENSKO, ZA ĽUDÍ x Demokrati)",25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2036421917,Demokrati,1.5,"Kdo získá více hlasů (SLOVENSKO, ZA ĽUDÍ x Demokrati)",25-BETTER_OF_VOTES-a
-2024-06-06 03:24:34.181285,2037017588,Méně než 5.01%,9.19,HLAS-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:24:34.181285,2037017589,5.01% a více,1.01,HLAS-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:24:34.181285,2037017592,Méně než 25.51%,1.5,SMER-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:24:34.181285,2037017593,25.51% a více,2.31,SMER-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:31:45.090595,2010679850,Progresívne Slovensko,2.4,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2010679851,Demokrati,400.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2010679852,KDH,250.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2010679853,"SLOVENSKO, ZA ĽUDÍ",475.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2010679854,SaS,250.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2010679855,HLAS-SD,100.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2010679856,SNS,600.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2010679857,Republika,150.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2010679858,SMER-SD,1.5,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2010771854,Maďarská aliancia,450.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036175389,ĽS Naše Slovensko,1000.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181454,Demokrati,170.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181455,ĽS Naše Slovensko,500.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181456,SNS,300.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181457,"SLOVENSKO, ZA ĽUDÍ",215.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181458,SaS,100.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181460,HLAS-SD,45.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181461,Republika,65.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181462,Maďarská aliancia,200.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181463,KDH,100.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181465,ĽS Naše Slovensko,200.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181466,SNS,75.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181468,Republika,3.4,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181469,Demokrati,20.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181470,HLAS-SD,1.25,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181471,SaS,13.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181472,KDH,13.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181474,"SLOVENSKO, ZA ĽUDÍ",25.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181475,Maďarská aliancia,23.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181476,Demokrati,8.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181478,Maďarská aliancia,12.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181480,SaS,5.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181484,SNS,30.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181485,"SLOVENSKO, ZA ĽUDÍ",15.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181486,HLAS-SD,1.01,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181487,ĽS Naše Slovensko,80.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181488,Republika,1.07,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181490,KDH,5.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181491,ĽS Naše Slovensko,35.0,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181492,Demokrati,3.6,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181493,SNS,13.0,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181494,KDH,1.7,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181499,"SLOVENSKO, ZA ĽUDÍ",7.5,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181500,Maďarská aliancia,6.5,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036181501,SaS,1.7,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
-2024-06-06 03:31:45.090595,2036357418,Méně než 5.01%,1.55,Demokrati - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:31:45.090595,2036357419,5.01% a více,2.2,Demokrati - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:31:45.090595,2036357420,5.01% a více,1.23,KDH - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:31:45.090595,2036357421,Méně než 5.01%,3.5,KDH - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:31:45.090595,2036357422,5.01% a více,25.0,ĽS Naše Slovensko - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:31:45.090595,2036357423,Méně než 5.01%,1.0,ĽS Naše Slovensko - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:31:45.090595,2036357424,Méně než 5.01%,1.4,Maďarská aliancia - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:31:45.090595,2036357425,5.01% a více,2.6,Maďarská aliancia - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:31:45.090595,2036357426,5.01% a více,1.1,Republika - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:31:45.090595,2036357427,Méně než 5.01%,5.27,Republika - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:31:45.090595,2036357428,Méně než 5.01%,3.5,SaS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:31:45.090595,2036357429,5.01% a více,1.23,SaS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:31:45.090595,2036357430,5.01% a více,3.77,"SLOVENSKO, ZA ĽUDÍ - počet hlasů v procentech",25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:31:45.090595,2036357431,Méně než 5.01%,1.2,"SLOVENSKO, ZA ĽUDÍ - počet hlasů v procentech",25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:31:45.090595,2036357432,Méně než 5.01%,1.11,SNS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:31:45.090595,2036357433,5.01% a více,5.05,SNS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:31:45.090595,2036421894,Republika,3.35,Kdo získá více hlasů (HLAS-SD x Republika),25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421895,HLAS-SD,1.25,Kdo získá více hlasů (HLAS-SD x Republika),25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421896,KDH,6.83,Kdo získá více hlasů (HLAS-SD x KDH),25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421897,HLAS-SD,1.05,Kdo získá více hlasů (HLAS-SD x KDH),25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421898,HLAS-SD,1.05,Kdo získá více hlasů (HLAS-SD x SaS),25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421899,SaS,6.83,Kdo získá více hlasů (HLAS-SD x SaS),25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421900,HLAS-SD,1.0,"Kdo získá více hlasů (HLAS-SD x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421901,"SLOVENSKO, ZA ĽUDÍ",15.0,"Kdo získá více hlasů (HLAS-SD x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421902,KDH,3.77,Kdo získá více hlasů (Republika x KDH),25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421903,Republika,1.2,Kdo získá více hlasů (Republika x KDH),25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421904,Republika,1.2,Kdo získá více hlasů (Republika x SaS),25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421905,SaS,3.77,Kdo získá více hlasů (Republika x SaS),25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421908,Republika,1.02,"Kdo získá více hlasů (Republika x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421909,"SLOVENSKO, ZA ĽUDÍ",8.44,"Kdo získá více hlasů (Republika x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421910,KDH,1.82,Kdo získá více hlasů (KDH x SaS),25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421911,SaS,1.82,Kdo získá více hlasů (KDH x SaS),25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421912,"SLOVENSKO, ZA ĽUDÍ",4.22,"Kdo získá více hlasů (KDH x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421913,KDH,1.16,"Kdo získá více hlasů (KDH x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421914,SaS,1.16,"Kdo získá více hlasů (SaS x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421915,"SLOVENSKO, ZA ĽUDÍ",4.22,"Kdo získá více hlasů (SaS x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421916,"SLOVENSKO, ZA ĽUDÍ",2.31,"Kdo získá více hlasů (SLOVENSKO, ZA ĽUDÍ x Demokrati)",25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2036421917,Demokrati,1.5,"Kdo získá více hlasů (SLOVENSKO, ZA ĽUDÍ x Demokrati)",25-BETTER_OF_VOTES-a
-2024-06-06 03:31:45.090595,2037017588,Méně než 5.01%,9.19,HLAS-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:31:45.090595,2037017589,5.01% a více,1.01,HLAS-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:31:45.090595,2037017592,Méně než 25.51%,1.5,SMER-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
-2024-06-06 03:31:45.090595,2037017593,25.51% a více,2.31,SMER-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T04:04:38,2010679850,Progresívne Slovensko,2.4,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2010679851,Demokrati,400.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2010679852,KDH,250.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2010679853,"SLOVENSKO, ZA ĽUDÍ",475.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2010679854,SaS,250.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2010679855,HLAS-SD,100.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2010679856,SNS,600.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2010679857,Republika,150.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2010679858,SMER-SD,1.5,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2010771854,Maďarská aliancia,450.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036175389,ĽS Naše Slovensko,1000.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181454,Demokrati,170.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181455,ĽS Naše Slovensko,500.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181456,SNS,300.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181457,"SLOVENSKO, ZA ĽUDÍ",215.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181458,SaS,100.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181460,HLAS-SD,45.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181461,Republika,65.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181462,Maďarská aliancia,200.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181463,KDH,100.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181465,ĽS Naše Slovensko,200.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181466,SNS,75.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181468,Republika,3.4,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181469,Demokrati,20.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181470,HLAS-SD,1.25,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181471,SaS,13.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181472,KDH,13.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181474,"SLOVENSKO, ZA ĽUDÍ",25.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181475,Maďarská aliancia,23.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181476,Demokrati,8.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181478,Maďarská aliancia,12.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181480,SaS,5.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181484,SNS,30.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181485,"SLOVENSKO, ZA ĽUDÍ",15.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181486,HLAS-SD,1.01,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181487,ĽS Naše Slovensko,80.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181488,Republika,1.07,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181490,KDH,5.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181491,ĽS Naše Slovensko,35.0,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181492,Demokrati,3.6,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181493,SNS,13.0,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181494,KDH,1.7,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181499,"SLOVENSKO, ZA ĽUDÍ",7.5,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181500,Maďarská aliancia,6.5,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036181501,SaS,1.7,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T04:04:38,2036357418,Méně než 5.01%,1.55,Demokrati - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T04:04:38,2036357419,5.01% a více,2.2,Demokrati - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T04:04:38,2036357420,5.01% a více,1.23,KDH - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T04:04:38,2036357421,Méně než 5.01%,3.5,KDH - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T04:04:38,2036357422,5.01% a více,25.0,ĽS Naše Slovensko - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T04:04:38,2036357423,Méně než 5.01%,1.0,ĽS Naše Slovensko - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T04:04:38,2036357424,Méně než 5.01%,1.4,Maďarská aliancia - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T04:04:38,2036357425,5.01% a více,2.6,Maďarská aliancia - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T04:04:38,2036357426,5.01% a více,1.1,Republika - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T04:04:38,2036357427,Méně než 5.01%,5.27,Republika - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T04:04:38,2036357428,Méně než 5.01%,3.5,SaS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T04:04:38,2036357429,5.01% a více,1.23,SaS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T04:04:38,2036357430,5.01% a více,3.77,"SLOVENSKO, ZA ĽUDÍ - počet hlasů v procentech",25-TOTAL_RACE_PERCENT-a
+2024-06-06T04:04:38,2036357431,Méně než 5.01%,1.2,"SLOVENSKO, ZA ĽUDÍ - počet hlasů v procentech",25-TOTAL_RACE_PERCENT-a
+2024-06-06T04:04:38,2036357432,Méně než 5.01%,1.11,SNS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T04:04:38,2036357433,5.01% a více,5.05,SNS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T04:04:38,2036421894,Republika,3.35,Kdo získá více hlasů (HLAS-SD x Republika),25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421895,HLAS-SD,1.25,Kdo získá více hlasů (HLAS-SD x Republika),25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421896,KDH,6.83,Kdo získá více hlasů (HLAS-SD x KDH),25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421897,HLAS-SD,1.05,Kdo získá více hlasů (HLAS-SD x KDH),25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421898,HLAS-SD,1.05,Kdo získá více hlasů (HLAS-SD x SaS),25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421899,SaS,6.83,Kdo získá více hlasů (HLAS-SD x SaS),25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421900,HLAS-SD,1.0,"Kdo získá více hlasů (HLAS-SD x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421901,"SLOVENSKO, ZA ĽUDÍ",15.0,"Kdo získá více hlasů (HLAS-SD x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421902,KDH,3.77,Kdo získá více hlasů (Republika x KDH),25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421903,Republika,1.2,Kdo získá více hlasů (Republika x KDH),25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421904,Republika,1.2,Kdo získá více hlasů (Republika x SaS),25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421905,SaS,3.77,Kdo získá více hlasů (Republika x SaS),25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421908,Republika,1.02,"Kdo získá více hlasů (Republika x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421909,"SLOVENSKO, ZA ĽUDÍ",8.44,"Kdo získá více hlasů (Republika x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421910,KDH,1.82,Kdo získá více hlasů (KDH x SaS),25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421911,SaS,1.82,Kdo získá více hlasů (KDH x SaS),25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421912,"SLOVENSKO, ZA ĽUDÍ",4.22,"Kdo získá více hlasů (KDH x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421913,KDH,1.16,"Kdo získá více hlasů (KDH x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421914,SaS,1.16,"Kdo získá více hlasů (SaS x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421915,"SLOVENSKO, ZA ĽUDÍ",4.22,"Kdo získá více hlasů (SaS x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421916,"SLOVENSKO, ZA ĽUDÍ",2.31,"Kdo získá více hlasů (SLOVENSKO, ZA ĽUDÍ x Demokrati)",25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2036421917,Demokrati,1.5,"Kdo získá více hlasů (SLOVENSKO, ZA ĽUDÍ x Demokrati)",25-BETTER_OF_VOTES-a
+2024-06-06T04:04:38,2037017588,Méně než 5.01%,9.19,HLAS-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T04:04:38,2037017589,5.01% a více,1.01,HLAS-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T04:04:38,2037017592,Méně než 25.51%,1.5,SMER-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T04:04:38,2037017593,25.51% a více,2.31,SMER-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:31:45,2010679850,Progresívne Slovensko,2.4,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2010679851,Demokrati,400.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2010679852,KDH,250.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2010679853,"SLOVENSKO, ZA ĽUDÍ",475.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2010679854,SaS,250.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2010679855,HLAS-SD,100.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2010679856,SNS,600.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2010679857,Republika,150.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2010679858,SMER-SD,1.5,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2010771854,Maďarská aliancia,450.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036175389,ĽS Naše Slovensko,1000.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181454,Demokrati,170.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181455,ĽS Naše Slovensko,500.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181456,SNS,300.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181457,"SLOVENSKO, ZA ĽUDÍ",215.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181458,SaS,100.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181460,HLAS-SD,45.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181461,Republika,65.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181462,Maďarská aliancia,200.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181463,KDH,100.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181465,ĽS Naše Slovensko,200.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181466,SNS,75.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181468,Republika,3.4,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181469,Demokrati,20.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181470,HLAS-SD,1.25,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181471,SaS,13.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181472,KDH,13.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181474,"SLOVENSKO, ZA ĽUDÍ",25.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181475,Maďarská aliancia,23.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181476,Demokrati,8.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181478,Maďarská aliancia,12.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181480,SaS,5.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181484,SNS,30.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181485,"SLOVENSKO, ZA ĽUDÍ",15.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181486,HLAS-SD,1.01,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181487,ĽS Naše Slovensko,80.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181488,Republika,1.07,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181490,KDH,5.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181491,ĽS Naše Slovensko,35.0,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181492,Demokrati,3.6,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181493,SNS,13.0,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181494,KDH,1.7,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181499,"SLOVENSKO, ZA ĽUDÍ",7.5,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181500,Maďarská aliancia,6.5,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036181501,SaS,1.7,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:31:45,2036357418,Méně než 5.01%,1.55,Demokrati - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:31:45,2036357419,5.01% a více,2.2,Demokrati - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:31:45,2036357420,5.01% a více,1.23,KDH - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:31:45,2036357421,Méně než 5.01%,3.5,KDH - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:31:45,2036357422,5.01% a více,25.0,ĽS Naše Slovensko - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:31:45,2036357423,Méně než 5.01%,1.0,ĽS Naše Slovensko - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:31:45,2036357424,Méně než 5.01%,1.4,Maďarská aliancia - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:31:45,2036357425,5.01% a více,2.6,Maďarská aliancia - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:31:45,2036357426,5.01% a více,1.1,Republika - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:31:45,2036357427,Méně než 5.01%,5.27,Republika - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:31:45,2036357428,Méně než 5.01%,3.5,SaS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:31:45,2036357429,5.01% a více,1.23,SaS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:31:45,2036357430,5.01% a více,3.77,"SLOVENSKO, ZA ĽUDÍ - počet hlasů v procentech",25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:31:45,2036357431,Méně než 5.01%,1.2,"SLOVENSKO, ZA ĽUDÍ - počet hlasů v procentech",25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:31:45,2036357432,Méně než 5.01%,1.11,SNS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:31:45,2036357433,5.01% a více,5.05,SNS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:31:45,2036421894,Republika,3.35,Kdo získá více hlasů (HLAS-SD x Republika),25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421895,HLAS-SD,1.25,Kdo získá více hlasů (HLAS-SD x Republika),25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421896,KDH,6.83,Kdo získá více hlasů (HLAS-SD x KDH),25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421897,HLAS-SD,1.05,Kdo získá více hlasů (HLAS-SD x KDH),25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421898,HLAS-SD,1.05,Kdo získá více hlasů (HLAS-SD x SaS),25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421899,SaS,6.83,Kdo získá více hlasů (HLAS-SD x SaS),25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421900,HLAS-SD,1.0,"Kdo získá více hlasů (HLAS-SD x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421901,"SLOVENSKO, ZA ĽUDÍ",15.0,"Kdo získá více hlasů (HLAS-SD x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421902,KDH,3.77,Kdo získá více hlasů (Republika x KDH),25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421903,Republika,1.2,Kdo získá více hlasů (Republika x KDH),25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421904,Republika,1.2,Kdo získá více hlasů (Republika x SaS),25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421905,SaS,3.77,Kdo získá více hlasů (Republika x SaS),25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421908,Republika,1.02,"Kdo získá více hlasů (Republika x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421909,"SLOVENSKO, ZA ĽUDÍ",8.44,"Kdo získá více hlasů (Republika x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421910,KDH,1.82,Kdo získá více hlasů (KDH x SaS),25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421911,SaS,1.82,Kdo získá více hlasů (KDH x SaS),25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421912,"SLOVENSKO, ZA ĽUDÍ",4.22,"Kdo získá více hlasů (KDH x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421913,KDH,1.16,"Kdo získá více hlasů (KDH x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421914,SaS,1.16,"Kdo získá více hlasů (SaS x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421915,"SLOVENSKO, ZA ĽUDÍ",4.22,"Kdo získá více hlasů (SaS x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421916,"SLOVENSKO, ZA ĽUDÍ",2.31,"Kdo získá více hlasů (SLOVENSKO, ZA ĽUDÍ x Demokrati)",25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2036421917,Demokrati,1.5,"Kdo získá více hlasů (SLOVENSKO, ZA ĽUDÍ x Demokrati)",25-BETTER_OF_VOTES-a
+2024-06-06T03:31:45,2037017588,Méně než 5.01%,9.19,HLAS-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:31:45,2037017589,5.01% a více,1.01,HLAS-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:31:45,2037017592,Méně než 25.51%,1.5,SMER-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:31:45,2037017593,25.51% a více,2.31,SMER-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:24:34,2010679850,Progresívne Slovensko,2.4,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2010679851,Demokrati,400.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2010679852,KDH,250.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2010679853,"SLOVENSKO, ZA ĽUDÍ",475.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2010679854,SaS,250.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2010679855,HLAS-SD,100.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2010679856,SNS,600.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2010679857,Republika,150.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2010679858,SMER-SD,1.5,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2010771854,Maďarská aliancia,450.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036175389,ĽS Naše Slovensko,1000.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181454,Demokrati,170.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181455,ĽS Naše Slovensko,500.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181456,SNS,300.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181457,"SLOVENSKO, ZA ĽUDÍ",215.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181458,SaS,100.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181460,HLAS-SD,45.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181461,Republika,65.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181462,Maďarská aliancia,200.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181463,KDH,100.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181465,ĽS Naše Slovensko,200.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181466,SNS,75.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181468,Republika,3.4,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181469,Demokrati,20.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181470,HLAS-SD,1.25,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181471,SaS,13.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181472,KDH,13.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181474,"SLOVENSKO, ZA ĽUDÍ",25.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181475,Maďarská aliancia,23.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181476,Demokrati,8.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181478,Maďarská aliancia,12.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181480,SaS,5.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181484,SNS,30.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181485,"SLOVENSKO, ZA ĽUDÍ",15.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181486,HLAS-SD,1.01,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181487,ĽS Naše Slovensko,80.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181488,Republika,1.07,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181490,KDH,5.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181491,ĽS Naše Slovensko,35.0,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181492,Demokrati,3.6,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181493,SNS,13.0,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181494,KDH,1.7,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181499,"SLOVENSKO, ZA ĽUDÍ",7.5,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181500,Maďarská aliancia,6.5,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036181501,SaS,1.7,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-06-06T03:24:34,2036357418,Méně než 5.01%,1.55,Demokrati - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:24:34,2036357419,5.01% a více,2.2,Demokrati - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:24:34,2036357420,5.01% a více,1.23,KDH - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:24:34,2036357421,Méně než 5.01%,3.5,KDH - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:24:34,2036357422,5.01% a více,25.0,ĽS Naše Slovensko - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:24:34,2036357423,Méně než 5.01%,1.0,ĽS Naše Slovensko - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:24:34,2036357424,Méně než 5.01%,1.4,Maďarská aliancia - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:24:34,2036357425,5.01% a více,2.6,Maďarská aliancia - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:24:34,2036357426,5.01% a více,1.1,Republika - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:24:34,2036357427,Méně než 5.01%,5.27,Republika - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:24:34,2036357428,Méně než 5.01%,3.5,SaS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:24:34,2036357429,5.01% a více,1.23,SaS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:24:34,2036357430,5.01% a více,3.77,"SLOVENSKO, ZA ĽUDÍ - počet hlasů v procentech",25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:24:34,2036357431,Méně než 5.01%,1.2,"SLOVENSKO, ZA ĽUDÍ - počet hlasů v procentech",25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:24:34,2036357432,Méně než 5.01%,1.11,SNS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:24:34,2036357433,5.01% a více,5.05,SNS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:24:34,2036421894,Republika,3.35,Kdo získá více hlasů (HLAS-SD x Republika),25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421895,HLAS-SD,1.25,Kdo získá více hlasů (HLAS-SD x Republika),25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421896,KDH,6.83,Kdo získá více hlasů (HLAS-SD x KDH),25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421897,HLAS-SD,1.05,Kdo získá více hlasů (HLAS-SD x KDH),25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421898,HLAS-SD,1.05,Kdo získá více hlasů (HLAS-SD x SaS),25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421899,SaS,6.83,Kdo získá více hlasů (HLAS-SD x SaS),25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421900,HLAS-SD,1.0,"Kdo získá více hlasů (HLAS-SD x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421901,"SLOVENSKO, ZA ĽUDÍ",15.0,"Kdo získá více hlasů (HLAS-SD x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421902,KDH,3.77,Kdo získá více hlasů (Republika x KDH),25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421903,Republika,1.2,Kdo získá více hlasů (Republika x KDH),25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421904,Republika,1.2,Kdo získá více hlasů (Republika x SaS),25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421905,SaS,3.77,Kdo získá více hlasů (Republika x SaS),25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421908,Republika,1.02,"Kdo získá více hlasů (Republika x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421909,"SLOVENSKO, ZA ĽUDÍ",8.44,"Kdo získá více hlasů (Republika x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421910,KDH,1.82,Kdo získá více hlasů (KDH x SaS),25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421911,SaS,1.82,Kdo získá více hlasů (KDH x SaS),25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421912,"SLOVENSKO, ZA ĽUDÍ",4.22,"Kdo získá více hlasů (KDH x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421913,KDH,1.16,"Kdo získá více hlasů (KDH x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421914,SaS,1.16,"Kdo získá více hlasů (SaS x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421915,"SLOVENSKO, ZA ĽUDÍ",4.22,"Kdo získá více hlasů (SaS x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421916,"SLOVENSKO, ZA ĽUDÍ",2.31,"Kdo získá více hlasů (SLOVENSKO, ZA ĽUDÍ x Demokrati)",25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2036421917,Demokrati,1.5,"Kdo získá více hlasů (SLOVENSKO, ZA ĽUDÍ x Demokrati)",25-BETTER_OF_VOTES-a
+2024-06-06T03:24:34,2037017588,Méně než 5.01%,9.19,HLAS-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:24:34,2037017589,5.01% a více,1.01,HLAS-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:24:34,2037017592,Méně než 25.51%,1.5,SMER-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-06-06T03:24:34,2037017593,25.51% a více,2.31,SMER-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
