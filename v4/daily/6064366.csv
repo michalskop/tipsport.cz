@@ -1,7 +1,7 @@
 date,id,name,event_name,selection_id,odd
 2024-06-06,2010679850,Progresívne Slovensko,Nejvíc hlasů získá,25-POSITION_VOTES-a,2.4
 2024-06-06,2036357428,Méně než 5.01%,SaS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.5
-2024-06-06,2036421896,KDH,Kdo získá více hlasů (HLAS-SD x KDH),25-BETTER_OF_VOTES-a,6.83
+2024-06-06,2036421896,KDH,Kdo získá více hlasů (HLAS-SD x KDH),25-BETTER_OF_VOTES-a,6.830000000000001
 2024-06-06,2036421895,HLAS-SD,Kdo získá více hlasů (HLAS-SD x Republika),25-BETTER_OF_VOTES-a,1.25
 2024-06-06,2036421894,Republika,Kdo získá více hlasů (HLAS-SD x Republika),25-BETTER_OF_VOTES-a,3.35
 2024-06-06,2036357433,5.01% a více,SNS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,5.05
@@ -13,14 +13,14 @@ date,id,name,event_name,selection_id,odd
 2024-06-06,2036421898,HLAS-SD,Kdo získá více hlasů (HLAS-SD x SaS),25-BETTER_OF_VOTES-a,1.05
 2024-06-06,2036357426,5.01% a více,Republika - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1
 2024-06-06,2036357425,5.01% a více,Maďarská aliancia - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.6
-2024-06-06,2036357424,Méně než 5.01%,Maďarská aliancia - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.4
+2024-06-06,2036357424,Méně než 5.01%,Maďarská aliancia - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.3999999999999997
 2024-06-06,2036357423,Méně než 5.01%,ĽS Naše Slovensko - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2024-06-06,2036357422,5.01% a více,ĽS Naše Slovensko - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,25.0
 2024-06-06,2036357421,Méně než 5.01%,KDH - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.5
 2024-06-06,2036357420,5.01% a více,KDH - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.23
 2024-06-06,2036357419,5.01% a více,Demokrati - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.2
 2024-06-06,2036421897,HLAS-SD,Kdo získá více hlasů (HLAS-SD x KDH),25-BETTER_OF_VOTES-a,1.05
-2024-06-06,2036421899,SaS,Kdo získá více hlasů (HLAS-SD x SaS),25-BETTER_OF_VOTES-a,6.83
+2024-06-06,2036421899,SaS,Kdo získá více hlasů (HLAS-SD x SaS),25-BETTER_OF_VOTES-a,6.830000000000001
 2024-06-06,2036181501,SaS,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.7
 2024-06-06,2036421912,"SLOVENSKO, ZA ĽUDÍ","Kdo získá více hlasů (KDH x SLOVENSKO, ZA ĽUDÍ)",25-BETTER_OF_VOTES-a,4.22
 2024-06-06,2037017592,Méně než 25.51%,SMER-SD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.5
