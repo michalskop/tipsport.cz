@@ -1,8 +1,8 @@
 date,id,name,event_name,selection_id,odd
 2024-06-06,2036600135,Konfederacja,Nejvíc hlasů získá,25-POSITION_VOTES-a,330.0
 2024-06-06,2036600136,Lewica,Nejvíc hlasů získá,25-POSITION_VOTES-a,500.0
-2024-06-06,2036600160,Trzecia Droga,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.05
-2024-06-06,2036600159,Lewica,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.8999999999999997
+2024-06-06,2036600160,Trzecia Droga,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.0475
+2024-06-06,2036600159,Lewica,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.9124999999999999
 2024-06-06,2036600157,Bezpartyjni Samorządowcy,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,200.0
 2024-06-06,2036600156,PolEXIT,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,350.0
 2024-06-06,2036600155,Lewica,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,5.0
@@ -18,6 +18,6 @@ date,id,name,event_name,selection_id,odd
 2024-06-06,2036600141,Bezpartyjni Samorządowcy,Nejvíc hlasů získá,25-POSITION_VOTES-a,2500.0
 2024-06-06,2036600140,Trzecia Droga,Nejvíc hlasů získá,25-POSITION_VOTES-a,350.0
 2024-06-06,2036600139,PolEXIT,Nejvíc hlasů získá,25-POSITION_VOTES-a,4000.0
-2024-06-06,2036600138,Koalicja Obywatelska,Nejvíc hlasů získá,25-POSITION_VOTES-a,2.15
-2024-06-06,2036600137,PiS (Zjednoczona Prawica),Nejvíc hlasů získá,25-POSITION_VOTES-a,1.55
+2024-06-06,2036600138,Koalicja Obywatelska,Nejvíc hlasů získá,25-POSITION_VOTES-a,2.1375
+2024-06-06,2036600137,PiS (Zjednoczona Prawica),Nejvíc hlasů získá,25-POSITION_VOTES-a,1.5575
 2024-06-06,2036600161,Konfederacja,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
