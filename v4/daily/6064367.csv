@@ -1,92 +1,183 @@
 date,id,name,event_name,selection_id,odd
-2024-06-06,2010677694,Česká pirátská strana,Nejvíc hlasů získá,25-POSITION_VOTES-a,140.0
-2024-06-06,2036372598,STAČILO!,Kdo získá více hlasů (SPD a Trikolora x STAČILO!),25-BETTER_OF_VOTES-a,2.464
-2024-06-06,2036372596,SPD a Trikolora,Kdo získá více hlasů (Česká pirátská strana x SPD a Trikolora),25-BETTER_OF_VOTES-a,2.572
-2024-06-06,2036372595,Česká pirátská strana,Kdo získá více hlasů (Česká pirátská strana x SPD a Trikolora),25-BETTER_OF_VOTES-a,1.408
-2024-06-06,2036372594,SPD a Trikolora,Kdo získá více hlasů (Starostové a osob. pro Evropu x SPD a Trikolora),25-BETTER_OF_VOTES-a,2.2800000000000002
-2024-06-06,2036372593,Starostové a osob. pro Evropu,Kdo získá více hlasů (Starostové a osob. pro Evropu x SPD a Trikolora),25-BETTER_OF_VOTES-a,1.514
-2024-06-06,2036372592,Česká pirátská strana,Kdo získá více hlasů (Starostové a osob. pro Evropu x Česká pirátská strana),25-BETTER_OF_VOTES-a,1.584
-2024-06-06,2036372591,Starostové a osob. pro Evropu,Kdo získá více hlasů (Starostové a osob. pro Evropu x Česká pirátská strana),25-BETTER_OF_VOTES-a,2.138
-2024-06-06,2036165574,Méně než 5.01%,Zelení - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2024-06-06,2036165573,5.01% a více,Zelení - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,13.4
-2024-06-06,2036165572,5.01% a více,Svobodní - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,10.9
-2024-06-06,2036165571,Méně než 5.01%,Svobodní - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2024-06-06,2036165570,Méně než 5.01%,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.808
-2024-06-06,2036165569,5.01% a více,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.198
-2024-06-06,2036165568,5.01% a více,SPD a Trikolora - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.078
-2024-06-06,2036165567,Méně než 5.01%,SPD a Trikolora - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,5.8420000000000005
-2024-06-06,2036165566,Méně než 5.01%,Sociální demokracie - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2024-06-06,2036165565,5.01% a více,Sociální demokracie - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,10.0
-2024-06-06,2036165564,Méně než 5.01%,PŘÍSAHA a MOTORISTÉ - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.838
-2024-06-06,2036165563,5.01% a více,PŘÍSAHA a MOTORISTÉ - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.34
-2024-06-06,2036165562,5.01% a více,PRO - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,15.2
-2024-06-06,2036372597,SPD a Trikolora,Kdo získá více hlasů (SPD a Trikolora x STAČILO!),25-BETTER_OF_VOTES-a,1.442
-2024-06-06,2036372599,SPD a Trikolora,Kdo získá více hlasů (SPD a Trikolora x PŘÍSAHA a MOTORISTÉ),25-BETTER_OF_VOTES-a,1.388
-2024-06-06,2036162464,Sociální demokracie,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,50.0
-2024-06-06,2036372600,PŘÍSAHA a MOTORISTÉ,Kdo získá více hlasů (SPD a Trikolora x PŘÍSAHA a MOTORISTÉ),25-BETTER_OF_VOTES-a,2.644
-2024-06-06,2041361781,Starostové a osob. pro Evropu,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.02
-2024-06-06,2041361780,STAČILO!,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.2
-2024-06-06,2041361779,SPD a Trikolora,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.08
-2024-06-06,2041361778,Sociální demokracie,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,15.0
-2024-06-06,2041361776,Zelení,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
-2024-06-06,2041361775,Svobodní,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
-2024-06-06,2041361774,PRO,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,40.0
-2024-06-06,2041356876,Méně než 34.25%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.82
-2024-06-06,2041356875,34.25% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.82
-2024-06-06,2037094558,5.01% a více,Starostové a osob. pro Evropu - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.05
-2024-06-06,2037094557,Méně než 5.01%,Starostové a osob. pro Evropu - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.83
-2024-06-06,2037094556,22.75% a více,SPOLU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.9600000000000002
-2024-06-06,2037094555,Méně než 22.75%,SPOLU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.7
-2024-06-06,2037094554,Méně než 11.87%,Česká pirátská strana - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.114
-2024-06-06,2037094553,11.87% a více,Česká pirátská strana - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.973999999999999
-2024-06-06,2037094552,25.25% a více,ANO 2011 - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.188
-2024-06-06,2037094551,Méně než 25.25%,ANO 2011 - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.558
-2024-06-06,2036372602,PŘÍSAHA a MOTORISTÉ,Kdo získá více hlasů (STAČILO! x PŘÍSAHA a MOTORISTÉ),25-BETTER_OF_VOTES-a,1.9579999999999997
-2024-06-06,2036372601,STAČILO!,Kdo získá více hlasů (STAČILO! x PŘÍSAHA a MOTORISTÉ),25-BETTER_OF_VOTES-a,1.706
-2024-06-06,2036165561,Méně než 5.01%,PRO - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2024-06-06,2036162463,Zelení,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,100.0
+2024-06-07,2010677694,Česká pirátská strana,Nejvíc hlasů získá,25-POSITION_VOTES-a,140.0
+2024-06-07,2036162437,Česká pirátská strana,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.0
+2024-06-07,2036162440,PRO,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,600.0
+2024-06-07,2036162441,PŘÍSAHA a MOTORISTÉ,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,8.0
+2024-06-07,2036162442,Svobodní,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
+2024-06-07,2036162443,Svobodní,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
+2024-06-07,2036162444,Sociální demokracie,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,120.0
+2024-06-07,2036162445,Starostové a osob. pro Evropu,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.48
+2024-06-07,2036162446,SPD a Trikolora,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,2.2
+2024-06-07,2036162447,Zelení,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,225.0
+2024-06-07,2036162448,STAČILO!,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,2.5
+2024-06-07,2036162449,Česká pirátská strana,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.3
+2024-06-07,2036162451,PŘÍSAHA a MOTORISTÉ,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,4.0
+2024-06-07,2036162453,PRO,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
+2024-06-07,2036162454,Česká pirátská strana,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.08
+2024-06-07,2036162455,PŘÍSAHA a MOTORISTÉ,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,2.1
+2024-06-07,2036162456,Starostové a osob. pro Evropu,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.18
+2024-06-07,2036162457,Svobodní,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
+2024-06-07,2036162458,PRO,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,130.0
+2024-06-07,2036162459,SPD a Trikolora,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.35
+2024-06-07,2036162462,STAČILO!,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.55
+2024-06-07,2036162438,SPD a Trikolora,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,3.95
+2024-06-07,2036162436,Sociální demokracie,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,220.0
+2024-06-07,2010677695,SPD a Trikolora,Nejvíc hlasů získá,25-POSITION_VOTES-a,175.0
+2024-06-07,2036162435,Starostové a osob. pro Evropu,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.6
+2024-06-07,2010677697,SPOLU,Nejvíc hlasů získá,25-POSITION_VOTES-a,2.7
+2024-06-07,2010677698,STAČILO!,Nejvíc hlasů získá,25-POSITION_VOTES-a,200.0
+2024-06-07,2010677699,PŘÍSAHA a MOTORISTÉ,Nejvíc hlasů získá,25-POSITION_VOTES-a,220.0
+2024-06-07,2010677700,Zelení,Nejvíc hlasů získá,25-POSITION_VOTES-a,1700.0
+2024-06-07,2010677701,ANO 2011,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.4
+2024-06-07,2010677702,Starostové a osob. pro Evropu,Nejvíc hlasů získá,25-POSITION_VOTES-a,155.0
+2024-06-07,2036162419,Sociální demokracie,Nejvíc hlasů získá,25-POSITION_VOTES-a,750.0
+2024-06-07,2036162420,Svobodní,Nejvíc hlasů získá,25-POSITION_VOTES-a,1000.0
+2024-06-07,2036162421,PŘÍSAHA a MOTORISTÉ,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,100.0
+2024-06-07,2036162422,Svobodní,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,600.0
+2024-06-07,2036162423,PRO,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1100.0
+2024-06-07,2036162424,STAČILO!,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,80.0
+2024-06-07,2036162425,Sociální demokracie,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,450.0
+2024-06-07,2036162426,Starostové a osob. pro Evropu,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
+2024-06-07,2036162427,Česká pirátská strana,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,50.0
+2024-06-07,2036162429,Zelení,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,900.0
+2024-06-07,2036162430,SPD a Trikolora,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,65.0
+2024-06-07,2036162432,Zelení,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,450.0
+2024-06-07,2036162434,STAČILO!,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,6.5
+2024-06-07,2036162463,Zelení,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,100.0
+2024-06-07,2036162464,Sociální demokracie,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,50.0
+2024-06-07,2036165561,Méně než 5.01%,PRO - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2024-06-07,2036165562,5.01% a více,PRO - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,11.5
+2024-06-07,2036372601,STAČILO!,Kdo získá více hlasů (STAČILO! x PŘÍSAHA a MOTORISTÉ),25-BETTER_OF_VOTES-a,1.55
+2024-06-07,2036372602,PŘÍSAHA a MOTORISTÉ,Kdo získá více hlasů (STAČILO! x PŘÍSAHA a MOTORISTÉ),25-BETTER_OF_VOTES-a,2.2
+2024-06-07,2037094551,Méně než 25.25%,ANO 2011 - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.53
+2024-06-07,2037094552,25.25% a více,ANO 2011 - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.25
+2024-06-07,2037094553,11.87% a více,Česká pirátská strana - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.67
+2024-06-07,2037094554,Méně než 11.87%,Česká pirátská strana - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.13
+2024-06-07,2037094555,Méně než 22.75%,SPOLU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.7
+2024-06-07,2037094556,22.75% a více,SPOLU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.96
+2024-06-07,2037094557,Méně než 5.01%,Starostové a osob. pro Evropu - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.83
+2024-06-07,2037094558,5.01% a více,Starostové a osob. pro Evropu - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.05
+2024-06-07,2041356875,34.25% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.8
+2024-06-07,2041356876,Méně než 34.25%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.84
+2024-06-07,2041361774,PRO,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,40.0
+2024-06-07,2041361775,Svobodní,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
+2024-06-07,2041361776,Zelení,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
+2024-06-07,2041361778,Sociální demokracie,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,15.0
+2024-06-07,2041361779,SPD a Trikolora,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.08
+2024-06-07,2041361780,STAČILO!,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.2
+2024-06-07,2041361781,Starostové a osob. pro Evropu,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.02
+2024-06-07,2036372600,PŘÍSAHA a MOTORISTÉ,Kdo získá více hlasů (SPD a Trikolora x PŘÍSAHA a MOTORISTÉ),25-BETTER_OF_VOTES-a,2.75
+2024-06-07,2036372599,SPD a Trikolora,Kdo získá více hlasů (SPD a Trikolora x PŘÍSAHA a MOTORISTÉ),25-BETTER_OF_VOTES-a,1.36
+2024-06-07,2036372598,STAČILO!,Kdo získá více hlasů (SPD a Trikolora x STAČILO!),25-BETTER_OF_VOTES-a,2.5
+2024-06-07,2036165571,Méně než 5.01%,Svobodní - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2024-06-07,2036165563,5.01% a více,PŘÍSAHA a MOTORISTÉ - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.38
+2024-06-07,2036165564,Méně než 5.01%,PŘÍSAHA a MOTORISTÉ - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.67
+2024-06-07,2036165565,5.01% a více,Sociální demokracie - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,10.0
+2024-06-07,2036165566,Méně než 5.01%,Sociální demokracie - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2024-06-07,2036165567,Méně než 5.01%,SPD a Trikolora - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.09
+2024-06-07,2036165568,5.01% a více,SPD a Trikolora - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.07
+2024-06-07,2036165569,5.01% a více,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.15
+2024-06-07,2036165570,Méně než 5.01%,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.36
+2024-06-07,2036165572,5.01% a více,Svobodní - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,10.5
+2024-06-07,2036372597,SPD a Trikolora,Kdo získá více hlasů (SPD a Trikolora x STAČILO!),25-BETTER_OF_VOTES-a,1.43
+2024-06-07,2036165573,5.01% a více,Zelení - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,11.0
+2024-06-07,2036165574,Méně než 5.01%,Zelení - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2024-06-07,2036372591,Starostové a osob. pro Evropu,Kdo získá více hlasů (Starostové a osob. pro Evropu x Česká pirátská strana),25-BETTER_OF_VOTES-a,2.2
+2024-06-07,2036372592,Česká pirátská strana,Kdo získá více hlasů (Starostové a osob. pro Evropu x Česká pirátská strana),25-BETTER_OF_VOTES-a,1.55
+2024-06-07,2036372593,Starostové a osob. pro Evropu,Kdo získá více hlasů (Starostové a osob. pro Evropu x SPD a Trikolora),25-BETTER_OF_VOTES-a,1.55
+2024-06-07,2036372594,SPD a Trikolora,Kdo získá více hlasů (Starostové a osob. pro Evropu x SPD a Trikolora),25-BETTER_OF_VOTES-a,2.2
+2024-06-07,2036372595,Česká pirátská strana,Kdo získá více hlasů (Česká pirátská strana x SPD a Trikolora),25-BETTER_OF_VOTES-a,1.38
+2024-06-07,2036372596,SPD a Trikolora,Kdo získá více hlasů (Česká pirátská strana x SPD a Trikolora),25-BETTER_OF_VOTES-a,2.67
+2024-06-07,2010677696,PRO,Nejvíc hlasů získá,25-POSITION_VOTES-a,2000.0
+2024-06-07,2041361782,PŘÍSAHA a MOTORISTÉ,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.45
 2024-06-06,2010677695,SPD a Trikolora,Nejvíc hlasů získá,25-POSITION_VOTES-a,171.0
-2024-06-06,2036162435,Starostové a osob. pro Evropu,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.48
-2024-06-06,2036162432,Zelení,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,450.0
-2024-06-06,2036162430,SPD a Trikolora,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,61.0
-2024-06-06,2036162429,Zelení,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,900.0
-2024-06-06,2036162427,Česká pirátská strana,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,50.0
-2024-06-06,2036162426,Starostové a osob. pro Evropu,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,58.4
-2024-06-06,2036162425,Sociální demokracie,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,450.0
-2024-06-06,2036162424,STAČILO!,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,80.0
-2024-06-06,2036162423,PRO,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1100.0
-2024-06-06,2036162422,Svobodní,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,600.0
-2024-06-06,2036162421,PŘÍSAHA a MOTORISTÉ,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,87.2
-2024-06-06,2036162420,Svobodní,Nejvíc hlasů získá,25-POSITION_VOTES-a,1000.0
-2024-06-06,2036162419,Sociální demokracie,Nejvíc hlasů získá,25-POSITION_VOTES-a,750.0
-2024-06-06,2010677702,Starostové a osob. pro Evropu,Nejvíc hlasů získá,25-POSITION_VOTES-a,155.0
-2024-06-06,2010677701,ANO 2011,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.366
-2024-06-06,2010677700,Zelení,Nejvíc hlasů získá,25-POSITION_VOTES-a,1700.0
-2024-06-06,2010677699,PŘÍSAHA a MOTORISTÉ,Nejvíc hlasů získá,25-POSITION_VOTES-a,212.0
-2024-06-06,2010677698,STAČILO!,Nejvíc hlasů získá,25-POSITION_VOTES-a,200.0
-2024-06-06,2010677697,SPOLU,Nejvíc hlasů získá,25-POSITION_VOTES-a,2.7800000000000002
-2024-06-06,2010677696,PRO,Nejvíc hlasů získá,25-POSITION_VOTES-a,2000.0
-2024-06-06,2036162434,STAČILO!,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,6.1
 2024-06-06,2036162436,Sociální demokracie,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,220.0
-2024-06-06,2036162462,STAČILO!,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.64
-2024-06-06,2036162437,Česká pirátská strana,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.1100000000000003
-2024-06-06,2036162459,SPD a Trikolora,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.23
-2024-06-06,2036162458,PRO,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,146.0
-2024-06-06,2036162457,Svobodní,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
-2024-06-06,2036162456,Starostové a osob. pro Evropu,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.136
-2024-06-06,2036162455,PŘÍSAHA a MOTORISTÉ,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.81
-2024-06-06,2036162454,Česká pirátská strana,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.072
-2024-06-06,2036162453,PRO,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
-2024-06-06,2036162451,PŘÍSAHA a MOTORISTÉ,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,3.12
-2024-06-06,2036162449,Česká pirátská strana,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.3
-2024-06-06,2036162448,STAČILO!,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,2.6399999999999997
-2024-06-06,2036162447,Zelení,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,225.0
-2024-06-06,2036162446,SPD a Trikolora,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.9600000000000002
-2024-06-06,2036162445,Starostové a osob. pro Evropu,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.456
-2024-06-06,2036162444,Sociální demokracie,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,120.0
-2024-06-06,2036162443,Svobodní,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
-2024-06-06,2036162442,Svobodní,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
-2024-06-06,2036162441,PŘÍSAHA a MOTORISTÉ,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,6.8
-2024-06-06,2036162440,PRO,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,600.0
 2024-06-06,2036162438,SPD a Trikolora,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,3.84
+2024-06-06,2036162440,PRO,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,600.0
+2024-06-06,2036162441,PŘÍSAHA a MOTORISTÉ,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,6.8
+2024-06-06,2036162442,Svobodní,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
+2024-06-06,2036162443,Svobodní,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
+2024-06-06,2036162444,Sociální demokracie,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,120.0
+2024-06-06,2036162445,Starostové a osob. pro Evropu,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.456
+2024-06-06,2036162446,SPD a Trikolora,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.9600000000000002
+2024-06-06,2036162447,Zelení,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,225.0
+2024-06-06,2036162448,STAČILO!,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,2.6399999999999997
+2024-06-06,2036162449,Česká pirátská strana,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.3
+2024-06-06,2036162451,PŘÍSAHA a MOTORISTÉ,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,3.12
+2024-06-06,2036162453,PRO,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
+2024-06-06,2036162454,Česká pirátská strana,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.072
+2024-06-06,2036162455,PŘÍSAHA a MOTORISTÉ,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.81
+2024-06-06,2036162456,Starostové a osob. pro Evropu,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.136
+2024-06-06,2036162457,Svobodní,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
+2024-06-06,2036162458,PRO,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,146.0
+2024-06-06,2036162459,SPD a Trikolora,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.23
+2024-06-06,2036162437,Česká pirátská strana,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.1100000000000003
+2024-06-06,2036162435,Starostové a osob. pro Evropu,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.48
+2024-06-06,2036162463,Zelení,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,100.0
+2024-06-06,2036162434,STAČILO!,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,6.1
+2024-06-06,2010677696,PRO,Nejvíc hlasů získá,25-POSITION_VOTES-a,2000.0
+2024-06-06,2010677697,SPOLU,Nejvíc hlasů získá,25-POSITION_VOTES-a,2.7800000000000002
+2024-06-06,2010677698,STAČILO!,Nejvíc hlasů získá,25-POSITION_VOTES-a,200.0
+2024-06-06,2010677699,PŘÍSAHA a MOTORISTÉ,Nejvíc hlasů získá,25-POSITION_VOTES-a,212.0
+2024-06-06,2010677700,Zelení,Nejvíc hlasů získá,25-POSITION_VOTES-a,1700.0
+2024-06-06,2010677701,ANO 2011,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.366
+2024-06-06,2010677702,Starostové a osob. pro Evropu,Nejvíc hlasů získá,25-POSITION_VOTES-a,155.0
+2024-06-06,2036162419,Sociální demokracie,Nejvíc hlasů získá,25-POSITION_VOTES-a,750.0
+2024-06-06,2036162420,Svobodní,Nejvíc hlasů získá,25-POSITION_VOTES-a,1000.0
+2024-06-06,2036162421,PŘÍSAHA a MOTORISTÉ,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,87.2
+2024-06-06,2036162422,Svobodní,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,600.0
+2024-06-06,2036162423,PRO,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1100.0
+2024-06-06,2036162424,STAČILO!,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,80.0
+2024-06-06,2036162425,Sociální demokracie,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,450.0
+2024-06-06,2036162426,Starostové a osob. pro Evropu,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,58.4
+2024-06-06,2036162427,Česká pirátská strana,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,50.0
+2024-06-06,2036162429,Zelení,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,900.0
+2024-06-06,2036162430,SPD a Trikolora,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,61.0
+2024-06-06,2036162432,Zelení,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,450.0
+2024-06-06,2036162462,STAČILO!,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.64
+2024-06-06,2036162464,Sociální demokracie,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,50.0
 2024-06-06,2041361782,PŘÍSAHA a MOTORISTÉ,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.45
+2024-06-06,2036372599,SPD a Trikolora,Kdo získá více hlasů (SPD a Trikolora x PŘÍSAHA a MOTORISTÉ),25-BETTER_OF_VOTES-a,1.388
+2024-06-06,2036372601,STAČILO!,Kdo získá více hlasů (STAČILO! x PŘÍSAHA a MOTORISTÉ),25-BETTER_OF_VOTES-a,1.706
+2024-06-06,2036372602,PŘÍSAHA a MOTORISTÉ,Kdo získá více hlasů (STAČILO! x PŘÍSAHA a MOTORISTÉ),25-BETTER_OF_VOTES-a,1.9579999999999997
+2024-06-06,2037094551,Méně než 25.25%,ANO 2011 - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.558
+2024-06-06,2037094552,25.25% a více,ANO 2011 - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.188
+2024-06-06,2037094553,11.87% a více,Česká pirátská strana - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.973999999999999
+2024-06-06,2037094554,Méně než 11.87%,Česká pirátská strana - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.114
+2024-06-06,2037094555,Méně než 22.75%,SPOLU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.7
+2024-06-06,2037094556,22.75% a více,SPOLU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.9600000000000002
+2024-06-06,2037094557,Méně než 5.01%,Starostové a osob. pro Evropu - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.83
+2024-06-06,2037094558,5.01% a více,Starostové a osob. pro Evropu - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.05
+2024-06-06,2041356875,34.25% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.82
+2024-06-06,2041356876,Méně než 34.25%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.82
+2024-06-06,2041361774,PRO,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,40.0
+2024-06-06,2041361775,Svobodní,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
+2024-06-06,2041361776,Zelení,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
+2024-06-06,2041361778,Sociální demokracie,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,15.0
+2024-06-06,2041361779,SPD a Trikolora,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.08
+2024-06-06,2041361780,STAČILO!,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.2
+2024-06-06,2041361781,Starostové a osob. pro Evropu,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.02
+2024-06-06,2036372600,PŘÍSAHA a MOTORISTÉ,Kdo získá více hlasů (SPD a Trikolora x PŘÍSAHA a MOTORISTÉ),25-BETTER_OF_VOTES-a,2.644
+2024-06-06,2036372598,STAČILO!,Kdo získá více hlasů (SPD a Trikolora x STAČILO!),25-BETTER_OF_VOTES-a,2.464
+2024-06-06,2036165561,Méně než 5.01%,PRO - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2024-06-06,2036372597,SPD a Trikolora,Kdo získá více hlasů (SPD a Trikolora x STAČILO!),25-BETTER_OF_VOTES-a,1.442
+2024-06-06,2036165562,5.01% a více,PRO - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,15.2
+2024-06-06,2036165563,5.01% a více,PŘÍSAHA a MOTORISTÉ - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.34
+2024-06-06,2036165564,Méně než 5.01%,PŘÍSAHA a MOTORISTÉ - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.838
+2024-06-06,2036165565,5.01% a více,Sociální demokracie - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,10.0
+2024-06-06,2036165566,Méně než 5.01%,Sociální demokracie - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2024-06-06,2036165567,Méně než 5.01%,SPD a Trikolora - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,5.8420000000000005
+2024-06-06,2036165568,5.01% a více,SPD a Trikolora - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.078
+2024-06-06,2036165569,5.01% a více,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.198
+2024-06-06,2036165570,Méně než 5.01%,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.808
+2024-06-06,2036165571,Méně než 5.01%,Svobodní - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2024-06-06,2036165572,5.01% a více,Svobodní - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,10.9
+2024-06-06,2036165573,5.01% a více,Zelení - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,13.4
+2024-06-06,2036165574,Méně než 5.01%,Zelení - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2024-06-06,2036372591,Starostové a osob. pro Evropu,Kdo získá více hlasů (Starostové a osob. pro Evropu x Česká pirátská strana),25-BETTER_OF_VOTES-a,2.138
+2024-06-06,2036372592,Česká pirátská strana,Kdo získá více hlasů (Starostové a osob. pro Evropu x Česká pirátská strana),25-BETTER_OF_VOTES-a,1.584
+2024-06-06,2036372593,Starostové a osob. pro Evropu,Kdo získá více hlasů (Starostové a osob. pro Evropu x SPD a Trikolora),25-BETTER_OF_VOTES-a,1.514
+2024-06-06,2036372594,SPD a Trikolora,Kdo získá více hlasů (Starostové a osob. pro Evropu x SPD a Trikolora),25-BETTER_OF_VOTES-a,2.2800000000000002
+2024-06-06,2036372595,Česká pirátská strana,Kdo získá více hlasů (Česká pirátská strana x SPD a Trikolora),25-BETTER_OF_VOTES-a,1.408
+2024-06-06,2036372596,SPD a Trikolora,Kdo získá více hlasů (Česká pirátská strana x SPD a Trikolora),25-BETTER_OF_VOTES-a,2.572
+2024-06-06,2010677694,Česká pirátská strana,Nejvíc hlasů získá,25-POSITION_VOTES-a,140.0
