@@ -1,43 +1,64 @@
 date,id,name,event_name,selection_id,odd
-2024-06-07,2036579719,SPÖ,Nejvíc hlasů získá,25-POSITION_VOTES-a,10.0
-2024-06-07,2036579720,FPÖ,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.05
-2024-06-07,2036579722,KPÖ,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
-2024-06-07,2036579723,NEOS,Nejvíc hlasů získá,25-POSITION_VOTES-a,75.0
-2024-06-07,2036579724,DNA,Nejvíc hlasů získá,25-POSITION_VOTES-a,500.0
-2024-06-07,2036579725,ÖVP,Nejvíc hlasů získá,25-POSITION_VOTES-a,16.0
-2024-06-07,2036579726,KPÖ,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,250.0
-2024-06-07,2036579727,DNA,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
-2024-06-07,2036579728,Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,45.0
-2024-06-07,2036579729,ÖVP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,2.3333333333333335
+2024-06-08,2036579746,NEOS,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.18
+2024-06-08,2036579729,ÖVP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,2.25
+2024-06-08,2036579719,SPÖ,Nejvíc hlasů získá,25-POSITION_VOTES-a,10.0
+2024-06-08,2036579720,FPÖ,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.05
+2024-06-08,2036579721,Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,85.0
+2024-06-08,2036579722,KPÖ,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
+2024-06-08,2036579723,NEOS,Nejvíc hlasů získá,25-POSITION_VOTES-a,75.0
+2024-06-08,2036579724,DNA,Nejvíc hlasů získá,25-POSITION_VOTES-a,500.0
+2024-06-08,2036579726,KPÖ,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,250.0
+2024-06-08,2036579727,DNA,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
+2024-06-08,2036579728,Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,45.0
+2024-06-08,2036579725,ÖVP,Nejvíc hlasů získá,25-POSITION_VOTES-a,16.0
+2024-06-08,2036579730,NEOS,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
+2024-06-08,2036579736,DNA,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,140.0
+2024-06-08,2036579731,SPÖ,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.5
+2024-06-08,2036579743,Grüne,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,3.6
+2024-06-08,2036579742,DNA,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,50.0
+2024-06-08,2036579745,KPÖ,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
+2024-06-08,2036579735,NEOS,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
+2024-06-08,2036579734,KPÖ,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,120.0
+2024-06-08,2036579733,Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
 2024-06-07,2036579730,NEOS,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
-2024-06-07,2036579731,SPÖ,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.4666666666666668
-2024-06-07,2036579733,Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
-2024-06-07,2036579734,KPÖ,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,120.0
-2024-06-07,2036579735,NEOS,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
-2024-06-07,2036579736,DNA,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,140.0
-2024-06-07,2036579742,DNA,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,50.0
-2024-06-07,2036579743,Grüne,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,3.6
-2024-06-07,2036579745,KPÖ,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
-2024-06-07,2036579721,Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,85.0
 2024-06-07,2036579746,NEOS,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.18
-2024-06-06,2036579720,FPÖ,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.034
-2024-06-06,2036579729,ÖVP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,2.5
-2024-06-06,2036579721,Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,85.0
-2024-06-06,2036579722,KPÖ,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
-2024-06-06,2036579723,NEOS,Nejvíc hlasů získá,25-POSITION_VOTES-a,75.0
+2024-06-07,2036579745,KPÖ,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
+2024-06-07,2036579743,Grüne,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,3.6
+2024-06-07,2036579742,DNA,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,50.0
+2024-06-07,2036579736,DNA,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,140.0
+2024-06-07,2036579735,NEOS,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
+2024-06-07,2036579734,KPÖ,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,120.0
+2024-06-07,2036579733,Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
+2024-06-07,2036579731,SPÖ,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.4666666666666668
+2024-06-07,2036579729,ÖVP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,2.3333333333333335
+2024-06-07,2036579719,SPÖ,Nejvíc hlasů získá,25-POSITION_VOTES-a,10.0
+2024-06-07,2036579727,DNA,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
+2024-06-07,2036579726,KPÖ,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,250.0
+2024-06-07,2036579725,ÖVP,Nejvíc hlasů získá,25-POSITION_VOTES-a,16.0
+2024-06-07,2036579724,DNA,Nejvíc hlasů získá,25-POSITION_VOTES-a,500.0
+2024-06-07,2036579723,NEOS,Nejvíc hlasů získá,25-POSITION_VOTES-a,75.0
+2024-06-07,2036579722,KPÖ,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
+2024-06-07,2036579721,Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,85.0
+2024-06-07,2036579720,FPÖ,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.05
+2024-06-07,2036579728,Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,45.0
 2024-06-06,2036579724,DNA,Nejvíc hlasů získá,25-POSITION_VOTES-a,500.0
-2024-06-06,2036579725,ÖVP,Nejvíc hlasů získá,25-POSITION_VOTES-a,17.2
-2024-06-06,2036579726,KPÖ,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,250.0
 2024-06-06,2036579727,DNA,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
+2024-06-06,2036579726,KPÖ,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,250.0
+2024-06-06,2036579725,ÖVP,Nejvíc hlasů získá,25-POSITION_VOTES-a,17.2
+2024-06-06,2036579720,FPÖ,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.034
+2024-06-06,2036579723,NEOS,Nejvíc hlasů získá,25-POSITION_VOTES-a,75.0
+2024-06-06,2036579722,KPÖ,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
+2024-06-06,2036579721,Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,85.0
+2024-06-06,2036579729,ÖVP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,2.5
 2024-06-06,2036579728,Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,45.0
+2024-06-06,2036579736,DNA,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,140.0
 2024-06-06,2036579730,NEOS,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
-2024-06-06,2036579746,NEOS,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.156
 2024-06-06,2036579731,SPÖ,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.4
 2024-06-06,2036579733,Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
 2024-06-06,2036579734,KPÖ,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,120.0
 2024-06-06,2036579735,NEOS,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
-2024-06-06,2036579736,DNA,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,140.0
 2024-06-06,2036579742,DNA,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,50.0
 2024-06-06,2036579743,Grüne,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,4.32
 2024-06-06,2036579745,KPÖ,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,29.0
+2024-06-06,2036579746,NEOS,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.156
 2024-06-06,2036579719,SPÖ,Nejvíc hlasů získá,25-POSITION_VOTES-a,12.0
