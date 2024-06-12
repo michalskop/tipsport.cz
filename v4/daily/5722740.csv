@@ -1,12 +1,12 @@
 date,id,name,event_name,selection_id,odd
 2024-06-12,2037296144,Méně než 24.95,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-06-12,2037296143,24.95 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-06-12,2037296142,Méně než 73123.5,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.65
+2024-06-12,2037296142,Méně než 73123.5,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6499999999999997
 2024-06-12,2037296141,73123.5 a více,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.08
-2024-06-12,2037296140,Méně než 2375.5,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6
+2024-06-12,2037296140,Méně než 2375.5,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6000000000000003
 2024-06-12,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.16
-2024-06-12,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.635
-2024-06-12,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.425
+2024-06-12,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.5500000000000003
+2024-06-12,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.45
 2024-06-11,2037296141,73123.5 a více,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.033333333333333
 2024-06-11,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3500000000000003
 2024-06-11,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.89
