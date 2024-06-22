@@ -1,19 +1,27 @@
 date,id,name,event_name,selection_id,odd
-2024-06-21,2037296144,Méně než 24.95,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,1.68
-2024-06-21,2037296143,24.95 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,2.0533333333333332
-2024-06-21,2037296142,Méně než 73123.5,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-06-21,2037296141,73123.5 a více,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-06-22,2037296144,Méně než 24.95,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-06-22,2037296143,24.95 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-06-22,2037296142,Méně než 73123.5,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
+2024-06-22,2037296141,73123.5 a více,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-06-22,2037296140,Méně než 2375.5,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.65
+2024-06-22,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.08
+2024-06-22,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-06-22,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-06-21,2037296140,Méně než 2375.5,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6833333333333333
-2024-06-21,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.033333333333333
-2024-06-21,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
 2024-06-21,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-06-20,2037296141,73123.5 a více,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-06-21,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-06-21,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.033333333333333
+2024-06-21,2037296143,24.95 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,2.0533333333333332
+2024-06-21,2037296141,73123.5 a více,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-06-21,2037296142,Méně než 73123.5,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
+2024-06-21,2037296144,Méně než 24.95,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,1.68
+2024-06-20,2037296140,Méně než 2375.5,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6499999999999997
 2024-06-20,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-06-20,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-06-20,2037296140,Méně než 2375.5,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6499999999999997
 2024-06-20,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.08
-2024-06-20,2037296142,Méně než 73123.5,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-06-20,2037296143,24.95 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,2.16
+2024-06-20,2037296141,73123.5 a více,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-06-20,2037296142,Méně než 73123.5,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-06-20,2037296144,Méně než 24.95,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,1.6000000000000003
 2024-06-19,2037296144,Méně než 24.95,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,1.6000000000000003
 2024-06-19,2037296143,24.95 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,2.16
@@ -23,13 +31,13 @@ date,id,name,event_name,selection_id,odd
 2024-06-19,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.08
 2024-06-19,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
 2024-06-19,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-06-18,2037296141,73123.5 a více,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-06-18,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-06-18,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.08
 2024-06-18,2037296140,Méně než 2375.5,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6499999999999997
+2024-06-18,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-06-18,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-06-18,2037296142,Méně než 73123.5,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
+2024-06-18,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.08
 2024-06-18,2037296144,Méně než 24.95,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,1.6000000000000003
+2024-06-18,2037296141,73123.5 a více,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-06-18,2037296142,Méně než 73123.5,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-06-18,2037296143,24.95 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,2.16
 2024-06-17,2037296144,Méně než 24.95,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,1.6000000000000003
 2024-06-17,2037296143,24.95 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,2.16
@@ -39,29 +47,29 @@ date,id,name,event_name,selection_id,odd
 2024-06-17,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.013333333333333
 2024-06-17,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
 2024-06-17,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-06-16,2037296141,73123.5 a více,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
 2024-06-16,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-06-16,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-06-16,2037296140,Méně než 2375.5,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.79
 2024-06-16,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.8933333333333333
+2024-06-16,2037296140,Méně než 2375.5,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.79
+2024-06-16,2037296141,73123.5 a více,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
 2024-06-16,2037296142,Méně než 73123.5,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-06-16,2037296144,Méně než 24.95,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,1.6000000000000003
 2024-06-16,2037296143,24.95 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,2.16
+2024-06-16,2037296144,Méně než 24.95,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,1.6000000000000003
+2024-06-15,2037296144,Méně než 24.95,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,1.6000000000000003
+2024-06-15,2037296143,24.95 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,2.16
+2024-06-15,2037296142,Méně než 73123.5,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-06-15,2037296141,73123.5 a více,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-06-15,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-06-15,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
 2024-06-15,2037296140,Méně než 2375.5,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7233333333333334
 2024-06-15,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.9799999999999998
-2024-06-15,2037296142,Méně než 73123.5,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-06-15,2037296143,24.95 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,2.16
-2024-06-15,2037296144,Méně než 24.95,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,1.6000000000000003
-2024-06-14,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-06-15,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-06-15,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
+2024-06-14,2037296142,Méně než 73123.5,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.55
 2024-06-14,2037296144,Méně než 24.95,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,1.5833333333333333
 2024-06-14,2037296143,24.95 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,2.1933333333333334
-2024-06-14,2037296142,Méně než 73123.5,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.55
 2024-06-14,2037296141,73123.5 a více,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.28
 2024-06-14,2037296140,Méně než 2375.5,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6000000000000003
 2024-06-14,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.16
+2024-06-14,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
 2024-06-14,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-06-13,2037296144,Méně než 24.95,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,1.5333333333333332
 2024-06-13,2037296143,24.95 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,2.3
@@ -71,10 +79,10 @@ date,id,name,event_name,selection_id,odd
 2024-06-13,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.16
 2024-06-13,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
 2024-06-13,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-06-12,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.16
+2024-06-12,2037296140,Méně než 2375.5,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6000000000000003
 2024-06-12,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.45
 2024-06-12,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.5500000000000003
-2024-06-12,2037296140,Méně než 2375.5,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6000000000000003
+2024-06-12,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.16
 2024-06-12,2037296141,73123.5 a více,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.08
 2024-06-12,2037296142,Méně než 73123.5,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6499999999999997
 2024-06-12,2037296143,24.95 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,2.38
@@ -87,14 +95,14 @@ date,id,name,event_name,selection_id,odd
 2024-06-11,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.1933333333333334
 2024-06-11,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.89
 2024-06-11,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3500000000000003
-2024-06-10,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.75
-2024-06-10,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3833333333333335
-2024-06-10,2037296141,73123.5 a více,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.9400000000000002
-2024-06-10,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.26
 2024-06-10,2037296140,Méně než 2375.5,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.55
+2024-06-10,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3833333333333335
+2024-06-10,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.75
+2024-06-10,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.26
+2024-06-10,2037296142,Méně než 73123.5,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.75
+2024-06-10,2037296141,73123.5 a více,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.9400000000000002
 2024-06-10,2037296143,24.95 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,2.4266666666666663
 2024-06-10,2037296144,Méně než 24.95,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,1.4833333333333334
-2024-06-10,2037296142,Méně než 73123.5,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.75
 2024-06-09,2037296144,Méně než 24.95,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,1.45
 2024-06-09,2037296143,24.95 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,2.52
 2024-06-09,2037296142,Méně než 73123.5,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.75
@@ -103,11 +111,11 @@ date,id,name,event_name,selection_id,odd
 2024-06-09,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.26
 2024-06-09,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.68
 2024-06-09,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
-2024-06-08,2037296141,73123.5 a více,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.9400000000000002
 2024-06-08,2037296140,Méně než 2375.5,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.55
 2024-06-08,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
 2024-06-08,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.68
 2024-06-08,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.26
+2024-06-08,2037296141,73123.5 a více,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.9400000000000002
 2024-06-08,2037296142,Méně než 73123.5,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.75
 2024-06-08,2037296143,24.95 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,2.52
 2024-06-08,2037296144,Méně než 24.95,Kurz devizového trhu 1 EUR podle ČNB pro den 8.8.2024,25-GENERAL_QUESTION_TOTAL-a,1.45
@@ -119,8 +127,8 @@ date,id,name,event_name,selection_id,odd
 2024-06-07,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.8533333333333333
 2024-06-07,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.8200000000000003
 2024-06-07,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3666666666666665
-2024-06-06,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
 2024-06-06,2037296141,73123.5 a více,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.75
+2024-06-06,2037296139,2375.5 a více,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
 2024-06-06,2037296140,Méně než 2375.5,Cena 1 oz zlata v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2024-06-06,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.89
 2024-06-06,2037296142,Méně než 73123.5,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.94
