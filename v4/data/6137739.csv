@@ -1,4 +1,24 @@
 date,id,name,odd,event_name,selection_id
+2024-07-01T20:04:13,2035977730,Green Party,1000.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2024-07-01T20:04:13,2035977731,Liberální demokraté,750.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2024-07-01T20:04:13,2035977732,Reform UK,80.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2024-07-01T20:04:13,2035977733,Konzervativní strana,70.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2024-07-01T20:04:13,2056976084,Méně než 99.5,1.47,Konzervativní strana - počet získaných mandátů,25-TOTAL_SEATS-a
+2024-07-01T20:04:13,2056976085,Více než 99.5,2.46,Konzervativní strana - počet získaných mandátů,25-TOTAL_SEATS-a
+2024-07-01T20:04:13,2056976086,Méně než 325.5,1.0,Konzervativní strana - počet získaných mandátů,25-TOTAL_SEATS-a
+2024-07-01T20:04:13,2056976087,Více než 325.5,110.0,Konzervativní strana - počet získaných mandátů,25-TOTAL_SEATS-a
+2024-07-01T20:04:13,2056976088,Méně než 325.5,10.32,Labouristé - počet získaných mandátů,25-TOTAL_SEATS-a
+2024-07-01T20:04:13,2056976089,Více než 325.5,1.01,Labouristé - počet získaných mandátů,25-TOTAL_SEATS-a
+2024-07-01T20:04:13,2056976090,Méně než 58.5,1.94,Liberální demokraté - počet získaných mandátů,25-TOTAL_SEATS-a
+2024-07-01T20:04:13,2056976091,Více než 58.5,1.75,Liberální demokraté - počet získaných mandátů,25-TOTAL_SEATS-a
+2024-07-01T20:04:13,2056976092,Méně než 4.5,1.94,Reform UK - počet získaných mandátů,25-TOTAL_SEATS-a
+2024-07-01T20:04:13,2056976093,Více než 4.5,1.75,Reform UK - počet získaných mandátů,25-TOTAL_SEATS-a
+2024-07-01T20:04:13,2056976094,Méně než 325.5,1.0,Reform UK - počet získaných mandátů,25-TOTAL_SEATS-a
+2024-07-01T20:04:13,2056976095,Více než 325.5,150.0,Reform UK - počet získaných mandátů,25-TOTAL_SEATS-a
+2024-07-01T20:04:13,2056976096,Reform UK,3.34,Kdo získá více hlasů (Konzervativní strana x Reform UK),25-BETTER_OF_VOTES-a
+2024-07-01T20:04:13,2056976097,Konzervativní strana,1.27,Kdo získá více hlasů (Konzervativní strana x Reform UK),25-BETTER_OF_VOTES-a
+2024-07-01T20:04:13,2056976098,64.01% a více,2.98,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a
+2024-07-01T20:04:13,2056976099,Méně než 64.01%,1.33,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a
 2024-07-01T12:06:37,2035977730,Green Party,1000.0,Nejvíce mandátů získá,25-MOST_SEATS-a
 2024-07-01T12:06:37,2035977731,Liberální demokraté,750.0,Nejvíce mandátů získá,25-MOST_SEATS-a
 2024-07-01T12:06:37,2035977732,Reform UK,70.0,Nejvíce mandátů získá,25-MOST_SEATS-a
