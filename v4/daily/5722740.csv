@@ -1,12 +1,12 @@
 date,id,name,event_name,selection_id,odd
 2024-07-02,2057570810,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 18.9.2024,25-GENERAL_QUESTION_TOTAL-a,2.01
 2024-07-02,2057570809,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 18.9.2024,25-GENERAL_QUESTION_TOTAL-a,1.7
-2024-07-02,2057570808,70123.5 a více,Kurz 1 Bitcoin v USD dne 18.9.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
-2024-07-02,2057570807,Méně než 70123.5,Kurz 1 Bitcoin v USD dne 18.9.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
+2024-07-02,2057570808,70123.5 a více,Kurz 1 Bitcoin v USD dne 18.9.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.06
+2024-07-02,2057570807,Méně než 70123.5,Kurz 1 Bitcoin v USD dne 18.9.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6666666666666667
 2024-07-02,2057570806,Méně než 2375.5,Cena 1 oz zlata v USD dne 18.9.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.8
 2024-07-02,2057570805,2375.5 a více,Cena 1 oz zlata v USD dne 18.9.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.88
 2024-07-02,2057570804,Méně než 87.8,Cena 1 barel ropa Brent v USD dne 18.9.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.75
-2024-07-02,2057570803,87.8 a více,Cena 1 barel ropa Brent v USD dne 18.9.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.94
+2024-07-02,2057570803,87.8 a více,Cena 1 barel ropa Brent v USD dne 18.9.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.9400000000000002
 2024-07-01,2037296141,73123.5 a více,Kurz 1 Bitcoin v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.89
 2024-07-01,2037296137,Méně než 85.5,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-07-01,2037296138,85.5 a více,Cena 1 barel ropa Brent v USD dne 8.8.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
