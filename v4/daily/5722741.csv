@@ -1,4 +1,6 @@
 date,id,name,event_name,selection_id,odd
+2024-09-01,2083206001,Méně než 5456.78,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,2.52
+2024-09-01,2083206000,5456.78 a více,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,1.45
 2024-08-31,2083206001,Méně než 5456.78,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,2.4266666666666663
 2024-08-31,2083206000,5456.78 a více,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,1.4833333333333334
 2024-08-30,2083206001,Méně než 5456.78,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,2.38
@@ -9,8 +11,8 @@ date,id,name,event_name,selection_id,odd
 2024-08-28,2083206000,5456.78 a více,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-08-27,2083206001,Méně než 5456.78,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,2.38
 2024-08-27,2083206000,5456.78 a více,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-08-26,2083206000,5456.78 a více,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-08-26,2083206001,Méně než 5456.78,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-08-26,2083206000,5456.78 a více,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-08-25,2083206001,Méně než 5456.78,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,2.38
 2024-08-25,2083206000,5456.78 a více,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-08-24,2083206001,Méně než 5456.78,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,2.38
@@ -19,8 +21,8 @@ date,id,name,event_name,selection_id,odd
 2024-08-23,2083206000,5456.78 a více,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-08-22,2083206001,Méně než 5456.78,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,2.3066666666666666
 2024-08-22,2083206000,5456.78 a více,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,1.5333333333333332
-2024-08-21,2083206001,Méně než 5456.78,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,2.16
 2024-08-21,2083206000,5456.78 a více,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,1.6
+2024-08-21,2083206001,Méně než 5456.78,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,2.16
 2024-08-20,2083206001,Méně než 5456.78,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,2.16
 2024-08-20,2083206000,5456.78 a více,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,1.6000000000000003
 2024-08-19,2083206001,Méně než 5456.78,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,2.08
@@ -31,8 +33,8 @@ date,id,name,event_name,selection_id,odd
 2024-08-17,2083206000,5456.78 a více,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,1.6933333333333334
 2024-08-16,2083206001,Méně než 5456.78,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-08-16,2083206000,5456.78 a více,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-08-15,2083206001,Méně než 5456.78,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-08-15,2083206000,5456.78 a více,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-08-15,2083206001,Méně než 5456.78,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-08-14,2083206000,5456.78 a více,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-08-14,2083206001,Méně než 5456.78,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-08-13,2083206001,Méně než 5456.78,Maximální bodová hodnota indexu S&P500 dne 20.11.2024 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a,1.84
