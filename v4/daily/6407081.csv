@@ -1,9 +1,9 @@
 date,id,name,event_name,selection_id,odd
 2024-09-19,2112743544,37.05% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.84
 2024-09-19,2102249396,Ne,Liberecký kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.24
-2024-09-19,2102249406,Ano,Středočeský kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.82
-2024-09-19,2102249405,Ano,Plzeňský  kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.09
-2024-09-19,2102249404,Ne,Plzeňský  kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,5.915
+2024-09-19,2102249406,Ano,Středočeský kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.8133333333333335
+2024-09-19,2102249405,Ano,Plzeňský  kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.0866666666666667
+2024-09-19,2102249404,Ne,Plzeňský  kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,6.013333333333333
 2024-09-19,2102249403,Ano,Pardubický kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.04
 2024-09-19,2102249402,Ne,Pardubický kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,7.97
 2024-09-19,2102249401,Ano,Olomoucký kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.01
@@ -12,22 +12,22 @@ date,id,name,event_name,selection_id,odd
 2024-09-19,2102249397,Ano,Liberecký kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,3.6
 2024-09-19,2102249395,Ne,Královéhradecký kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,2.68
 2024-09-19,2102249408,Ne,Ústecký kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,20.0
-2024-09-19,2102249394,Ano,Královéhradecký kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.4
-2024-09-19,2102249393,Ano,Kraj Vysočina - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.065
-2024-09-19,2102249392,Ne,Kraj Vysočina - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,6.765
+2024-09-19,2102249394,Ano,Královéhradecký kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.3999999999999997
+2024-09-19,2102249393,Ano,Kraj Vysočina - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.0633333333333335
+2024-09-19,2102249392,Ne,Kraj Vysočina - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,6.833333333333333
 2024-09-19,2102249391,Ne,Karlovarský kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-09-19,2102249390,Ano,Karlovarský kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-09-19,2102249389,Ano,Jihomoravský kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,2.8449999999999998
-2024-09-19,2102249388,Ne,Jihomoravský kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.36
-2024-09-19,2102249387,Ano,Jihočeský kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.975
-2024-09-19,2102249386,Ne,Jihočeský kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.72
-2024-09-19,2102249407,Ne,Středočeský kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.8599999999999999
+2024-09-19,2102249389,Ano,Jihomoravský kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,2.86
+2024-09-19,2102249388,Ne,Jihomoravský kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.3566666666666667
+2024-09-19,2102249387,Ano,Jihočeský kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.9666666666666668
+2024-09-19,2102249386,Ne,Jihočeský kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.7266666666666666
+2024-09-19,2102249407,Ne,Středočeský kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.8666666666666665
 2024-09-19,2102249400,Ne,Olomoucký kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,10.32
 2024-09-19,2102249409,Ano,Ústecký kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-09-19,2110774806,Ano,Nejnižší procentuální volební účast bude v Ústeckém kraji,25-GENERAL_QUESTION_YES_NO-a,2.0
 2024-09-19,2112743543,Méně než 37.05%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.84
-2024-09-19,2112743542,Méně než 36.55%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,2.38
-2024-09-19,2102249410,Ne,Zlínský kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,4.154999999999999
+2024-09-19,2112743542,Méně než 36.55%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,2.11
+2024-09-19,2102249410,Ne,Zlínský kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,4.206666666666666
 2024-09-19,2112666941,12 a více,"Počet krajů, ve kterých získá ANO 2011 nejvíce hlasů",25-GENERAL_QUESTION_TOTAL-a,8.0
 2024-09-19,2112666940,Méně než 12,"Počet krajů, ve kterých získá ANO 2011 nejvíce hlasů",25-GENERAL_QUESTION_TOTAL-a,1.04
 2024-09-19,2112666939,Méně než 8,"Počet krajů, ve kterých získá ANO 2011 nejvíce hlasů",25-GENERAL_QUESTION_TOTAL-a,9.38
@@ -35,16 +35,16 @@ date,id,name,event_name,selection_id,odd
 2024-09-19,2110774809,Ano,Nejvyšší procentuální volební účast bude v Zlínském kraji,25-GENERAL_QUESTION_YES_NO-a,1.84
 2024-09-19,2110774808,Ne,Nejvyšší procentuální volební účast bude v Zlínském kraji,25-GENERAL_QUESTION_YES_NO-a,1.84
 2024-09-19,2110774807,Ne,Nejnižší procentuální volební účast bude v Ústeckém kraji,25-GENERAL_QUESTION_YES_NO-a,1.7
-2024-09-19,2112743541,36.55% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.5
-2024-09-19,2110691727,Méně než 11,"Počet krajů, ve kterých získá ANO 2011 nejvíce hlasů",25-GENERAL_QUESTION_TOTAL-a,1.24
-2024-09-19,2110691722,Méně než 9,"Počet krajů, ve kterých získá ANO 2011 nejvíce hlasů",25-GENERAL_QUESTION_TOTAL-a,4.025
-2024-09-19,2110691726,11 a více,"Počet krajů, ve kterých získá ANO 2011 nejvíce hlasů",25-GENERAL_QUESTION_TOTAL-a,3.62
+2024-09-19,2112743541,36.55% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.67
+2024-09-19,2110691727,Méně než 11,"Počet krajů, ve kterých získá ANO 2011 nejvíce hlasů",25-GENERAL_QUESTION_TOTAL-a,1.2533333333333332
+2024-09-19,2110691722,Méně než 9,"Počet krajů, ve kterých získá ANO 2011 nejvíce hlasů",25-GENERAL_QUESTION_TOTAL-a,4.166666666666667
+2024-09-19,2110691726,11 a více,"Počet krajů, ve kterých získá ANO 2011 nejvíce hlasů",25-GENERAL_QUESTION_TOTAL-a,3.513333333333333
 2024-09-19,2110682808,37.55% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,2.38
 2024-09-19,2110682809,Méně než 37.55%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.5
-2024-09-19,2102249411,Ano,Zlínský kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.18
-2024-09-19,2110691723,9 a více,"Počet krajů, ve kterých získá ANO 2011 nejvíce hlasů",25-GENERAL_QUESTION_TOTAL-a,1.2
-2024-09-19,2110691724,10 a více,"Počet krajů, ve kterých získá ANO 2011 nejvíce hlasů",25-GENERAL_QUESTION_TOTAL-a,1.72
-2024-09-19,2110691725,Méně než 10,"Počet krajů, ve kterých získá ANO 2011 nejvíce hlasů",25-GENERAL_QUESTION_TOTAL-a,1.98
+2024-09-19,2102249411,Ano,Zlínský kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.1766666666666665
+2024-09-19,2110691723,9 a více,"Počet krajů, ve kterých získá ANO 2011 nejvíce hlasů",25-GENERAL_QUESTION_TOTAL-a,1.1866666666666665
+2024-09-19,2110691724,10 a více,"Počet krajů, ve kterých získá ANO 2011 nejvíce hlasů",25-GENERAL_QUESTION_TOTAL-a,1.7
+2024-09-19,2110691725,Méně než 10,"Počet krajů, ve kterých získá ANO 2011 nejvíce hlasů",25-GENERAL_QUESTION_TOTAL-a,2.0066666666666664
 2024-09-18,2102249402,Ne,Pardubický kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,7.97
 2024-09-18,2102249394,Ano,Královéhradecký kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.3999999999999997
 2024-09-18,2102249401,Ano,Olomoucký kraj - nejvíce hlasů získá strana ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.01
