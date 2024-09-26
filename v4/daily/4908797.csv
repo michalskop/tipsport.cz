@@ -1,7 +1,7 @@
 date,id,name,event_name,selection_id,odd
 2024-09-26,2116330165,Ne,Stát Západní Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,35.0
 2024-09-26,2114084436,Ne,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-09-26,2113467471,Ano,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.61
+2024-09-26,2113467471,Ano,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.605
 2024-09-26,2113467472,Ne,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.5
 2024-09-26,2113467473,Ano,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.38
 2024-09-26,2113472546,Ano,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
@@ -29,8 +29,8 @@ date,id,name,event_name,selection_id,odd
 2024-09-26,2113467467,Ano,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
 2024-09-26,2114084469,Ano,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-09-26,2113467453,Ne,Stát Georgie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.26
-2024-09-26,1545797029,Trump Donald,Vítěz,25-WINNER_NWAY-a,2.05
-2024-09-26,1545797031,Harris Kamala,Vítěz,25-WINNER_NWAY-a,1.74
+2024-09-26,1545797029,Trump Donald,Vítěz,25-WINNER_NWAY-a,2.04
+2024-09-26,1545797031,Harris Kamala,Vítěz,25-WINNER_NWAY-a,1.75
 2024-09-26,1805871161,West Cornel,Vítěz,25-WINNER_NWAY-a,2600.0
 2024-09-26,1805872101,Foreman Joseph,Vítěz,25-WINNER_NWAY-a,2600.0
 2024-09-26,2074073051,Stein Jill,Vítěz,25-WINNER_NWAY-a,2300.0
@@ -47,14 +47,14 @@ date,id,name,event_name,selection_id,odd
 2024-09-26,2113467457,Ne,Stát Kalifornie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-09-26,2113467458,Ano,Stát Michigan - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.68
 2024-09-26,2113467459,Ne,Stát Michigan - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.4
-2024-09-26,2113467460,Ano,Stát Minnesota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,9.38
-2024-09-26,2113467461,Ne,Stát Minnesota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.02
+2024-09-26,2113467460,Ano,Stát Minnesota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.995000000000001
+2024-09-26,2113467461,Ne,Stát Minnesota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.025
 2024-09-26,2113467462,Ano,Stát Nevada - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.94
 2024-09-26,2113467463,Ne,Stát Nevada - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.75
 2024-09-26,2113467464,Ne,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-09-26,2113467465,Ano,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,18.0
 2024-09-26,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-09-26,2113467470,Ne,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.15
+2024-09-26,2113467470,Ne,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.1550000000000002
 2024-09-26,2114084471,Ne,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-09-26,2116330138,Ano,Stát Massachusetts - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-09-26,2116330140,Ano,Stát Mississippi - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
