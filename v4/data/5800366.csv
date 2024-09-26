@@ -1,4 +1,52 @@
 date,id,name,odd,event_name,selection_id
+2024-09-26T20:04:27,2098803880,LMP,2000.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803881,BIER,1000.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803882,KPÖ,1050.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803883,NEOS,400.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803884,ÖVP,2.25,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803885,KEINE,2000.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803886,FPÖ,1.6,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803887,SPÖ,55.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803888,Grüne,500.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803889,BIER,500.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803890,Grüne,250.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803891,KPÖ,530.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803892,ÖVP,1.01,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803893,FPÖ,1.01,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803894,NEOS,200.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803895,SPÖ,5.5,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803896,LMP,1000.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803897,KEINE,1000.0,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803899,KPÖ,210.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803900,NEOS,55.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803902,Grüne,75.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803904,KEINE,450.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803905,BIER,180.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2098803906,LMP,450.0,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2111153959,LMP,90.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2111153960,BIER,13.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2111153961,KPÖ,18.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2111153962,Grüne,2.15,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2111153965,NEOS,1.5,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2111153967,KEINE,90.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2118612675,BIER,7.0,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2118612676,KEINE,35.0,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2118612679,KPÖ,10.0,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2118612682,LMP,35.0,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a
+2024-09-26T20:04:27,2118612683,Méně než 4.01%,1.3,BIER - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-09-26T20:04:27,2118612684,4.01% a více,3.03,BIER - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-09-26T20:04:27,2118612685,Méně než 26.67%,1.7,FPÖ - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-09-26T20:04:27,2118612686,26.67% a více,1.96,FPÖ - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-09-26T20:04:27,2118612687,8.95% a více,1.9,Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-09-26T20:04:27,2118612688,Méně než 8.95%,1.75,Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-09-26T20:04:27,2118612689,4.01% a více,3.77,KPÖ - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-09-26T20:04:27,2118612690,Méně než 4.01%,1.2,KPÖ - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-09-26T20:04:27,2118612691,9.75% a více,1.75,NEOS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-09-26T20:04:27,2118612692,Méně než 9.75%,1.9,NEOS - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-09-26T20:04:27,2118612693,25.65% a více,1.6,ÖVP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-09-26T20:04:27,2118612694,Méně než 25.65%,2.11,ÖVP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-09-26T20:04:27,2118612695,Méně než 21.41%,1.82,SPÖ - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2024-09-26T20:04:27,2118612696,21.41% a více,1.82,SPÖ - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
 2024-09-26T12:06:53,2098803880,LMP,1500.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
 2024-09-26T12:06:53,2098803881,BIER,800.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
 2024-09-26T12:06:53,2098803882,KPÖ,850.0,Nejvíc hlasů získá,25-POSITION_VOTES-a
