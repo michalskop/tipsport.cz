@@ -1,4 +1,6 @@
 date,id,name,event_name,selection_id,odd
+2024-09-29,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,25.0
+2024-09-29,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-09-28,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-09-28,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-09-27,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,25.0
@@ -7,48 +9,48 @@ date,id,name,event_name,selection_id,odd
 2024-09-26,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-09-25,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,21.666666666666668
 2024-09-25,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-09-24,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-09-24,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-09-24,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,20.0
+2024-09-01,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.1633333333333333
+2024-09-01,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,4.3999999999999995
 2024-09-01,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-09-01,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-09-01,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,4.3999999999999995
-2024-09-01,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.1633333333333333
 2024-08-31,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.19
 2024-08-31,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,4.0
 2024-08-31,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-08-31,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-08-30,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.1933333333333334
 2024-08-30,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,3.98
 2024-08-30,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-08-30,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-08-30,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.1933333333333334
+2024-08-29,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.2
+2024-08-29,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,3.94
 2024-08-29,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-08-29,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-08-29,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,3.94
-2024-08-29,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.2
 2024-08-28,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.2
 2024-08-28,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,3.94
 2024-08-28,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-08-28,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-08-27,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.2666666666666666
 2024-08-27,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,3.4133333333333336
 2024-08-27,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-08-27,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-08-27,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.2666666666666666
+2024-08-26,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.31
 2024-08-26,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,3.0933333333333333
 2024-08-26,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,23.333333333333332
 2024-08-26,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-08-26,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.31
 2024-08-25,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.3533333333333335
 2024-08-25,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,2.8800000000000003
 2024-08-25,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-08-25,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-08-24,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-08-24,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.3999999999999997
 2024-08-24,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,2.68
 2024-08-24,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,20.0
-2024-08-23,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,2.68
+2024-08-24,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-08-23,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.3999999999999997
-2024-08-23,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,20.0
+2024-08-23,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,2.68
 2024-08-23,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-08-23,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-08-22,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.4333333333333333
 2024-08-22,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,2.5733333333333337
 2024-08-22,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,20.0
@@ -71,28 +73,28 @@ date,id,name,event_name,selection_id,odd
 2024-08-18,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-08-17,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-08-17,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-08-17,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,2.52
 2024-08-17,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.45
+2024-08-17,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,2.52
 2024-08-16,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.45
 2024-08-16,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,2.52
 2024-08-16,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-08-16,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-08-15,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-08-15,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.45
 2024-08-15,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,2.52
 2024-08-15,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,20.0
-2024-08-14,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-08-15,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-08-14,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,20.0
+2024-08-14,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-08-14,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,2.52
 2024-08-14,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.45
 2024-08-13,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.45
 2024-08-13,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,2.52
 2024-08-13,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-08-13,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-08-12,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.46
 2024-08-12,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,2.49
 2024-08-12,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-08-12,1936181578,Ne,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-08-12,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.46
 2024-08-11,2085002844,Ne,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,2.43
 2024-08-11,1936181579,Ano,V roce 2024 se uskuteční předčasné volby do Poslanecké sněmovny Parlamentu ČR,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-08-11,2085002845,Ano,Ivan Bartoš bude 31.12.2024 ministr pro místní rozvoj vlády ČR s důvěrou PS,25-GENERAL_QUESTION_YES_NO-a,1.48
