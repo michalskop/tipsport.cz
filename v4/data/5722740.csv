@@ -1,4 +1,10 @@
 date,id,name,odd,event_name,selection_id
+2024-10-05T04:05:11,2122691070,Méně než 2678.5,1.84,Cena 1 oz zlata v USD dne 18.12.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a
+2024-10-05T04:05:11,2122691071,2678.5 a více,1.84,Cena 1 oz zlata v USD dne 18.12.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a
+2024-10-05T04:05:11,2122691072,Méně než 64987.5,1.88,Kurz 1 Bitcoin v USD dne 18.12.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a
+2024-10-05T04:05:11,2122691073,64987.5 a více,1.8,Kurz 1 Bitcoin v USD dne 18.12.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a
+2024-10-05T04:05:11,2122691074,Méně než 25.31,1.84,Kurz devizového trhu 1 EUR podle ČNB pro den 18.12.2024,25-GENERAL_QUESTION_TOTAL-a
+2024-10-05T04:05:11,2122691075,25.31 a více,1.84,Kurz devizového trhu 1 EUR podle ČNB pro den 18.12.2024,25-GENERAL_QUESTION_TOTAL-a
 2024-10-04T20:04:41,2122691070,Méně než 2678.5,1.84,Cena 1 oz zlata v USD dne 18.12.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a
 2024-10-04T20:04:41,2122691071,2678.5 a více,1.84,Cena 1 oz zlata v USD dne 18.12.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a
 2024-10-04T20:04:41,2122691072,Méně než 64987.5,1.88,Kurz 1 Bitcoin v USD dne 18.12.2024 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a
