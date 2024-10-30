@@ -1,4 +1,8 @@
 date,id,name,event_name,selection_id,odd
+2024-10-30,2135325798,51 a více,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,1.14
+2024-10-30,2135325797,Méně než 51,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,4.77
+2024-10-30,2135325796,Ne,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.82
+2024-10-30,2135325795,Ano,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.86
 2024-10-29,2135325798,51 a více,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,1.14
 2024-10-29,2135325797,Méně než 51,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,4.77
 2024-10-29,2135325796,Ne,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.82
@@ -7,10 +11,10 @@ date,id,name,event_name,selection_id,odd
 2024-10-28,2135325797,Méně než 51,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,4.77
 2024-10-28,2135325796,Ne,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.82
 2024-10-28,2135325795,Ano,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.86
-2024-10-27,2135325797,Méně než 51,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,4.77
 2024-10-27,2135325796,Ne,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.8266666666666669
 2024-10-27,2135325795,Ano,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.8533333333333335
 2024-10-27,2135325798,51 a více,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,1.14
+2024-10-27,2135325797,Méně než 51,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,4.77
 2024-10-26,2135325798,51 a více,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,1.14
 2024-10-26,2135325797,Méně než 51,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,4.77
 2024-10-26,2135325796,Ne,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.84
@@ -19,9 +23,9 @@ date,id,name,event_name,selection_id,odd
 2024-10-25,2135325797,Méně než 51,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,4.77
 2024-10-25,2135325796,Ne,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.84
 2024-10-25,2135325795,Ano,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.84
+2024-10-24,2135325796,Ne,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.8133333333333335
 2024-10-24,2135325798,51 a více,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,1.1533333333333333
 2024-10-24,2135325797,Méně než 51,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,4.556666666666667
-2024-10-24,2135325796,Ne,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.8133333333333335
 2024-10-24,2135325795,Ano,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.8666666666666665
 2024-10-23,2135325798,51 a více,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,1.18
 2024-10-23,2135325797,Méně než 51,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,4.18
@@ -31,14 +35,14 @@ date,id,name,event_name,selection_id,odd
 2024-10-22,2135325797,Méně než 51,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,3.94
 2024-10-22,2135325796,Ne,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.92
 2024-10-22,2135325795,Ano,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.7700000000000002
+2024-10-21,2135325795,Ano,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.7700000000000002
 2024-10-21,2135325798,51 a více,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,1.2
 2024-10-21,2135325797,Méně než 51,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,3.94
 2024-10-21,2135325796,Ne,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.92
-2024-10-21,2135325795,Ano,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.7700000000000002
-2024-10-20,2135325796,Ne,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.92
 2024-10-20,2135325795,Ano,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.7700000000000002
-2024-10-20,2135325798,51 a více,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,1.22
+2024-10-20,2135325796,Ne,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.92
 2024-10-20,2135325797,Méně než 51,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,3.7466666666666666
+2024-10-20,2135325798,51 a více,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,1.22
 2024-10-19,2135325798,51 a více,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,1.23
 2024-10-19,2135325797,Méně než 51,Počet mandátů Republikánské strany v Senátu po volbách 2024,25-GENERAL_QUESTION_TOTAL-a,3.65
 2024-10-19,2135325796,Ne,Demokratická strana bude mít většinu mandátů ve Sněmovně reprezentantů po volbách 2024,25-GENERAL_QUESTION_YES_NO-a,1.92
