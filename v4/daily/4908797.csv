@@ -1,21 +1,25 @@
 date,id,name,event_name,selection_id,odd
-2024-11-02,2116330165,Ne,Stát Západní Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,60.0
+2024-11-03,2074073052,Oliver Chase,Vítěz,25-WINNER_NWAY-a,2750.0
+2024-11-03,2074073051,Stein Jill,Vítěz,25-WINNER_NWAY-a,2750.0
+2024-11-03,1805871161,West Cornel,Vítěz,25-WINNER_NWAY-a,3200.0
+2024-11-03,1545797031,Harris Kamala,Vítěz,25-WINNER_NWAY-a,2.04
+2024-11-03,1545797029,Trump Donald,Vítěz,25-WINNER_NWAY-a,1.78
+2024-11-02,2113472549,Ne,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,3.2733333333333334
+2024-11-02,2113478640,Ano,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.02
+2024-11-02,2113478639,Ne,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,9.38
+2024-11-02,2113472551,Ne,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,9.38
+2024-11-02,2113472550,Ano,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.02
+2024-11-02,2113472546,Ano,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.01
+2024-11-02,2113472548,Ano,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.28
+2024-11-02,2113472547,Ne,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,10.32
 2024-11-02,2114084438,Ano,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,90.0
 2024-11-02,2113467472,Ne,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.76
-2024-11-02,2113467473,Ano,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.9266666666666665
-2024-11-02,2113472546,Ano,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.01
-2024-11-02,2113472547,Ne,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,10.32
-2024-11-02,2113472548,Ano,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.28
-2024-11-02,2113472549,Ne,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,3.2733333333333334
-2024-11-02,2113472550,Ano,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.02
-2024-11-02,2113472551,Ne,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,9.38
-2024-11-02,2113478639,Ne,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,9.38
-2024-11-02,2113478640,Ano,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.02
+2024-11-02,2113467471,Ano,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.39
 2024-11-02,2114084436,Ne,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-11-02,2114084442,Ano,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-11-02,2113467469,Ano,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.7366666666666666
-2024-11-02,2114084445,Ne,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
 2024-11-02,2114084447,Ano,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-11-02,2114084442,Ano,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-11-02,2114084445,Ne,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
+2024-11-02,2113467469,Ano,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.7366666666666666
 2024-11-02,2114084449,Ne,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,50.0
 2024-11-02,2114084451,Ano,Stát Connecticut - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
 2024-11-02,2114084453,Ne,Stát Connecticut - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
@@ -26,8 +30,8 @@ date,id,name,event_name,selection_id,odd
 2024-11-02,2114084463,Ne,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
 2024-11-02,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-11-02,2113467470,Ne,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.72
+2024-11-02,2113467466,Ne,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,10.32
 2024-11-02,2113467468,Ne,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.9533333333333331
-2024-11-02,2114084471,Ne,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-11-02,2113467454,Ano,Stát Jižní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-11-02,1545797029,Trump Donald,Vítěz,25-WINNER_NWAY-a,1.63
 2024-11-02,1545797031,Harris Kamala,Vítěz,25-WINNER_NWAY-a,2.3166666666666664
@@ -52,11 +56,11 @@ date,id,name,event_name,selection_id,odd
 2024-11-02,2113467463,Ne,Stát Nevada - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.1966666666666668
 2024-11-02,2113467464,Ne,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-11-02,2113467465,Ano,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
-2024-11-02,2113467466,Ne,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,10.32
+2024-11-02,2114084471,Ne,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-11-02,2114084469,Ano,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,55.0
-2024-11-02,2113467471,Ano,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.39
+2024-11-02,2113467473,Ano,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.9266666666666665
 2024-11-02,2114084474,Ne,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
-2024-11-02,2116330152,Ano,Stát Rhode Island - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
+2024-11-02,2116330139,Ne,Stát Massachusetts - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-11-02,2116330141,Ne,Stát Mississippi - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,65.0
 2024-11-02,2116330142,Ne,Stát Montana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,50.0
 2024-11-02,2116330143,Ano,Stát Montana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
@@ -68,8 +72,8 @@ date,id,name,event_name,selection_id,odd
 2024-11-02,2116330149,Ano,Stát Nové Mexiko - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,7.43
 2024-11-02,2116330150,Ne,Stát Oregon - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-11-02,2116330151,Ano,Stát Oregon - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
+2024-11-02,2116330152,Ano,Stát Rhode Island - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
 2024-11-02,2116330153,Ne,Stát Rhode Island - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-11-02,2116330139,Ne,Stát Massachusetts - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-11-02,2116330154,Ne,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,50.0
 2024-11-02,2116330155,Ano,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-11-02,2116330156,Ne,Stát Tennessee - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,55.0
@@ -80,9 +84,10 @@ date,id,name,event_name,selection_id,odd
 2024-11-02,2116330161,Ne,Stát Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.11
 2024-11-02,2116330162,Ne,Stát Wyoming - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,65.0
 2024-11-02,2116330163,Ano,Stát Wyoming - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-11-02,2116330164,Ano,Stát Západní Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-11-02,2114084476,Ano,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-11-02,2116330140,Ano,Stát Mississippi - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-11-02,2116330164,Ano,Stát Západní Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-11-02,2116330165,Ne,Stát Západní Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,60.0
 2024-11-02,2116330138,Ano,Stát Massachusetts - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,55.0
 2024-11-02,2116330125,Ano,Stát Delaware - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,50.0
 2024-11-02,2116330137,Ano,Stát Maine - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,6.97
@@ -108,20 +113,19 @@ date,id,name,event_name,selection_id,odd
 2024-11-02,2116330135,Ne,Stát Kentucky - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,50.0
 2024-11-02,2116330136,Ne,Stát Maine - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.06
 2024-11-02,2116330127,Ne,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-11-01,2113472549,Ne,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,3.276666666666667
+2024-11-01,2113472550,Ano,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.02
 2024-11-01,2113478640,Ano,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.02
 2024-11-01,2113478639,Ne,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,9.38
 2024-11-01,2113472551,Ne,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,9.38
-2024-11-01,2113472550,Ano,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.02
-2024-11-01,2113467472,Ne,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.82
+2024-11-01,2113467473,Ano,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.86
+2024-11-01,2113472549,Ne,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,3.276666666666667
 2024-11-01,2113472548,Ano,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.28
 2024-11-01,2113472547,Ne,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,10.32
 2024-11-01,2113472546,Ano,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.01
-2024-11-01,2113467473,Ano,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.86
-2024-11-01,2114084436,Ne,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-11-01,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-11-01,2114084451,Ano,Stát Connecticut - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
 2024-11-01,2114084438,Ano,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,90.0
+2024-11-01,2113467471,Ano,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.3566666666666667
+2024-11-01,2114084436,Ne,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-11-01,2114084451,Ano,Stát Connecticut - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
 2024-11-01,2114084442,Ano,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-11-01,2114084445,Ne,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
 2024-11-01,2114084447,Ano,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
@@ -133,7 +137,8 @@ date,id,name,event_name,selection_id,odd
 2024-11-01,2114084461,Ano,Stát Indiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-11-01,2114084463,Ne,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
 2024-11-01,2113467469,Ano,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.7166666666666668
-2024-11-01,2113467471,Ano,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.3566666666666667
+2024-11-01,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-11-01,2113467470,Ne,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.856666666666667
 2024-11-01,2113467456,Ano,Stát Kalifornie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
 2024-11-01,2113467468,Ne,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.9833333333333334
 2024-11-01,2113467453,Ne,Stát Georgie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.94
@@ -162,7 +167,7 @@ date,id,name,event_name,selection_id,odd
 2024-11-01,2113467465,Ano,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
 2024-11-01,2113467466,Ne,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,10.006666666666668
 2024-11-01,2114084469,Ano,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,55.0
-2024-11-01,2113467470,Ne,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.856666666666667
+2024-11-01,2113467472,Ne,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.82
 2024-11-01,2114084474,Ne,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
 2024-11-01,2116330139,Ne,Stát Massachusetts - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-11-01,2116330141,Ne,Stát Mississippi - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,65.0
@@ -192,45 +197,45 @@ date,id,name,event_name,selection_id,odd
 2024-11-01,2114084476,Ano,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-11-01,2116330140,Ano,Stát Mississippi - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-11-01,2116330165,Ne,Stát Západní Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,60.0
-2024-11-01,2114084488,Ne,Stát Washington - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-11-01,2116330126,Ano,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
+2024-11-01,2116330138,Ano,Stát Massachusetts - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,55.0
+2024-11-01,2116330125,Ano,Stát Delaware - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,50.0
+2024-11-01,2116330137,Ano,Stát Maine - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,6.97
 2024-11-01,2114084479,Ne,Stát New Hampshire - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.1766666666666665
 2024-11-01,2114084480,Ano,Stát New Hampshire - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,4.223333333333333
 2024-11-01,2114084483,Ano,Stát Oklahoma - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-11-01,2114084485,Ne,Stát Oklahoma - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
 2024-11-01,2114084486,Ano,Stát Utah - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-11-01,2114084487,Ne,Stát Utah - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
-2024-11-01,2116330138,Ano,Stát Massachusetts - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,55.0
-2024-11-01,2114084489,Ano,Stát Washington - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
+2024-11-01,2114084488,Ne,Stát Washington - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-11-01,2116330122,Ano,Stát Colorado - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,9.38
 2024-11-01,2116330123,Ne,Stát Colorado - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.02
-2024-11-01,2116330125,Ano,Stát Delaware - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,50.0
 2024-11-01,2116330124,Ne,Stát Delaware - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-11-01,2116330127,Ne,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-11-01,2116330128,Ne,Stát Idaho - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
-2024-11-01,2116330129,Ano,Stát Idaho - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-11-01,2116330130,Ne,Stát Jižní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,65.0
-2024-11-01,2116330131,Ano,Stát Jižní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-11-01,2114084489,Ano,Stát Washington - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
+2024-11-01,2116330126,Ano,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
 2024-11-01,2116330132,Ano,Stát Kansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-11-01,2116330133,Ne,Stát Kansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
-2024-11-01,2116330134,Ano,Stát Kentucky - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-11-01,2116330127,Ne,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-11-01,2116330135,Ne,Stát Kentucky - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,50.0
+2024-11-01,2116330134,Ano,Stát Kentucky - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-11-01,2116330133,Ne,Stát Kansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
 2024-11-01,2116330136,Ne,Stát Maine - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.06
-2024-11-01,2116330137,Ano,Stát Maine - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,6.97
-2024-10-31,2113472549,Ne,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,3.2099999999999995
-2024-10-31,2113478640,Ano,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.02
-2024-10-31,2113478639,Ne,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,9.38
-2024-10-31,2113472551,Ne,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,9.38
-2024-10-31,2113472550,Ano,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.02
-2024-10-31,1545797029,Trump Donald,Vítěz,25-WINNER_NWAY-a,1.5466666666666669
-2024-10-31,2113472548,Ano,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.29
-2024-10-31,2113472547,Ne,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,10.32
-2024-10-31,2113472546,Ano,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.01
-2024-10-31,2113467473,Ano,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.7766666666666666
-2024-10-31,2113467472,Ne,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.9100000000000001
-2024-10-31,2114084438,Ano,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,90.0
+2024-11-01,2116330131,Ano,Stát Jižní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-11-01,2116330130,Ne,Stát Jižní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,65.0
+2024-11-01,2116330129,Ano,Stát Idaho - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-11-01,2116330128,Ne,Stát Idaho - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
 2024-10-31,2114084436,Ne,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-31,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-31,2113467472,Ne,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.9100000000000001
+2024-10-31,2113467473,Ano,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.7766666666666666
+2024-10-31,2113472546,Ano,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.01
+2024-10-31,2113472547,Ne,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,10.32
+2024-10-31,2113472548,Ano,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.29
+2024-10-31,2113472549,Ne,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,3.2099999999999995
+2024-10-31,2113472550,Ano,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.02
+2024-10-31,2113472551,Ne,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,9.38
+2024-10-31,2113478639,Ne,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,9.38
+2024-10-31,2113467471,Ano,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.3566666666666667
+2024-10-31,2113478640,Ano,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.02
+2024-10-31,2114084463,Ne,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,41.666666666666664
+2024-10-31,2114084438,Ano,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,90.0
 2024-10-31,2114084442,Ano,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-31,2114084445,Ne,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,41.666666666666664
 2024-10-31,2114084447,Ano,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
@@ -241,12 +246,13 @@ date,id,name,event_name,selection_id,odd
 2024-10-31,2114084457,Ano,Stát Illinois - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,31.666666666666668
 2024-10-31,2114084459,Ne,Stát Indiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,35.0
 2024-10-31,2114084461,Ano,Stát Indiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-31,2114084463,Ne,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,41.666666666666664
-2024-10-31,2113467470,Ne,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.856666666666667
-2024-10-31,2113467471,Ano,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.3566666666666667
-2024-10-31,2113467457,Ne,Stát Kalifornie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-31,2113467469,Ano,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.7033333333333331
-2024-10-31,2113467454,Ano,Stát Jižní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-31,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-31,2113467470,Ne,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.856666666666667
+2024-10-31,2113467457,Ne,Stát Kalifornie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-31,2113467468,Ne,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.0
+2024-10-31,2113467453,Ne,Stát Georgie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.9066666666666667
+2024-10-31,1545797029,Trump Donald,Vítěz,25-WINNER_NWAY-a,1.5466666666666669
 2024-10-31,1545797031,Harris Kamala,Vítěz,25-WINNER_NWAY-a,2.4766666666666666
 2024-10-31,1805871161,West Cornel,Vítěz,25-WINNER_NWAY-a,3200.0
 2024-10-31,1805872101,Foreman Joseph,Vítěz,25-WINNER_NWAY-a,3200.0
@@ -257,9 +263,9 @@ date,id,name,event_name,selection_id,odd
 2024-10-31,2113467450,Ano,Stát Florida - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.01
 2024-10-31,2113467451,Ne,Stát Florida - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,10.32
 2024-10-31,2113467452,Ano,Stát Georgie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.3466666666666667
-2024-10-31,2113467453,Ne,Stát Georgie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.9066666666666667
+2024-10-31,2113467454,Ano,Stát Jižní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-31,2113467467,Ano,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.02
 2024-10-31,2113467455,Ne,Stát Jižní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
-2024-10-31,2113467468,Ne,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.0
 2024-10-31,2113467456,Ano,Stát Kalifornie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
 2024-10-31,2113467458,Ano,Stát Michigan - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.08
 2024-10-31,2113467459,Ne,Stát Michigan - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.6499999999999997
@@ -270,7 +276,6 @@ date,id,name,event_name,selection_id,odd
 2024-10-31,2113467464,Ne,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-31,2113467465,Ano,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
 2024-10-31,2113467466,Ne,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,9.38
-2024-10-31,2113467467,Ano,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.02
 2024-10-31,2114084469,Ano,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,55.0
 2024-10-31,2114084471,Ne,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-31,2114084474,Ne,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,41.666666666666664
@@ -382,7 +387,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-30,2113467464,Ne,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-30,2113467465,Ano,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
 2024-10-30,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-30,2116330138,Ano,Stát Massachusetts - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,55.0
+2024-10-30,2116330140,Ano,Stát Mississippi - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-30,2114084471,Ne,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-30,2116330152,Ano,Stát Rhode Island - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
 2024-10-30,2116330141,Ne,Stát Mississippi - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,65.0
@@ -409,9 +414,9 @@ date,id,name,event_name,selection_id,odd
 2024-10-30,2116330162,Ne,Stát Wyoming - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,65.0
 2024-10-30,2116330163,Ano,Stát Wyoming - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-30,2116330164,Ano,Stát Západní Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-30,2116330140,Ano,Stát Mississippi - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-30,2116330165,Ne,Stát Západní Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,60.0
 2024-10-30,2114084474,Ne,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
+2024-10-30,2116330165,Ne,Stát Západní Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,60.0
+2024-10-30,2116330138,Ano,Stát Massachusetts - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,55.0
 2024-10-30,2116330125,Ano,Stát Delaware - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
 2024-10-30,2114084476,Ano,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-30,2114084479,Ne,Stát New Hampshire - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.1566666666666665
@@ -712,7 +717,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-27,2113467464,Ne,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-27,2113467465,Ano,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,35.0
 2024-10-27,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-27,2116330138,Ano,Stát Massachusetts - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,50.0
+2024-10-27,2116330140,Ano,Stát Mississippi - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-27,2114084471,Ne,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-27,2116330152,Ano,Stát Rhode Island - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,35.0
 2024-10-27,2116330141,Ne,Stát Mississippi - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,60.0
@@ -739,9 +744,9 @@ date,id,name,event_name,selection_id,odd
 2024-10-27,2116330162,Ne,Stát Wyoming - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,60.0
 2024-10-27,2116330163,Ano,Stát Wyoming - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-27,2116330164,Ano,Stát Západní Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-27,2116330140,Ano,Stát Mississippi - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-27,2116330165,Ne,Stát Západní Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,55.0
 2024-10-27,2114084474,Ne,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,35.0
+2024-10-27,2116330165,Ne,Stát Západní Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,55.0
+2024-10-27,2116330138,Ano,Stát Massachusetts - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,50.0
 2024-10-27,2116330125,Ano,Stát Delaware - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
 2024-10-27,2114084476,Ano,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-27,2114084479,Ne,Stát New Hampshire - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.1
@@ -1372,7 +1377,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-21,2113467464,Ne,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-21,2113467465,Ano,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,33.333333333333336
 2024-10-21,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-21,2116330126,Ano,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,38.333333333333336
+2024-10-21,2116330129,Ano,Stát Idaho - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-21,2114084471,Ne,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-21,2116330152,Ano,Stát Rhode Island - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,33.333333333333336
 2024-10-21,2116330141,Ne,Stát Mississippi - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,58.333333333333336
@@ -1415,7 +1420,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-21,2116330123,Ne,Stát Colorado - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.01
 2024-10-21,2116330124,Ne,Stát Delaware - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-21,2114084487,Ne,Stát Utah - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,33.333333333333336
-2024-10-21,2114084474,Ne,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,33.333333333333336
+2024-10-21,2116330126,Ano,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,38.333333333333336
 2024-10-21,2116330132,Ano,Stát Kansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-21,2116330127,Ne,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-21,2116330136,Ne,Stát Maine - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.04
@@ -1425,7 +1430,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-21,2116330137,Ano,Stát Maine - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,7.97
 2024-10-21,2116330131,Ano,Stát Jižní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-21,2116330130,Ne,Stát Jižní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,58.333333333333336
-2024-10-21,2116330129,Ano,Stát Idaho - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-21,2114084474,Ne,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,33.333333333333336
 2024-10-21,2116330128,Ne,Stát Idaho - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,38.333333333333336
 2024-10-20,2114084436,Ne,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-20,2113467472,Ne,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.8533333333333335
@@ -1992,8 +1997,8 @@ date,id,name,event_name,selection_id,odd
 2024-10-15,2114084436,Ne,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-15,2113467469,Ano,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.7966666666666669
 2024-10-15,2114084442,Ano,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-15,2114084445,Ne,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-10-15,1545797029,Trump Donald,Vítěz,25-WINNER_NWAY-a,1.6833333333333333
-2024-10-15,2114084447,Ano,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-15,2114084449,Ne,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-15,2114084451,Ano,Stát Connecticut - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-10-15,2114084453,Ne,Stát Connecticut - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
@@ -2032,7 +2037,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-15,2113467465,Ano,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-15,2113467466,Ne,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
 2024-10-15,2114084469,Ano,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
-2024-10-15,2114084445,Ne,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
+2024-10-15,2114084447,Ano,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-15,2114084474,Ne,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-10-15,2116330153,Ne,Stát Rhode Island - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-15,2116330142,Ne,Stát Montana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
@@ -2322,8 +2327,8 @@ date,id,name,event_name,selection_id,odd
 2024-10-12,2114084436,Ne,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-12,2114084451,Ano,Stát Connecticut - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-10-12,2114084442,Ano,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-12,2114084445,Ne,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-10-12,1545797029,Trump Donald,Vítěz,25-WINNER_NWAY-a,1.71
-2024-10-12,2114084447,Ano,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-12,2114084449,Ne,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-12,2113467469,Ano,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.7633333333333334
 2024-10-12,2114084453,Ne,Stát Connecticut - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
@@ -2362,7 +2367,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-12,2113467465,Ano,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-12,2113467466,Ne,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
 2024-10-12,2114084469,Ano,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
-2024-10-12,2114084445,Ne,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
+2024-10-12,2114084447,Ano,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-12,2114084474,Ne,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-10-12,2116330153,Ne,Stát Rhode Island - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-12,2116330142,Ne,Stát Montana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
@@ -2556,7 +2561,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-10,2113467469,Ano,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.8
 2024-10-10,2114084469,Ano,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-10,2113467467,Ano,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
-2024-10-10,1545797029,Trump Donald,Vítěz,25-WINNER_NWAY-a,1.78
+2024-10-10,2113467453,Ne,Stát Georgie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.5033333333333334
 2024-10-10,1545797031,Harris Kamala,Vítěz,25-WINNER_NWAY-a,2.0033333333333334
 2024-10-10,1805871161,West Cornel,Vítěz,25-WINNER_NWAY-a,2700.0
 2024-10-10,1805872101,Foreman Joseph,Vítěz,25-WINNER_NWAY-a,2700.0
@@ -2567,7 +2572,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-10,2113467450,Ano,Stát Florida - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.08
 2024-10-10,2113467451,Ne,Stát Florida - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,6.21
 2024-10-10,2113467452,Ano,Stát Georgie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.4533333333333331
-2024-10-10,2113467453,Ne,Stát Georgie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.5033333333333334
+2024-10-10,1545797029,Trump Donald,Vítěz,25-WINNER_NWAY-a,1.78
 2024-10-10,2113467454,Ano,Stát Jižní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-10,2113467466,Ne,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
 2024-10-10,2113467455,Ne,Stát Jižní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
@@ -2582,7 +2587,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-10,2113467464,Ne,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-10,2113467465,Ano,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-10,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-10,2116330154,Ne,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,30.0
+2024-10-10,2116330155,Ano,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-10,2114084471,Ne,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-10,2116330152,Ano,Stát Rhode Island - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,30.0
 2024-10-10,2116330141,Ne,Stát Mississippi - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
@@ -2598,7 +2603,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-10,2116330151,Ano,Stát Oregon - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-10,2116330153,Ne,Stát Rhode Island - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-10,2116330139,Ne,Stát Massachusetts - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-10,2116330155,Ano,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-10,2116330154,Ne,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,30.0
 2024-10-10,2116330156,Ne,Stát Tennessee - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,35.0
 2024-10-10,2116330157,Ano,Stát Tennessee - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-10,2116330159,Ne,Stát Vermont - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
@@ -2637,77 +2642,75 @@ date,id,name,event_name,selection_id,odd
 2024-10-10,2116330129,Ano,Stát Idaho - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-10,2116330128,Ne,Stát Idaho - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,30.0
 2024-10-10,2116330127,Ne,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-09,2114084469,Ano,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
-2024-10-09,2114084483,Ano,Stát Oklahoma - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-09,2114084471,Ne,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2114084474,Ne,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
+2024-10-09,2114084486,Ano,Stát Utah - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2114084476,Ano,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-09,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2114084479,Ne,Stát New Hampshire - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.07
 2024-10-09,2114084480,Ano,Stát New Hampshire - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,6.599999999999999
-2024-10-09,2114084489,Ano,Stát Washington - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
+2024-10-09,2114084471,Ne,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-09,2114084483,Ano,Stát Oklahoma - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2114084485,Ne,Stát Oklahoma - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
-2024-10-09,2114084486,Ano,Stát Utah - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-09,2116330122,Ano,Stát Colorado - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,10.32
 2024-10-09,2114084487,Ne,Stát Utah - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-10-09,2114084488,Ne,Stát Washington - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-09,2116330122,Ano,Stát Colorado - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,10.32
+2024-10-09,2114084489,Ano,Stát Washington - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-10-09,2116330123,Ne,Stát Colorado - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.01
 2024-10-09,2116330124,Ne,Stát Delaware - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-09,2114084461,Ano,Stát Indiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2116330125,Ano,Stát Delaware - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
+2024-10-09,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-09,2116330126,Ano,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
+2024-10-09,2114084469,Ano,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
+2024-10-09,2114084438,Ano,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,65.0
 2024-10-09,2114084463,Ne,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
-2024-10-09,2113478640,Ano,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.02
-2024-10-09,2114084459,Ne,Stát Indiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
-2024-10-09,2114084436,Ne,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-09,2116330127,Ne,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-09,2113472547,Ne,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
-2024-10-09,2113472548,Ano,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.33
+2024-10-09,2114084442,Ano,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-09,2116330128,Ne,Stát Idaho - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,30.0
 2024-10-09,2113472549,Ne,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.98
 2024-10-09,2113472550,Ano,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
 2024-10-09,2113472551,Ne,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
 2024-10-09,2113478639,Ne,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,9.38
-2024-10-09,2114084438,Ano,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,65.0
-2024-10-09,2114084457,Ano,Stát Illinois - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
-2024-10-09,2114084442,Ano,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-09,2113478640,Ano,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.02
+2024-10-09,2114084436,Ne,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2114084445,Ne,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
+2024-10-09,2114084461,Ano,Stát Indiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2114084447,Ano,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2114084449,Ne,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-09,2114084451,Ano,Stát Connecticut - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-10-09,2114084453,Ne,Stát Connecticut - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2114084455,Ne,Stát Illinois - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-09,2116330126,Ano,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
-2024-10-09,2116330154,Ne,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,30.0
-2024-10-09,2116330128,Ne,Stát Idaho - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,30.0
+2024-10-09,2114084457,Ano,Stát Illinois - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
+2024-10-09,2114084459,Ne,Stát Indiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
+2024-10-09,2116330127,Ne,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-09,2116330155,Ano,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-09,2116330129,Ano,Stát Idaho - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2116330158,Ano,Stát Vermont - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
 2024-10-09,2116330150,Ne,Stát Oregon - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2116330151,Ano,Stát Oregon - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-09,2116330152,Ano,Stát Rhode Island - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,30.0
 2024-10-09,2116330153,Ne,Stát Rhode Island - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-09,2116330155,Ano,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-09,2116330154,Ne,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,30.0
 2024-10-09,2116330156,Ne,Stát Tennessee - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,35.0
 2024-10-09,2116330157,Ano,Stát Tennessee - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2116330159,Ne,Stát Vermont - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-09,2116330148,Ne,Stát Nové Mexiko - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
+2024-10-09,2116330130,Ne,Stát Jižní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
 2024-10-09,2116330160,Ano,Stát Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,6.21
 2024-10-09,2116330161,Ne,Stát Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.08
 2024-10-09,2116330162,Ne,Stát Wyoming - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
 2024-10-09,2116330163,Ano,Stát Wyoming - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2116330164,Ano,Stát Západní Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2116330165,Ne,Stát Západní Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
-2024-10-09,2113467473,Ano,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.2
+2024-10-09,2113472547,Ne,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
 2024-10-09,2116330149,Ano,Stát Nové Mexiko - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
+2024-10-09,2116330148,Ne,Stát Nové Mexiko - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
 2024-10-09,2116330147,Ano,Stát New Jersey - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,30.0
-2024-10-09,2116330129,Ano,Stát Idaho - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-09,2116330137,Ano,Stát Maine - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,7.97
-2024-10-09,2116330130,Ne,Stát Jižní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
+2024-10-09,2116330146,Ne,Stát New Jersey - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2116330131,Ano,Stát Jižní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2116330132,Ano,Stát Kansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2116330133,Ne,Stát Kansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-09,2116330134,Ano,Stát Kentucky - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2116330135,Ne,Stát Kentucky - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,30.0
 2024-10-09,2116330136,Ne,Stát Maine - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.04
+2024-10-09,2116330137,Ano,Stát Maine - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,7.97
 2024-10-09,2116330138,Ano,Stát Massachusetts - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,30.0
-2024-10-09,2116330146,Ne,Stát New Jersey - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2116330139,Ne,Stát Massachusetts - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2116330140,Ano,Stát Mississippi - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2116330141,Ne,Stát Mississippi - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
@@ -2715,55 +2718,57 @@ date,id,name,event_name,selection_id,odd
 2024-10-09,2116330143,Ano,Stát Montana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2116330144,Ano,Stát Nebraska - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2116330145,Ne,Stát Nebraska - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
+2024-10-09,2113472548,Ano,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.33
 2024-10-09,2113472546,Ano,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
-2024-10-09,2113467472,Ne,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.58
-2024-10-09,1805871161,West Cornel,Vítěz,25-WINNER_NWAY-a,2600.0
-2024-10-09,2113467456,Ano,Stát Kalifornie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,30.0
-2024-10-09,2113467471,Ano,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.55
+2024-10-09,1805872101,Foreman Joseph,Vítěz,25-WINNER_NWAY-a,2600.0
+2024-10-09,2113467457,Ne,Stát Kalifornie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-09,2113467473,Ano,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.2
 2024-10-09,1545797029,Trump Donald,Vítěz,25-WINNER_NWAY-a,1.82
 2024-10-09,1545797031,Harris Kamala,Vítěz,25-WINNER_NWAY-a,1.9566666666666668
-2024-10-09,1805872101,Foreman Joseph,Vítěz,25-WINNER_NWAY-a,2600.0
+2024-10-09,1805871161,West Cornel,Vítěz,25-WINNER_NWAY-a,2600.0
 2024-10-09,2074073051,Stein Jill,Vítěz,25-WINNER_NWAY-a,2300.0
 2024-10-09,2074073052,Oliver Chase,Vítěz,25-WINNER_NWAY-a,2300.0
 2024-10-09,2113467448,Ne,Harris Kamala získá nejvíce hlasů voličů (lidové hlasování),25-GENERAL_QUESTION_YES_NO-a,4.18
 2024-10-09,2113467449,Ano,Harris Kamala získá nejvíce hlasů voličů (lidové hlasování),25-GENERAL_QUESTION_YES_NO-a,1.18
 2024-10-09,2113467450,Ano,Stát Florida - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.09
-2024-10-09,2113467452,Ano,Stát Georgie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.43
+2024-10-09,2113467451,Ne,Stát Florida - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,5.900000000000001
 2024-10-09,2113467453,Ne,Stát Georgie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.58
 2024-10-09,2113467454,Ano,Stát Jižní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-09,2113467455,Ne,Stát Jižní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
-2024-10-09,2113467451,Ne,Stát Florida - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,5.900000000000001
-2024-10-09,2113467457,Ne,Stát Kalifornie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-09,2113467464,Ne,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-09,2113467470,Ne,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.26
-2024-10-09,2113467469,Ano,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.8
+2024-10-09,2113467456,Ano,Stát Kalifornie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,30.0
+2024-10-09,2113467452,Ano,Stát Georgie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.43
 2024-10-09,2113467458,Ano,Stát Michigan - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.165
-2024-10-09,2113467467,Ano,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
 2024-10-09,2113467466,Ne,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
-2024-10-09,2113467465,Ano,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
+2024-10-09,2113467472,Ne,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.58
+2024-10-09,2113467471,Ano,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.55
+2024-10-09,2113467459,Ne,Stát Michigan - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.6
+2024-10-09,2113467469,Ano,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.8
 2024-10-09,2113467468,Ne,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.88
+2024-10-09,2113467467,Ano,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
+2024-10-09,2113467470,Ne,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.26
+2024-10-09,2113467465,Ano,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-09,2113467463,Ne,Stát Nevada - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.7
+2024-10-09,2113467462,Ano,Stát Nevada - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.01
 2024-10-09,2113467461,Ne,Stát Minnesota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.04
 2024-10-09,2113467460,Ano,Stát Minnesota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,7.97
-2024-10-09,2113467459,Ne,Stát Michigan - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.6
-2024-10-09,2113467462,Ano,Stát Nevada - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.01
+2024-10-09,2113467464,Ne,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-08,2113472547,Ne,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
 2024-10-08,2113478639,Ne,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,9.38
 2024-10-08,2113472551,Ne,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
 2024-10-08,2113472550,Ano,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
 2024-10-08,2113472549,Ne,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.98
 2024-10-08,2113472548,Ano,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.33
-2024-10-08,2113467473,Ano,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.15
-2024-10-08,2113472546,Ano,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
 2024-10-08,2113467472,Ne,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.61
+2024-10-08,2113472546,Ano,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
+2024-10-08,2113467473,Ano,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.15
 2024-10-08,2113467471,Ano,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.55
-2024-10-08,2113467470,Ne,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.26
 2024-10-08,2114084436,Ne,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-08,2113467470,Ne,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.26
 2024-10-08,2113478640,Ano,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.02
-2024-10-08,2114084445,Ne,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
+2024-10-08,2114084447,Ano,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-08,2114084438,Ano,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,65.0
 2024-10-08,2114084442,Ano,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-08,2114084447,Ano,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-08,2114084445,Ne,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-10-08,2114084449,Ne,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-08,2114084451,Ano,Stát Connecticut - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-10-08,2114084453,Ne,Stát Connecticut - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
@@ -2774,7 +2779,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-08,2114084463,Ne,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-10-08,2113467468,Ne,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.88
 2024-10-08,2113467469,Ano,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.8
-2024-10-08,2113467452,Ano,Stát Georgie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.43
+2024-10-08,2113467451,Ne,Stát Florida - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,5.900000000000001
 2024-10-08,2113467467,Ano,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
 2024-10-08,2113467453,Ne,Stát Georgie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.58
 2024-10-08,1545797029,Trump Donald,Vítěz,25-WINNER_NWAY-a,1.8533333333333335
@@ -2786,8 +2791,8 @@ date,id,name,event_name,selection_id,odd
 2024-10-08,2113467448,Ne,Harris Kamala získá nejvíce hlasů voličů (lidové hlasování),25-GENERAL_QUESTION_YES_NO-a,4.266666666666667
 2024-10-08,2113467449,Ano,Harris Kamala získá nejvíce hlasů voličů (lidové hlasování),25-GENERAL_QUESTION_YES_NO-a,1.1733333333333331
 2024-10-08,2113467450,Ano,Stát Florida - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.09
-2024-10-08,2113467451,Ne,Stát Florida - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,5.900000000000001
 2024-10-08,2114084469,Ano,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
+2024-10-08,2113467452,Ano,Stát Georgie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.43
 2024-10-08,2113467454,Ano,Stát Jižní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-08,2113467466,Ne,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
 2024-10-08,2113467455,Ne,Stát Jižní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
@@ -2802,7 +2807,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-08,2113467464,Ne,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-08,2113467465,Ano,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-08,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-08,2114084476,Ano,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-08,2114084479,Ne,Stát New Hampshire - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.07
 2024-10-08,2114084471,Ne,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-08,2116330139,Ne,Stát Massachusetts - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-08,2116330141,Ne,Stát Mississippi - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
@@ -2835,56 +2840,56 @@ date,id,name,event_name,selection_id,odd
 2024-10-08,2116330138,Ano,Stát Massachusetts - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,30.0
 2024-10-08,2116330125,Ano,Stát Delaware - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-08,2116330137,Ano,Stát Maine - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,7.97
-2024-10-08,2114084479,Ne,Stát New Hampshire - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.07
 2024-10-08,2114084480,Ano,Stát New Hampshire - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,6.599999999999999
 2024-10-08,2114084483,Ano,Stát Oklahoma - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-08,2114084485,Ne,Stát Oklahoma - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-10-08,2114084486,Ano,Stát Utah - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-08,2114084487,Ne,Stát Utah - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
+2024-10-08,2114084488,Ne,Stát Washington - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-08,2114084489,Ano,Stát Washington - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-10-08,2116330122,Ano,Stát Colorado - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,10.32
 2024-10-08,2116330123,Ne,Stát Colorado - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.01
 2024-10-08,2116330124,Ne,Stát Delaware - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-08,2114084488,Ne,Stát Washington - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-08,2114084476,Ano,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-08,2116330126,Ano,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
-2024-10-08,2116330131,Ano,Stát Jižní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-08,2116330132,Ano,Stát Kansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-08,2116330127,Ne,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-08,2116330135,Ne,Stát Kentucky - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,30.0
 2024-10-08,2116330134,Ano,Stát Kentucky - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-08,2116330133,Ne,Stát Kansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
-2024-10-08,2116330132,Ano,Stát Kansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-08,2116330136,Ne,Stát Maine - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.04
-2024-10-08,2116330130,Ne,Stát Jižní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
+2024-10-08,2116330131,Ano,Stát Jižní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-08,2116330129,Ano,Stát Idaho - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-08,2116330128,Ne,Stát Idaho - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,30.0
-2024-10-07,2113478640,Ano,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.02
-2024-10-07,2113467469,Ano,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.8
-2024-10-07,2113467470,Ne,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.26
-2024-10-07,2113467471,Ano,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.55
-2024-10-07,2113467472,Ne,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.57
+2024-10-08,2116330130,Ne,Stát Jižní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,45.0
+2024-10-07,2113472547,Ne,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
+2024-10-07,2113472551,Ne,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
+2024-10-07,2113472550,Ano,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
+2024-10-07,2113472549,Ne,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.76
+2024-10-07,2113472548,Ano,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.38
 2024-10-07,2113467473,Ano,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.22
 2024-10-07,2113472546,Ano,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
-2024-10-07,2113472547,Ne,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
-2024-10-07,2113472548,Ano,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.38
-2024-10-07,2113472549,Ne,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.76
-2024-10-07,2113472550,Ano,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
-2024-10-07,2113472551,Ne,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
+2024-10-07,2113467472,Ne,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.57
+2024-10-07,2113467471,Ano,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.55
+2024-10-07,2113478640,Ano,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.02
+2024-10-07,2113467470,Ne,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.26
+2024-10-07,2113467469,Ano,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.8
 2024-10-07,2113478639,Ne,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,9.38
-2024-10-07,2113467467,Ano,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
+2024-10-07,2114084449,Ne,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,21.666666666666668
 2024-10-07,2114084436,Ne,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-07,2114084438,Ano,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,65.0
 2024-10-07,2114084442,Ano,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-07,2114084447,Ano,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-07,2114084449,Ne,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,21.666666666666668
+2024-10-07,2114084445,Ne,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,16.666666666666668
 2024-10-07,2114084451,Ano,Stát Connecticut - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,16.666666666666668
 2024-10-07,2114084453,Ne,Stát Connecticut - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-07,2114084455,Ne,Stát Illinois - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-07,2114084457,Ano,Stát Illinois - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,16.666666666666668
 2024-10-07,2114084459,Ne,Stát Indiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,16.666666666666668
 2024-10-07,2114084461,Ano,Stát Indiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-07,2113467467,Ano,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
 2024-10-07,2114084463,Ne,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,16.666666666666668
 2024-10-07,2113467468,Ne,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.88
-2024-10-07,2114084445,Ne,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,16.666666666666668
+2024-10-07,2114084447,Ano,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-07,2113467466,Ne,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
 2024-10-07,2113467452,Ano,Stát Georgie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.45
 2024-10-07,2114084469,Ano,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,21.666666666666668
@@ -2912,7 +2917,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-07,2113467463,Ne,Stát Nevada - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.7
 2024-10-07,2113467464,Ne,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-07,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-07,2116330154,Ne,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,26.666666666666668
+2024-10-07,2116330155,Ano,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-07,2114084471,Ne,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-07,2116330138,Ano,Stát Massachusetts - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,26.666666666666668
 2024-10-07,2116330140,Ano,Stát Mississippi - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
@@ -2929,7 +2934,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-07,2116330151,Ano,Stát Oregon - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,21.666666666666668
 2024-10-07,2116330152,Ano,Stát Rhode Island - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,26.666666666666668
 2024-10-07,2116330153,Ne,Stát Rhode Island - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-07,2116330155,Ano,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-07,2116330154,Ne,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,26.666666666666668
 2024-10-07,2116330156,Ne,Stát Tennessee - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,31.666666666666668
 2024-10-07,2116330157,Ano,Stát Tennessee - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-07,2116330158,Ano,Stát Vermont - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,36.666666666666664
@@ -2957,8 +2962,8 @@ date,id,name,event_name,selection_id,odd
 2024-10-07,2116330123,Ne,Stát Colorado - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0166666666666666
 2024-10-07,2114084479,Ne,Stát New Hampshire - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.07
 2024-10-07,2116330125,Ano,Stát Delaware - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,21.666666666666668
-2024-10-07,2116330126,Ano,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,21.666666666666668
 2024-10-07,2116330127,Ne,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-07,2116330135,Ne,Stát Kentucky - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,26.666666666666668
 2024-10-07,2116330128,Ne,Stát Idaho - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,26.666666666666668
 2024-10-07,2116330129,Ano,Stát Idaho - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-07,2116330130,Ne,Stát Jižní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,41.666666666666664
@@ -2966,24 +2971,23 @@ date,id,name,event_name,selection_id,odd
 2024-10-07,2116330132,Ano,Stát Kansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-07,2116330133,Ne,Stát Kansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,21.666666666666668
 2024-10-07,2116330134,Ano,Stát Kentucky - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-07,2116330135,Ne,Stát Kentucky - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,26.666666666666668
+2024-10-07,2116330126,Ano,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,21.666666666666668
 2024-10-06,2113472549,Ne,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.76
 2024-10-06,2113478639,Ne,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.866666666666667
 2024-10-06,2113472551,Ne,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
 2024-10-06,2113472550,Ano,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
-2024-10-06,2113467472,Ne,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.57
+2024-10-06,2113467473,Ano,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.22
 2024-10-06,2113472548,Ano,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.38
 2024-10-06,2113472547,Ne,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
 2024-10-06,2113472546,Ano,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
-2024-10-06,2113467473,Ano,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.22
 2024-10-06,2114084436,Ne,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-06,2113467472,Ne,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.57
 2024-10-06,2113467471,Ano,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.55
 2024-10-06,2113478640,Ano,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0266666666666666
 2024-10-06,2114084449,Ne,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-10-06,2114084438,Ano,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,65.0
 2024-10-06,2114084442,Ano,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-06,2114084447,Ano,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-06,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-06,2114084445,Ne,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,15.0
 2024-10-06,2114084451,Ano,Stát Connecticut - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,15.0
 2024-10-06,2114084453,Ne,Stát Connecticut - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-06,2114084455,Ne,Stát Illinois - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
@@ -2992,6 +2996,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-06,2114084461,Ano,Stát Indiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-06,2113467469,Ano,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.84
 2024-10-06,2114084463,Ne,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,15.0
+2024-10-06,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-06,2113467470,Ne,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.26
 2024-10-06,2113467457,Ne,Stát Kalifornie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-06,2113467468,Ne,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.8399999999999999
@@ -3022,7 +3027,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-06,2113467465,Ano,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,18.0
 2024-10-06,2113467466,Ne,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
 2024-10-06,2114084469,Ano,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
-2024-10-06,2114084445,Ne,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,15.0
+2024-10-06,2114084447,Ano,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-06,2114084474,Ne,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,15.0
 2024-10-06,2116330154,Ne,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-06,2116330142,Ne,Stát Montana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
@@ -3132,7 +3137,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-05,2113467464,Ne,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-05,2113467465,Ano,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,18.0
 2024-10-05,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-05,2116330154,Ne,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
+2024-10-05,2116330155,Ano,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-05,2114084471,Ne,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-05,2116330152,Ano,Stát Rhode Island - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-05,2116330141,Ne,Stát Mississippi - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
@@ -3148,7 +3153,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-05,2116330151,Ano,Stát Oregon - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-10-05,2116330153,Ne,Stát Rhode Island - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-05,2116330139,Ne,Stát Massachusetts - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-05,2116330155,Ano,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-05,2116330154,Ne,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-05,2116330156,Ne,Stát Tennessee - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,30.0
 2024-10-05,2116330157,Ano,Stát Tennessee - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-05,2116330158,Ano,Stát Vermont - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,35.0
@@ -3177,35 +3182,34 @@ date,id,name,event_name,selection_id,odd
 2024-10-05,2114084476,Ano,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-05,2116330125,Ano,Stát Delaware - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-10-05,2116330131,Ano,Stát Jižní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-05,2116330126,Ano,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-10-05,2116330135,Ne,Stát Kentucky - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-05,2116330134,Ano,Stát Kentucky - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-05,2116330133,Ne,Stát Kansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-10-05,2116330132,Ano,Stát Kansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-05,2116330136,Ne,Stát Maine - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.04
 2024-10-05,2116330130,Ne,Stát Jižní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
+2024-10-05,2116330129,Ano,Stát Idaho - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-05,2116330128,Ne,Stát Idaho - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-05,2116330127,Ne,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-05,2116330126,Ano,Stát Havaj - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
-2024-10-05,2116330129,Ano,Stát Idaho - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-04,2113472549,Ne,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.76
-2024-10-04,2113478640,Ano,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.04
-2024-10-04,2113478639,Ne,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,7.97
-2024-10-04,2113472551,Ne,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
-2024-10-04,2113472550,Ano,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
-2024-10-04,2113472546,Ano,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
-2024-10-04,2113472548,Ano,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.38
-2024-10-04,2113472547,Ne,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
-2024-10-04,2113467473,Ano,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.26
-2024-10-04,2113467472,Ne,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.55
 2024-10-04,2114084436,Ne,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-04,2113467473,Ano,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.26
+2024-10-04,2113472546,Ano,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
+2024-10-04,2113472547,Ne,Stát Aljaška - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
+2024-10-04,2113472548,Ano,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.38
+2024-10-04,2113472549,Ne,Stát Arizona - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.76
+2024-10-04,2113472550,Ano,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
 2024-10-04,2113467471,Ano,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.55
+2024-10-04,2113472551,Ne,Stát Iowa - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
+2024-10-04,2113478639,Ne,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,7.97
+2024-10-04,2113478640,Ano,Stát Texas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.04
+2024-10-04,2113467472,Ne,Stát Wisconsin - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.55
 2024-10-04,2114084451,Ano,Stát Connecticut - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,15.0
 2024-10-04,2114084438,Ano,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,65.0
 2024-10-04,2114084442,Ano,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-04,2114084445,Ne,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,15.0
 2024-10-04,2114084447,Ano,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-04,2114084449,Ne,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
-2024-10-04,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-04,2114084453,Ne,Stát Connecticut - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-04,2114084455,Ne,Stát Illinois - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-04,2114084457,Ano,Stát Illinois - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,15.0
@@ -3213,6 +3217,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-04,2114084461,Ano,Stát Indiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-04,2114084463,Ne,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,15.0
 2024-10-04,2113467469,Ano,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.86
+2024-10-04,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-04,2113467470,Ne,Stát Severní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,2.26
 2024-10-04,2113467456,Ano,Stát Kalifornie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-04,2113467468,Ne,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.82
@@ -3328,8 +3333,8 @@ date,id,name,event_name,selection_id,odd
 2024-10-03,2113467468,Ne,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.78
 2024-10-03,2113467454,Ano,Stát Jižní Karolína - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-03,1545797031,Harris Kamala,Vítěz,25-WINNER_NWAY-a,1.8333333333333333
+2024-10-03,1805871161,West Cornel,Vítěz,25-WINNER_NWAY-a,2600.0
 2024-10-03,2114084471,Ne,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-03,1805872101,Foreman Joseph,Vítěz,25-WINNER_NWAY-a,2600.0
 2024-10-03,2074073051,Stein Jill,Vítěz,25-WINNER_NWAY-a,2300.0
 2024-10-03,2074073052,Oliver Chase,Vítěz,25-WINNER_NWAY-a,2300.0
 2024-10-03,2113467448,Ne,Harris Kamala získá nejvíce hlasů voličů (lidové hlasování),25-GENERAL_QUESTION_YES_NO-a,4.31
@@ -3352,7 +3357,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-03,2113467465,Ano,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,18.0
 2024-10-03,2113467466,Ne,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
 2024-10-03,2114084469,Ano,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
-2024-10-03,1805871161,West Cornel,Vítěz,25-WINNER_NWAY-a,2600.0
+2024-10-03,1805872101,Foreman Joseph,Vítěz,25-WINNER_NWAY-a,2600.0
 2024-10-03,2114084474,Ne,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,15.0
 2024-10-03,2116330154,Ne,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-03,2116330142,Ne,Stát Montana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
@@ -3462,7 +3467,7 @@ date,id,name,event_name,selection_id,odd
 2024-10-02,2113467464,Ne,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-02,2113467465,Ano,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,18.0
 2024-10-02,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-02,2116330153,Ne,Stát Rhode Island - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-10-02,2116330154,Ne,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-02,2114084471,Ne,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-02,2116330152,Ano,Stát Rhode Island - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-10-02,2116330141,Ne,Stát Mississippi - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
@@ -3476,9 +3481,9 @@ date,id,name,event_name,selection_id,odd
 2024-10-02,2116330149,Ano,Stát Nové Mexiko - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
 2024-10-02,2116330150,Ne,Stát Oregon - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-02,2116330151,Ano,Stát Oregon - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
-2024-10-02,2114084474,Ne,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,15.0
+2024-10-02,2116330153,Ne,Stát Rhode Island - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-02,2116330139,Ne,Stát Massachusetts - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-10-02,2116330154,Ne,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
+2024-10-02,2114084474,Ne,Stát Missouri - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,15.0
 2024-10-02,2116330155,Ano,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-10-02,2116330156,Ne,Stát Tennessee - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,30.0
 2024-10-02,2116330157,Ano,Stát Tennessee - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
@@ -4084,8 +4089,8 @@ date,id,name,event_name,selection_id,odd
 2024-09-26,2114084438,Ano,District of Columbia - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,65.0
 2024-09-26,2114084442,Ano,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-09-26,2114084445,Ne,Stát Alabama - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,15.0
-2024-09-26,2113467468,Ne,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.78
 2024-09-26,2114084447,Ano,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-09-26,2113467468,Ne,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.78
 2024-09-26,2114084449,Ne,Stát Arkansas - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-09-26,2114084451,Ano,Stát Connecticut - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,15.0
 2024-09-26,2114084453,Ne,Stát Connecticut - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
@@ -4094,7 +4099,7 @@ date,id,name,event_name,selection_id,odd
 2024-09-26,2114084459,Ne,Stát Indiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,15.0
 2024-09-26,2114084461,Ano,Stát Indiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-09-26,2113467469,Ano,Stát Pensylvánie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.8999999999999997
-2024-09-26,2116330157,Ano,Stát Tennessee - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
+2024-09-26,2116330158,Ano,Stát Vermont - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,35.0
 2024-09-26,2113467467,Ano,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.03
 2024-09-26,2113467466,Ne,Stát Ohio - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,8.61
 2024-09-26,2114084469,Ano,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
@@ -4123,7 +4128,7 @@ date,id,name,event_name,selection_id,odd
 2024-09-26,2113467464,Ne,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-09-26,2113467465,Ano,Stát New York - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,18.0
 2024-09-26,2114084465,Ano,Stát Louisiana - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-09-26,2116330160,Ano,Stát Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,5.900000000000001
+2024-09-26,2116330161,Ne,Stát Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.09
 2024-09-26,2114084471,Ne,Stát Maryland - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-09-26,2116330151,Ano,Stát Oregon - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,20.0
 2024-09-26,2116330140,Ano,Stát Mississippi - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
@@ -4143,9 +4148,9 @@ date,id,name,event_name,selection_id,odd
 2024-09-26,2116330154,Ne,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,25.0
 2024-09-26,2116330155,Ano,Stát Severní Dakota - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-09-26,2116330156,Ne,Stát Tennessee - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,30.0
-2024-09-26,2116330158,Ano,Stát Vermont - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,35.0
+2024-09-26,2116330157,Ano,Stát Tennessee - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-09-26,2116330159,Ne,Stát Vermont - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-09-26,2116330161,Ne,Stát Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.09
+2024-09-26,2116330160,Ano,Stát Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,5.900000000000001
 2024-09-26,2116330162,Ne,Stát Wyoming - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,40.0
 2024-09-26,2116330163,Ano,Stát Wyoming - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-09-26,2116330164,Ano,Stát Západní Virginie - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
@@ -4158,8 +4163,8 @@ date,id,name,event_name,selection_id,odd
 2024-09-26,2114084479,Ne,Stát New Hampshire - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.07
 2024-09-26,2114084480,Ano,Stát New Hampshire - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,6.599999999999999
 2024-09-26,2114084483,Ano,Stát Oklahoma - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
-2024-09-26,2114084485,Ne,Stát Oklahoma - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,15.0
 2024-09-26,2116330136,Ne,Stát Maine - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.05
+2024-09-26,2114084485,Ne,Stát Oklahoma - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,15.0
 2024-09-26,2114084487,Ne,Stát Utah - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,15.0
 2024-09-26,2114084488,Ne,Stát Washington - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,1.0
 2024-09-26,2114084489,Ano,Stát Washington - vítěz Trump Donald,25-GENERAL_QUESTION_YES_NO-a,15.0
