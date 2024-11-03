@@ -1,4 +1,28 @@
 date,id,name,odd,event_name,selection_id
+2024-11-03T12:06:21,2148202118,Ne,1.0,Harris Kamala vyhraje prezidentské volby a Trump Donald vyhraje lidové hlasování,25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148202119,Ano,22.0,Harris Kamala vyhraje prezidentské volby a Trump Donald vyhraje lidové hlasování,25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148202120,Ano,2.15,Harris Kamala vyhraje prezidentské volby i lidové hlasování,25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148202121,Ne,1.0,Harris Kamala vyhraje prezidentské volby i lidové hlasování,25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148202122,Ano,2.25,"Harris Kamala vyhraje ve státech: Michigan, Wisconsin, Pensylvánie",25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148202123,Ne,1.0,"Harris Kamala vyhraje ve státech: Michigan, Wisconsin, Pensylvánie",25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148202124,Ne,1.0,"Harris Kamala vyhraje ve státech: Michigan, Wisconsin, Pensylvánie, Severní Karolína, Georgie, Arizona, Nevada",25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148202125,Ano,7.0,"Harris Kamala vyhraje ve státech: Michigan, Wisconsin, Pensylvánie, Severní Karolína, Georgie, Arizona, Nevada",25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148202126,Ne,1.0,"Harris Kamala vyhraje ve státech: Severní Karolína, Georgie, Arizona, Nevada",25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148202127,Ano,4.3,"Harris Kamala vyhraje ve státech: Severní Karolína, Georgie, Arizona, Nevada",25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148202128,Ne,1.0,Trump Donald vyhraje prezidentské volby a Harris Kamala vyhraje lidové hlasování,25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148202129,Ano,2.75,Trump Donald vyhraje prezidentské volby a Harris Kamala vyhraje lidové hlasování,25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148202130,Ano,4.7,Trump Donald vyhraje prezidentské volby i lidové hlasování,25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148202131,Ne,1.0,Trump Donald vyhraje prezidentské volby i lidové hlasování,25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148202132,Ano,4.4,"Trump Donald vyhraje ve státech: Michigan, Wisconsin, Pensylvánie",25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148202133,Ne,1.0,"Trump Donald vyhraje ve státech: Michigan, Wisconsin, Pensylvánie",25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148202134,Ne,1.0,"Trump Donald vyhraje ve státech: Michigan, Wisconsin, Pensylvánie, Severní Karolína, Georgie, Arizona, Nevada",25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148202135,Ano,5.0,"Trump Donald vyhraje ve státech: Michigan, Wisconsin, Pensylvánie, Severní Karolína, Georgie, Arizona, Nevada",25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148202136,Ano,2.0,"Trump Donald vyhraje ve státech: Severní Karolína, Georgie, Arizona, Nevada",25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148202137,Ne,1.0,"Trump Donald vyhraje ve státech: Severní Karolína, Georgie, Arizona, Nevada",25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148408315,Ano,2.9,Harris Kamala počet hlasů volitelů - 300 a více,25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148408316,Ne,1.0,Harris Kamala počet hlasů volitelů - 300 a více,25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148408317,Ne,1.0,Trump Donald počet hlasů volitelů - 300 a více,25-GENERAL_QUESTION_YES_NO-a
+2024-11-03T12:06:21,2148408318,Ano,2.8,Trump Donald počet hlasů volitelů - 300 a více,25-GENERAL_QUESTION_YES_NO-a
 2024-11-02T20:05:05,2148202118,Ne,1.0,Harris Kamala vyhraje prezidentské volby a Trump Donald vyhraje lidové hlasování,25-GENERAL_QUESTION_YES_NO-a
 2024-11-02T20:05:05,2148202119,Ano,20.0,Harris Kamala vyhraje prezidentské volby a Trump Donald vyhraje lidové hlasování,25-GENERAL_QUESTION_YES_NO-a
 2024-11-02T20:05:05,2148202120,Ano,2.45,Harris Kamala vyhraje prezidentské volby i lidové hlasování,25-GENERAL_QUESTION_YES_NO-a
