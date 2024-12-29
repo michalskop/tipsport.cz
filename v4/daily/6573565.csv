@@ -1,65 +1,73 @@
 date,id,name,event_name,selection_id,odd
-2024-12-28,2181366965,25.13 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,1.67
-2024-12-28,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,2.05
-2024-12-28,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.52
+2024-12-29,2181366965,25.13 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,1.67
+2024-12-29,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,2.05
+2024-12-29,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.52
+2024-12-29,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.45
+2024-12-29,2181366961,Méně než 2678.5,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.55
+2024-12-29,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.26
+2024-12-29,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-12-29,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-12-28,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.45
+2024-12-28,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
+2024-12-28,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
 2024-12-28,2181366961,Méně než 2678.5,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.55
 2024-12-28,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.26
-2024-12-28,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-12-28,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
+2024-12-28,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.52
+2024-12-28,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,2.05
+2024-12-28,2181366965,25.13 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,1.67
+2024-12-27,2181366965,25.13 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,1.67
+2024-12-27,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,2.05
+2024-12-27,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.3800000000000003
 2024-12-27,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5033333333333332
-2024-12-27,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-12-27,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
 2024-12-27,2181366961,Méně než 2678.5,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.55
 2024-12-27,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.26
-2024-12-27,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.3800000000000003
-2024-12-27,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,2.05
-2024-12-27,2181366965,25.13 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,1.67
-2024-12-26,2181366965,25.13 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,1.67
-2024-12-26,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,2.05
-2024-12-26,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.35
-2024-12-26,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5166666666666666
+2024-12-27,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-12-27,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-12-26,2181366961,Méně než 2678.5,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5333333333333332
-2024-12-26,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.3
-2024-12-26,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
 2024-12-26,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-12-25,2181366961,Méně než 2678.5,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-12-25,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
+2024-12-26,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-12-26,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.3
+2024-12-26,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,2.05
+2024-12-26,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5166666666666666
+2024-12-26,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.35
+2024-12-26,2181366965,25.13 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,1.67
+2024-12-25,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.46
 2024-12-25,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
 2024-12-25,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-12-25,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,2.05
-2024-12-25,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.46
+2024-12-25,2181366961,Méně než 2678.5,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
+2024-12-25,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-12-25,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.5
+2024-12-25,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,2.05
 2024-12-25,2181366965,25.13 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,1.67
-2024-12-24,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.46
-2024-12-24,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-12-24,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-12-24,2181366961,Méně než 2678.5,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-12-24,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-12-24,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.5
-2024-12-24,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,2.05
 2024-12-24,2181366965,25.13 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,1.67
+2024-12-24,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,2.05
+2024-12-24,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.5
+2024-12-24,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.46
+2024-12-24,2181366961,Méně než 2678.5,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
+2024-12-24,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-12-24,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-12-24,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
+2024-12-23,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.4333333333333333
+2024-12-23,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.1333333333333333
+2024-12-23,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-12-23,2181366961,Méně než 2678.5,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
+2024-12-23,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6333333333333335
+2024-12-23,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.5733333333333337
 2024-12-23,2181366965,25.13 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,1.6900000000000002
 2024-12-23,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,2.023333333333333
-2024-12-23,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.5733333333333337
-2024-12-23,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.4333333333333333
-2024-12-23,2181366961,Méně než 2678.5,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-12-23,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-12-23,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.1333333333333333
-2024-12-23,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6333333333333335
-2024-12-22,2181366961,Méně než 2678.5,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-12-22,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
-2024-12-22,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
-2024-12-22,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-12-22,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5666666666666667
-2024-12-22,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.2333333333333334
-2024-12-22,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,2.01
 2024-12-22,2181366965,25.13 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,1.7
-2024-12-21,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.45
-2024-12-21,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
-2024-12-21,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-12-22,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,2.01
+2024-12-22,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.2333333333333334
+2024-12-22,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5666666666666667
+2024-12-22,2181366961,Méně než 2678.5,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
+2024-12-22,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-12-22,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
+2024-12-22,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
 2024-12-21,2181366961,Méně než 2678.5,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-12-21,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
+2024-12-21,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
+2024-12-21,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-12-21,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.45
 2024-12-21,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.52
 2024-12-21,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,2.01
 2024-12-21,2181366965,25.13 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,1.7
@@ -72,67 +80,67 @@ date,id,name,event_name,selection_id,odd
 2024-12-20,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2024-12-20,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
 2024-12-19,2181366961,Méně než 2678.5,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-12-19,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
 2024-12-19,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
+2024-12-19,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
 2024-12-19,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-12-19,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7133333333333332
 2024-12-19,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,1.8033333333333335
+2024-12-19,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7133333333333332
 2024-12-19,2181366965,25.13 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,1.9066666666666665
 2024-12-19,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.0466666666666664
-2024-12-18,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
-2024-12-18,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-12-18,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
-2024-12-18,2181366961,Méně než 2678.5,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
-2024-12-18,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
-2024-12-18,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-12-18,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,1.6499999999999997
 2024-12-18,2181366965,25.13 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,2.08
-2024-12-17,2181366965,25.13 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,2.08
-2024-12-17,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,1.6499999999999997
-2024-12-17,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-12-17,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-12-18,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,1.6499999999999997
+2024-12-18,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
+2024-12-18,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-12-18,2181366961,Méně než 2678.5,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
+2024-12-18,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
+2024-12-18,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
+2024-12-18,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
 2024-12-17,2181366961,Méně než 2678.5,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7933333333333332
-2024-12-17,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.8966666666666665
-2024-12-17,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.9533333333333331
 2024-12-17,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7466666666666668
-2024-12-16,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.68
+2024-12-17,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.9533333333333331
+2024-12-17,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.8966666666666665
+2024-12-17,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,1.6499999999999997
+2024-12-17,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-12-17,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
+2024-12-17,2181366965,25.13 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,2.08
+2024-12-16,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.4
+2024-12-16,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.3
+2024-12-16,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,3.15
+2024-12-16,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.9
 2024-12-16,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.78
 2024-12-16,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.48
-2024-12-16,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-12-16,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.9
-2024-12-16,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,3.15
-2024-12-16,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.3
-2024-12-16,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.4
 2024-12-16,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.25
-2024-12-16,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-12-16,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-12-16,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.68
 2024-12-16,2181366961,Méně než 2678.5,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-12-16,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-12-16,2181366958,Méně než 75.5,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-12-16,2181366963,105432.1 a více,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-12-16,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,1.65
 2024-12-16,2181366965,25.13 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,2.08
+2024-12-16,2181366964,Méně než 25.13,Kurz devizového trhu 1 EUR podle ČNB pro den 28.2.2025,25-GENERAL_QUESTION_TOTAL-a,1.65
+2024-12-16,2181366959,75.5 a více,Cena 1 barel ropa Brent v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-12-16,2181366962,Méně než 105432.1,Kurz 1 Bitcoin v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-12-16,2181366960,2678.5 a více,Cena 1 oz zlata v USD dne 28.2.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-12-15,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
+2024-12-15,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.68
+2024-12-15,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.25
 2024-12-15,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.48
-2024-12-15,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.3
-2024-12-15,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,3.15
 2024-12-15,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.78
 2024-12-15,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.8999999999999997
-2024-12-15,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.25
-2024-12-15,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.68
-2024-12-15,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
-2024-12-14,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
-2024-12-14,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.68
-2024-12-14,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.25
-2024-12-14,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.48
+2024-12-15,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,3.15
+2024-12-15,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.3
 2024-12-14,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.78
-2024-12-14,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.8999999999999997
-2024-12-14,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,3.15
 2024-12-14,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.3
-2024-12-13,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.78
+2024-12-14,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,3.15
+2024-12-14,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.8999999999999997
+2024-12-14,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
+2024-12-14,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.48
+2024-12-14,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.25
+2024-12-14,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.68
+2024-12-13,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.48
 2024-12-13,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.3333333333333333
 2024-12-13,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.9933333333333336
 2024-12-13,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.8999999999999997
+2024-12-13,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.78
 2024-12-13,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.58
-2024-12-13,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.48
 2024-12-13,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.25
 2024-12-13,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.4333333333333333
 2024-12-12,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.48
@@ -152,155 +160,155 @@ date,id,name,event_name,selection_id,odd
 2024-12-11,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.68
 2024-12-11,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
 2024-12-10,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.9766666666666666
-2024-12-10,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
-2024-12-10,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.88
-2024-12-10,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.8
 2024-12-10,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.68
+2024-12-10,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.88
+2024-12-10,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
+2024-12-10,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.8
 2024-12-10,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3333333333333333
 2024-12-10,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-12-10,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-12-09,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-12-09,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-12-09,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3500000000000003
 2024-12-09,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.89
-2024-12-09,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7133333333333332
-2024-12-09,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.0
 2024-12-09,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.68
+2024-12-09,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.0
+2024-12-09,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7133333333333332
 2024-12-09,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
-2024-12-08,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6499999999999997
-2024-12-08,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
-2024-12-08,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.68
-2024-12-08,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.08
-2024-12-08,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.89
-2024-12-08,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3500000000000003
-2024-12-08,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-12-09,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3500000000000003
+2024-12-09,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-12-09,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-12-08,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
+2024-12-08,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-12-08,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3500000000000003
+2024-12-08,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.89
+2024-12-08,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6499999999999997
+2024-12-08,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.08
+2024-12-08,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.68
+2024-12-08,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
+2024-12-07,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.89
+2024-12-07,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
+2024-12-07,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.08
+2024-12-07,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6499999999999997
+2024-12-07,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.68
+2024-12-07,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3500000000000003
 2024-12-07,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
 2024-12-07,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-12-07,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3500000000000003
-2024-12-07,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.89
-2024-12-07,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6499999999999997
-2024-12-07,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.08
-2024-12-07,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.68
-2024-12-07,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
-2024-12-06,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7133333333333332
-2024-12-06,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
-2024-12-06,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.68
-2024-12-06,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.0
 2024-12-06,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.4333333333333333
-2024-12-06,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.89
 2024-12-06,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.58
 2024-12-06,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3500000000000003
-2024-12-05,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3
-2024-12-05,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.15
+2024-12-06,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.89
+2024-12-06,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7133333333333332
+2024-12-06,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.0
+2024-12-06,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.68
+2024-12-06,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
+2024-12-05,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-12-05,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
+2024-12-05,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.68
+2024-12-05,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-12-05,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3500000000000003
 2024-12-05,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.89
-2024-12-05,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-12-05,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-12-05,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.68
-2024-12-05,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
-2024-12-04,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-12-04,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
-2024-12-04,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.68
-2024-12-04,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-12-05,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.15
+2024-12-05,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3
 2024-12-04,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-12-04,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.68
-2024-12-04,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
 2024-12-04,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-12-03,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-12-03,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5333333333333332
+2024-12-04,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
+2024-12-04,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.68
+2024-12-04,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-12-04,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-12-04,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.68
+2024-12-04,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
 2024-12-03,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.3
+2024-12-03,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5333333333333332
 2024-12-03,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
-2024-12-03,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.68
 2024-12-03,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-12-03,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-12-03,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.233333333333333
 2024-12-03,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.5999999999999999
-2024-12-02,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.55
-2024-12-02,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.26
-2024-12-02,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3333333333333333
+2024-12-03,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.68
+2024-12-02,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7
 2024-12-02,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.9933333333333336
+2024-12-02,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.01
 2024-12-02,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-12-02,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-12-02,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.01
-2024-12-02,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7
-2024-12-01,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-12-01,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7
-2024-12-01,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.01
-2024-12-01,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-12-02,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3333333333333333
+2024-12-02,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.26
+2024-12-02,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.55
 2024-12-01,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.55
-2024-12-01,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.15
-2024-12-01,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3
 2024-12-01,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.26
-2024-11-30,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.15
+2024-12-01,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3
+2024-12-01,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.15
+2024-12-01,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-12-01,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-12-01,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.01
+2024-12-01,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7
 2024-11-30,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.01
-2024-11-30,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-11-30,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-11-30,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7
 2024-11-30,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3
+2024-11-30,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7
+2024-11-30,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-11-30,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-11-30,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.26
+2024-11-30,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.15
 2024-11-30,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.55
+2024-11-29,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
 2024-11-29,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7333333333333334
+2024-11-29,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-11-29,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-11-29,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.9633333333333332
-2024-11-29,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-11-29,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.55
-2024-11-29,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-11-29,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.26
 2024-11-29,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-11-28,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-11-28,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.75
-2024-11-28,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-11-28,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-11-28,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.9400000000000002
-2024-11-28,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-11-28,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.3466666666666662
+2024-11-29,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.26
+2024-11-29,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.55
 2024-11-28,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5166666666666666
-2024-11-27,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.75
-2024-11-27,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.9400000000000002
-2024-11-27,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
+2024-11-28,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.3466666666666662
+2024-11-28,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
+2024-11-28,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
+2024-11-28,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-11-28,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-11-28,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.9400000000000002
+2024-11-28,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.75
+2024-11-27,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.75
+2024-11-27,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.9400000000000002
 2024-11-27,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
 2024-11-27,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-11-27,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-11-27,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.9400000000000002
-2024-11-27,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.75
+2024-11-27,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
+2024-11-27,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.9400000000000002
+2024-11-27,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.75
+2024-11-26,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
 2024-11-26,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.8733333333333333
+2024-11-26,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-11-26,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-11-26,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.8099999999999998
-2024-11-26,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-11-26,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6766666666666667
-2024-11-26,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2024-11-26,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.0500000000000003
 2024-11-26,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
-2024-11-25,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.72
-2024-11-25,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.8133333333333335
-2024-11-25,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7466666666666668
-2024-11-25,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.9533333333333331
-2024-11-25,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.8666666666666665
-2024-11-25,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.4000000000000001
-2024-11-25,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.4133333333333336
+2024-11-26,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.0500000000000003
+2024-11-26,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6766666666666667
 2024-11-25,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.4933333333333334
+2024-11-25,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.4133333333333336
+2024-11-25,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.4000000000000001
+2024-11-25,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.72
+2024-11-25,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.9533333333333331
+2024-11-25,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7466666666666668
+2024-11-25,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.8133333333333335
+2024-11-25,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.8666666666666665
+2024-11-24,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.75
+2024-11-24,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.88
+2024-11-24,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
+2024-11-24,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
+2024-11-24,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.8
+2024-11-24,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3833333333333335
 2024-11-24,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.45
 2024-11-24,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.52
-2024-11-24,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3833333333333335
-2024-11-24,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.75
-2024-11-24,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
-2024-11-24,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
-2024-11-24,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.8
-2024-11-24,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.88
-2024-11-23,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.88
-2024-11-23,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.8
-2024-11-23,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7466666666666668
-2024-11-23,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.9533333333333331
-2024-11-23,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.68
-2024-11-23,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
 2024-11-23,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.45
 2024-11-23,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.52
-2024-11-22,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.626666666666667
-2024-11-22,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.8466666666666667
-2024-11-22,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-11-23,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
+2024-11-23,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.68
+2024-11-23,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.9533333333333331
+2024-11-23,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7466666666666668
+2024-11-23,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.8
+2024-11-23,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.88
 2024-11-22,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-11-22,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.8366666666666667
+2024-11-22,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.8466666666666667
+2024-11-22,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-11-22,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.4166666666666667
+2024-11-22,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.626666666666667
 2024-11-22,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.52
 2024-11-22,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.45
 2024-11-21,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5633333333333332
@@ -311,106 +319,106 @@ date,id,name,event_name,selection_id,odd
 2024-11-21,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-11-21,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.9866666666666664
 2024-11-21,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7166666666666668
-2024-11-20,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.16
 2024-11-20,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.01
-2024-11-20,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-11-20,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-11-20,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7
+2024-11-20,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.16
+2024-11-20,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-11-20,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-11-20,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6000000000000003
 2024-11-20,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7933333333333332
 2024-11-20,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.8966666666666665
+2024-11-19,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.16
 2024-11-19,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7
 2024-11-19,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.01
 2024-11-19,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-11-19,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-11-19,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.78
-2024-11-19,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.16
-2024-11-19,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.91
 2024-11-19,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6000000000000003
-2024-11-18,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.01
+2024-11-19,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.78
+2024-11-19,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.91
+2024-11-18,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7
 2024-11-18,2153031634,77.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.48
 2024-11-18,2153031635,Méně než 77.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.25
 2024-11-18,2153031636,Méně než 2721.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.25
+2024-11-18,2153031637,2721.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.48
 2024-11-18,2153031638,Méně než 77654.5,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,5.109999999999999
 2024-11-18,2153031639,77654.5 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.125
-2024-11-18,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7
-2024-11-18,2153031637,2721.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.48
-2024-11-18,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-11-18,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2024-11-18,2161032080,2604.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
+2024-11-18,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.01
+2024-11-18,2161032077,73.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-11-18,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-11-18,2161032079,Méně než 2604.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2024-11-18,2161032081,Méně než 100000.1,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-11-18,2161032082,100000.1 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2024-11-18,2161032078,Méně než 73.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-11-17,2153031637,2721.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.41
 2024-11-17,2153031634,77.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.48
 2024-11-17,2153031635,Méně než 77.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.25
 2024-11-17,2153031636,Méně než 2721.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.26
-2024-11-17,2153031639,77654.5 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.1
+2024-11-17,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.01
 2024-11-17,2153031638,Méně než 77654.5,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,5.62
 2024-11-17,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7
-2024-11-17,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.01
-2024-11-16,2153031637,2721.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.27
-2024-11-16,2153031634,77.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.48
+2024-11-17,2153031639,77654.5 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.1
+2024-11-16,2153031638,Méně než 77654.5,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,5.62
 2024-11-16,2153031635,Méně než 77.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.25
 2024-11-16,2153031636,Méně než 2721.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.28
-2024-11-16,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.01
-2024-11-16,2153031638,Méně než 77654.5,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,5.62
-2024-11-16,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7
+2024-11-16,2153031637,2721.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.27
+2024-11-16,2153031634,77.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.48
 2024-11-16,2153031639,77654.5 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.1
-2024-11-15,2153031638,Méně než 77654.5,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,5.62
-2024-11-15,2153031635,Méně než 77.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.25
-2024-11-15,2153031636,Méně než 2721.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.2633333333333334
-2024-11-15,2153031637,2721.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.3966666666666665
-2024-11-15,2153031634,77.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.48
-2024-11-15,2153031639,77654.5 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.1
-2024-11-15,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7
+2024-11-16,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7
+2024-11-16,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.01
 2024-11-15,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.01
-2024-11-14,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.9866666666666664
-2024-11-14,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7166666666666668
-2024-11-14,2153031639,77654.5 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.09
+2024-11-15,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7
+2024-11-15,2153031639,77654.5 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.1
+2024-11-15,2153031638,Méně než 77654.5,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,5.62
+2024-11-15,2153031637,2721.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.3966666666666665
+2024-11-15,2153031636,Méně než 2721.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.2633333333333334
+2024-11-15,2153031635,Méně než 77.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.25
+2024-11-15,2153031634,77.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.48
 2024-11-14,2153031638,Méně než 77654.5,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,5.900000000000001
-2024-11-14,2153031637,2721.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.313333333333333
-2024-11-14,2153031636,Méně než 2721.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.2766666666666666
-2024-11-14,2153031635,Méně než 77.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.25
 2024-11-14,2153031634,77.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.48
-2024-11-13,2153031637,2721.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.68
+2024-11-14,2153031635,Méně než 77.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.25
+2024-11-14,2153031636,Méně než 2721.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.2766666666666666
+2024-11-14,2153031637,2721.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.313333333333333
+2024-11-14,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7166666666666668
+2024-11-14,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.9866666666666664
+2024-11-14,2153031639,77654.5 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.09
 2024-11-13,2153031634,77.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.1466666666666665
-2024-11-13,2153031635,Méně než 77.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3033333333333335
-2024-11-13,2153031636,Méně než 2721.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
-2024-11-13,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7966666666666666
 2024-11-13,2153031638,Méně než 77654.5,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,4.496666666666667
-2024-11-13,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.9033333333333333
+2024-11-13,2153031636,Méně než 2721.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
+2024-11-13,2153031637,2721.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.68
+2024-11-13,2153031635,Méně než 77.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3033333333333335
 2024-11-13,2153031639,77654.5 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.1633333333333333
-2024-11-12,2153031638,Méně než 77654.5,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,4.283333333333332
-2024-11-12,2153031635,Méně než 77.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.36
-2024-11-12,2153031636,Méně než 2721.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.4166666666666667
-2024-11-12,2153031637,2721.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.626666666666667
-2024-11-12,2153031634,77.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.85
-2024-11-12,2153031639,77654.5 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.1733333333333331
-2024-11-12,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.0466666666666664
+2024-11-13,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.9033333333333333
+2024-11-13,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.7966666666666666
 2024-11-12,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.6733333333333331
-2024-11-11,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.066666666666667
-2024-11-11,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.6666666666666667
-2024-11-11,2153031639,77654.5 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3499999999999999
+2024-11-12,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.0466666666666664
+2024-11-12,2153031639,77654.5 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.1733333333333331
+2024-11-12,2153031638,Méně než 77654.5,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,4.283333333333332
+2024-11-12,2153031637,2721.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.626666666666667
+2024-11-12,2153031636,Méně než 2721.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.4166666666666667
+2024-11-12,2153031635,Méně než 77.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.36
+2024-11-12,2153031634,77.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.85
+2024-11-11,2153031636,Méně než 2721.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7966666666666666
+2024-11-11,2153031634,77.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.2733333333333334
 2024-11-11,2153031638,Méně než 77654.5,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.94
 2024-11-11,2153031637,2721.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.9633333333333332
-2024-11-11,2153031636,Méně než 2721.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7966666666666666
 2024-11-11,2153031635,Méně než 77.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5466666666666669
-2024-11-11,2153031634,77.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.2733333333333334
-2024-11-10,2153031634,77.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.18
-2024-11-10,2153031635,Méně než 77.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.59
-2024-11-10,2153031636,Méně než 2721.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.023333333333333
-2024-11-10,2153031637,2721.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6900000000000002
-2024-11-10,2153031638,Méně než 77654.5,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.2533333333333334
-2024-11-10,2153031639,77654.5 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5666666666666667
+2024-11-11,2153031639,77654.5 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.3499999999999999
+2024-11-11,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.066666666666667
+2024-11-11,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.6666666666666667
 2024-11-10,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.106666666666667
 2024-11-10,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.6333333333333335
-2024-11-09,2153031638,Méně než 77654.5,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.08
-2024-11-09,2153031635,Méně než 77.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6166666666666665
-2024-11-09,2153031636,Méně než 2721.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
+2024-11-10,2153031639,77654.5 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5666666666666667
+2024-11-10,2153031638,Méně než 77654.5,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.2533333333333334
+2024-11-10,2153031637,2721.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6900000000000002
+2024-11-10,2153031636,Méně než 2721.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.023333333333333
+2024-11-10,2153031635,Méně než 77.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.59
+2024-11-10,2153031634,77.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.18
 2024-11-09,2153031637,2721.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
 2024-11-09,2153031634,77.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.1333333333333333
+2024-11-09,2153031635,Méně než 77.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6166666666666665
+2024-11-09,2153031636,Méně než 2721.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2024-11-09,2153031639,77654.5 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6499999999999997
+2024-11-09,2153031638,Méně než 77654.5,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.08
 2024-11-09,2153031640,Méně než 25.35,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.6666666666666667
 2024-11-09,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,2.0566666666666666
 2024-11-08,2153031641,25.35 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 28.1.2025,25-GENERAL_QUESTION_TOTAL-a,1.9533333333333331
@@ -421,8 +429,8 @@ date,id,name,event_name,selection_id,odd
 2024-11-08,2153031636,Méně než 2721.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.9533333333333331
 2024-11-08,2153031635,Méně než 77.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7299999999999998
 2024-11-08,2153031634,77.5 a více,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.9766666666666666
-2024-11-07,2153031638,Méně než 77654.5,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2024-11-07,2153031636,Méně než 2721.5,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2024-11-07,2153031638,Méně než 77654.5,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2024-11-07,2153031637,2721.5 a více,Cena 1 oz zlata v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-11-07,2153031635,Méně než 77.5,Cena 1 barel ropa Brent v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2024-11-07,2153031639,77654.5 a více,Kurz 1 Bitcoin v USD dne 28.1.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
