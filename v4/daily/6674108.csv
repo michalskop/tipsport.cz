@@ -5,8 +5,8 @@ date,id,name,event_name,selection_id,odd
 2025-01-29,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,90.0
 2025-01-29,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
 2025-01-29,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,50.0
-2025-01-29,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.06
-2025-01-29,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,5.8
+2025-01-29,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.0550000000000002
+2025-01-29,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,5.9
 2025-01-29,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,10.0
 2025-01-29,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
 2025-01-29,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,25.0
@@ -31,7 +31,7 @@ date,id,name,event_name,selection_id,odd
 2025-01-29,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
 2025-01-29,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,8.0
 2025-01-29,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
-2025-01-29,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.18
+2025-01-29,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.17
 2025-01-28,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,71.66666666666667
 2025-01-28,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,500.0
 2025-01-28,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,86.66666666666667
