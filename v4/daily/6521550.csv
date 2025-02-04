@@ -3,8 +3,8 @@ date,id,name,event_name,selection_id,odd
 2025-02-04,2213750204,65.43% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,2.2
 2025-02-04,2213750203,Méně než 40.01%,ANO 2011 - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.13
 2025-02-04,2213750202,40.01% a více,ANO 2011 - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,5.0
-2025-02-04,2213750201,30.01% a více,ANO 2011 - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.13
-2025-02-04,2213750200,Méně než 30.01%,ANO 2011 - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,5.0
+2025-02-04,2213750201,30.01% a více,ANO 2011 - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1466666666666665
+2025-02-04,2213750200,Méně než 30.01%,ANO 2011 - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.733333333333333
 2025-02-04,2213741069,Více než 100.5,ANO 2011 - počet získaných mandátů,25-TOTAL_SEATS-a,10.0
 2025-02-04,2213741068,Méně než 100.5,ANO 2011 - počet získaných mandátů,25-TOTAL_SEATS-a,1.01
 2025-02-04,2134293396,Ne,Nejvíc hlasů získá ANO 2011,25-POSITION_PARTICIPANT_VOTES-a,10.0
