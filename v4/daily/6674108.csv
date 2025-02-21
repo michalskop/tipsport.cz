@@ -1,28 +1,91 @@
 date,id,name,event_name,selection_id,odd
-2025-02-20,2231169521,Ne,AfD získá nejvíce hlasů v 9 a více spolkových zemích,25-GENERAL_QUESTION_YES_NO-a,1.0
-2025-02-20,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,3.5
+2025-02-21,2231169521,Ne,AfD získá nejvíce hlasů v 9 a více spolkových zemích,25-GENERAL_QUESTION_YES_NO-a,1.0
+2025-02-21,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,3.5
+2025-02-21,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,14.0
+2025-02-21,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2025-02-21,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,9.5
+2025-02-21,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.01
+2025-02-21,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.8
+2025-02-21,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.12
+2025-02-21,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,13.0
+2025-02-21,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,6.5
+2025-02-21,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
+2025-02-21,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
+2025-02-21,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,40.0
+2025-02-21,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.18
+2025-02-21,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,42.0
+2025-02-21,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,220.0
+2025-02-21,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,135.0
+2025-02-21,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,12.0
+2025-02-21,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,70.0
+2025-02-21,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,500.0
+2025-02-21,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,140.0
+2025-02-21,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
+2025-02-21,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,13.0
+2025-02-21,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
+2025-02-21,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,1000.0
+2025-02-21,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,10.0
+2025-02-21,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,80.0
+2025-02-21,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,300.0
+2025-02-21,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,440.0
+2025-02-21,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,130.0
+2025-02-21,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.02
+2025-02-21,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,425.0
+2025-02-21,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.01
+2025-02-21,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
+2025-02-21,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.36
+2025-02-21,2226431309,FDP,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,3.3
+2025-02-21,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.75
+2025-02-21,2231025518,Ano,AfD získá nejvíce hlasů ve všech 16 spolkových zemích,25-GENERAL_QUESTION_YES_NO-a,600.0
+2025-02-21,2231025517,Ne,AfD získá nejvíce hlasů ve všech 16 spolkových zemích,25-GENERAL_QUESTION_YES_NO-a,1.0
+2025-02-21,2231025516,Ano,"AfD získá nejvíce hlasů v Braniborsku, Sasku, Sasku-Anhaltsku, Durynsku, Meklenbursku-Předním Pomořansku",25-GENERAL_QUESTION_YES_NO-a,1.13
+2025-02-21,2231025515,Ne,"AfD získá nejvíce hlasů v Braniborsku, Sasku, Sasku-Anhaltsku, Durynsku, Meklenbursku-Předním Pomořansku",25-GENERAL_QUESTION_YES_NO-a,1.0
+2025-02-21,2231025514,Ne,"AfD získá nejvíce hlasů v Bádensku-Württembersku, Hesensku, Severním Porýní-Vestfálsku",25-GENERAL_QUESTION_YES_NO-a,1.0
+2025-02-21,2231025513,Ano,"AfD získá nejvíce hlasů v Bádensku-Württembersku, Hesensku, Severním Porýní-Vestfálsku",25-GENERAL_QUESTION_YES_NO-a,125.0
+2025-02-21,2230127490,Méně než 30.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2025-02-21,2230127489,30.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,16.0
+2025-02-21,2226431321,FW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,15.0
+2025-02-21,2226431320,BSW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.45
+2025-02-21,2226431318,Die Linke,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
+2025-02-21,2226431317,FDP,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.4
+2025-02-21,2226431310,Die Linke,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.2
+2025-02-21,2231169520,Ano,AfD získá nejvíce hlasů v 9 a více spolkových zemích,25-GENERAL_QUESTION_YES_NO-a,7.0
+2025-02-21,2226431307,FW,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,35.0
+2025-02-21,2226377183,20.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.25
+2025-02-21,2226431306,BSW,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,3.45
+2025-02-21,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.08
+2025-02-21,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.45
+2025-02-21,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.45
+2025-02-21,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,35.0
+2025-02-21,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2025-02-21,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,5.78
+2025-02-21,2226377184,Méně než 20.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.35
+2025-02-21,2226377186,30.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.7
+2025-02-21,2226377187,Méně než 15.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.29
+2025-02-21,2226377188,15.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.51
+2025-02-21,2226377185,Méně než 30.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.96
+2025-02-20,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
+2025-02-20,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
+2025-02-20,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,39.333333333333336
+2025-02-20,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.18
+2025-02-20,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,43.333333333333336
 2025-02-20,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,12.333333333333334
-2025-02-20,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-20,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,8.5
-2025-02-20,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.02
-2025-02-20,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.666666666666667
+2025-02-20,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,13.333333333333334
 2025-02-20,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.133333333333333
 2025-02-20,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
-2025-02-20,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,6.5
-2025-02-20,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
-2025-02-20,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,13.333333333333334
-2025-02-20,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,43.333333333333336
-2025-02-20,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,39.333333333333336
-2025-02-20,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
+2025-02-20,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.666666666666667
+2025-02-20,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.02
+2025-02-20,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,8.5
+2025-02-20,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2025-02-20,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,3.5
 2025-02-20,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,220.0
+2025-02-20,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
 2025-02-20,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,140.0
-2025-02-20,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,10.666666666666666
 2025-02-20,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,70.0
 2025-02-20,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,500.0
 2025-02-20,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,133.33333333333334
 2025-02-20,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
 2025-02-20,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,13.0
-2025-02-20,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
 2025-02-20,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,1000.0
 2025-02-20,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,10.0
 2025-02-20,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,80.0
@@ -31,225 +94,229 @@ date,id,name,event_name,selection_id,odd
 2025-02-20,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,130.0
 2025-02-20,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.02
 2025-02-20,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,433.3333333333333
+2025-02-20,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,10.666666666666666
 2025-02-20,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.01
-2025-02-20,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.18
+2025-02-20,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,6.5
 2025-02-20,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.4266666666666667
-2025-02-20,2226431309,FDP,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,3.8666666666666667
-2025-02-20,2231169520,Ano,AfD získá nejvíce hlasů v 9 a více spolkových zemích,25-GENERAL_QUESTION_YES_NO-a,7.0
-2025-02-20,2231025518,Ano,AfD získá nejvíce hlasů ve všech 16 spolkových zemích,25-GENERAL_QUESTION_YES_NO-a,425.0
-2025-02-20,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.533333333333333
-2025-02-20,2231025516,Ano,"AfD získá nejvíce hlasů v Braniborsku, Sasku, Sasku-Anhaltsku, Durynsku, Meklenbursku-Předním Pomořansku",25-GENERAL_QUESTION_YES_NO-a,1.14
-2025-02-20,2231025515,Ne,"AfD získá nejvíce hlasů v Braniborsku, Sasku, Sasku-Anhaltsku, Durynsku, Meklenbursku-Předním Pomořansku",25-GENERAL_QUESTION_YES_NO-a,1.0
-2025-02-20,2231025514,Ne,"AfD získá nejvíce hlasů v Bádensku-Württembersku, Hesensku, Severním Porýní-Vestfálsku",25-GENERAL_QUESTION_YES_NO-a,1.0
 2025-02-20,2231025513,Ano,"AfD získá nejvíce hlasů v Bádensku-Württembersku, Hesensku, Severním Porýní-Vestfálsku",25-GENERAL_QUESTION_YES_NO-a,106.5
-2025-02-20,2230127490,Méně než 30.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-20,2230127489,30.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,15.0
-2025-02-20,2226431321,FW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,15.0
-2025-02-20,2226431320,BSW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.4000000000000001
-2025-02-20,2226431318,Die Linke,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
 2025-02-20,2226431317,FDP,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.45
-2025-02-20,2226431310,Die Linke,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.1933333333333334
+2025-02-20,2226431318,Die Linke,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
+2025-02-20,2226431320,BSW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.4000000000000001
+2025-02-20,2226431321,FW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,15.0
+2025-02-20,2230127489,30.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,15.0
+2025-02-20,2230127490,Méně než 30.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2025-02-20,2231025514,Ne,"AfD získá nejvíce hlasů v Bádensku-Württembersku, Hesensku, Severním Porýní-Vestfálsku",25-GENERAL_QUESTION_YES_NO-a,1.0
+2025-02-20,2226431309,FDP,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,3.8666666666666667
+2025-02-20,2231025515,Ne,"AfD získá nejvíce hlasů v Braniborsku, Sasku, Sasku-Anhaltsku, Durynsku, Meklenbursku-Předním Pomořansku",25-GENERAL_QUESTION_YES_NO-a,1.0
+2025-02-20,2231025516,Ano,"AfD získá nejvíce hlasů v Braniborsku, Sasku, Sasku-Anhaltsku, Durynsku, Meklenbursku-Předním Pomořansku",25-GENERAL_QUESTION_YES_NO-a,1.14
 2025-02-20,2231025517,Ne,AfD získá nejvíce hlasů ve všech 16 spolkových zemích,25-GENERAL_QUESTION_YES_NO-a,1.0
+2025-02-20,2231169520,Ano,AfD získá nejvíce hlasů v 9 a více spolkových zemích,25-GENERAL_QUESTION_YES_NO-a,7.0
+2025-02-20,2231169521,Ne,AfD získá nejvíce hlasů v 9 a více spolkových zemích,25-GENERAL_QUESTION_YES_NO-a,1.0
+2025-02-20,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.533333333333333
+2025-02-20,2226431310,Die Linke,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.1933333333333334
+2025-02-20,2231025518,Ano,AfD získá nejvíce hlasů ve všech 16 spolkových zemích,25-GENERAL_QUESTION_YES_NO-a,425.0
 2025-02-20,2226431307,FW,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,33.333333333333336
 2025-02-20,2226377183,20.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.24
 2025-02-20,2226431306,BSW,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,3.3166666666666664
+2025-02-20,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1066666666666667
 2025-02-20,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,5.136666666666667
-2025-02-20,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.466666666666667
 2025-02-20,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.4433333333333334
 2025-02-20,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,35.0
 2025-02-20,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-20,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1066666666666667
-2025-02-20,2226377184,Méně než 20.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.426666666666667
+2025-02-20,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.466666666666667
+2025-02-20,2226377185,Méně než 30.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.09
 2025-02-20,2226377186,30.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.6133333333333333
 2025-02-20,2226377187,Méně než 15.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.296666666666667
+2025-02-20,2226377184,Méně než 20.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.426666666666667
 2025-02-20,2226377188,15.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.5066666666666666
-2025-02-20,2226377185,Méně než 30.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.09
-2025-02-19,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.2166666666666666
-2025-02-19,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.9333333333333336
+2025-02-19,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.5
+2025-02-19,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
 2025-02-19,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,220.0
 2025-02-19,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
 2025-02-19,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,43.333333333333336
+2025-02-19,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.2166666666666666
 2025-02-19,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
 2025-02-19,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
 2025-02-19,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,6.166666666666667
 2025-02-19,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,13.0
 2025-02-19,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.14
-2025-02-19,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,70.0
-2025-02-19,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.5
 2025-02-19,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
-2025-02-19,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,10.0
+2025-02-19,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.9333333333333336
+2025-02-19,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,1000.0
+2025-02-19,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,70.0
 2025-02-19,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,500.0
 2025-02-19,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,125.0
 2025-02-19,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
 2025-02-19,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,12.666666666666666
 2025-02-19,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,23.333333333333332
-2025-02-19,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,1000.0
+2025-02-19,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,10.0
 2025-02-19,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,73.33333333333333
 2025-02-19,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,300.0
 2025-02-19,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,386.6666666666667
 2025-02-19,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,120.0
 2025-02-19,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.02
-2025-02-19,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,466.6666666666667
 2025-02-19,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,7.666666666666667
+2025-02-19,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,466.6666666666667
 2025-02-19,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0366666666666668
-2025-02-19,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
+2025-02-19,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.01
 2025-02-19,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-19,2226377185,Méně než 30.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.2
+2025-02-19,2226377186,30.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.55
+2025-02-19,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,10.5
+2025-02-19,2230127490,Méně než 30.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-19,2230127489,30.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,12.5
 2025-02-19,2226431321,FW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,15.0
 2025-02-19,2226431320,BSW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.3500000000000003
 2025-02-19,2226431318,Die Linke,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
 2025-02-19,2226431317,FDP,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.55
-2025-02-19,2226431310,Die Linke,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.1300000000000001
 2025-02-19,2226431309,FDP,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,5.333333333333333
 2025-02-19,2226431307,FW,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
 2025-02-19,2226431306,BSW,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,3.733333333333333
 2025-02-19,2226377188,15.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.6066666666666667
 2025-02-19,2226377187,Méně než 15.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.11
-2025-02-19,2226377186,30.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.55
-2025-02-19,2230127490,Méně než 30.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2025-02-19,2226431310,Die Linke,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.1300000000000001
+2025-02-19,2226377185,Méně než 30.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.2
+2025-02-19,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.4833333333333334
 2025-02-19,2226377184,Méně než 20.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.7433333333333336
-2025-02-19,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.36
-2025-02-19,2226377183,20.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2033333333333334
-2025-02-19,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.01
-2025-02-19,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,10.0
 2025-02-19,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.4833333333333334
 2025-02-19,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.36
-2025-02-19,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,10.5
+2025-02-19,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.36
 2025-02-19,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.15
-2025-02-19,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.4833333333333334
+2025-02-19,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,10.0
 2025-02-19,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.4366666666666665
 2025-02-19,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,35.0
 2025-02-19,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2025-02-19,2226377183,20.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2033333333333334
 2025-02-18,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
+2025-02-18,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.8
 2025-02-18,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,220.0
 2025-02-18,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
 2025-02-18,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,40.0
 2025-02-18,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.25
 2025-02-18,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
 2025-02-18,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
-2025-02-18,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
+2025-02-18,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,70.0
 2025-02-18,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,6.0
 2025-02-18,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,13.0
 2025-02-18,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.14
-2025-02-18,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.5
-2025-02-18,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.8
-2025-02-18,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,110.0
-2025-02-18,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,70.0
+2025-02-18,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
+2025-02-18,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.06
 2025-02-18,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,500.0
-2025-02-18,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
+2025-02-18,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,110.0
 2025-02-18,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
 2025-02-18,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
 2025-02-18,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
+2025-02-18,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,1000.0
 2025-02-18,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,10.0
 2025-02-18,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,60.0
 2025-02-18,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,300.0
 2025-02-18,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,360.0
 2025-02-18,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,100.0
 2025-02-18,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.02
-2025-02-18,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.06
-2025-02-18,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,1000.0
-2025-02-18,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.43
-2025-02-18,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-18,2226377185,Méně než 30.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.2
-2025-02-18,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,11.0
-2025-02-18,2226431321,FW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,15.0
-2025-02-18,2226431320,BSW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.25
+2025-02-18,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
+2025-02-18,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.5
 2025-02-18,2226431318,Die Linke,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
+2025-02-18,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.43
+2025-02-18,2226377184,Méně než 20.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.98
+2025-02-18,2226431320,BSW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.25
+2025-02-18,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-18,2226431317,FDP,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.85
 2025-02-18,2226431310,Die Linke,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.19
 2025-02-18,2226431309,FDP,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
+2025-02-18,2226431307,FW,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
 2025-02-18,2226431306,BSW,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,2.7
 2025-02-18,2226377188,15.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.685
 2025-02-18,2226377187,Méně než 15.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.98
 2025-02-18,2226377186,30.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.55
-2025-02-18,2226431307,FW,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
-2025-02-18,2226377184,Méně než 20.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.98
-2025-02-18,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.205
-2025-02-18,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.01
+2025-02-18,2226377185,Méně než 30.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.2
+2025-02-18,2226431321,FW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,15.0
 2025-02-18,2226377183,20.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.18
-2025-02-18,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,10.0
-2025-02-18,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.58
 2025-02-18,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.7199999999999998
+2025-02-18,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,11.0
+2025-02-18,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.01
+2025-02-18,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,10.0
 2025-02-18,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.15
+2025-02-18,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.58
+2025-02-18,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.205
 2025-02-18,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.0
 2025-02-18,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.31
 2025-02-18,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,35.0
 2025-02-18,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-17,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,35.0
+2025-02-17,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
+2025-02-17,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,150.0
 2025-02-17,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.7999999999999994
 2025-02-17,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,220.0
 2025-02-17,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
-2025-02-17,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
+2025-02-17,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,12.333333333333334
 2025-02-17,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.25
-2025-02-17,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.14
+2025-02-17,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,35.0
 2025-02-17,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,16.0
 2025-02-17,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
 2025-02-17,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
-2025-02-17,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,12.333333333333334
-2025-02-17,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
-2025-02-17,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,150.0
-2025-02-17,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
 2025-02-17,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,500.0
+2025-02-17,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
+2025-02-17,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,10.0
 2025-02-17,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,100.0
 2025-02-17,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
 2025-02-17,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
 2025-02-17,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
 2025-02-17,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,1000.0
-2025-02-17,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,10.0
 2025-02-17,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,60.0
 2025-02-17,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,300.0
 2025-02-17,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,360.0
 2025-02-17,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,85.0
 2025-02-17,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.02
-2025-02-17,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.07
+2025-02-17,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
 2025-02-17,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.45
-2025-02-17,2226431306,BSW,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,2.6999999999999997
+2025-02-17,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.14
+2025-02-17,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.07
+2025-02-17,2226431321,FW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,14.333333333333334
+2025-02-17,2226377183,20.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1466666666666665
 2025-02-17,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.0
-2025-02-17,2226377184,Méně než 20.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.386666666666667
 2025-02-17,2226431320,BSW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.2
 2025-02-17,2226431318,Die Linke,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
 2025-02-17,2226431317,FDP,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.9666666666666668
 2025-02-17,2226431310,Die Linke,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.21
 2025-02-17,2226431309,FDP,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
 2025-02-17,2226431307,FW,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
-2025-02-17,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-17,2226377188,15.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.75
 2025-02-17,2226377187,Méně než 15.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.8999999999999997
 2025-02-17,2226377186,30.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.4566666666666668
 2025-02-17,2226377185,Méně než 30.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.4233333333333333
-2025-02-17,2226431321,FW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,14.333333333333334
-2025-02-17,2226377183,20.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1466666666666665
-2025-02-17,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.03
+2025-02-17,2226377184,Méně než 20.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.386666666666667
+2025-02-17,2226431306,BSW,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,2.6999999999999997
+2025-02-17,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2025-02-17,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.186666666666667
+2025-02-17,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,35.0
 2025-02-17,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,10.0
 2025-02-17,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.01
 2025-02-17,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,10.0
-2025-02-17,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.186666666666667
 2025-02-17,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.5566666666666666
+2025-02-17,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2025-02-17,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.03
 2025-02-17,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.3
 2025-02-17,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.1
 2025-02-17,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.29
-2025-02-17,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,35.0
-2025-02-17,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-16,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
-2025-02-16,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,150.0
+2025-02-16,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,35.0
 2025-02-16,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.7999999999999994
 2025-02-16,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,220.0
 2025-02-16,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
-2025-02-16,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
+2025-02-16,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
 2025-02-16,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.25
-2025-02-16,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,35.0
-2025-02-16,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,16.0
 2025-02-16,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
-2025-02-16,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
-2025-02-16,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,500.0
+2025-02-16,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,16.0
 2025-02-16,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
-2025-02-16,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,10.0
+2025-02-16,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
+2025-02-16,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
+2025-02-16,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.16
+2025-02-16,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,150.0
+2025-02-16,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.09
+2025-02-16,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,500.0
 2025-02-16,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,100.0
 2025-02-16,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
 2025-02-16,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
 2025-02-16,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
 2025-02-16,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,1000.0
+2025-02-16,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,10.0
 2025-02-16,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,60.0
 2025-02-16,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,300.0
 2025-02-16,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,360.0
@@ -257,11 +324,10 @@ date,id,name,event_name,selection_id,odd
 2025-02-16,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.02
 2025-02-16,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
 2025-02-16,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.2
-2025-02-16,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.16
-2025-02-16,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.09
 2025-02-16,2226431321,FW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
-2025-02-16,2226377183,20.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.16
 2025-02-16,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,5.5
+2025-02-16,2226377184,Méně než 20.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.2
+2025-02-16,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-16,2226431320,BSW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.2
 2025-02-16,2226431318,Die Linke,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
 2025-02-16,2226431317,FDP,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,2.1
@@ -272,34 +338,33 @@ date,id,name,event_name,selection_id,odd
 2025-02-16,2226377187,Méně než 15.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.8999999999999997
 2025-02-16,2226377186,30.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.45
 2025-02-16,2226377185,Méně než 30.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.44
-2025-02-16,2226377184,Méně než 20.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.2
 2025-02-16,2226431306,BSW,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,2.6
-2025-02-16,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-16,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.96
-2025-02-16,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,35.0
+2025-02-16,2226377183,20.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.16
+2025-02-16,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.7900000000000005
 2025-02-16,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,10.0
+2025-02-16,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-16,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.01
 2025-02-16,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,9.5
+2025-02-16,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.96
 2025-02-16,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.7
-2025-02-16,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-16,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.7900000000000005
 2025-02-16,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.3500000000000003
 2025-02-16,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.0
 2025-02-16,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.31
+2025-02-16,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,35.0
 2025-02-15,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,35.0
 2025-02-15,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.7999999999999994
 2025-02-15,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,220.0
 2025-02-15,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
 2025-02-15,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
 2025-02-15,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.25
-2025-02-15,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
+2025-02-15,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1733333333333331
 2025-02-15,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,15.333333333333334
-2025-02-15,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
+2025-02-15,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
 2025-02-15,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
 2025-02-15,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,11.333333333333334
-2025-02-15,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1733333333333331
+2025-02-15,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
 2025-02-15,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,150.0
-2025-02-15,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1033333333333335
+2025-02-15,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
 2025-02-15,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,500.0
 2025-02-15,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,100.0
 2025-02-15,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
@@ -312,31 +377,31 @@ date,id,name,event_name,selection_id,odd
 2025-02-15,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,360.0
 2025-02-15,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,85.0
 2025-02-15,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.02
-2025-02-15,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
+2025-02-15,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1033333333333335
 2025-02-15,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.066666666666666
-2025-02-15,2226431321,FW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
+2025-02-15,2226377188,15.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.75
 2025-02-15,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,5.166666666666667
 2025-02-15,2226377184,Méně než 20.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.1000000000000005
-2025-02-15,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0033333333333332
+2025-02-15,2226431321,FW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
 2025-02-15,2226431320,BSW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.2333333333333334
 2025-02-15,2226431318,Die Linke,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
 2025-02-15,2226431317,FDP,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,2.033333333333333
 2025-02-15,2226431310,Die Linke,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.2866666666666668
 2025-02-15,2226431309,FDP,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,6.166666666666667
 2025-02-15,2226431307,FW,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
-2025-02-15,2226377188,15.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.75
+2025-02-15,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0033333333333332
 2025-02-15,2226377187,Méně než 15.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.8999999999999997
 2025-02-15,2226377186,30.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.4333333333333333
 2025-02-15,2226377185,Méně než 30.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.4899999999999998
 2025-02-15,2226431306,BSW,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,2.466666666666667
 2025-02-15,2226377183,20.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.17
 2025-02-15,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.6166666666666667
-2025-02-15,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,9.666666666666666
 2025-02-15,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-15,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.01
 2025-02-15,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,9.166666666666666
-2025-02-15,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.96
 2025-02-15,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.7
+2025-02-15,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.96
+2025-02-15,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,9.666666666666666
 2025-02-15,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.3966666666666665
 2025-02-15,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.9333333333333336
 2025-02-15,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.3233333333333335
@@ -347,12 +412,12 @@ date,id,name,event_name,selection_id,odd
 2025-02-14,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
 2025-02-14,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,28.333333333333332
 2025-02-14,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.25
-2025-02-14,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1933333333333334
-2025-02-14,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,13.0
 2025-02-14,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
+2025-02-14,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,13.0
+2025-02-14,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,73.33333333333333
 2025-02-14,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
 2025-02-14,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,10.0
-2025-02-14,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,73.33333333333333
+2025-02-14,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1933333333333334
 2025-02-14,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,150.0
 2025-02-14,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
 2025-02-14,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,500.0
@@ -369,11 +434,12 @@ date,id,name,event_name,selection_id,odd
 2025-02-14,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.03
 2025-02-14,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1333333333333335
 2025-02-14,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.8333333333333335
-2025-02-14,2226431318,Die Linke,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
+2025-02-14,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,9.0
 2025-02-14,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.666666666666667
 2025-02-14,2226377184,Méně než 20.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.1
 2025-02-14,2226431321,FW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
 2025-02-14,2226431320,BSW,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.25
+2025-02-14,2226431318,Die Linke,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
 2025-02-14,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.01
 2025-02-14,2226431310,Die Linke,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,1.33
 2025-02-14,2226431309,FDP,Umístění do 5. místa podle počtu hlasů,25-POSITION_VOTES-a,6.0
@@ -385,19 +451,18 @@ date,id,name,event_name,selection_id,odd
 2025-02-14,2226377185,Méně než 30.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.53
 2025-02-14,2226431317,FDP,Umístění do 6. místa podle počtu hlasů,25-POSITION_VOTES-a,2.0
 2025-02-14,2226377183,20.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.17
-2025-02-14,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.96
+2025-02-14,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.4566666666666666
 2025-02-14,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-14,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,9.0
 2025-02-14,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,8.166666666666666
 2025-02-14,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.7
+2025-02-14,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.96
 2025-02-14,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0266666666666666
-2025-02-14,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.4566666666666666
 2025-02-14,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.4466666666666665
 2025-02-14,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.8833333333333333
 2025-02-14,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.3333333333333333
 2025-02-14,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,28.333333333333332
-2025-02-13,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
 2025-02-13,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
+2025-02-13,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
 2025-02-13,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
 2025-02-13,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,220.0
 2025-02-13,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.7999999999999994
@@ -406,212 +471,211 @@ date,id,name,event_name,selection_id,odd
 2025-02-13,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,500.0
 2025-02-13,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,80.0
 2025-02-13,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
-2025-02-13,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,320.0
+2025-02-13,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,300.0
 2025-02-13,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,18.0
 2025-02-13,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,1000.0
 2025-02-13,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,8.666666666666666
 2025-02-13,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,51.666666666666664
-2025-02-13,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,300.0
+2025-02-13,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,320.0
 2025-02-13,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,76.66666666666667
 2025-02-13,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.0466666666666666
 2025-02-13,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
 2025-02-13,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
 2025-02-13,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.25
-2025-02-13,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
+2025-02-13,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,11.0
 2025-02-13,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
 2025-02-13,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.833333333333333
 2025-02-13,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
-2025-02-13,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-13,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,25.0
 2025-02-13,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.3466666666666667
 2025-02-13,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.8166666666666664
 2025-02-13,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.5333333333333332
+2025-02-13,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.236666666666667
 2025-02-13,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.92
 2025-02-13,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.7333333333333334
-2025-02-13,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.236666666666667
+2025-02-13,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-13,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0533333333333335
-2025-02-13,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0033333333333332
-2025-02-13,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.0
-2025-02-13,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.18
 2025-02-13,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.6166666666666667
-2025-02-13,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2166666666666666
 2025-02-13,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,9.0
-2025-02-13,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,11.0
-2025-02-12,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,150.0
-2025-02-12,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,80.0
-2025-02-12,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,500.0
-2025-02-12,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,70.0
-2025-02-12,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
-2025-02-12,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.7999999999999994
-2025-02-12,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,220.0
-2025-02-12,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
-2025-02-12,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
+2025-02-13,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2166666666666666
+2025-02-13,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
+2025-02-13,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.18
+2025-02-13,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.0
+2025-02-13,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0033333333333332
 2025-02-12,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
-2025-02-12,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
+2025-02-12,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
+2025-02-12,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
+2025-02-12,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,220.0
+2025-02-12,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.7999999999999994
+2025-02-12,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,150.0
+2025-02-12,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,70.0
+2025-02-12,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,500.0
+2025-02-12,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,80.0
+2025-02-12,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,8.5
+2025-02-12,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
 2025-02-12,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,18.0
 2025-02-12,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,1000.0
-2025-02-12,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,8.5
+2025-02-12,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
 2025-02-12,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,50.0
 2025-02-12,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,300.0
 2025-02-12,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,320.0
 2025-02-12,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,75.0
 2025-02-12,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.05
-2025-02-12,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
 2025-02-12,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.25
-2025-02-12,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
+2025-02-12,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
 2025-02-12,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
 2025-02-12,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.5
 2025-02-12,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
+2025-02-12,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-12,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,25.0
 2025-02-12,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.3500000000000003
 2025-02-12,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.7999999999999994
-2025-02-12,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.55
 2025-02-12,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.2
 2025-02-12,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.8999999999999997
 2025-02-12,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.75
-2025-02-12,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2025-02-12,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.55
 2025-02-12,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.06
-2025-02-12,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-12,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.0
-2025-02-12,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.18
 2025-02-12,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.6
-2025-02-12,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.22
-2025-02-12,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,9.0
 2025-02-12,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,12.0
-2025-02-11,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,150.0
-2025-02-11,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,500.0
-2025-02-11,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,70.0
-2025-02-11,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
-2025-02-11,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.7999999999999994
-2025-02-11,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,220.0
-2025-02-11,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
-2025-02-11,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
-2025-02-11,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,80.0
-2025-02-11,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,8.5
+2025-02-12,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,9.0
+2025-02-12,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.22
+2025-02-12,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
+2025-02-12,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.18
+2025-02-12,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.0
+2025-02-12,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-11,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
+2025-02-11,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
+2025-02-11,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
+2025-02-11,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,220.0
+2025-02-11,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.7999999999999994
+2025-02-11,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,150.0
+2025-02-11,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,70.0
+2025-02-11,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,500.0
+2025-02-11,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,80.0
+2025-02-11,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
+2025-02-11,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
 2025-02-11,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,18.0
+2025-02-11,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
 2025-02-11,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,1000.0
+2025-02-11,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,8.5
 2025-02-11,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,50.0
 2025-02-11,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,300.0
 2025-02-11,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,320.0
 2025-02-11,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,75.0
 2025-02-11,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.05
-2025-02-11,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
 2025-02-11,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.25
-2025-02-11,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
+2025-02-11,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.7666666666666666
 2025-02-11,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
-2025-02-11,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.5
-2025-02-11,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
+2025-02-11,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.06
 2025-02-11,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-11,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,25.0
 2025-02-11,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.3500000000000003
 2025-02-11,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.7999999999999994
+2025-02-11,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.5666666666666667
 2025-02-11,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.17
 2025-02-11,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.88
-2025-02-11,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.7666666666666666
-2025-02-11,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.5666666666666667
-2025-02-11,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.06
-2025-02-11,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.6
+2025-02-11,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.5
+2025-02-11,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
 2025-02-11,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,12.0
-2025-02-11,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,9.0
-2025-02-11,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.22
-2025-02-11,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
-2025-02-11,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.18
 2025-02-11,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.0
+2025-02-11,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.18
+2025-02-11,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.6
+2025-02-11,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.22
+2025-02-11,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,9.0
+2025-02-11,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
 2025-02-11,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-10,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
-2025-02-10,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,23.0
-2025-02-10,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
-2025-02-10,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,220.0
-2025-02-10,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.7999999999999994
-2025-02-10,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,150.0
 2025-02-10,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,70.0
-2025-02-10,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,500.0
 2025-02-10,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,80.0
-2025-02-10,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
-2025-02-10,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
+2025-02-10,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,500.0
+2025-02-10,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
+2025-02-10,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,150.0
+2025-02-10,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.7999999999999994
+2025-02-10,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,220.0
 2025-02-10,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
+2025-02-10,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
+2025-02-10,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,50.0
 2025-02-10,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,18.0
 2025-02-10,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,1000.0
 2025-02-10,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,8.5
-2025-02-10,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,50.0
 2025-02-10,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,300.0
 2025-02-10,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,320.0
 2025-02-10,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,75.0
 2025-02-10,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.05
+2025-02-10,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
 2025-02-10,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.25
-2025-02-10,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,12.0
-2025-02-10,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
-2025-02-10,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.5
+2025-02-10,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,23.0
+2025-02-10,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
 2025-02-10,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2025-02-10,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.06
+2025-02-10,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
 2025-02-10,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,25.0
 2025-02-10,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.3500000000000003
 2025-02-10,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.7999999999999994
 2025-02-10,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.7
-2025-02-10,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.97
 2025-02-10,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.8266666666666669
 2025-02-10,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.8133333333333335
-2025-02-10,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
-2025-02-10,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.06
-2025-02-10,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.0
-2025-02-10,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.18
-2025-02-10,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.6
+2025-02-10,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.5
+2025-02-10,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.97
+2025-02-10,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,12.0
 2025-02-10,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.22
-2025-02-10,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,8.333333333333334
-2025-02-10,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
 2025-02-10,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-09,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,70.0
-2025-02-09,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,80.0
-2025-02-09,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,500.0
-2025-02-09,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
-2025-02-09,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,150.0
-2025-02-09,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.7999999999999994
-2025-02-09,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,220.0
-2025-02-09,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
+2025-02-10,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
+2025-02-10,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,8.333333333333334
+2025-02-10,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
+2025-02-10,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.6
+2025-02-10,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.18
+2025-02-10,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.0
 2025-02-09,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
-2025-02-09,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,50.0
+2025-02-09,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,22.0
+2025-02-09,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
+2025-02-09,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
+2025-02-09,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,220.0
+2025-02-09,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.7999999999999994
+2025-02-09,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,150.0
+2025-02-09,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,70.0
+2025-02-09,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,500.0
+2025-02-09,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,80.0
+2025-02-09,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
+2025-02-09,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
 2025-02-09,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,18.0
 2025-02-09,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,1000.0
 2025-02-09,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,8.5
+2025-02-09,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,50.0
 2025-02-09,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,300.0
 2025-02-09,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,320.0
 2025-02-09,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,75.0
 2025-02-09,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.05
-2025-02-09,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
 2025-02-09,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.25
-2025-02-09,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,22.0
-2025-02-09,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
-2025-02-09,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-09,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.06
+2025-02-09,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
 2025-02-09,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
+2025-02-09,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.5
+2025-02-09,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
+2025-02-09,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-09,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,25.0
 2025-02-09,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.3500000000000003
 2025-02-09,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.7999999999999994
-2025-02-09,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.75
+2025-02-09,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.8999999999999997
 2025-02-09,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.82
 2025-02-09,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.82
-2025-02-09,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.5
-2025-02-09,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.8999999999999997
-2025-02-09,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,12.0
-2025-02-09,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.22
+2025-02-09,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.75
+2025-02-09,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.06
 2025-02-09,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-09,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
-2025-02-09,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,8.0
-2025-02-09,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
-2025-02-09,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.6
-2025-02-09,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.18
 2025-02-09,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.0
-2025-02-08,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
-2025-02-08,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,22.0
-2025-02-08,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
-2025-02-08,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,220.0
+2025-02-09,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.18
+2025-02-09,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.6
+2025-02-09,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.22
+2025-02-09,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,12.0
+2025-02-09,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,8.0
 2025-02-08,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.7999999999999994
-2025-02-08,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,150.0
-2025-02-08,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
-2025-02-08,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,70.0
 2025-02-08,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,500.0
+2025-02-08,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,70.0
+2025-02-08,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,150.0
+2025-02-08,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,22.0
+2025-02-08,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,220.0
+2025-02-08,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
+2025-02-08,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
 2025-02-08,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,80.0
-2025-02-08,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
+2025-02-08,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.05
 2025-02-08,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
 2025-02-08,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,18.0
 2025-02-08,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,1000.0
@@ -620,110 +684,111 @@ date,id,name,event_name,selection_id,odd
 2025-02-08,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,300.0
 2025-02-08,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,320.0
 2025-02-08,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,75.0
-2025-02-08,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.05
+2025-02-08,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
+2025-02-08,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
 2025-02-08,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.25
-2025-02-08,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.18
+2025-02-08,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
 2025-02-08,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,12.0
 2025-02-08,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.5
-2025-02-08,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
 2025-02-08,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-08,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,25.0
+2025-02-08,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
 2025-02-08,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.3500000000000003
 2025-02-08,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.7999999999999994
+2025-02-08,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.75
 2025-02-08,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.8999999999999997
 2025-02-08,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.82
 2025-02-08,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.82
-2025-02-08,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.75
+2025-02-08,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,25.0
 2025-02-08,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.06
 2025-02-08,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-08,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.0
+2025-02-08,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.18
 2025-02-08,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.6
 2025-02-08,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.22
 2025-02-08,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,8.0
 2025-02-08,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,12.0
-2025-02-08,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
-2025-02-07,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,133.33333333333334
+2025-02-07,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.7533333333333332
+2025-02-07,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.166666666666667
+2025-02-07,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2025-02-07,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,12.0
+2025-02-07,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0633333333333335
+2025-02-07,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.333333333333333
+2025-02-07,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.89
+2025-02-07,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.3433333333333335
+2025-02-07,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.6833333333333333
+2025-02-07,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.0
+2025-02-07,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.8333333333333335
+2025-02-07,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,25.0
+2025-02-07,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2025-02-07,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.5666666666666664
+2025-02-07,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1666666666666667
+2025-02-07,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2233333333333334
+2025-02-07,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,73.33333333333333
 2025-02-07,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,433.3333333333333
-2025-02-07,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,78.33333333333333
-2025-02-07,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,17.666666666666668
-2025-02-07,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.966666666666667
-2025-02-07,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,200.0
-2025-02-07,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,21.333333333333332
+2025-02-07,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,6.666666666666667
+2025-02-07,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
+2025-02-07,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.05
+2025-02-07,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,273.3333333333333
+2025-02-07,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,323.3333333333333
+2025-02-07,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,46.666666666666664
+2025-02-07,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,8.0
+2025-02-07,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,933.3333333333334
+2025-02-07,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,10.333333333333334
 2025-02-07,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.01
 2025-02-07,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,66.66666666666667
-2025-02-07,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.05
-2025-02-07,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,10.333333333333334
 2025-02-07,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,17.333333333333332
-2025-02-07,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,933.3333333333334
-2025-02-07,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,8.0
-2025-02-07,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,46.666666666666664
-2025-02-07,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,323.3333333333333
-2025-02-07,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,273.3333333333333
-2025-02-07,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,73.33333333333333
-2025-02-07,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
-2025-02-07,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
+2025-02-07,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,78.33333333333333
 2025-02-07,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.25
-2025-02-07,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1666666666666667
-2025-02-07,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,11.666666666666666
-2025-02-07,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.333333333333333
-2025-02-07,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-07,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,25.0
-2025-02-07,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.3433333333333335
-2025-02-07,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.8333333333333335
-2025-02-07,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.0
-2025-02-07,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,70.0
-2025-02-07,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.7533333333333332
-2025-02-07,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.89
-2025-02-07,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.6833333333333333
-2025-02-07,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0633333333333335
-2025-02-07,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,12.0
-2025-02-07,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-07,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.166666666666667
-2025-02-07,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.5666666666666664
-2025-02-07,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2233333333333334
-2025-02-07,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,6.666666666666667
 2025-02-07,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,8.0
-2025-02-06,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.7299999999999998
+2025-02-07,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,70.0
+2025-02-07,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,133.33333333333334
+2025-02-07,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
+2025-02-07,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,11.666666666666666
+2025-02-07,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,17.666666666666668
+2025-02-07,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,21.333333333333332
+2025-02-07,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,200.0
+2025-02-07,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.966666666666667
+2025-02-06,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
+2025-02-06,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,21.333333333333332
+2025-02-06,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
+2025-02-06,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,3.7000000000000006
+2025-02-06,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,100.0
+2025-02-06,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
+2025-02-06,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
+2025-02-06,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
+2025-02-06,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.0133333333333334
+2025-02-06,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,8.5
+2025-02-06,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,8.0
+2025-02-06,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,800.0
+2025-02-06,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,8.0
+2025-02-06,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,40.0
+2025-02-06,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,330.0
+2025-02-06,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,220.0
+2025-02-06,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,80.0
+2025-02-06,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.05
+2025-02-06,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
+2025-02-06,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.15
+2025-02-06,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,13.0
+2025-02-06,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.5
+2025-02-06,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
+2025-02-06,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.07
 2025-02-06,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-06,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,25.0
 2025-02-06,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.33
 2025-02-06,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.9
 2025-02-06,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.266666666666667
 2025-02-06,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.5233333333333334
+2025-02-06,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
 2025-02-06,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.92
-2025-02-06,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,8.0
-2025-02-06,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,800.0
-2025-02-06,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,100.0
-2025-02-06,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,75.0
-2025-02-06,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
-2025-02-06,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.0133333333333334
-2025-02-06,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,8.5
-2025-02-06,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,21.333333333333332
-2025-02-06,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,40.0
-2025-02-06,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
-2025-02-06,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,330.0
-2025-02-06,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,220.0
-2025-02-06,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,80.0
-2025-02-06,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.05
-2025-02-06,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
 2025-02-06,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.0
-2025-02-06,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,3.7000000000000006
-2025-02-06,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
-2025-02-06,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
-2025-02-06,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2266666666666666
-2025-02-06,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.07
+2025-02-06,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.7299999999999998
 2025-02-06,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,12.333333333333334
+2025-02-06,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2266666666666666
 2025-02-06,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-06,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.5
-2025-02-06,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,13.0
+2025-02-06,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,6.0
+2025-02-06,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
 2025-02-06,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.533333333333333
 2025-02-06,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.14
-2025-02-06,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,6.0
-2025-02-06,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,8.0
-2025-02-06,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
-2025-02-06,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
-2025-02-06,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,30.0
-2025-02-06,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.15
 2025-02-05,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,22.333333333333332
 2025-02-05,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,20.0
 2025-02-05,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
@@ -734,7 +799,7 @@ date,id,name,event_name,selection_id,odd
 2025-02-05,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
 2025-02-05,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.02
 2025-02-05,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,7.5
-2025-02-05,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1533333333333333
+2025-02-05,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,9.0
 2025-02-05,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,800.0
 2025-02-05,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,8.0
 2025-02-05,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,40.0
@@ -745,121 +810,121 @@ date,id,name,event_name,selection_id,odd
 2025-02-05,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,373.3333333333333
 2025-02-05,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.15
 2025-02-05,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,12.666666666666666
-2025-02-05,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.333333333333333
+2025-02-05,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.333333333333333
 2025-02-05,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,28.333333333333332
 2025-02-05,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0633333333333335
-2025-02-05,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2025-02-05,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,10.666666666666666
 2025-02-05,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,25.0
 2025-02-05,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.3233333333333335
 2025-02-05,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.9333333333333336
 2025-02-05,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.6333333333333333
 2025-02-05,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.4100000000000001
-2025-02-05,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,10.666666666666666
 2025-02-05,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.88
+2025-02-05,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.333333333333333
 2025-02-05,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.7666666666666666
 2025-02-05,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,13.0
-2025-02-05,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.4
-2025-02-05,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,9.0
-2025-02-05,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,5.666666666666667
 2025-02-05,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.24
 2025-02-05,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
-2025-02-05,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.333333333333333
 2025-02-05,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2025-02-05,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,5.666666666666667
+2025-02-05,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2025-02-05,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.4
+2025-02-05,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1533333333333333
+2025-02-04,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.0233333333333334
 2025-02-04,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,27.0
-2025-02-04,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,19.666666666666668
 2025-02-04,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
+2025-02-04,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,11.666666666666666
 2025-02-04,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,3.7000000000000006
 2025-02-04,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,90.0
 2025-02-04,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,100.0
 2025-02-04,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
 2025-02-04,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,56.666666666666664
-2025-02-04,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.0233333333333334
+2025-02-04,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.05
 2025-02-04,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,7.333333333333333
-2025-02-04,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1666666666666667
+2025-02-04,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,19.666666666666668
 2025-02-04,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,800.0
 2025-02-04,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,8.166666666666666
 2025-02-04,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,38.333333333333336
 2025-02-04,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,350.0
 2025-02-04,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,220.0
 2025-02-04,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,78.33333333333333
-2025-02-04,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.05
+2025-02-04,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
 2025-02-04,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,320.0
 2025-02-04,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.15
-2025-02-04,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,11.666666666666666
-2025-02-04,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.333333333333333
-2025-02-04,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
-2025-02-04,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,12.666666666666666
+2025-02-04,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2366666666666666
 2025-02-04,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,10.0
+2025-02-04,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.333333333333333
+2025-02-04,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-04,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,22.666666666666668
 2025-02-04,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.33
 2025-02-04,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.9
-2025-02-04,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.1
-2025-02-04,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.29
-2025-02-04,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.84
-2025-02-04,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0633333333333335
-2025-02-04,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.8
-2025-02-04,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-04,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.4333333333333336
 2025-02-04,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
-2025-02-04,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,5.0
-2025-02-04,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2366666666666666
-2025-02-04,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
-2025-02-04,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2025-02-04,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.29
+2025-02-04,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.8
+2025-02-04,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.84
+2025-02-04,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.1
+2025-02-04,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0633333333333335
+2025-02-04,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-04,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.133333333333334
-2025-02-03,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.03
-2025-02-03,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
-2025-02-03,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,27.0
-2025-02-03,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
-2025-02-03,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,3.7000000000000006
+2025-02-04,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1666666666666667
+2025-02-04,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.4333333333333336
+2025-02-04,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,5.0
+2025-02-04,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
+2025-02-04,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,12.666666666666666
 2025-02-03,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,90.0
-2025-02-03,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,100.0
-2025-02-03,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
 2025-02-03,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,50.0
-2025-02-03,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.05
+2025-02-03,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
+2025-02-03,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,100.0
+2025-02-03,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,27.0
+2025-02-03,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,3.7000000000000006
+2025-02-03,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
+2025-02-03,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
 2025-02-03,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
+2025-02-03,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.03
+2025-02-03,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,75.0
 2025-02-03,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,19.0
 2025-02-03,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,800.0
 2025-02-03,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,8.5
 2025-02-03,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,35.0
 2025-02-03,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,350.0
 2025-02-03,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,220.0
-2025-02-03,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,75.0
-2025-02-03,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
+2025-02-03,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.05
 2025-02-03,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,320.0
+2025-02-03,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
 2025-02-03,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.15
-2025-02-03,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.23
+2025-02-03,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
 2025-02-03,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,10.0
 2025-02-03,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.0
-2025-02-03,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2025-02-03,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
 2025-02-03,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,18.0
 2025-02-03,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.34
 2025-02-03,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.85
-2025-02-03,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
+2025-02-03,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.1
 2025-02-03,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.29
 2025-02-03,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.8
 2025-02-03,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.84
-2025-02-03,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.1
+2025-02-03,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-03,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.07
 2025-02-03,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-03,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.2
 2025-02-03,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.16
 2025-02-03,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.5
+2025-02-03,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.23
 2025-02-03,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,5.0
-2025-02-03,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
 2025-02-03,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,12.0
-2025-02-02,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,100.0
-2025-02-02,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.03
-2025-02-02,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,50.0
-2025-02-02,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
-2025-02-02,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,27.0
 2025-02-02,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,90.0
+2025-02-02,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
+2025-02-02,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,100.0
+2025-02-02,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,10.333333333333334
 2025-02-02,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,3.6333333333333333
 2025-02-02,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
-2025-02-02,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,19.0
-2025-02-02,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
-2025-02-02,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.16
-2025-02-02,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,800.0
+2025-02-02,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,27.0
+2025-02-02,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.03
+2025-02-02,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,50.0
 2025-02-02,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,8.5
+2025-02-02,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,7.0
+2025-02-02,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,19.0
+2025-02-02,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,800.0
 2025-02-02,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,35.0
 2025-02-02,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,350.0
 2025-02-02,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,220.0
@@ -867,93 +932,93 @@ date,id,name,event_name,selection_id,odd
 2025-02-02,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.05
 2025-02-02,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,320.0
 2025-02-02,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.1566666666666665
-2025-02-02,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,10.333333333333334
-2025-02-02,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.84
 2025-02-02,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
-2025-02-02,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,12.0
+2025-02-02,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,10.0
+2025-02-02,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.0
+2025-02-02,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
+2025-02-02,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2025-02-02,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,16.0
 2025-02-02,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.34
 2025-02-02,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.85
 2025-02-02,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.1
-2025-02-02,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.29
 2025-02-02,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.8
-2025-02-02,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,10.0
-2025-02-02,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.0
+2025-02-02,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.84
+2025-02-02,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.29
 2025-02-02,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.07
-2025-02-02,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,16.0
-2025-02-02,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-02,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-02,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.5666666666666664
-2025-02-02,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2233333333333334
+2025-02-02,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,12.0
 2025-02-02,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,5.0
+2025-02-02,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2233333333333334
 2025-02-02,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
-2025-02-02,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
+2025-02-02,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.16
 2025-02-02,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.2
-2025-02-01,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,100.0
-2025-02-01,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,50.0
-2025-02-01,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
-2025-02-01,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,27.0
-2025-02-01,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,90.0
-2025-02-01,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,3.6
-2025-02-01,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
-2025-02-01,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,6.833333333333333
+2025-02-02,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-01,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.0333333333333334
-2025-02-01,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,31.666666666666668
+2025-02-01,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,10.0
+2025-02-01,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,27.0
+2025-02-01,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
+2025-02-01,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,3.6
+2025-02-01,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,90.0
+2025-02-01,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,100.0
+2025-02-01,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
+2025-02-01,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,50.0
+2025-02-01,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,286.6666666666667
+2025-02-01,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,6.833333333333333
 2025-02-01,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,18.666666666666668
 2025-02-01,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,700.0
 2025-02-01,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,9.0
+2025-02-01,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,31.666666666666668
 2025-02-01,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,313.3333333333333
 2025-02-01,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,196.66666666666666
 2025-02-01,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,66.66666666666667
 2025-02-01,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.0466666666666666
-2025-02-01,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,286.6666666666667
 2025-02-01,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.16
-2025-02-01,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,10.0
 2025-02-01,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
-2025-02-01,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-01,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0766666666666669
 2025-02-01,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,10.0
+2025-02-01,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,5.833333333333333
+2025-02-01,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-01,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,14.333333333333334
 2025-02-01,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.3433333333333335
 2025-02-01,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.83
 2025-02-01,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.1366666666666667
+2025-02-01,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2833333333333334
 2025-02-01,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.8
 2025-02-01,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.84
-2025-02-01,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,5.833333333333333
-2025-02-01,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2833333333333334
-2025-02-01,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,12.0
-2025-02-01,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2133333333333332
-2025-02-01,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-02-01,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
-2025-02-01,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,5.0
 2025-02-01,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
-2025-02-01,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.6666666666666665
-2025-02-01,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1666666666666667
+2025-02-01,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0766666666666669
+2025-02-01,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-02-01,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.133333333333334
-2025-01-31,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.0466666666666666
-2025-01-31,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,10.0
-2025-01-31,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,27.0
-2025-01-31,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
+2025-02-01,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1666666666666667
+2025-02-01,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.6666666666666665
+2025-02-01,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2133333333333332
+2025-02-01,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,5.0
+2025-02-01,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
+2025-02-01,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,12.0
 2025-01-31,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,3.6
-2025-01-31,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,220.0
-2025-01-31,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,90.0
-2025-01-31,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,100.0
 2025-01-31,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
+2025-01-31,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,100.0
+2025-01-31,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,90.0
+2025-01-31,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.16
+2025-01-31,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
+2025-01-31,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,27.0
+2025-01-31,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,10.0
+2025-01-31,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.0466666666666666
 2025-01-31,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,50.0
-2025-01-31,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
+2025-01-31,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,10.0
 2025-01-31,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,6.166666666666667
 2025-01-31,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,18.0
 2025-01-31,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,500.0
-2025-01-31,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,10.0
 2025-01-31,2205048433,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,25.0
 2025-01-31,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,240.0
 2025-01-31,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,150.0
 2025-01-31,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,50.0
 2025-01-31,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.04
-2025-01-31,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.16
-2025-01-31,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.7999999999999994
+2025-01-31,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
+2025-01-31,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,220.0
 2025-01-31,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,10.0
-2025-01-31,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,5.5
 2025-01-31,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
+2025-01-31,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,5.5
+2025-01-31,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
 2025-01-31,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-01-31,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,13.0
 2025-01-31,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.3633333333333333
@@ -963,23 +1028,23 @@ date,id,name,event_name,selection_id,odd
 2025-01-31,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.8266666666666669
 2025-01-31,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.1366666666666667
 2025-01-31,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.09
-2025-01-31,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
-2025-01-31,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0066666666666666
-2025-01-31,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.9333333333333336
 2025-01-31,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1866666666666665
-2025-01-31,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2
-2025-01-31,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,5.0
 2025-01-31,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,10.666666666666666
-2025-01-30,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
-2025-01-30,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,100.0
-2025-01-30,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,90.0
-2025-01-30,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,10.0
-2025-01-30,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,3.6
-2025-01-30,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
-2025-01-30,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,27.0
+2025-01-31,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2
+2025-01-31,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.7999999999999994
+2025-01-31,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,5.0
+2025-01-31,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.9333333333333336
+2025-01-31,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0066666666666666
 2025-01-30,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.05
+2025-01-30,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,10.0
+2025-01-30,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,27.0
+2025-01-30,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
+2025-01-30,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,3.6
+2025-01-30,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,90.0
+2025-01-30,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,100.0
+2025-01-30,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
 2025-01-30,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,50.0
-2025-01-30,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.04
+2025-01-30,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
 2025-01-30,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,6.0
 2025-01-30,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,18.0
 2025-01-30,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,500.0
@@ -988,39 +1053,41 @@ date,id,name,event_name,selection_id,odd
 2025-01-30,2205048432,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,240.0
 2025-01-30,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,150.0
 2025-01-30,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,50.0
-2025-01-30,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
-2025-01-30,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,220.0
+2025-01-30,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.04
 2025-01-30,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.16
-2025-01-30,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.7999999999999994
+2025-01-30,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,220.0
 2025-01-30,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,10.0
 2025-01-30,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,5.5
+2025-01-30,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
 2025-01-30,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-01-30,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,13.0
 2025-01-30,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.37
 2025-01-30,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.7000000000000006
-2025-01-30,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
 2025-01-30,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.29
 2025-01-30,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.82
 2025-01-30,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.82
 2025-01-30,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.1
 2025-01-30,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.09
-2025-01-30,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.01
-2025-01-30,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.9
-2025-01-30,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.19
-2025-01-30,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2
-2025-01-30,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,5.0
-2025-01-30,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
+2025-01-30,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.7999999999999994
 2025-01-30,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,10.0
-2025-01-29,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,80.0
-2025-01-29,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,50.0
-2025-01-29,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
-2025-01-29,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,93.33333333333333
+2025-01-30,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,5.0
+2025-01-30,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2
+2025-01-30,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,11.0
+2025-01-30,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.19
+2025-01-30,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.9
+2025-01-30,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.01
 2025-01-29,2205048437,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,5.933333333333334
-2025-01-29,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,3.6
 2025-01-29,2205048448,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,10.0
 2025-01-29,2205048447,Die Linke,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,29.0
-2025-01-29,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.0533333333333335
 2025-01-29,2205048446,FW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,160.0
+2025-01-29,2205048444,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,3.6
+2025-01-29,2205048442,FDP,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,80.0
+2025-01-29,2205048441,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,93.33333333333333
+2025-01-29,2205048440,FW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,300.0
+2025-01-29,2205048439,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,50.0
+2025-01-29,2205048438,AfD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.0533333333333335
+2025-01-29,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,206.66666666666666
+2025-01-29,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,21.666666666666668
 2025-01-29,2205048436,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,18.0
 2025-01-29,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,500.0
 2025-01-29,2205048434,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,10.0
@@ -1029,27 +1096,25 @@ date,id,name,event_name,selection_id,odd
 2025-01-29,2205048431,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,150.0
 2025-01-29,2205048430,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,50.0
 2025-01-29,2205048429,CDU/CSU,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.04
-2025-01-29,2205048428,FDP,Nejvíc hlasů získá,25-POSITION_VOTES-a,206.66666666666666
-2025-01-29,2205048451,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,21.666666666666668
 2025-01-29,2205048449,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.1666666666666667
-2025-01-29,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,4.666666666666667
+2025-01-29,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,5.5
 2025-01-29,2205048452,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,8.666666666666666
 2025-01-29,2205048466,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.09
-2025-01-29,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
+2025-01-29,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
+2025-01-29,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,13.0
 2025-01-29,2213007916,Méně než 5.01%,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.37
 2025-01-29,2213007915,5.01% a více,FDP - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.7
 2025-01-29,2213007914,5.01% a více,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.1
 2025-01-29,2213007913,Méně než 5.01%,Die Linke - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.29
 2025-01-29,2213007912,5.01% a více,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.82
 2025-01-29,2213007911,Méně než 5.01%,BSW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.82
-2025-01-29,2205048467,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,5.5
-2025-01-29,2213007917,5.01% a více,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,13.0
+2025-01-29,2213007918,Méně než 5.01%,FW - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-01-29,2205048465,35.01% a více,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,10.0
 2025-01-29,2205048463,16.01% a více,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.8666666666666667
 2025-01-29,2205048462,Méně než 16.01%,B'90/Grüne - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.19
 2025-01-29,2205048461,25.01% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.9333333333333336
 2025-01-29,2205048460,Méně než 25.01%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.1866666666666665
-2025-01-29,2205048454,FW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,60.0
+2025-01-29,2205048459,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,4.666666666666667
 2025-01-29,2205048456,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,11.666666666666666
 2025-01-29,2205048464,Méně než 35.01%,CDU/CSU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.01
 2025-01-28,2205048435,FW,Nejvíc hlasů získá,25-POSITION_VOTES-a,500.0
