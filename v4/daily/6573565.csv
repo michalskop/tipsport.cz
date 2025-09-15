@@ -1,12 +1,12 @@
 date,id,name,event_name,selection_id,odd
 2025-09-15,2391946773,24.51 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 25.11.2025,25-GENERAL_QUESTION_TOTAL-a,2.68
-2025-09-15,2391946772,Méně než 24.51,Kurz devizového trhu 1 EUR podle ČNB pro den 25.11.2025,25-GENERAL_QUESTION_TOTAL-a,1.4
+2025-09-15,2391946772,Méně než 24.51,Kurz devizového trhu 1 EUR podle ČNB pro den 25.11.2025,25-GENERAL_QUESTION_TOTAL-a,1.3999999999999997
 2025-09-15,2391946771,120123.5 a více,Kurz 1 Bitcoin v USD dne 25.11.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2025-09-15,2391946770,Méně než 120123.5,Kurz 1 Bitcoin v USD dne 25.11.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
-2025-09-15,2391946769,Méně než 3631.5,Cena 1 oz zlata v USD dne 25.11.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.34
-2025-09-15,2391946768,3631.5 a více,Cena 1 oz zlata v USD dne 25.11.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.525
+2025-09-15,2391946769,Méně než 3631.5,Cena 1 oz zlata v USD dne 25.11.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.4
+2025-09-15,2391946768,3631.5 a více,Cena 1 oz zlata v USD dne 25.11.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
 2025-09-15,2391946767,69.5 a více,Cena 1 barel ropa Brent v USD dne 25.11.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.16
-2025-09-15,2391946766,Méně než 69.5,Cena 1 barel ropa Brent v USD dne 25.11.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6
+2025-09-15,2391946766,Méně než 69.5,Cena 1 barel ropa Brent v USD dne 25.11.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6000000000000003
 2025-09-14,2391946770,Méně než 120123.5,Kurz 1 Bitcoin v USD dne 25.11.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
 2025-09-14,2391946766,Méně než 69.5,Cena 1 barel ropa Brent v USD dne 25.11.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.6
 2025-09-14,2391946767,69.5 a více,Cena 1 barel ropa Brent v USD dne 25.11.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.16
