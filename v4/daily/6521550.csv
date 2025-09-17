@@ -14,7 +14,7 @@ date,id,name,event_name,selection_id,odd
 2025-09-17,2360304160,Ne,Nejvíc hlasů získá Přísaha,25-POSITION_PARTICIPANT_VOTES-a,1.0
 2025-09-17,2360304159,Ano,Nejvíc hlasů získá Přísaha,25-POSITION_PARTICIPANT_VOTES-a,1234.0
 2025-09-17,2360304157,Ano,Nejvíc hlasů získá Motoristé sobě,25-POSITION_PARTICIPANT_VOTES-a,200.0
-2025-09-17,2360290195,Méně než 5.01%,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.41
+2025-09-17,2360290195,Méně než 5.01%,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.4450000000000003
 2025-09-17,2360304156,Ne,Nejvíc hlasů získá STAČILO!,25-POSITION_PARTICIPANT_VOTES-a,1.0
 2025-09-17,2360304155,Ano,Nejvíc hlasů získá STAČILO!,25-POSITION_PARTICIPANT_VOTES-a,160.0
 2025-09-17,2360304154,Ne,Nejvíc hlasů získá Piráti,25-POSITION_PARTICIPANT_VOTES-a,1.0
@@ -57,7 +57,7 @@ date,id,name,event_name,selection_id,odd
 2025-09-17,2372396238,Ne,Umístění STAN do 4. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,2.16
 2025-09-17,2372396237,Ano,Umístění STAN do 4. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.6
 2025-09-17,2360290196,Méně než 10.01%,STAN - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.05
-2025-09-17,2360290194,5.01% a více,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.26
+2025-09-17,2360290194,5.01% a více,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.255
 2025-09-17,2379213292,ANO 2011,Kdo získá více hlasů (ANO 2011 x STAN),25-BETTER_OF_VOTES-a,1.0
 2025-09-17,2213750205,Méně než 65.43%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.45
 2025-09-17,2360290163,Ne,Umístění STAČILO! do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
@@ -68,7 +68,7 @@ date,id,name,event_name,selection_id,odd
 2025-09-17,2360290158,Ano,Umístění STAN do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,18.0
 2025-09-17,2360290157,Ne,Umístění SPD do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
 2025-09-17,2360290156,Ano,Umístění SPD do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,13.0
-2025-09-17,2360290155,Ne,Umístění SPOLU do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,10.32
+2025-09-17,2360290155,Ne,Umístění SPOLU do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,10.66
 2025-09-17,2360290154,Ano,Umístění SPOLU do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.01
 2025-09-17,2360290153,Ano,Umístění ANO 2011 do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
 2025-09-17,2360290152,Ne,Umístění ANO 2011 do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,30.0
