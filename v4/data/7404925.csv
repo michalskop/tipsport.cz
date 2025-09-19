@@ -1,4 +1,32 @@
 date,id,name,odd,event_name,selection_id
+2025-09-19T04:05:51,2394956625,Ano,5.0,Hlavní město Praha - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956626,Ne,1.11,Hlavní město Praha - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956627,Ano,1.01,Jihočeský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956628,Ne,9.19,Jihočeský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956629,Ano,1.03,Jihomoravský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956630,Ne,7.81,Jihomoravský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956631,Ano,1.0,Karlovarský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956632,Ne,123.0,Karlovarský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956633,Ano,1.01,Kraj Vysočina - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956634,Ne,10.0,Kraj Vysočina - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956635,Ano,1.02,Královéhradecký kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956636,Ne,8.44,Královéhradecký kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956637,Ano,1.0,Liberecký kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956638,Ne,11.5,Liberecký kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956639,Ne,234.0,Moravskoslezský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956640,Ano,1.0,Moravskoslezský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956641,Ano,1.0,Olomoucký kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956642,Ne,25.0,Olomoucký kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956643,Ne,8.44,Pardubický kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956644,Ano,1.02,Pardubický kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956645,Ano,1.0,Plzeňský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956646,Ne,17.0,Plzeňský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956647,Ne,8.44,Středočeský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956648,Ano,1.02,Středočeský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956649,Ne,345.0,Ústecký kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956650,Ano,1.0,Ústecký kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956651,Ne,9.5,Zlínský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
+2025-09-19T04:05:51,2394956652,Ano,1.01,Zlínský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
 2025-09-18T20:05:58,2394956625,Ano,5.0,Hlavní město Praha - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
 2025-09-18T20:05:58,2394956626,Ne,1.11,Hlavní město Praha - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
 2025-09-18T20:05:58,2394956627,Ano,1.01,Jihočeský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a
