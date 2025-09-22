@@ -1,5 +1,5 @@
 date,id,name,event_name,selection_id,odd
-2025-09-22,2401417348,Ano,Turek Filip získá více preferenčních hlasů než Bartoš Ivan,25-GENERAL_QUESTION_YES_NO-a,2.025
+2025-09-22,2401417348,Ano,Turek Filip získá více preferenčních hlasů než Bartoš Ivan,25-GENERAL_QUESTION_YES_NO-a,1.9833333333333334
 2025-09-22,2394956636,Ne,Královéhradecký kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a,8.44
 2025-09-22,2394956647,Ne,Středočeský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a,8.44
 2025-09-22,2394956646,Ne,Plzeňský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a,17.0
@@ -26,28 +26,28 @@ date,id,name,event_name,selection_id,odd
 2025-09-22,2394956648,Ano,Středočeský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.02
 2025-09-22,2394956638,Ne,Liberecký kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a,11.5
 2025-09-22,2394956650,Ano,Ústecký kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.0
-2025-09-22,2401400122,Ano,Prokšanová Petra získá více preferenčních hlasů než Maláčová Jana,25-GENERAL_QUESTION_YES_NO-a,1.6
+2025-09-22,2401400122,Ano,Prokšanová Petra získá více preferenčních hlasů než Maláčová Jana,25-GENERAL_QUESTION_YES_NO-a,1.5166666666666666
 2025-09-22,2394956651,Ne,Zlínský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a,9.5
-2025-09-22,2401400132,Ano,STAN dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Libereckém kraji,25-GENERAL_QUESTION_YES_NO-a,1.36
-2025-09-22,2401400131,Ne,STAN dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Libereckém kraji,25-GENERAL_QUESTION_YES_NO-a,2.75
-2025-09-22,2401400130,Ne,SPOLU se umístí do 2.místa podle počtu hlasů v Moravskoslezském kraji,25-GENERAL_QUESTION_YES_NO-a,1.775
-2025-09-22,2401400129,Ano,SPOLU se umístí do 2.místa podle počtu hlasů v Moravskoslezském kraji,25-GENERAL_QUESTION_YES_NO-a,1.865
+2025-09-22,2401400132,Ano,STAN dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Libereckém kraji,25-GENERAL_QUESTION_YES_NO-a,1.3633333333333333
+2025-09-22,2401400131,Ne,STAN dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Libereckém kraji,25-GENERAL_QUESTION_YES_NO-a,2.736666666666667
+2025-09-22,2401400130,Ne,SPOLU se umístí do 2.místa podle počtu hlasů v Moravskoslezském kraji,25-GENERAL_QUESTION_YES_NO-a,1.7700000000000002
+2025-09-22,2401400129,Ano,SPOLU se umístí do 2.místa podle počtu hlasů v Moravskoslezském kraji,25-GENERAL_QUESTION_YES_NO-a,1.8699999999999999
 2025-09-22,2401400128,Ne,SPOLU dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Hlavním městě Praha,25-GENERAL_QUESTION_YES_NO-a,8.44
 2025-09-22,2401400127,Ano,SPOLU dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Hlavním městě Praha,25-GENERAL_QUESTION_YES_NO-a,1.02
-2025-09-22,2401400126,Ano,SPD dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Moravskoslezském kraji,25-GENERAL_QUESTION_YES_NO-a,1.6
+2025-09-22,2401400126,Ano,SPD dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Moravskoslezském kraji,25-GENERAL_QUESTION_YES_NO-a,1.6000000000000003
 2025-09-22,2401400125,Ne,SPD dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Moravskoslezském kraji,25-GENERAL_QUESTION_YES_NO-a,2.11
-2025-09-22,2401400124,Ano,Schillerová Alena získá více preferenčních hlasů než Fiala Petr,25-GENERAL_QUESTION_YES_NO-a,1.6400000000000001
-2025-09-22,2401400123,Ne,Schillerová Alena získá více preferenčních hlasů než Fiala Petr,25-GENERAL_QUESTION_YES_NO-a,2.045
-2025-09-22,2401417347,Ne,Turek Filip získá více preferenčních hlasů než Bartoš Ivan,25-GENERAL_QUESTION_YES_NO-a,1.6600000000000001
-2025-09-22,2401400121,Ne,Prokšanová Petra získá více preferenčních hlasů než Maláčová Jana,25-GENERAL_QUESTION_YES_NO-a,2.115
-2025-09-22,2401400120,Ne,Nejvyšší procentuální volební účast ze všech krajů ČR bude v Hlavním městě Praha,25-GENERAL_QUESTION_YES_NO-a,7.615
-2025-09-22,2401400119,Ano,Nejvyšší procentuální volební účast ze všech krajů ČR bude v Hlavním městě Praha,25-GENERAL_QUESTION_YES_NO-a,1.0350000000000001
-2025-09-22,2401400118,Ano,Nejnižší procentuální volební účast ze všech krajů ČR bude v Ústeckém kraji,25-GENERAL_QUESTION_YES_NO-a,1.825
-2025-09-22,2401400117,Ne,Nejnižší procentuální volební účast ze všech krajů ČR bude v Ústeckém kraji,25-GENERAL_QUESTION_YES_NO-a,1.815
-2025-09-22,2401400116,Ano,Brzesková Monika získá více preferenčních hlasů než Stanjura Zbyněk,25-GENERAL_QUESTION_YES_NO-a,1.35
-2025-09-22,2401400115,Ne,Brzesková Monika získá více preferenčních hlasů než Stanjura Zbyněk,25-GENERAL_QUESTION_YES_NO-a,2.815
-2025-09-22,2401400114,Ano,ANO 2011 dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Ústeckém kraji,25-GENERAL_QUESTION_YES_NO-a,1.375
-2025-09-22,2401400113,Ne,ANO 2011 dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Ústeckém kraji,25-GENERAL_QUESTION_YES_NO-a,2.6950000000000003
+2025-09-22,2401400124,Ano,Schillerová Alena získá více preferenčních hlasů než Fiala Petr,25-GENERAL_QUESTION_YES_NO-a,1.61
+2025-09-22,2401400123,Ne,Schillerová Alena získá více preferenčních hlasů než Fiala Petr,25-GENERAL_QUESTION_YES_NO-a,2.0966666666666667
+2025-09-22,2401417347,Ne,Turek Filip získá více preferenčních hlasů než Bartoš Ivan,25-GENERAL_QUESTION_YES_NO-a,1.6900000000000002
+2025-09-22,2401400121,Ne,Prokšanová Petra získá více preferenčních hlasů než Maláčová Jana,25-GENERAL_QUESTION_YES_NO-a,2.34
+2025-09-22,2401400120,Ne,Nejvyšší procentuální volební účast ze všech krajů ČR bude v Hlavním městě Praha,25-GENERAL_QUESTION_YES_NO-a,7.353333333333334
+2025-09-22,2401400119,Ano,Nejvyšší procentuální volební účast ze všech krajů ČR bude v Hlavním městě Praha,25-GENERAL_QUESTION_YES_NO-a,1.04
+2025-09-22,2401400118,Ano,Nejnižší procentuální volební účast ze všech krajů ČR bude v Ústeckém kraji,25-GENERAL_QUESTION_YES_NO-a,1.843333333333333
+2025-09-22,2401400117,Ne,Nejnižší procentuální volební účast ze všech krajů ČR bude v Ústeckém kraji,25-GENERAL_QUESTION_YES_NO-a,1.7966666666666669
+2025-09-22,2401400116,Ano,Brzesková Monika získá více preferenčních hlasů než Stanjura Zbyněk,25-GENERAL_QUESTION_YES_NO-a,1.3
+2025-09-22,2401400115,Ne,Brzesková Monika získá více preferenčních hlasů než Stanjura Zbyněk,25-GENERAL_QUESTION_YES_NO-a,3.1333333333333333
+2025-09-22,2401400114,Ano,ANO 2011 dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Ústeckém kraji,25-GENERAL_QUESTION_YES_NO-a,1.3666666666666665
+2025-09-22,2401400113,Ne,ANO 2011 dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Ústeckém kraji,25-GENERAL_QUESTION_YES_NO-a,2.7266666666666666
 2025-09-22,2394956652,Ano,Zlínský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.01
 2025-09-21,2394956642,Ne,Olomoucký kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a,25.0
 2025-09-21,2394956638,Ne,Liberecký kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a,11.5
