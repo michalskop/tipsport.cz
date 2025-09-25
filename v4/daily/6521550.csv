@@ -139,8 +139,8 @@ date,id,name,event_name,selection_id,odd
 2025-09-25,2360304154,Ne,Nejvíc hlasů získá Piráti,25-POSITION_PARTICIPANT_VOTES-a,1.0
 2025-09-25,2379213513,Piráti,Kdo získá více hlasů (SPD x Piráti),25-BETTER_OF_VOTES-a,6.21
 2025-09-25,2398006152,Ano,Umístění Volt do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,70.0
-2025-09-25,2398006146,Ano,Umístění Motoristé sobě do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.8
-2025-09-25,2398006147,Ne,Umístění Motoristé sobě do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.88
+2025-09-25,2398006146,Ano,Umístění Motoristé sobě do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.8399999999999999
+2025-09-25,2398006147,Ne,Umístění Motoristé sobě do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.8399999999999999
 2025-09-25,2398006148,Ano,Umístění Přísaha do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,22.0
 2025-09-25,2398006149,Ne,Umístění Přísaha do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
 2025-09-25,2398006150,Ano,Umístění ČR1 do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,70.0
@@ -153,10 +153,10 @@ date,id,name,event_name,selection_id,odd
 2025-09-25,2399098527,11.01% a více,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.97
 2025-09-25,2400398509,62.51% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.25
 2025-09-25,2400398510,Méně než 62.51%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,3.48
-2025-09-25,2398006145,Ne,Umístění STAČILO! do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,2.89
-2025-09-25,2398006144,Ano,Umístění STAČILO! do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.33
-2025-09-25,2398006143,Ne,Umístění Piráti do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,4.95
-2025-09-25,2398006142,Ano,Umístění Piráti do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.13
+2025-09-25,2398006145,Ne,Umístění STAČILO! do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,2.825
+2025-09-25,2398006144,Ano,Umístění STAČILO! do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.355
+2025-09-25,2398006143,Ne,Umístění Piráti do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,5.285
+2025-09-25,2398006142,Ano,Umístění Piráti do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.115
 2025-09-25,2398006141,Ne,Umístění STAN do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,10.32
 2025-09-25,2398006140,Ano,Umístění STAN do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.01
 2025-09-25,2398006139,Ano,Umístění SPD do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
