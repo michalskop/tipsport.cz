@@ -1,5 +1,5 @@
 date,id,name,event_name,selection_id,odd
-2025-09-27,2404077199,Ne,Havlíček Karel získá více preferenčních hlasů než Černochová Jana,25-GENERAL_QUESTION_YES_NO-a,1.67
+2025-09-27,2404077199,Ne,Havlíček Karel získá více preferenčních hlasů než Černochová Jana,25-GENERAL_QUESTION_YES_NO-a,1.69
 2025-09-27,2394956650,Ano,Ústecký kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.0
 2025-09-27,2394956648,Ano,Středočeský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.04
 2025-09-27,2394956647,Ne,Středočeský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a,7.28
@@ -33,13 +33,13 @@ date,id,name,event_name,selection_id,odd
 2025-09-27,2401417347,Ne,Turek Filip získá více preferenčních hlasů než Bartoš Ivan,25-GENERAL_QUESTION_YES_NO-a,2.31
 2025-09-27,2401400132,Ano,STAN dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Libereckém kraji,25-GENERAL_QUESTION_YES_NO-a,1.33
 2025-09-27,2401400131,Ne,STAN dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Libereckém kraji,25-GENERAL_QUESTION_YES_NO-a,2.88
-2025-09-27,2401400130,Ne,SPOLU se umístí do 2.místa podle počtu hlasů v Moravskoslezském kraji,25-GENERAL_QUESTION_YES_NO-a,1.75
-2025-09-27,2401400129,Ano,SPOLU se umístí do 2.místa podle počtu hlasů v Moravskoslezském kraji,25-GENERAL_QUESTION_YES_NO-a,1.9
+2025-09-27,2401400130,Ne,SPOLU se umístí do 2.místa podle počtu hlasů v Moravskoslezském kraji,25-GENERAL_QUESTION_YES_NO-a,1.73
+2025-09-27,2401400129,Ano,SPOLU se umístí do 2.místa podle počtu hlasů v Moravskoslezském kraji,25-GENERAL_QUESTION_YES_NO-a,1.9249999999999998
 2025-09-27,2401400128,Ne,SPOLU dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Hlavním městě Praha,25-GENERAL_QUESTION_YES_NO-a,7.81
 2025-09-27,2401400127,Ano,SPOLU dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Hlavním městě Praha,25-GENERAL_QUESTION_YES_NO-a,1.03
 2025-09-27,2401400126,Ano,SPD dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Moravskoslezském kraji,25-GENERAL_QUESTION_YES_NO-a,1.4
 2025-09-27,2401400125,Ne,SPD dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Moravskoslezském kraji,25-GENERAL_QUESTION_YES_NO-a,2.6
-2025-09-27,2404077198,Ano,Havlíček Karel získá více preferenčních hlasů než Černochová Jana,25-GENERAL_QUESTION_YES_NO-a,2.0
+2025-09-27,2404077198,Ano,Havlíček Karel získá více preferenčních hlasů než Černochová Jana,25-GENERAL_QUESTION_YES_NO-a,1.975
 2025-09-27,2401400123,Ne,Schillerová Alena získá více preferenčních hlasů než Fiala Petr,25-GENERAL_QUESTION_YES_NO-a,1.7
 2025-09-27,2401400118,Ano,Nejnižší procentuální volební účast ze všech krajů ČR bude v Ústeckém kraji,25-GENERAL_QUESTION_YES_NO-a,1.9
 2025-09-27,2401400114,Ano,ANO 2011 dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Ústeckém kraji,25-GENERAL_QUESTION_YES_NO-a,1.35
@@ -49,8 +49,8 @@ date,id,name,event_name,selection_id,odd
 2025-09-27,2401400113,Ne,ANO 2011 dosáhne ze všech krajů ČR nejvyšší procentuální volební zisk v Ústeckém kraji,25-GENERAL_QUESTION_YES_NO-a,2.79
 2025-09-27,2401400119,Ano,Nejvyšší procentuální volební účast ze všech krajů ČR bude v Hlavním městě Praha,25-GENERAL_QUESTION_YES_NO-a,1.05
 2025-09-27,2401400120,Ne,Nejvyšší procentuální volební účast ze všech krajů ČR bude v Hlavním městě Praha,25-GENERAL_QUESTION_YES_NO-a,6.83
-2025-09-27,2401400121,Ne,Prokšanová Petra získá více preferenčních hlasů než Maláčová Jana,25-GENERAL_QUESTION_YES_NO-a,3.21
-2025-09-27,2401400122,Ano,Prokšanová Petra získá více preferenčních hlasů než Maláčová Jana,25-GENERAL_QUESTION_YES_NO-a,1.27
+2025-09-27,2401400121,Ne,Prokšanová Petra získá více preferenčních hlasů než Maláčová Jana,25-GENERAL_QUESTION_YES_NO-a,3.12
+2025-09-27,2401400122,Ano,Prokšanová Petra získá více preferenčních hlasů než Maláčová Jana,25-GENERAL_QUESTION_YES_NO-a,1.2850000000000001
 2025-09-26,2394956637,Ano,Liberecký kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.0
 2025-09-26,2394956648,Ano,Středočeský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a,1.03
 2025-09-26,2394956647,Ne,Středočeský kraj - nejvíce hlasů získá ANO 2011,25-GENERAL_QUESTION_YES_NO-a,7.81
