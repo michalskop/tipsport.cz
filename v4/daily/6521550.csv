@@ -1,7 +1,7 @@
 date,id,name,event_name,selection_id,odd
 2025-10-02,2411191329,Méně než 67.51%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.35
 2025-10-02,2374735096,Ano,Umístění Voluntia do 4. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,234.0
-2025-10-02,2372396240,Ano,Umístění Piráti do 4. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.7
+2025-10-02,2372396240,Ano,Umístění Piráti do 4. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.6999999999999997
 2025-10-02,2372396241,Ne,Umístění STAČILO! do 4. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
 2025-10-02,2372396242,Ano,Umístění STAČILO! do 4. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,14.0
 2025-10-02,2372396243,Ano,Umístění Motoristé sobě do 4. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,14.0
@@ -27,7 +27,7 @@ date,id,name,event_name,selection_id,odd
 2025-10-02,2371582531,Ano,Umístění Volt do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,987.0
 2025-10-02,2371582532,Ano,Umístění Volt do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,456.0
 2025-10-02,2371582534,Méně než 5.01%,Volt - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
-2025-10-02,2372396236,Ne,Umístění SPD do 4. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,4.95
+2025-10-02,2372396236,Ne,Umístění SPD do 4. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,4.950000000000001
 2025-10-02,2371582535,5.01% a více,Volt - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,100.0
 2025-10-02,2372396231,Ano,Umístění ANO 2011 do 4. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
 2025-10-02,2372396232,Ne,Umístění ANO 2011 do 4. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,120.0
@@ -45,14 +45,14 @@ date,id,name,event_name,selection_id,odd
 2025-10-02,2379213510,SPD,Kdo získá více hlasů (SPD x STAN),25-BETTER_OF_VOTES-a,1.6
 2025-10-02,2379213511,STAN,Kdo získá více hlasů (SPD x STAN),25-BETTER_OF_VOTES-a,2.16
 2025-10-02,2379213512,SPD,Kdo získá více hlasů (SPD x Piráti),25-BETTER_OF_VOTES-a,1.27
-2025-10-02,2379213513,Piráti,Kdo získá více hlasů (SPD x Piráti),25-BETTER_OF_VOTES-a,3.34
+2025-10-02,2379213513,Piráti,Kdo získá více hlasů (SPD x Piráti),25-BETTER_OF_VOTES-a,3.3400000000000003
 2025-10-02,2379213514,SPD,Kdo získá více hlasů (SPD x STAČILO!),25-BETTER_OF_VOTES-a,1.0
 2025-10-02,2379213515,STAČILO!,Kdo získá více hlasů (SPD x STAČILO!),25-BETTER_OF_VOTES-a,14.0
 2025-10-02,2379213516,SPD,Kdo získá více hlasů (SPD x Motoristé sobě),25-BETTER_OF_VOTES-a,1.0
 2025-10-02,2379213517,Motoristé sobě,Kdo získá více hlasů (SPD x Motoristé sobě),25-BETTER_OF_VOTES-a,14.0
 2025-10-02,2379213518,Piráti,Kdo získá více hlasů (STAN x Piráti),25-BETTER_OF_VOTES-a,2.08
 2025-10-02,2379213519,STAN,Kdo získá více hlasů (STAN x Piráti),25-BETTER_OF_VOTES-a,1.65
-2025-10-02,2379213520,STAČILO!,Kdo získá více hlasů (STAN x STAČILO!),25-BETTER_OF_VOTES-a,6.970000000000001
+2025-10-02,2379213520,STAČILO!,Kdo získá více hlasů (STAN x STAČILO!),25-BETTER_OF_VOTES-a,6.97
 2025-10-02,2379213505,Piráti,Kdo získá více hlasů (SPOLU x Piráti),25-BETTER_OF_VOTES-a,17.0
 2025-10-02,2379213504,SPOLU,Kdo získá více hlasů (SPOLU x Piráti),25-BETTER_OF_VOTES-a,1.0
 2025-10-02,2379213503,SPOLU,Kdo získá více hlasů (SPOLU x STAN),25-BETTER_OF_VOTES-a,1.0
@@ -74,7 +74,7 @@ date,id,name,event_name,selection_id,odd
 2025-10-02,2360304158,Ne,Nejvíc hlasů získá Motoristé sobě,25-POSITION_PARTICIPANT_VOTES-a,1.0
 2025-10-02,2360304156,Ne,Nejvíc hlasů získá STAČILO!,25-POSITION_PARTICIPANT_VOTES-a,1.0
 2025-10-02,2379213522,STAN,Kdo získá více hlasů (STAN x Motoristé sobě),25-BETTER_OF_VOTES-a,1.06
-2025-10-02,2360290172,Ne,Umístění SPD do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.8
+2025-10-02,2360290172,Ne,Umístění SPD do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.8000000000000003
 2025-10-02,2360290156,Ano,Umístění SPD do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,16.0
 2025-10-02,2360290157,Ne,Umístění SPD do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
 2025-10-02,2360290158,Ano,Umístění STAN do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,18.0
@@ -109,9 +109,9 @@ date,id,name,event_name,selection_id,odd
 2025-10-02,2213750204,65.43% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.75
 2025-10-02,2213750205,Méně než 65.43%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.94
 2025-10-02,2360290171,Ne,Umístění SPOLU do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,15.0
-2025-10-02,2360290173,Ano,Umístění SPD do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.8799999999999997
+2025-10-02,2360290173,Ano,Umístění SPD do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.88
 2025-10-02,2360304155,Ano,Nejvíc hlasů získá STAČILO!,25-POSITION_PARTICIPANT_VOTES-a,225.0
-2025-10-02,2360290174,Ano,Umístění STAN do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,2.85
+2025-10-02,2360290174,Ano,Umístění STAN do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,2.8500000000000005
 2025-10-02,2360290193,20.01% a více,SPOLU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.5
 2025-10-02,2360290194,5.01% a více,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2
 2025-10-02,2360290195,Méně než 5.01%,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.94
@@ -131,9 +131,9 @@ date,id,name,event_name,selection_id,odd
 2025-10-02,2360290191,Méně než 10.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,4.31
 2025-10-02,2360290190,10.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.17
 2025-10-02,2360290181,Ne,Umístění Motoristé sobě do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
-2025-10-02,2360290175,Ne,Umístění STAN do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.36
+2025-10-02,2360290175,Ne,Umístění STAN do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.3599999999999999
 2025-10-02,2360290176,Ne,Umístění Piráti do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.27
-2025-10-02,2360290177,Ano,Umístění Piráti do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,3.35
+2025-10-02,2360290177,Ano,Umístění Piráti do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,3.3500000000000005
 2025-10-02,2360290178,Ne,Umístění STAČILO! do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
 2025-10-02,2360290179,Ano,Umístění STAČILO! do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,24.0
 2025-10-02,2360290180,Ano,Umístění Motoristé sobě do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,24.0
@@ -147,7 +147,7 @@ date,id,name,event_name,selection_id,odd
 2025-10-02,2360290188,Méně než 5.01%,Přísaha - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-10-02,2379213521,STAN,Kdo získá více hlasů (STAN x STAČILO!),25-BETTER_OF_VOTES-a,1.06
 2025-10-02,2360304159,Ano,Nejvíc hlasů získá Přísaha,25-POSITION_PARTICIPANT_VOTES-a,1234.0
-2025-10-02,2379213523,Motoristé sobě,Kdo získá více hlasů (STAN x Motoristé sobě),25-BETTER_OF_VOTES-a,6.970000000000001
+2025-10-02,2379213523,Motoristé sobě,Kdo získá více hlasů (STAN x Motoristé sobě),25-BETTER_OF_VOTES-a,6.97
 2025-10-02,2400587998,Méně než 25.01%,ANO 2011 - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,9.38
 2025-10-02,2400588000,31.01% a více,ANO 2011 - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.16
 2025-10-02,2400588001,Méně než 32.01%,ANO 2011 - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.38
@@ -155,23 +155,23 @@ date,id,name,event_name,selection_id,odd
 2025-10-02,2400588003,Méně než 5.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,18.0
 2025-10-02,2400588004,5.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-10-02,2400588005,Méně než 15.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.05
-2025-10-02,2400588006,15.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,7.43
+2025-10-02,2400588006,15.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,7.430000000000001
 2025-10-02,2400588007,20.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,17.0
 2025-10-02,2400588008,Méně než 20.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-10-02,2400588011,60.01% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.02
 2025-10-02,2400588012,Méně než 60.01%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,9.38
-2025-10-02,2400588013,70.01% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,6.970000000000001
+2025-10-02,2400588013,70.01% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,6.97
 2025-10-02,2400588014,Méně než 70.01%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.06
 2025-10-02,2402173079,Méně než 6.01%,Motoristé sobě - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.26
-2025-10-02,2402173080,6.01% a více,Motoristé sobě - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.55
+2025-10-02,2402173080,6.01% a více,Motoristé sobě - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.5500000000000003
 2025-10-02,2400587999,Méně než 31.01%,ANO 2011 - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.6
 2025-10-02,2400587997,25.01% a více,ANO 2011 - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.02
 2025-10-02,2398006142,Ano,Umístění Piráti do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.02
 2025-10-02,2400398510,Méně než 62.51%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,5.62
-2025-10-02,2398006144,Ano,Umístění STAČILO! do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.8400000000000003
-2025-10-02,2398006145,Ne,Umístění STAČILO! do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.8400000000000003
-2025-10-02,2398006146,Ano,Umístění Motoristé sobě do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.8400000000000003
-2025-10-02,2398006147,Ne,Umístění Motoristé sobě do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.8400000000000003
+2025-10-02,2398006144,Ano,Umístění STAČILO! do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.84
+2025-10-02,2398006145,Ne,Umístění STAČILO! do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.84
+2025-10-02,2398006146,Ano,Umístění Motoristé sobě do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.84
+2025-10-02,2398006147,Ne,Umístění Motoristé sobě do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.84
 2025-10-02,2398006148,Ano,Umístění Přísaha do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,22.0
 2025-10-02,2398006149,Ne,Umístění Přísaha do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
 2025-10-02,2398006150,Ano,Umístění ČR1 do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,70.0
@@ -183,10 +183,10 @@ date,id,name,event_name,selection_id,odd
 2025-10-02,2399098526,Méně než 11.01%,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-10-02,2399098527,11.01% a více,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,16.0
 2025-10-02,2400398509,62.51% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.1
-2025-10-02,2402173081,7.01% a více,Motoristé sobě - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.38
-2025-10-02,2402173082,Méně než 7.01%,Motoristé sobě - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.5
+2025-10-02,2402173081,7.01% a více,Motoristé sobě - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.4446153846153846
+2025-10-02,2402173082,Méně než 7.01%,Motoristé sobě - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.4769230769230768
 2025-10-02,2402173083,Méně než 8.01%,Motoristé sobě - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.21
-2025-10-02,2402173084,8.01% a více,Motoristé sobě - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.84
+2025-10-02,2402173084,8.01% a více,Motoristé sobě - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.8400000000000003
 2025-10-02,2411134263,10.01% a více,Motoristé sobě - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,11.0
 2025-10-02,2411134264,Méně než 10.01%,Motoristé sobě - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-10-02,2411134265,Méně než 15.01%,Motoristé sobě - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
@@ -212,14 +212,14 @@ date,id,name,event_name,selection_id,odd
 2025-10-02,2402173088,Méně než 10.51%,Piráti - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.6
 2025-10-02,2402173089,Méně než 19.01%,SPOLU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.94
 2025-10-02,2402173090,19.01% a více,SPOLU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2
-2025-10-02,2402173092,8.01% a více,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.84
+2025-10-02,2402173092,8.01% a více,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.8400000000000003
 2025-10-02,2407138205,Méně než 29.01%,ANO 2011 - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.68
 2025-10-02,2402173093,9.01% a více,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,6.21
 2025-10-02,2402173094,Méně než 9.01%,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.08
-2025-10-02,2402173095,Méně než 9.01%,STAN - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.4799999999999995
-2025-10-02,2402173096,9.01% a více,STAN - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.25
-2025-10-02,2402173097,Méně než 12.01%,STAN - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.3
-2025-10-02,2402173098,12.01% a více,STAN - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.15
+2025-10-02,2402173095,Méně než 9.01%,STAN - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.4153846153846152
+2025-10-02,2402173096,9.01% a více,STAN - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.2592307692307694
+2025-10-02,2402173097,Méně než 12.01%,STAN - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.3000000000000003
+2025-10-02,2402173098,12.01% a více,STAN - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.1499999999999995
 2025-10-02,2398006143,Ne,Umístění Piráti do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,9.38
 2025-10-02,2411191328,67.51% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,2.89
 2025-10-02,2398006141,Ne,Umístění STAN do 6. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,11.0
@@ -227,7 +227,7 @@ date,id,name,event_name,selection_id,odd
 2025-10-02,2379268282,Méně než 7.01%,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.5
 2025-10-02,2379268283,7.01% a více,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.38
 2025-10-02,2379268284,66.51% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,2.26
-2025-10-02,2379268285,Méně než 66.51%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.55
+2025-10-02,2379268285,Méně než 66.51%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.5500000000000003
 2025-10-02,2380774118,11.11% a více,STAN - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.08
 2025-10-02,2380774119,Méně než 11.11%,STAN - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.65
 2025-10-02,2387949058,Ano,Nejvíc hlasů získá ČR1,25-POSITION_PARTICIPANT_VOTES-a,2345.0
@@ -241,19 +241,19 @@ date,id,name,event_name,selection_id,odd
 2025-10-02,2387949066,Méně než 5.01%,ČR1 - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-10-02,2379268280,Méně než 27.79%,SPOLU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.0
 2025-10-02,2379268279,22.01% a více,SPOLU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.52
-2025-10-02,2379268278,Méně než 22.01%,SPOLU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.45
-2025-10-02,2379268269,8.67% a více,Piráti - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.33
-2025-10-02,2379213525,STAČILO!,Kdo získá více hlasů (Piráti x STAČILO!),25-BETTER_OF_VOTES-a,4.95
-2025-10-02,2379213526,Motoristé sobě,Kdo získá více hlasů (Piráti x Motoristé sobě),25-BETTER_OF_VOTES-a,4.95
+2025-10-02,2379268278,Méně než 22.01%,SPOLU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.4499999999999997
+2025-10-02,2379268269,8.67% a více,Piráti - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.3299999999999998
+2025-10-02,2379213525,STAČILO!,Kdo získá více hlasů (Piráti x STAČILO!),25-BETTER_OF_VOTES-a,4.950000000000001
+2025-10-02,2379213526,Motoristé sobě,Kdo získá více hlasů (Piráti x Motoristé sobě),25-BETTER_OF_VOTES-a,4.950000000000001
 2025-10-02,2379213527,Piráti,Kdo získá více hlasů (Piráti x Motoristé sobě),25-BETTER_OF_VOTES-a,1.13
-2025-10-02,2379213528,Motoristé sobě,Kdo získá více hlasů (STAČILO! x Motoristé sobě),25-BETTER_OF_VOTES-a,1.8400000000000003
-2025-10-02,2379213529,STAČILO!,Kdo získá více hlasů (STAČILO! x Motoristé sobě),25-BETTER_OF_VOTES-a,1.8400000000000003
+2025-10-02,2379213528,Motoristé sobě,Kdo získá více hlasů (STAČILO! x Motoristé sobě),25-BETTER_OF_VOTES-a,1.84
+2025-10-02,2379213529,STAČILO!,Kdo získá více hlasů (STAČILO! x Motoristé sobě),25-BETTER_OF_VOTES-a,1.84
 2025-10-02,2379268268,Méně než 8.67%,Piráti - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.98
 2025-10-02,2379268270,Méně než 11.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.61
 2025-10-02,2379268277,21.01% a více,SPOLU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.94
-2025-10-02,2379268271,11.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.42
+2025-10-02,2379268271,11.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.4200000000000002
 2025-10-02,2379268272,Méně než 12.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.01
-2025-10-02,2379268273,12.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.7
+2025-10-02,2379268273,12.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.6999999999999997
 2025-10-02,2379268274,13.01% a více,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.38
 2025-10-02,2379268275,Méně než 13.01%,SPD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.5
 2025-10-02,2379268276,Méně než 21.01%,SPOLU - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.75
@@ -288,11 +288,11 @@ date,id,name,event_name,selection_id,odd
 2025-10-02,2398006115,Ano,Umístění SPOLU do 5. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
 2025-10-02,2396977620,Méně než 6.35%,STAČILO! - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,2.16
 2025-10-02,2398006117,Ne,Umístění SPD do 5. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,11.0
-2025-10-02,2398006119,Ano,Umístění STAN do 5. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.03
+2025-10-02,2398006119,Ano,Umístění STAN do 5. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0361538461538462
 2025-10-02,2398006120,Ne,Umístění Piráti do 5. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,5.9
 2025-10-02,2398006121,Ano,Umístění Piráti do 5. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.09
 2025-10-02,2398006122,Ne,Umístění STAČILO! do 5. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.17
-2025-10-02,2398006118,Ne,Umístění STAN do 5. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,8.61
+2025-10-02,2398006118,Ne,Umístění STAN do 5. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,8.246923076923077
 2025-10-01,2372396247,Ano,Umístění Volt do 4. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,234.0
 2025-10-01,2372396240,Ano,Umístění Piráti do 4. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.7625
 2025-10-01,2372396241,Ne,Umístění STAČILO! do 4. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
