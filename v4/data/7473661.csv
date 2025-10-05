@@ -1,4 +1,10 @@
 date,id,name,odd,event_name,selection_id
+2025-10-05T14:02:37,2414718682,Ano,2.4,První nová vláda po volbách bude koaliční většinová,25-GENERAL_QUESTION_YES_NO-a
+2025-10-05T14:02:37,2414718683,Ne,1.0,První nová vláda po volbách bude koaliční většinová,25-GENERAL_QUESTION_YES_NO-a
+2025-10-05T14:02:37,2414718684,Ano,1.5,První nová vláda po volbách bude menšinová (jednobarevná nebo koaliční),25-GENERAL_QUESTION_YES_NO-a
+2025-10-05T14:02:37,2414718685,Ne,1.0,První nová vláda po volbách bude menšinová (jednobarevná nebo koaliční),25-GENERAL_QUESTION_YES_NO-a
+2025-10-05T14:02:37,2414718686,Ne,1.0,První nová vláda po volbách bude úřednická,25-GENERAL_QUESTION_YES_NO-a
+2025-10-05T14:02:37,2414718687,Ano,100.0,První nová vláda po volbách bude úřednická,25-GENERAL_QUESTION_YES_NO-a
 2025-10-05T13:05:46,2414718682,Ano,2.4,První nová vláda po volbách bude koaliční většinová,25-GENERAL_QUESTION_YES_NO-a
 2025-10-05T13:05:46,2414718683,Ne,1.0,První nová vláda po volbách bude koaliční většinová,25-GENERAL_QUESTION_YES_NO-a
 2025-10-05T13:05:46,2414718684,Ano,1.5,První nová vláda po volbách bude menšinová (jednobarevná nebo koaliční),25-GENERAL_QUESTION_YES_NO-a
