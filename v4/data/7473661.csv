@@ -1,4 +1,14 @@
 date,id,name,odd,event_name,selection_id
+2025-10-16T10:03:13,2414718682,Ano,1.05,První nová vláda po volbách bude koaliční většinová,25-GENERAL_QUESTION_YES_NO-a
+2025-10-16T10:03:13,2414718683,Ne,1.0,První nová vláda po volbách bude koaliční většinová,25-GENERAL_QUESTION_YES_NO-a
+2025-10-16T10:03:13,2414718684,Ano,7.0,První nová vláda po volbách bude menšinová (jednobarevná nebo koaliční),25-GENERAL_QUESTION_YES_NO-a
+2025-10-16T10:03:13,2414718685,Ne,1.0,První nová vláda po volbách bude menšinová (jednobarevná nebo koaliční),25-GENERAL_QUESTION_YES_NO-a
+2025-10-16T10:03:13,2414718686,Ne,1.0,První nová vláda po volbách bude úřednická,25-GENERAL_QUESTION_YES_NO-a
+2025-10-16T10:03:13,2414718687,Ano,150.0,První nová vláda po volbách bude úřednická,25-GENERAL_QUESTION_YES_NO-a
+2025-10-16T10:03:13,2422499375,Ne,1.04,Filip Turek bude 31.12.2025 ministr zahraničích věcí,25-GENERAL_QUESTION_YES_NO-a
+2025-10-16T10:03:13,2422499376,Ano,8.0,Filip Turek bude 31.12.2025 ministr zahraničích věcí,25-GENERAL_QUESTION_YES_NO-a
+2025-10-16T10:03:13,2422499377,Ne,2.16,Petr Macinka  bude 31.12.2025 ministr životního prostředí,25-GENERAL_QUESTION_YES_NO-a
+2025-10-16T10:03:13,2422499378,Ano,1.6,Petr Macinka  bude 31.12.2025 ministr životního prostředí,25-GENERAL_QUESTION_YES_NO-a
 2025-10-16T09:03:08,2414718682,Ano,1.05,První nová vláda po volbách bude koaliční většinová,25-GENERAL_QUESTION_YES_NO-a
 2025-10-16T09:03:08,2414718683,Ne,1.0,První nová vláda po volbách bude koaliční většinová,25-GENERAL_QUESTION_YES_NO-a
 2025-10-16T09:03:08,2414718684,Ano,7.0,První nová vláda po volbách bude menšinová (jednobarevná nebo koaliční),25-GENERAL_QUESTION_YES_NO-a
