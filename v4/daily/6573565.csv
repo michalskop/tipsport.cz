@@ -1,12 +1,12 @@
 date,id,name,event_name,selection_id,odd
 2025-10-21,2417123197,Méně než 24.45,Kurz devizového trhu 1 EUR podle ČNB pro den 18.12.2025,25-GENERAL_QUESTION_TOTAL-a,1.6
 2025-10-21,2417123196,24.45 a více,Kurz devizového trhu 1 EUR podle ČNB pro den 18.12.2025,25-GENERAL_QUESTION_TOTAL-a,2.16
-2025-10-21,2417123195,125432.5 a více,Kurz 1 Bitcoin v USD dne 18.12.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.68
-2025-10-21,2417123194,Méně než 125432.5,Kurz 1 Bitcoin v USD dne 18.12.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.4
+2025-10-21,2417123195,125432.5 a více,Kurz 1 Bitcoin v USD dne 18.12.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,2.7930769230769235
+2025-10-21,2417123194,Méně než 125432.5,Kurz 1 Bitcoin v USD dne 18.12.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.373076923076923
 2025-10-21,2417123193,Méně než 4055.5,Cena 1 oz zlata v USD dne 18.12.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,5.62
 2025-10-21,2417123192,4055.5 a více,Cena 1 oz zlata v USD dne 18.12.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.1
 2025-10-21,2417123191,Méně než 67.5,Cena 1 barel ropa Brent v USD dne 18.12.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.25
-2025-10-21,2417123190,67.5 a více,Cena 1 barel ropa Brent v USD dne 18.12.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.4799999999999995
+2025-10-21,2417123190,67.5 a více,Cena 1 barel ropa Brent v USD dne 18.12.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.48
 2025-10-20,2417123193,Méně než 4055.5,Cena 1 oz zlata v USD dne 18.12.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,5.2283333333333335
 2025-10-20,2417123190,67.5 a více,Cena 1 barel ropa Brent v USD dne 18.12.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,3.48
 2025-10-20,2417123191,Méně než 67.5,Cena 1 barel ropa Brent v USD dne 18.12.2025 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a,1.25
