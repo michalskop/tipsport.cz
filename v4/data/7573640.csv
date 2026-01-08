@@ -1,4 +1,12 @@
 date,id,name,odd,event_name,selection_id
+2026-01-08T06:04:22,2478531827,Méně než 63321.5,2.16,Nejnižší kurz 1 Bitcoin v USD v roce 2026 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a
+2026-01-08T06:04:22,2478531828,63321.5 a více,1.6,Nejnižší kurz 1 Bitcoin v USD v roce 2026 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a
+2026-01-08T06:04:22,2478531831,Méně než 131321.5,1.6,Nejvyšší kurz 1 Bitcoin v USD v roce 2026 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a
+2026-01-08T06:04:22,2478531832,131321.5 a více,2.16,Nejvyšší kurz 1 Bitcoin v USD v roce 2026 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a
+2026-01-08T06:04:22,2478531833,Méně než 25.31,1.3,Nejvyšší kurz devizového trhu 1 EUR podle ČNB za rok 2026 (vyhodnocení podle cnb.cz),25-GENERAL_QUESTION_TOTAL-a
+2026-01-08T06:04:22,2478531834,25.31 a více,3.15,Nejvyšší kurz devizového trhu 1 EUR podle ČNB za rok 2026 (vyhodnocení podle cnb.cz),25-GENERAL_QUESTION_TOTAL-a
+2026-01-08T06:04:22,2478638930,7543.5 a více,1.65,Nejvyšší bodová hodnota indexu S&P 500 v roce 2026 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a
+2026-01-08T06:04:22,2478638931,Méně než 7543.5,2.08,Nejvyšší bodová hodnota indexu S&P 500 v roce 2026 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a
 2026-01-07T22:02:51,2478531827,Méně než 63321.5,2.16,Nejnižší kurz 1 Bitcoin v USD v roce 2026 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a
 2026-01-07T22:02:51,2478531828,63321.5 a více,1.6,Nejnižší kurz 1 Bitcoin v USD v roce 2026 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a
 2026-01-07T22:02:51,2478531831,Méně než 131321.5,1.6,Nejvyšší kurz 1 Bitcoin v USD v roce 2026 (vyhodnocení podle google.com/finance),25-GENERAL_QUESTION_TOTAL-a
