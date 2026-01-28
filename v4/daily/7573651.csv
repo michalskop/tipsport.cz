@@ -1,4 +1,6 @@
 date,id,name,event_name,selection_id,odd
+2026-01-28,2498561550,3.9 a více,Maximální teplota vzduchu ve stupních C dne 15.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
+2026-01-28,2498561549,Méně než 3.9,Maximální teplota vzduchu ve stupních C dne 15.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2026-01-27,2498561550,3.9 a více,Maximální teplota vzduchu ve stupních C dne 15.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
 2026-01-27,2498561549,Méně než 3.9,Maximální teplota vzduchu ve stupních C dne 15.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2026-01-26,2498561550,3.9 a více,Maximální teplota vzduchu ve stupních C dne 15.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
@@ -11,8 +13,8 @@ date,id,name,event_name,selection_id,odd
 2026-01-23,2498561549,Méně než 3.9,Maximální teplota vzduchu ve stupních C dne 15.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2026-01-22,2498561550,3.9 a více,Maximální teplota vzduchu ve stupních C dne 15.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
 2026-01-22,2498561549,Méně než 3.9,Maximální teplota vzduchu ve stupních C dne 15.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
-2026-01-21,2498561549,Méně než 3.9,Maximální teplota vzduchu ve stupních C dne 15.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2026-01-21,2498561550,3.9 a více,Maximální teplota vzduchu ve stupních C dne 15.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
+2026-01-21,2498561549,Méně než 3.9,Maximální teplota vzduchu ve stupních C dne 15.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2026-01-20,2498561550,3.9 a více,Maximální teplota vzduchu ve stupních C dne 15.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
 2026-01-20,2498561549,Méně než 3.9,Maximální teplota vzduchu ve stupních C dne 15.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2026-01-19,2498561550,3.9 a více,Maximální teplota vzduchu ve stupních C dne 15.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
@@ -25,8 +27,8 @@ date,id,name,event_name,selection_id,odd
 2026-01-16,2498561549,Méně než 3.9,Maximální teplota vzduchu ve stupních C dne 15.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2026-01-15,2487712215,Méně než 2.8,Maximální teplota vzduchu ve stupních C dne 1.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,2.085
 2026-01-15,2487712214,2.8 a více,Maximální teplota vzduchu ve stupních C dne 1.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,1.65
-2026-01-15,2498561549,Méně než 3.9,Maximální teplota vzduchu ve stupních C dne 15.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2026-01-15,2498561550,3.9 a více,Maximální teplota vzduchu ve stupních C dne 15.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
+2026-01-15,2498561549,Méně než 3.9,Maximální teplota vzduchu ve stupních C dne 15.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2026-01-14,2498561550,3.9 a více,Maximální teplota vzduchu ve stupních C dne 15.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
 2026-01-14,2498561549,Méně než 3.9,Maximální teplota vzduchu ve stupních C dne 15.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2026-01-14,2487712215,Méně než 2.8,Maximální teplota vzduchu ve stupních C dne 1.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,2.16
@@ -49,8 +51,8 @@ date,id,name,event_name,selection_id,odd
 2026-01-06,2487712214,2.8 a více,Maximální teplota vzduchu ve stupních C dne 1.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,1.6666666666666667
 2026-01-05,2487712215,Méně než 2.8,Maximální teplota vzduchu ve stupních C dne 1.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2026-01-05,2487712214,2.8 a více,Maximální teplota vzduchu ve stupních C dne 1.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
-2026-01-04,2487712215,Méně než 2.8,Maximální teplota vzduchu ve stupních C dne 1.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2026-01-04,2487712214,2.8 a více,Maximální teplota vzduchu ve stupních C dne 1.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
+2026-01-04,2487712215,Méně než 2.8,Maximální teplota vzduchu ve stupních C dne 1.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2026-01-03,2487712215,Méně než 2.8,Maximální teplota vzduchu ve stupních C dne 1.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2026-01-03,2487712214,2.8 a více,Maximální teplota vzduchu ve stupních C dne 1.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
 2026-01-02,2487712215,Méně než 2.8,Maximální teplota vzduchu ve stupních C dne 1.2.2026 na met. stanici Praha-Ruzyně (vyhodnocení podle chmi.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
@@ -65,8 +67,8 @@ date,id,name,event_name,selection_id,odd
 2025-12-30,2471280421,Méně než 3.1,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.6499999999999997
 2025-12-29,2471280421,Méně než 3.1,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.6499999999999997
 2025-12-29,2471280422,3.1 a více,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,2.08
-2025-12-28,2471280421,Méně než 3.1,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.6499999999999997
 2025-12-28,2471280422,3.1 a více,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,2.08
+2025-12-28,2471280421,Méně než 3.1,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.6499999999999997
 2025-12-27,2471280422,3.1 a více,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,2.02
 2025-12-27,2471280421,Méně než 3.1,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.6933333333333334
 2025-12-26,2471280422,3.1 a více,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.8999999999999997
@@ -77,10 +79,10 @@ date,id,name,event_name,selection_id,odd
 2025-12-24,2471280421,Méně než 3.1,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.78
 2025-12-23,2471280422,3.1 a více,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.8999999999999997
 2025-12-23,2471280421,Méně než 3.1,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.78
-2025-12-22,2471280422,3.1 a více,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.8999999999999997
 2025-12-22,2471280421,Méně než 3.1,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.78
-2025-12-21,2471280421,Méně než 3.1,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.78
+2025-12-22,2471280422,3.1 a více,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.8999999999999997
 2025-12-21,2471280422,3.1 a více,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.8999999999999997
+2025-12-21,2471280421,Méně než 3.1,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.78
 2025-12-20,2471280422,3.1 a více,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.8999999999999997
 2025-12-20,2471280421,Méně než 3.1,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.78
 2025-12-19,2471280422,3.1 a více,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.8
@@ -89,8 +91,8 @@ date,id,name,event_name,selection_id,odd
 2025-12-18,2471280421,Méně než 3.1,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.8099999999999998
 2025-12-17,2471280422,3.1 a více,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,2.0
 2025-12-17,2471280421,Méně než 3.1,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.7133333333333332
-2025-12-16,2471280422,3.1 a více,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.84
 2025-12-16,2471280421,Méně než 3.1,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.84
+2025-12-16,2471280422,3.1 a více,Maximální denní teplota ve stupních C podle chmi.cz bude 15.1.2026 7:00 – 16.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.84
 2025-12-15,2471276275,3.8 a více,Maximální denní teplota ve stupních C podle chmi.cz bude 1.1.2026 7:00 – 2.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.8900000000000001
 2025-12-15,2471276276,Méně než 3.8,Maximální denní teplota ve stupních C podle chmi.cz bude 1.1.2026 7:00 – 2.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.795
 2025-12-14,2471276276,Méně než 3.8,Maximální denní teplota ve stupních C podle chmi.cz bude 1.1.2026 7:00 – 2.1.2026 7:00 SELČ na met. stanici Praha-Ruzyně,25-GENERAL_QUESTION_TOTAL-a,1.9400000000000002
