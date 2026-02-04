@@ -1,4 +1,6 @@
 date,id,name,odd,event_name,selection_id
+2026-02-04T22:04:00,2498571086,Méně než 101321.5,1.01,Kurz 1 Bitcoin v USD dne 26.3.2026 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a
+2026-02-04T22:04:00,2498571087,101321.5 a více,10.32,Kurz 1 Bitcoin v USD dne 26.3.2026 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a
 2026-02-04T14:15:50,2498571086,Méně než 101321.5,1.07,Kurz 1 Bitcoin v USD dne 26.3.2026 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a
 2026-02-04T14:15:50,2498571087,101321.5 a více,6.56,Kurz 1 Bitcoin v USD dne 26.3.2026 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a
 2026-02-04T06:14:46,2498571086,Méně než 101321.5,1.1,Kurz 1 Bitcoin v USD dne 26.3.2026 v 15:02 SEČ (vyhodnocení podle kurzy.cz),25-GENERAL_QUESTION_TOTAL-a
