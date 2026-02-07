@@ -1,4 +1,6 @@
 date,id,name,event_name,selection_id,odd
+2026-02-07,2515424201,Ne,V roce 2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.13
+2026-02-07,2515424200,Ano,V roce 2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,4.75
 2026-02-06,2515424201,Ne,V roce 2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.1466666666666665
 2026-02-06,2515424200,Ano,V roce 2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,4.5
 2026-02-05,2515424201,Ne,V roce 2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.18
@@ -9,8 +11,8 @@ date,id,name,event_name,selection_id,odd
 2026-02-03,2515424200,Ano,V roce 2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,4.0
 2026-02-02,2515424201,Ne,V roce 2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.18
 2026-02-02,2515424200,Ano,V roce 2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,4.0
-2025-11-22,2241955174,Ne,Do 30.6.2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.18
 2025-11-22,2241955173,Ano,Do 30.6.2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,4.0
+2025-11-22,2241955174,Ne,Do 30.6.2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.18
 2025-11-21,2241955174,Ne,Do 30.6.2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.18
 2025-11-21,2241955173,Ano,Do 30.6.2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,4.0
 2025-11-20,2241955174,Ne,Do 30.6.2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.18
@@ -23,8 +25,8 @@ date,id,name,event_name,selection_id,odd
 2025-11-17,2241955173,Ano,Do 30.6.2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,5.0
 2025-10-12,2241955174,Ne,Do 30.6.2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.06
 2025-10-12,2241955173,Ano,Do 30.6.2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,6.5
-2025-10-11,2241955174,Ne,Do 30.6.2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.06
 2025-10-11,2241955173,Ano,Do 30.6.2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,6.5
+2025-10-11,2241955174,Ne,Do 30.6.2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.06
 2025-10-10,2241955174,Ne,Do 30.6.2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.06
 2025-10-10,2241955173,Ano,Do 30.6.2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,6.5
 2025-10-09,2241955174,Ne,Do 30.6.2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.06
@@ -51,8 +53,8 @@ date,id,name,event_name,selection_id,odd
 2025-09-29,2241955173,Ano,Do 30.6.2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,5.5
 2025-09-14,2241955174,Ne,Do 30.6.2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.18
 2025-09-14,2241955173,Ano,Do 30.6.2026 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,4.0
-2025-01-12,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.2
 2025-01-12,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.27
+2025-01-12,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.2
 2025-01-11,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.2000000000000006
 2025-01-11,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.27
 2025-01-10,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.2000000000000006
@@ -101,12 +103,12 @@ date,id,name,event_name,selection_id,odd
 2024-12-20,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.26
 2024-12-19,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.2999999999999994
 2024-12-19,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.26
-2024-12-18,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.2999999999999994
 2024-12-18,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.26
-2024-12-17,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.2999999999999994
+2024-12-18,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.2999999999999994
 2024-12-17,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.26
-2024-12-16,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.2999999999999994
+2024-12-17,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.2999999999999994
 2024-12-16,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.26
+2024-12-16,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.2999999999999994
 2024-12-15,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.2999999999999994
 2024-12-15,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.26
 2024-12-14,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.2999999999999994
@@ -121,8 +123,8 @@ date,id,name,event_name,selection_id,odd
 2024-12-10,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.21
 2024-12-09,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.21
 2024-12-09,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.7000000000000006
-2024-12-08,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.21
 2024-12-08,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.7000000000000006
+2024-12-08,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.21
 2024-12-07,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.7000000000000006
 2024-12-07,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.21
 2024-12-06,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.7000000000000006
@@ -133,10 +135,10 @@ date,id,name,event_name,selection_id,odd
 2024-12-04,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.23
 2024-12-03,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.425
 2024-12-03,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.24
-2024-12-02,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.35
 2024-12-02,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.25
-2024-12-01,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.2233333333333334
+2024-12-02,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.35
 2024-12-01,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.5833333333333335
+2024-12-01,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.2233333333333334
 2024-11-30,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.7000000000000006
 2024-11-30,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.21
 2024-11-29,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,3.7000000000000006
@@ -145,10 +147,10 @@ date,id,name,event_name,selection_id,odd
 2024-11-28,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.2066666666666668
 2024-11-27,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,4.256666666666667
 2024-11-27,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.16
-2024-11-26,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,4.7
 2024-11-26,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.1266666666666667
-2024-11-25,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.12
+2024-11-26,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,4.7
 2024-11-25,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,4.8
+2024-11-25,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.12
 2024-11-24,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,4.8
 2024-11-24,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.12
 2024-11-23,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,4.8
@@ -161,10 +163,10 @@ date,id,name,event_name,selection_id,odd
 2024-11-20,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.1133333333333335
 2024-11-19,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,5.27
 2024-11-19,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.1
-2024-11-18,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,5.27
 2024-11-18,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.1
-2024-11-17,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.1
+2024-11-18,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,5.27
 2024-11-17,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,5.27
+2024-11-17,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.1
 2024-11-16,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,5.27
 2024-11-16,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.1
 2024-11-15,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,5.27
@@ -173,8 +175,8 @@ date,id,name,event_name,selection_id,odd
 2024-11-14,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.08
 2024-11-13,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,5.78
 2024-11-13,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.08
-2024-11-12,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,5.78
 2024-11-12,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.08
+2024-11-12,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,5.78
 2024-11-11,2138656152,Ne,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,1.08
 2024-11-11,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,5.78
 2024-11-10,2138656153,Ano,V roce 2025 se na Slovensku uskuteční předčasné parlamentní volby,25-GENERAL_QUESTION_YES_NO-a,5.78
