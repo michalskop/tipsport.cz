@@ -1,4 +1,8 @@
 date,id,name,event_name,selection_id,odd
+2026-03-27,2555143054,Ne,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,5.0
+2026-03-27,2555143053,Ano,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.13
+2026-03-27,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
+2026-03-27,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,40.0
 2026-03-26,2555143054,Ne,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,5.333333333333333
 2026-03-26,2555143053,Ano,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.1166666666666665
 2026-03-26,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
@@ -7,26 +11,26 @@ date,id,name,event_name,selection_id,odd
 2026-03-25,2555143053,Ano,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.09
 2026-03-25,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-03-25,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,40.0
-2026-03-24,2555143054,Ne,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,6.666666666666667
-2026-03-24,2555143053,Ano,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.07
 2026-03-24,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-03-24,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,40.0
-2026-03-23,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-03-23,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,40.0
+2026-03-24,2555143054,Ne,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,6.666666666666667
+2026-03-24,2555143053,Ano,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.07
 2026-03-23,2555143054,Ne,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,7.0
 2026-03-23,2555143053,Ano,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.06
+2026-03-23,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
+2026-03-23,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,40.0
 2026-03-22,2555143054,Ne,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,7.0
 2026-03-22,2555143053,Ano,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.06
 2026-03-22,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-03-22,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,40.0
-2026-03-21,2555143054,Ne,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,7.0
 2026-03-21,2555143053,Ano,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.06
 2026-03-21,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-03-21,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,40.0
+2026-03-21,2555143054,Ne,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,7.0
+2026-03-20,2555143054,Ne,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,7.0
+2026-03-20,2555143053,Ano,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.06
 2026-03-20,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-03-20,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,40.0
-2026-03-20,2555143053,Ano,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.06
-2026-03-20,2555143054,Ne,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,7.0
 2026-03-19,2555143054,Ne,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,7.0
 2026-03-19,2555143053,Ano,Jaromír Zůna bude 31.12.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.06
 2026-03-19,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
@@ -45,28 +49,28 @@ date,id,name,event_name,selection_id,odd
 2026-02-02,2510979837,Ano,Petr Macinka bude ministr zahraničí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-02-02,2510989907,Ne,PS vysloví nedůvěru Vládě ČR v hlasování do 6.2.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-02-02,2510989908,Ano,PS vysloví nedůvěru Vládě ČR v hlasování do 6.2.2026,25-GENERAL_QUESTION_YES_NO-a,30.0
-2026-02-01,2477702725,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,15.0
-2026-02-01,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,40.0
-2026-02-01,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-02-01,2510979833,Ne,"Do 30.6.2026 12:00 SELČ se uskuteční setkání, na kterém budou osobně přítomní V.Zelenskyj a V.Putin a proběhne jejich osobní jednání",25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-02-01,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
-2026-02-01,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-02-01,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-02-01,2510979832,Ano,"Do 30.6.2026 12:00 SELČ se uskuteční setkání, na kterém budou osobně přítomní V.Zelenskyj a V.Putin a proběhne jejich osobní jednání",25-GENERAL_QUESTION_YES_NO-a,5.0
+2026-02-01,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
+2026-02-01,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
+2026-02-01,2477702725,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,15.0
+2026-02-01,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
+2026-02-01,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,40.0
+2026-02-01,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-02-01,2510979834,Ne,Filip Turek bude ministr životního prostředí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
+2026-02-01,2510979833,Ne,"Do 30.6.2026 12:00 SELČ se uskuteční setkání, na kterém budou osobně přítomní V.Zelenskyj a V.Putin a proběhne jejich osobní jednání",25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-02-01,2510979835,Ano,Filip Turek bude ministr životního prostředí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,12.0
 2026-02-01,2510979836,Ne,Petr Macinka bude ministr zahraničí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,12.0
 2026-02-01,2510979837,Ano,Petr Macinka bude ministr zahraničí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-02-01,2510989907,Ne,PS vysloví nedůvěru Vládě ČR v hlasování do 6.2.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-02-01,2510989908,Ano,PS vysloví nedůvěru Vládě ČR v hlasování do 6.2.2026,25-GENERAL_QUESTION_YES_NO-a,30.0
-2026-01-31,2510979833,Ne,"Do 30.6.2026 12:00 SELČ se uskuteční setkání, na kterém budou osobně přítomní V.Zelenskyj a V.Putin a proběhne jejich osobní jednání",25-GENERAL_QUESTION_YES_NO-a,1.0
+2026-01-31,2510979832,Ano,"Do 30.6.2026 12:00 SELČ se uskuteční setkání, na kterém budou osobně přítomní V.Zelenskyj a V.Putin a proběhne jejich osobní jednání",25-GENERAL_QUESTION_YES_NO-a,5.0
 2026-01-31,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-31,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
 2026-01-31,2477702725,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,15.0
 2026-01-31,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-31,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,40.0
 2026-01-31,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-01-31,2510979832,Ano,"Do 30.6.2026 12:00 SELČ se uskuteční setkání, na kterém budou osobně přítomní V.Zelenskyj a V.Putin a proběhne jejich osobní jednání",25-GENERAL_QUESTION_YES_NO-a,5.0
+2026-01-31,2510979833,Ne,"Do 30.6.2026 12:00 SELČ se uskuteční setkání, na kterém budou osobně přítomní V.Zelenskyj a V.Putin a proběhne jejich osobní jednání",25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-31,2510979834,Ne,Filip Turek bude ministr životního prostředí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-31,2510979835,Ano,Filip Turek bude ministr životního prostředí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,12.0
 2026-01-31,2510979836,Ne,Petr Macinka bude ministr zahraničí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,12.0
@@ -82,11 +86,12 @@ date,id,name,event_name,selection_id,odd
 2026-01-30,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-30,2510979833,Ne,"Do 30.6.2026 12:00 SELČ se uskuteční setkání, na kterém budou osobně přítomní V.Zelenskyj a V.Putin a proběhne jejich osobní jednání",25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-30,2510979835,Ano,Filip Turek bude ministr životního prostředí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,12.0
-2026-01-30,2510979834,Ne,Filip Turek bude ministr životního prostředí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-30,2510979836,Ne,Petr Macinka bude ministr zahraničí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,12.0
 2026-01-30,2510979837,Ano,Petr Macinka bude ministr zahraničí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-30,2510989907,Ne,PS vysloví nedůvěru Vládě ČR v hlasování do 6.2.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-30,2510989908,Ano,PS vysloví nedůvěru Vládě ČR v hlasování do 6.2.2026,25-GENERAL_QUESTION_YES_NO-a,30.0
+2026-01-30,2510979834,Ne,Filip Turek bude ministr životního prostředí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
+2026-01-29,2510979833,Ne,"Do 30.6.2026 12:00 SELČ se uskuteční setkání, na kterém budou osobně přítomní V.Zelenskyj a V.Putin a proběhne jejich osobní jednání",25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-29,2510979832,Ano,"Do 30.6.2026 12:00 SELČ se uskuteční setkání, na kterém budou osobně přítomní V.Zelenskyj a V.Putin a proběhne jejich osobní jednání",25-GENERAL_QUESTION_YES_NO-a,5.0
 2026-01-29,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-29,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
@@ -94,9 +99,8 @@ date,id,name,event_name,selection_id,odd
 2026-01-29,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-29,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,40.0
 2026-01-29,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-01-29,2510979834,Ne,Filip Turek bude ministr životního prostředí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-01-29,2510979833,Ne,"Do 30.6.2026 12:00 SELČ se uskuteční setkání, na kterém budou osobně přítomní V.Zelenskyj a V.Putin a proběhne jejich osobní jednání",25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-29,2510979835,Ano,Filip Turek bude ministr životního prostředí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,12.0
+2026-01-29,2510979834,Ne,Filip Turek bude ministr životního prostředí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-29,2510979836,Ne,Petr Macinka bude ministr zahraničí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,11.333333333333334
 2026-01-29,2510979837,Ano,Petr Macinka bude ministr zahraničí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,1.0033333333333332
 2026-01-29,2510989907,Ne,PS vysloví nedůvěru Vládě ČR v hlasování do 6.2.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
@@ -108,11 +112,11 @@ date,id,name,event_name,selection_id,odd
 2026-01-28,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
 2026-01-28,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-28,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-01-28,2510979834,Ne,Filip Turek bude ministr životního prostředí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
+2026-01-28,2510979837,Ano,Petr Macinka bude ministr zahraničí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,1.01
 2026-01-28,2510979833,Ne,"Do 30.6.2026 12:00 SELČ se uskuteční setkání, na kterém budou osobně přítomní V.Zelenskyj a V.Putin a proběhne jejich osobní jednání",25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-28,2510979835,Ano,Filip Turek bude ministr životního prostředí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,12.0
 2026-01-28,2510979836,Ne,Petr Macinka bude ministr zahraničí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,10.0
-2026-01-28,2510979837,Ano,Petr Macinka bude ministr zahraničí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,1.01
+2026-01-28,2510979834,Ne,Filip Turek bude ministr životního prostředí 31.3.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-28,2510989907,Ne,PS vysloví nedůvěru Vládě ČR v hlasování do 6.2.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-28,2510989908,Ano,PS vysloví nedůvěru Vládě ČR v hlasování do 6.2.2026,25-GENERAL_QUESTION_YES_NO-a,30.0
 2026-01-17,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,40.0
@@ -156,13 +160,13 @@ date,id,name,event_name,selection_id,odd
 2026-01-13,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
 2026-01-13,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-12,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,40.0
-2026-01-12,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-01-12,2477702725,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,15.0
-2026-01-12,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-12,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
+2026-01-12,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
+2026-01-12,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
+2026-01-12,2477702725,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,15.0
 2026-01-12,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-01-12,2481816480,Ne,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,10.0
 2026-01-12,2481816481,Ano,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.01
+2026-01-12,2481816480,Ne,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,10.0
 2026-01-11,2481816481,Ano,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.01
 2026-01-11,2481816480,Ne,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,10.0
 2026-01-11,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
@@ -180,80 +184,80 @@ date,id,name,event_name,selection_id,odd
 2026-01-10,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-10,2481816480,Ne,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,10.0
 2026-01-09,2477702728,Ne,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,40.0
+2026-01-09,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
 2026-01-09,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-01-09,2477702725,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,15.0
 2026-01-09,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-09,2477702727,Ano,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-01-09,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
+2026-01-09,2477702725,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,15.0
 2026-01-09,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,43.333333333333336
 2026-01-09,2481816480,Ne,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,10.0
 2026-01-09,2481816481,Ano,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.01
 2026-01-09,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-01-08,2477702727,Ano,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-01-08,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
+2026-01-08,2477702728,Ne,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,40.0
 2026-01-08,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
 2026-01-08,2477702725,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,15.0
 2026-01-08,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-01-08,2477702728,Ne,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,40.0
+2026-01-08,2477702727,Ano,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
+2026-01-08,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-08,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,50.0
 2026-01-08,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-08,2481816480,Ne,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,10.0
 2026-01-08,2481816481,Ano,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.01
-2026-01-07,2477702727,Ano,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-07,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-07,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
 2026-01-07,2477702725,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,15.0
 2026-01-07,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-01-07,2481816481,Ano,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.01
+2026-01-07,2477702727,Ano,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-07,2477702728,Ne,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,43.333333333333336
 2026-01-07,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,50.0
 2026-01-07,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-07,2481816480,Ne,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,10.0
-2026-01-06,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
+2026-01-07,2481816481,Ano,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.01
+2026-01-06,2477702728,Ne,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,50.0
 2026-01-06,2481816481,Ano,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.01
 2026-01-06,2481816480,Ne,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,10.0
 2026-01-06,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-06,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,66.0
-2026-01-06,2477702728,Ne,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,50.0
 2026-01-06,2477702727,Ano,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-06,2477702725,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,15.0
 2026-01-06,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
 2026-01-06,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-01-05,2477702728,Ne,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,50.0
+2026-01-06,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-05,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
+2026-01-05,2477702727,Ano,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-05,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
 2026-01-05,2477702725,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,15.0
 2026-01-05,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-01-05,2477702727,Ano,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
+2026-01-05,2477702728,Ne,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,50.0
 2026-01-05,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,66.0
 2026-01-05,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-05,2481816480,Ne,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,10.0
 2026-01-05,2481816481,Ano,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.01
-2026-01-04,2477702727,Ano,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-01-04,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
+2026-01-04,2477702728,Ne,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,50.0
 2026-01-04,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
 2026-01-04,2477702725,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,15.0
 2026-01-04,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-01-04,2481816481,Ano,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.01
-2026-01-04,2477702728,Ne,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,50.0
+2026-01-04,2477702727,Ano,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
+2026-01-04,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-04,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,66.0
 2026-01-04,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-04,2481816480,Ne,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,10.0
-2026-01-03,2477702728,Ne,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,50.0
+2026-01-04,2481816481,Ano,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.01
 2026-01-03,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-03,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
 2026-01-03,2477702725,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,15.0
 2026-01-03,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-03,2477702727,Ano,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
+2026-01-03,2477702728,Ne,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,50.0
+2026-01-03,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,66.0
 2026-01-03,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-03,2481816480,Ne,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,10.0
 2026-01-03,2481816481,Ano,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.01
-2026-01-03,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,66.0
 2026-01-02,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-01-02,2477702727,Ano,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-02,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
 2026-01-02,2477702725,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,15.0
 2026-01-02,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
+2026-01-02,2477702727,Ano,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-02,2477702728,Ne,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,50.0
 2026-01-02,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,66.0
 2026-01-02,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
@@ -262,9 +266,9 @@ date,id,name,event_name,selection_id,odd
 2026-01-01,2477702728,Ne,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,50.0
 2026-01-01,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-01,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
-2026-01-01,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-01-01,2477702727,Ano,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-01,2477702725,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,15.0
+2026-01-01,2477702727,Ano,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
+2026-01-01,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-01,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,66.0
 2026-01-01,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-01-01,2481816480,Ne,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,10.0
@@ -272,13 +276,13 @@ date,id,name,event_name,selection_id,odd
 2025-12-31,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2025-12-31,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
 2025-12-31,2477702725,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,15.0
-2025-12-31,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2025-12-31,2477702727,Ano,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
-2025-12-31,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,66.0
+2025-12-31,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
+2025-12-31,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
 2025-12-31,2477702728,Ne,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,50.0
 2025-12-31,2481816480,Ne,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,10.0
 2025-12-31,2481816481,Ano,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.01
-2025-12-31,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
+2025-12-31,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,66.0
 2025-12-30,2477702727,Ano,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
 2025-12-30,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2025-12-30,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
@@ -312,12 +316,12 @@ date,id,name,event_name,selection_id,odd
 2025-12-28,2481816480,Ne,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,10.0
 2025-12-28,2481816481,Ano,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.01
 2025-12-27,2477702727,Ano,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
-2025-12-27,2477702722,Ano,Filip Turek bude 28.2.2026 ministr životního prostředí nebo ministr zahraničí,25-GENERAL_QUESTION_YES_NO-a,44.0
+2025-12-27,2477702721,Ne,Filip Turek bude 28.2.2026 ministr životního prostředí nebo ministr zahraničí,25-GENERAL_QUESTION_YES_NO-a,1.0
 2025-12-27,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2025-12-27,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
 2025-12-27,2477702725,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,15.0
 2025-12-27,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
-2025-12-27,2477702721,Ne,Filip Turek bude 28.2.2026 ministr životního prostředí nebo ministr zahraničí,25-GENERAL_QUESTION_YES_NO-a,1.0
+2025-12-27,2477702722,Ano,Filip Turek bude 28.2.2026 ministr životního prostředí nebo ministr zahraničí,25-GENERAL_QUESTION_YES_NO-a,44.0
 2025-12-27,2477702728,Ne,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,50.0
 2025-12-27,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,66.0
 2025-12-27,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
@@ -325,13 +329,13 @@ date,id,name,event_name,selection_id,odd
 2025-12-27,2481816481,Ano,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.01
 2025-12-26,2477702721,Ne,Filip Turek bude 28.2.2026 ministr životního prostředí nebo ministr zahraničí,25-GENERAL_QUESTION_YES_NO-a,1.0
 2025-12-26,2477702722,Ano,Filip Turek bude 28.2.2026 ministr životního prostředí nebo ministr zahraničí,25-GENERAL_QUESTION_YES_NO-a,44.0
-2025-12-26,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2025-12-26,2477702726,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
+2025-12-26,2477702723,Ne,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,1.0
 2025-12-26,2477702724,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Andreje Babiše k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,20.0
 2025-12-26,2477702725,Ano,Poslanecká sněmovna schválí do 30.3.2026 vydání Tomia Okamury k trestnímu stíhání,25-GENERAL_QUESTION_YES_NO-a,15.0
-2025-12-26,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
-2025-12-26,2477702727,Ano,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
 2025-12-26,2481816480,Ne,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,10.0
+2025-12-26,2477702727,Ano,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,1.0
+2025-12-26,2477702730,Ne,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,1.0
 2025-12-26,2481816481,Ano,Jaromír Zůna bude 28.2.2026 ministr obrany,25-GENERAL_QUESTION_YES_NO-a,1.01
 2025-12-26,2477702728,Ne,Poslanecká sněmovna vysloví důvěru vládě ČR do 31.1.2026,25-GENERAL_QUESTION_YES_NO-a,50.0
 2025-12-26,2477702729,Ano,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a,66.0
