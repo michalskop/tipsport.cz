@@ -1,4 +1,19 @@
 date,id,name,odd,event_name,selection_id
+2026-04-04T06:19:27,2547119139,MKKP,1689.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2026-04-04T06:19:27,2547119140,DK,1357.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2026-04-04T06:19:27,2547119141,Mi Hazánk,888.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2026-04-04T06:19:27,2547119142,TISZA,1.4,Nejvíce mandátů získá,25-MOST_SEATS-a
+2026-04-04T06:19:27,2547119143,Fidesz-KDNP,2.58,Nejvíce mandátů získá,25-MOST_SEATS-a
+2026-04-04T06:19:27,2547119144,Méně než 99.5,1.28,Fidesz-KDNP - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-04T06:19:27,2547119145,Více než 99.5,3.15,Fidesz-KDNP - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-04T06:19:27,2547119146,Více než 132.5,8.44,Fidesz-KDNP - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-04T06:19:27,2547119147,Méně než 132.5,1.02,Fidesz-KDNP - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-04T06:19:27,2547119148,Více než 99.5,1.47,TISZA - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-04T06:19:27,2547119149,Méně než 99.5,2.39,TISZA - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-04T06:19:27,2547119152,Méně než 132.5,1.22,TISZA - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-04T06:19:27,2547119153,Více než 132.5,3.58,TISZA - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-04T06:19:27,2562476025,Méně než 0.5,3.87,Mi Hazánk - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-04T06:19:27,2562476026,Více než 0.5,1.19,Mi Hazánk - počet získaných mandátů,25-TOTAL_SEATS-a
 2026-04-03T22:07:06,2547119139,MKKP,1689.0,Nejvíce mandátů získá,25-MOST_SEATS-a
 2026-04-03T22:07:06,2547119140,DK,1357.0,Nejvíce mandátů získá,25-MOST_SEATS-a
 2026-04-03T22:07:06,2547119141,Mi Hazánk,888.0,Nejvíce mandátů získá,25-MOST_SEATS-a
