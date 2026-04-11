@@ -1,4 +1,23 @@
 date,id,name,odd,event_name,selection_id
+2026-04-11T14:11:18,2547119139,MKKP,1689.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2026-04-11T14:11:18,2547119140,DK,1357.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2026-04-11T14:11:18,2547119141,Mi Hazánk,888.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2026-04-11T14:11:18,2547119142,TISZA,1.3,Nejvíce mandátů získá,25-MOST_SEATS-a
+2026-04-11T14:11:18,2547119143,Fidesz-KDNP,3.0,Nejvíce mandátů získá,25-MOST_SEATS-a
+2026-04-11T14:11:18,2547119144,Méně než 99.5,1.26,Fidesz-KDNP - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-11T14:11:18,2547119145,Více než 99.5,3.25,Fidesz-KDNP - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-11T14:11:18,2547119146,Více než 132.5,10.0,Fidesz-KDNP - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-11T14:11:18,2547119147,Méně než 132.5,1.01,Fidesz-KDNP - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-11T14:11:18,2547119148,Více než 99.5,1.4,TISZA - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-11T14:11:18,2547119149,Méně než 99.5,2.6,TISZA - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-11T14:11:18,2547119152,Méně než 132.5,1.26,TISZA - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-11T14:11:18,2547119153,Více než 132.5,3.3,TISZA - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-11T14:11:18,2562476025,Méně než 0.5,3.5,Mi Hazánk - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-11T14:11:18,2562476026,Více než 0.5,1.23,Mi Hazánk - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-11T14:11:18,2572367756,Více než 0.5,17.0,DK - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-11T14:11:18,2572367757,Méně než 0.5,1.0,DK - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-11T14:11:18,2572367758,Méně než 0.5,1.0,MKKP - počet získaných mandátů,25-TOTAL_SEATS-a
+2026-04-11T14:11:18,2572367759,Více než 0.5,20.0,MKKP - počet získaných mandátů,25-TOTAL_SEATS-a
 2026-04-11T06:20:51,2547119139,MKKP,1689.0,Nejvíce mandátů získá,25-MOST_SEATS-a
 2026-04-11T06:20:51,2547119140,DK,1357.0,Nejvíce mandátů získá,25-MOST_SEATS-a
 2026-04-11T06:20:51,2547119141,Mi Hazánk,888.0,Nejvíce mandátů získá,25-MOST_SEATS-a
