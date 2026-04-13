@@ -1,5 +1,19 @@
 date,id,name,event_name,selection_id,odd
-2026-04-12,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,40.0
+2026-04-13,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,40.0
+2026-04-13,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,45.0
+2026-04-13,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
+2026-04-13,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,10.0
+2026-04-13,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,11.0
+2026-04-13,2559224896,"Já, Tran a všechno ostatní",Vítěz,25-WINNER_NWAY-a,12.0
+2026-04-13,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
+2026-04-13,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
+2026-04-13,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,40.0
+2026-04-13,2559224902,Diktáty,Vítěz,25-WINNER_NWAY-a,8.0
+2026-04-13,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.0
+2026-04-13,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,40.0
+2026-04-13,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,6.0
+2026-04-13,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,11.0
+2026-04-13,2559224913,Hinterland. Archeologie sever.,Vítěz,25-WINNER_NWAY-a,45.0
 2026-04-12,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,45.0
 2026-04-12,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
 2026-04-12,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,10.0
@@ -14,14 +28,15 @@ date,id,name,event_name,selection_id,odd
 2026-04-12,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,6.0
 2026-04-12,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,11.0
 2026-04-12,2559224913,Hinterland. Archeologie sever.,Vítěz,25-WINNER_NWAY-a,45.0
-2026-04-11,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,45.0
+2026-04-12,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,40.0
 2026-04-11,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
 2026-04-11,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,10.0
 2026-04-11,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,11.0
 2026-04-11,2559224896,"Já, Tran a všechno ostatní",Vítěz,25-WINNER_NWAY-a,12.0
+2026-04-11,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,40.0
 2026-04-11,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
 2026-04-11,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
-2026-04-11,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,40.0
+2026-04-11,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,45.0
 2026-04-11,2559224902,Diktáty,Vítěz,25-WINNER_NWAY-a,8.0
 2026-04-11,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.0
 2026-04-11,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,40.0
@@ -29,6 +44,7 @@ date,id,name,event_name,selection_id,odd
 2026-04-11,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,11.0
 2026-04-11,2559224913,Hinterland. Archeologie sever.,Vítěz,25-WINNER_NWAY-a,45.0
 2026-04-11,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,40.0
+2026-04-10,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,45.0
 2026-04-10,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
 2026-04-10,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,10.0
 2026-04-10,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,11.0
@@ -36,37 +52,36 @@ date,id,name,event_name,selection_id,odd
 2026-04-10,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,40.0
 2026-04-10,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
 2026-04-10,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
-2026-04-10,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,45.0
+2026-04-10,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,11.0
 2026-04-10,2559224902,Diktáty,Vítěz,25-WINNER_NWAY-a,8.0
-2026-04-10,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.0
 2026-04-10,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,40.0
 2026-04-10,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,6.0
-2026-04-10,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,11.0
+2026-04-10,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.0
 2026-04-10,2559224913,Hinterland. Archeologie sever.,Vítěz,25-WINNER_NWAY-a,45.0
 2026-04-10,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,40.0
 2026-04-09,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,45.0
-2026-04-09,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
 2026-04-09,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,10.0
 2026-04-09,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,11.0
 2026-04-09,2559224896,"Já, Tran a všechno ostatní",Vítěz,25-WINNER_NWAY-a,12.0
 2026-04-09,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,40.0
 2026-04-09,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
 2026-04-09,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
-2026-04-09,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,6.0
+2026-04-09,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
 2026-04-09,2559224902,Diktáty,Vítěz,25-WINNER_NWAY-a,8.0
 2026-04-09,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,40.0
-2026-04-09,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.0
+2026-04-09,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,6.0
 2026-04-09,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,11.0
 2026-04-09,2559224913,Hinterland. Archeologie sever.,Vítěz,25-WINNER_NWAY-a,45.0
 2026-04-09,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,40.0
-2026-04-08,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
+2026-04-09,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.0
+2026-04-08,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,45.0
 2026-04-08,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
 2026-04-08,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,10.0
 2026-04-08,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,11.0
 2026-04-08,2559224896,"Já, Tran a všechno ostatní",Vítěz,25-WINNER_NWAY-a,12.0
 2026-04-08,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,40.0
 2026-04-08,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
-2026-04-08,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,45.0
+2026-04-08,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
 2026-04-08,2559224902,Diktáty,Vítěz,25-WINNER_NWAY-a,8.0
 2026-04-08,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.0
 2026-04-08,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,40.0
@@ -79,24 +94,24 @@ date,id,name,event_name,selection_id,odd
 2026-04-07,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,10.0
 2026-04-07,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,11.0
 2026-04-07,2559224896,"Já, Tran a všechno ostatní",Vítěz,25-WINNER_NWAY-a,12.0
-2026-04-07,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,40.0
 2026-04-07,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
 2026-04-07,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
-2026-04-07,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,40.0
+2026-04-07,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,40.0
 2026-04-07,2559224902,Diktáty,Vítěz,25-WINNER_NWAY-a,8.0
-2026-04-07,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.0
 2026-04-07,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,40.0
+2026-04-07,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.0
 2026-04-07,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,6.0
 2026-04-07,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,11.0
 2026-04-07,2559224913,Hinterland. Archeologie sever.,Vítěz,25-WINNER_NWAY-a,45.0
+2026-04-07,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,40.0
 2026-04-06,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,41.666666666666664
-2026-04-06,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
 2026-04-06,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,8.666666666666666
 2026-04-06,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,10.333333333333334
 2026-04-06,2559224896,"Já, Tran a všechno ostatní",Vítěz,25-WINNER_NWAY-a,12.0
 2026-04-06,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,36.666666666666664
 2026-04-06,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
 2026-04-06,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
+2026-04-06,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
 2026-04-06,2559224902,Diktáty,Vítěz,25-WINNER_NWAY-a,8.0
 2026-04-06,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,36.666666666666664
 2026-04-06,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,5.333333333333333
@@ -104,14 +119,14 @@ date,id,name,event_name,selection_id,odd
 2026-04-06,2559224913,Hinterland. Archeologie sever.,Vítěz,25-WINNER_NWAY-a,41.666666666666664
 2026-04-06,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,36.666666666666664
 2026-04-06,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.3333333333333335
-2026-04-05,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,10.0
-2026-04-05,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
+2026-04-05,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,40.0
 2026-04-05,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
 2026-04-05,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,8.0
+2026-04-05,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,10.0
 2026-04-05,2559224896,"Já, Tran a všechno ostatní",Vítěz,25-WINNER_NWAY-a,12.0
 2026-04-05,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,35.0
 2026-04-05,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
-2026-04-05,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,40.0
+2026-04-05,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
 2026-04-05,2559224902,Diktáty,Vítěz,25-WINNER_NWAY-a,8.0
 2026-04-05,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.5
 2026-04-05,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,35.0
@@ -120,51 +135,50 @@ date,id,name,event_name,selection_id,odd
 2026-04-05,2559224913,Hinterland. Archeologie sever.,Vítěz,25-WINNER_NWAY-a,40.0
 2026-04-05,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,35.0
 2026-04-04,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,40.0
-2026-04-04,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
 2026-04-04,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,8.0
 2026-04-04,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,10.0
 2026-04-04,2559224896,"Já, Tran a všechno ostatní",Vítěz,25-WINNER_NWAY-a,12.0
 2026-04-04,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,35.0
 2026-04-04,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
 2026-04-04,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
-2026-04-04,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,35.0
+2026-04-04,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
 2026-04-04,2559224902,Diktáty,Vítěz,25-WINNER_NWAY-a,8.0
-2026-04-04,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.5
-2026-04-04,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,35.0
-2026-04-04,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,5.0
 2026-04-04,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,10.0
+2026-04-04,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,35.0
 2026-04-04,2559224913,Hinterland. Archeologie sever.,Vítěz,25-WINNER_NWAY-a,40.0
-2026-04-03,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
+2026-04-04,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.5
+2026-04-04,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,5.0
+2026-04-04,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,35.0
+2026-04-03,2559224902,Diktáty,Vítěz,25-WINNER_NWAY-a,8.0
+2026-04-03,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
+2026-04-03,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,8.0
 2026-04-03,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,10.0
 2026-04-03,2559224896,"Já, Tran a všechno ostatní",Vítěz,25-WINNER_NWAY-a,12.0
 2026-04-03,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,35.0
-2026-04-03,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,8.0
-2026-04-03,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
-2026-04-03,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,40.0
 2026-04-03,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
-2026-04-03,2559224902,Diktáty,Vítěz,25-WINNER_NWAY-a,8.0
+2026-04-03,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
+2026-04-03,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.5
 2026-04-03,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,35.0
 2026-04-03,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,5.0
 2026-04-03,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,10.0
 2026-04-03,2559224913,Hinterland. Archeologie sever.,Vítěz,25-WINNER_NWAY-a,40.0
 2026-04-03,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,35.0
-2026-04-03,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.5
-2026-04-02,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
+2026-04-03,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,40.0
 2026-04-02,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,40.0
+2026-04-02,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
 2026-04-02,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,8.0
+2026-04-02,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,10.0
 2026-04-02,2559224896,"Já, Tran a všechno ostatní",Vítěz,25-WINNER_NWAY-a,12.0
 2026-04-02,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,35.0
 2026-04-02,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
 2026-04-02,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
-2026-04-02,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,10.0
 2026-04-02,2559224902,Diktáty,Vítěz,25-WINNER_NWAY-a,8.0
+2026-04-02,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.5
 2026-04-02,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,35.0
 2026-04-02,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,5.0
 2026-04-02,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,10.0
 2026-04-02,2559224913,Hinterland. Archeologie sever.,Vítěz,25-WINNER_NWAY-a,40.0
 2026-04-02,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,35.0
-2026-04-02,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.5
-2026-04-01,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,40.0
 2026-04-01,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
 2026-04-01,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,8.0
 2026-04-01,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,10.0
@@ -172,73 +186,74 @@ date,id,name,event_name,selection_id,odd
 2026-04-01,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,35.0
 2026-04-01,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
 2026-04-01,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
-2026-04-01,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,35.0
+2026-04-01,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,40.0
 2026-04-01,2559224902,Diktáty,Vítěz,25-WINNER_NWAY-a,8.0
 2026-04-01,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.5
+2026-04-01,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,35.0
 2026-04-01,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,5.0
 2026-04-01,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,10.0
 2026-04-01,2559224913,Hinterland. Archeologie sever.,Vítěz,25-WINNER_NWAY-a,40.0
 2026-04-01,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,35.0
-2026-03-31,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
-2026-03-31,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
 2026-03-31,2559224902,Diktáty,Vítěz,25-WINNER_NWAY-a,8.0
+2026-03-31,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,35.0
+2026-03-31,2559224913,Hinterland. Archeologie sever.,Vítěz,25-WINNER_NWAY-a,40.0
+2026-03-31,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,10.0
+2026-03-31,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,5.0
+2026-03-31,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,35.0
+2026-03-31,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.5
+2026-03-31,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,40.0
+2026-03-31,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
 2026-03-31,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,35.0
 2026-03-31,2559224896,"Já, Tran a všechno ostatní",Vítěz,25-WINNER_NWAY-a,12.0
-2026-03-31,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,40.0
-2026-03-31,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,8.0
-2026-03-31,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.5
-2026-03-31,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,35.0
-2026-03-31,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,5.0
-2026-03-31,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,10.0
-2026-03-31,2559224913,Hinterland. Archeologie sever.,Vítěz,25-WINNER_NWAY-a,40.0
-2026-03-31,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,35.0
 2026-03-31,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,10.0
+2026-03-31,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,8.0
 2026-03-31,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
-2026-03-30,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,35.0
-2026-03-30,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,40.0
-2026-03-30,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,35.0
+2026-03-31,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
 2026-03-30,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
+2026-03-30,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,40.0
 2026-03-30,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,8.0
-2026-03-30,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,10.0
 2026-03-30,2559224896,"Já, Tran a všechno ostatní",Vítěz,25-WINNER_NWAY-a,12.0
+2026-03-30,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,35.0
 2026-03-30,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
 2026-03-30,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
+2026-03-30,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,10.0
 2026-03-30,2559224902,Diktáty,Vítěz,25-WINNER_NWAY-a,8.0
-2026-03-30,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.5
 2026-03-30,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,35.0
 2026-03-30,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,5.0
 2026-03-30,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,10.0
+2026-03-30,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,35.0
 2026-03-30,2559224913,Hinterland. Archeologie sever.,Vítěz,25-WINNER_NWAY-a,40.0
-2026-03-29,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,10.0
-2026-03-29,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,35.0
-2026-03-29,2559224896,"Já, Tran a všechno ostatní",Vítěz,25-WINNER_NWAY-a,12.0
-2026-03-29,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,10.0
-2026-03-29,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,8.0
-2026-03-29,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
-2026-03-29,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
-2026-03-29,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
-2026-03-29,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,35.0
+2026-03-30,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.5
 2026-03-29,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,40.0
+2026-03-29,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
+2026-03-29,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,8.0
+2026-03-29,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,10.0
+2026-03-29,2559224896,"Já, Tran a všechno ostatní",Vítěz,25-WINNER_NWAY-a,12.0
+2026-03-29,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,35.0
+2026-03-29,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
+2026-03-29,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
+2026-03-29,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,35.0
 2026-03-29,2559224902,Diktáty,Vítěz,25-WINNER_NWAY-a,8.0
 2026-03-29,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.5
-2026-03-29,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,35.0
 2026-03-29,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,5.0
+2026-03-29,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,10.0
 2026-03-29,2559224913,Hinterland. Archeologie sever.,Vítěz,25-WINNER_NWAY-a,40.0
-2026-03-28,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,35.0
+2026-03-29,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,35.0
+2026-03-28,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
 2026-03-28,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,10.0
 2026-03-28,2559224896,"Já, Tran a všechno ostatní",Vítěz,25-WINNER_NWAY-a,12.0
-2026-03-28,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
+2026-03-28,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,35.0
 2026-03-28,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,8.0
+2026-03-28,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
 2026-03-28,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,40.0
 2026-03-28,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
-2026-03-28,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
 2026-03-28,2559224902,Diktáty,Vítěz,25-WINNER_NWAY-a,8.0
-2026-03-28,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,5.0
-2026-03-28,2559224913,Hinterland. Archeologie sever.,Vítěz,25-WINNER_NWAY-a,40.0
-2026-03-28,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,10.0
-2026-03-28,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.5
-2026-03-28,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,35.0
 2026-03-28,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,35.0
+2026-03-28,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,35.0
+2026-03-28,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,5.0
+2026-03-28,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,10.0
+2026-03-28,2559224913,Hinterland. Archeologie sever.,Vítěz,25-WINNER_NWAY-a,40.0
+2026-03-28,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.5
 2026-03-27,2559224895,Tři čtvrtě na šílenství,Vítěz,25-WINNER_NWAY-a,40.0
 2026-03-27,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,40.0
 2026-03-27,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
@@ -246,36 +261,36 @@ date,id,name,event_name,selection_id,odd
 2026-03-27,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
 2026-03-27,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,35.0
 2026-03-27,2559224896,"Já, Tran a všechno ostatní",Vítěz,25-WINNER_NWAY-a,12.0
+2026-03-27,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,10.0
 2026-03-27,2559224894,"Umřel jsem, ale už je mi líp",Vítěz,25-WINNER_NWAY-a,40.0
 2026-03-27,2559224893,Slavné časy,Vítěz,25-WINNER_NWAY-a,40.0
-2026-03-27,2559224902,Diktáty,Vítěz,25-WINNER_NWAY-a,8.0
 2026-03-27,2559224891,Jeřábi táhnou na jih,Vítěz,25-WINNER_NWAY-a,45.0
 2026-03-27,2559224890,Oni poslední Římané,Vítěz,25-WINNER_NWAY-a,8.0
 2026-03-27,2559224889,Černý kos ,Vítěz,25-WINNER_NWAY-a,25.0
 2026-03-27,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
-2026-03-27,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,10.0
-2026-03-27,2559224904,Luciférovka,Vítěz,25-WINNER_NWAY-a,40.0
+2026-03-27,2559224902,Diktáty,Vítěz,25-WINNER_NWAY-a,8.0
 2026-03-27,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.5
+2026-03-27,2559224904,Luciférovka,Vítěz,25-WINNER_NWAY-a,40.0
+2026-03-27,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,5.0
+2026-03-27,2559224907,Cikánský Mojžíš. Anarchistická,Vítěz,25-WINNER_NWAY-a,45.0
+2026-03-27,2559224908,Ante portas,Vítěz,25-WINNER_NWAY-a,30.0
+2026-03-27,2559224909,Číhat na mech,Vítěz,25-WINNER_NWAY-a,40.0
+2026-03-27,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,10.0
+2026-03-27,2559224911,Palác šupinatých koček,Vítěz,25-WINNER_NWAY-a,35.0
 2026-03-27,2559224912,Podezřelý ticho,Vítěz,25-WINNER_NWAY-a,40.0
-2026-03-27,2559224917,Krev Kruh Černá,Vítěz,25-WINNER_NWAY-a,40.0
-2026-03-27,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,35.0
-2026-03-27,2559224915,Letní slunovrat,Vítěz,25-WINNER_NWAY-a,40.0
-2026-03-27,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,35.0
 2026-03-27,2559224913,Hinterland. Archeologie sever.,Vítěz,25-WINNER_NWAY-a,40.0
 2026-03-27,2559224914,Žádné dobré zprávy,Vítěz,25-WINNER_NWAY-a,35.0
-2026-03-27,2559224911,Palác šupinatých koček,Vítěz,25-WINNER_NWAY-a,35.0
-2026-03-27,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,10.0
-2026-03-27,2559224909,Číhat na mech,Vítěz,25-WINNER_NWAY-a,40.0
-2026-03-27,2559224908,Ante portas,Vítěz,25-WINNER_NWAY-a,30.0
-2026-03-27,2559224907,Cikánský Mojžíš. Anarchistická,Vítěz,25-WINNER_NWAY-a,45.0
-2026-03-27,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,5.0
-2026-03-26,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
-2026-03-26,2559224899,"Jak dlouho se spí, když kvetou",Vítěz,25-WINNER_NWAY-a,40.0
-2026-03-26,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
+2026-03-27,2559224915,Letní slunovrat,Vítěz,25-WINNER_NWAY-a,40.0
+2026-03-27,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,35.0
+2026-03-27,2559224917,Krev Kruh Černá,Vítěz,25-WINNER_NWAY-a,40.0
+2026-03-27,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,35.0
 2026-03-26,2559224897,S láskou V.,Vítěz,25-WINNER_NWAY-a,35.0
-2026-03-26,2559224894,"Umřel jsem, ale už je mi líp",Vítěz,25-WINNER_NWAY-a,40.0
-2026-03-26,2559224895,Tři čtvrtě na šílenství,Vítěz,25-WINNER_NWAY-a,40.0
 2026-03-26,2559224896,"Já, Tran a všechno ostatní",Vítěz,25-WINNER_NWAY-a,12.0
+2026-03-26,2559224894,"Umřel jsem, ale už je mi líp",Vítěz,25-WINNER_NWAY-a,40.0
+2026-03-26,2559224898,Koncept transparence,Vítěz,25-WINNER_NWAY-a,25.0
+2026-03-26,2559224900,"Křivoklátsko, cesta domovem",Vítěz,25-WINNER_NWAY-a,30.0
+2026-03-26,2559224895,Tři čtvrtě na šílenství,Vítěz,25-WINNER_NWAY-a,40.0
+2026-03-26,2559224899,"Jak dlouho se spí, když kvetou",Vítěz,25-WINNER_NWAY-a,40.0
 2026-03-26,2559224893,Slavné časy,Vítěz,25-WINNER_NWAY-a,40.0
 2026-03-26,2559224892,Náměstí Práce,Vítěz,25-WINNER_NWAY-a,10.0
 2026-03-26,2559224891,Jeřábi táhnou na jih,Vítěz,25-WINNER_NWAY-a,45.0
@@ -284,7 +299,7 @@ date,id,name,event_name,selection_id,odd
 2026-03-26,2559224888,Tajný život institucí,Vítěz,25-WINNER_NWAY-a,12.0
 2026-03-26,2559224902,Diktáty,Vítěz,25-WINNER_NWAY-a,8.0
 2026-03-26,2559224901,Dávné znění. Klopýtání s G.Mahl.,Vítěz,25-WINNER_NWAY-a,40.0
-2026-03-26,2559224904,Luciférovka,Vítěz,25-WINNER_NWAY-a,40.0
+2026-03-26,2559224907,Cikánský Mojžíš. Anarchistická,Vítěz,25-WINNER_NWAY-a,45.0
 2026-03-26,2559224903,Mariborská hypnóza,Vítěz,25-WINNER_NWAY-a,3.5
 2026-03-26,2559224911,Palác šupinatých koček,Vítěz,25-WINNER_NWAY-a,35.0
 2026-03-26,2559224916,Onde,Vítěz,25-WINNER_NWAY-a,35.0
@@ -295,7 +310,7 @@ date,id,name,event_name,selection_id,odd
 2026-03-26,2559224917,Krev Kruh Černá,Vítěz,25-WINNER_NWAY-a,40.0
 2026-03-26,2559224910,Roztěkané,Vítěz,25-WINNER_NWAY-a,10.0
 2026-03-26,2559224908,Ante portas,Vítěz,25-WINNER_NWAY-a,30.0
-2026-03-26,2559224907,Cikánský Mojžíš. Anarchistická,Vítěz,25-WINNER_NWAY-a,45.0
+2026-03-26,2559224904,Luciférovka,Vítěz,25-WINNER_NWAY-a,40.0
 2026-03-26,2559224906,Fáze jedné ženy,Vítěz,25-WINNER_NWAY-a,5.0
 2026-03-26,2559224905,Šeptej nahlas,Vítěz,25-WINNER_NWAY-a,35.0
 2026-03-26,2559224909,Číhat na mech,Vítěz,25-WINNER_NWAY-a,40.0
