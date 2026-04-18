@@ -1,32 +1,36 @@
 date,id,name,event_name,selection_id,odd
-2026-04-17,2582150264,Méně než 40.65,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
-2026-04-17,2576531940,41.95 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
+2026-04-18,2582150264,Méně než 40.65,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2026-04-18,2582150263,40.65 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2026-04-18,2582150262,42.75 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,2.16
+2026-04-18,2582150261,Méně než 42.75,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.6
+2026-04-17,2582150261,Méně než 42.75,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.6
+2026-04-17,2576531935,45.95 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
 2026-04-17,2576531936,Méně než 45.95,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
 2026-04-17,2576531939,Méně než 41.95,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
-2026-04-17,2576531935,45.95 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2026-04-17,2582150261,Méně než 42.75,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.6
+2026-04-17,2576531940,41.95 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2026-04-17,2582150262,42.75 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,2.16
 2026-04-17,2582150263,40.65 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2026-04-17,2582150264,Méně než 40.65,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2026-04-16,2576531940,41.95 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2026-04-16,2576531939,Méně než 41.95,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
 2026-04-16,2576531936,Méně než 45.95,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
 2026-04-16,2576531935,45.95 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2026-04-15,2576531936,Méně než 45.95,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
+2026-04-15,2576531938,Méně než 41.95,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2026-04-15,2576531940,41.95 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2026-04-15,2576531939,Méně než 41.95,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
-2026-04-15,2576531938,Méně než 41.95,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2026-04-15,2576531937,41.95 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
+2026-04-15,2576531936,Méně než 45.95,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.5
 2026-04-15,2576531935,45.95 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 24.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,2.38
-2026-04-15,2576531933,45.95 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
 2026-04-15,2576531934,Méně než 45.95,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2026-04-15,2576531933,45.95 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.84
+2026-04-14,2576531933,45.95 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.7466666666666668
 2026-04-14,2576531938,Méně než 41.95,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,2.01
 2026-04-14,2576531937,41.95 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.7
 2026-04-14,2576531934,Méně než 45.95,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.9533333333333331
-2026-04-14,2576531933,45.95 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.7466666666666668
-2026-04-13,2576531934,Méně než 45.95,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,2.61
-2026-04-13,2576531938,Méně než 41.95,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,2.61
-2026-04-13,2576531937,41.95 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.45
 2026-04-13,2576531933,45.95 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.45
+2026-04-13,2576531934,Méně než 45.95,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,2.61
+2026-04-13,2576531937,41.95 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.45
+2026-04-13,2576531938,Méně než 41.95,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,2.61
 2026-04-12,2576531938,Méně než 41.95,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,2.27
 2026-04-12,2576531937,41.95 a více,Maximální přípustná maloobchodní cena v Kč za 1 litr natural 95 pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,1.6133333333333333
 2026-04-12,2576531934,Méně než 45.95,Maximální přípustná maloobchodní cena v Kč za 1 litr diesel pro den 17.4.2026 (vyhodnocení podle mf.gov.cz),25-GENERAL_QUESTION_TOTAL-a,2.2
