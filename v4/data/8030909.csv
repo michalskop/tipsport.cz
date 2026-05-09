@@ -1,4 +1,6 @@
 date,id,name,odd,event_name,selection_id
+2026-05-09T14:22:46,2591808389,Méně než 50.01%,1.0,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a
+2026-05-09T14:22:46,2591808390,50.01% a více,15.0,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a
 2026-05-09T06:40:30,2591808389,Méně než 50.01%,1.0,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a
 2026-05-09T06:40:30,2591808390,50.01% a více,15.0,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a
 2026-05-08T22:19:10,2591808389,Méně než 50.01%,1.0,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a
