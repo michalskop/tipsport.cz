@@ -1,4 +1,6 @@
 date,id,name,event_name,selection_id,odd
+2026-05-23,2591808390,50.01% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,15.0
+2026-05-23,2591808389,Méně než 50.01%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.0
 2026-05-22,2591808390,50.01% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,15.0
 2026-05-22,2591808389,Méně než 50.01%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.0
 2026-05-21,2591808390,50.01% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,15.0
@@ -21,8 +23,8 @@ date,id,name,event_name,selection_id,odd
 2026-05-13,2591808389,Méně než 50.01%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.0
 2026-05-12,2591808390,50.01% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,15.0
 2026-05-12,2591808389,Méně než 50.01%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.0
-2026-05-11,2591808389,Méně než 50.01%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.0
 2026-05-11,2591808390,50.01% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,15.0
+2026-05-11,2591808389,Méně než 50.01%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.0
 2026-05-10,2591808390,50.01% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,15.0
 2026-05-10,2591808389,Méně než 50.01%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.0
 2026-05-09,2591808390,50.01% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,15.0
