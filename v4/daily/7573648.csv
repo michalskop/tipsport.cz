@@ -1,4 +1,6 @@
 date,id,name,event_name,selection_id,odd
+2026-05-27,2608228481,Méně než 40.4,Nejvyšší naměřená teplota vzduchu ve stupních C v SR od 1.7. do 1.9.2026 (vyhodnocení podle shmu.sk),25-GENERAL_QUESTION_TOTAL-a,1.17
+2026-05-27,2608228480,40.4 a více,Nejvyšší naměřená teplota vzduchu ve stupních C v SR od 1.7. do 1.9.2026 (vyhodnocení podle shmu.sk),25-GENERAL_QUESTION_TOTAL-a,4.3
 2026-05-26,2608228481,Méně než 40.4,Nejvyšší naměřená teplota vzduchu ve stupních C v SR od 1.7. do 1.9.2026 (vyhodnocení podle shmu.sk),25-GENERAL_QUESTION_TOTAL-a,1.1533333333333333
 2026-05-26,2608228480,40.4 a více,Nejvyšší naměřená teplota vzduchu ve stupních C v SR od 1.7. do 1.9.2026 (vyhodnocení podle shmu.sk),25-GENERAL_QUESTION_TOTAL-a,4.556666666666666
 2026-05-25,2608228481,Méně než 40.4,Nejvyšší naměřená teplota vzduchu ve stupních C v SR od 1.7. do 1.9.2026 (vyhodnocení podle shmu.sk),25-GENERAL_QUESTION_TOTAL-a,1.15
@@ -7,8 +9,8 @@ date,id,name,event_name,selection_id,odd
 2026-05-24,2608228480,40.4 a více,Nejvyšší naměřená teplota vzduchu ve stupních C v SR od 1.7. do 1.9.2026 (vyhodnocení podle shmu.sk),25-GENERAL_QUESTION_TOTAL-a,4.283333333333333
 2026-05-23,2608228481,Méně než 40.4,Nejvyšší naměřená teplota vzduchu ve stupních C v SR od 1.7. do 1.9.2026 (vyhodnocení podle shmu.sk),25-GENERAL_QUESTION_TOTAL-a,1.23
 2026-05-23,2608228480,40.4 a více,Nejvyšší naměřená teplota vzduchu ve stupních C v SR od 1.7. do 1.9.2026 (vyhodnocení podle shmu.sk),25-GENERAL_QUESTION_TOTAL-a,3.65
-2026-05-22,2608228481,Méně než 40.4,Nejvyšší naměřená teplota vzduchu ve stupních C v SR od 1.7. do 1.9.2026 (vyhodnocení podle shmu.sk),25-GENERAL_QUESTION_TOTAL-a,1.14
 2026-05-22,2608228480,40.4 a více,Nejvyšší naměřená teplota vzduchu ve stupních C v SR od 1.7. do 1.9.2026 (vyhodnocení podle shmu.sk),25-GENERAL_QUESTION_TOTAL-a,4.826666666666667
+2026-05-22,2608228481,Méně než 40.4,Nejvyšší naměřená teplota vzduchu ve stupních C v SR od 1.7. do 1.9.2026 (vyhodnocení podle shmu.sk),25-GENERAL_QUESTION_TOTAL-a,1.14
 2026-05-21,2608228481,Méně než 40.4,Nejvyšší naměřená teplota vzduchu ve stupních C v SR od 1.7. do 1.9.2026 (vyhodnocení podle shmu.sk),25-GENERAL_QUESTION_TOTAL-a,1.12
 2026-05-21,2608228480,40.4 a více,Nejvyšší naměřená teplota vzduchu ve stupních C v SR od 1.7. do 1.9.2026 (vyhodnocení podle shmu.sk),25-GENERAL_QUESTION_TOTAL-a,5.15
 2026-05-20,2608228481,Méně než 40.4,Nejvyšší naměřená teplota vzduchu ve stupních C v SR od 1.7. do 1.9.2026 (vyhodnocení podle shmu.sk),25-GENERAL_QUESTION_TOTAL-a,1.12
