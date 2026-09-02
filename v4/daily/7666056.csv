@@ -1,0 +1,20 @@
+date,id,name,event_name,selection_id,odd
+2026-09-02,2703302797,Die Linke,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.0
+2026-09-02,2703302811,Ne,Umístění CDU do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,33.0
+2026-09-02,2703319496,Méně než 44.66%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.11
+2026-09-02,2703319495,39.45% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.25
+2026-09-02,2703319494,Méně než 39.45%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,3.48
+2026-09-02,2703302815,41.88% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.84
+2026-09-02,2703302814,Méně než 41.88%,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,1.84
+2026-09-02,2703302813,Ne,Umístění Die Linke do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,13.0
+2026-09-02,2703302812,Ano,Umístění Die Linke do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
+2026-09-02,2703302810,Ano,Umístění CDU do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
+2026-09-02,2703302798,CDU,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.0
+2026-09-02,2703302809,Ne,Nejvíc hlasů získá AfD,25-POSITION_PARTICIPANT_VOTES-a,88.0
+2026-09-02,2703302808,Ano,Nejvíc hlasů získá AfD,25-POSITION_PARTICIPANT_VOTES-a,1.0
+2026-09-02,2703302805,AfD,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.0
+2026-09-02,2703302802,B'90/Grüne,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,2.2
+2026-09-02,2703302801,BSW,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,4.5
+2026-09-02,2703302800,SPD,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.25
+2026-09-02,2703302799,FDP,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,4.5
+2026-09-02,2703319497,44.66% a více,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a,5.37
