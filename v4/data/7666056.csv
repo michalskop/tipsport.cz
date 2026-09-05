@@ -1,4 +1,23 @@
 date,id,name,odd,event_name,selection_id
+2026-09-05T23:28:08,2703302797,Die Linke,1.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2026-09-05T23:28:08,2703302798,CDU,1.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2026-09-05T23:28:08,2703302799,FDP,8.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2026-09-05T23:28:08,2703302800,SPD,1.07,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2026-09-05T23:28:08,2703302801,BSW,8.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2026-09-05T23:28:08,2703302802,B'90/Grüne,4.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2026-09-05T23:28:08,2703302805,AfD,1.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
+2026-09-05T23:28:08,2703302808,Ano,1.0,Nejvíc hlasů získá AfD,25-POSITION_PARTICIPANT_VOTES-a
+2026-09-05T23:28:08,2703302809,Ne,100.0,Nejvíc hlasů získá AfD,25-POSITION_PARTICIPANT_VOTES-a
+2026-09-05T23:28:08,2703302810,Ano,1.0,Umístění CDU do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a
+2026-09-05T23:28:08,2703302811,Ne,36.0,Umístění CDU do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a
+2026-09-05T23:28:08,2703302812,Ano,1.0,Umístění Die Linke do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a
+2026-09-05T23:28:08,2703302813,Ne,15.0,Umístění Die Linke do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a
+2026-09-05T23:28:08,2703302814,Méně než 41.88%,2.01,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2026-09-05T23:28:08,2703302815,41.88% a více,1.7,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2026-09-05T23:28:08,2703319494,Méně než 39.45%,4.18,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2026-09-05T23:28:08,2703319495,39.45% a více,1.18,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2026-09-05T23:28:08,2703319496,Méně než 44.66%,1.11,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2026-09-05T23:28:08,2703319497,44.66% a více,5.37,AfD - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
 2026-09-05T16:24:28,2703302797,Die Linke,1.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
 2026-09-05T16:24:28,2703302798,CDU,1.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
 2026-09-05T16:24:28,2703302799,FDP,7.0,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a
