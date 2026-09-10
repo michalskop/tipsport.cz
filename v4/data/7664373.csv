@@ -1,4 +1,22 @@
 date,id,name,odd,event_name,selection_id
+2026-09-10T17:24:18,2708121019,Ano,1.0,Nejvíc hlasů získá Socialdemokraterna,25-POSITION_PARTICIPANT_VOTES-a
+2026-09-10T17:24:18,2708121020,Ne,15.0,Nejvíc hlasů získá Socialdemokraterna,25-POSITION_PARTICIPANT_VOTES-a
+2026-09-10T17:24:18,2708121021,Ano,1.0,Umístění Socialdemokraterna do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a
+2026-09-10T17:24:18,2708121022,Ne,33.0,Umístění Socialdemokraterna do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a
+2026-09-10T17:24:18,2708121023,Ne,4.6,Umístění Sverigedemokraterna do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a
+2026-09-10T17:24:18,2708121024,Ano,1.15,Umístění Sverigedemokraterna do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a
+2026-09-10T17:24:18,2708121025,Ano,1.0,Umístění Socialdemokraterna do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a
+2026-09-10T17:24:18,2708121026,Ne,88.0,Umístění Socialdemokraterna do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a
+2026-09-10T17:24:18,2708121027,Ne,44.0,Umístění Sverigedemokraterna do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a
+2026-09-10T17:24:18,2708121028,Ano,1.0,Umístění Sverigedemokraterna do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a
+2026-09-10T17:24:18,2708121029,Ne,22.0,Umístění Moderaterna do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a
+2026-09-10T17:24:18,2708121030,Ano,1.0,Umístění Moderaterna do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a
+2026-09-10T17:24:18,2708121031,17.61% a více,2.13,Moderaterna - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2026-09-10T17:24:18,2708121032,Méně než 17.61%,1.62,Moderaterna - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2026-09-10T17:24:18,2708121033,Méně než 27.15%,2.22,Socialdemokraterna - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2026-09-10T17:24:18,2708121034,27.15% a více,1.57,Socialdemokraterna - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2026-09-10T17:24:18,2708121035,Méně než 19.66%,1.7,Sverigedemokraterna - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
+2026-09-10T17:24:18,2708121036,19.66% a více,2.01,Sverigedemokraterna - počet hlasů v procentech,25-TOTAL_RACE_PERCENT-a
 2026-09-10T10:18:06,2708121019,Ano,1.0,Nejvíc hlasů získá Socialdemokraterna,25-POSITION_PARTICIPANT_VOTES-a
 2026-09-10T10:18:06,2708121020,Ne,15.0,Nejvíc hlasů získá Socialdemokraterna,25-POSITION_PARTICIPANT_VOTES-a
 2026-09-10T10:18:06,2708121021,Ano,1.0,Umístění Socialdemokraterna do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a
