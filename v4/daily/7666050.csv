@@ -2,7 +2,7 @@ date,id,name,event_name,selection_id,odd
 2026-09-18,2718433459,AfD,Umístění do 4. místa podle počtu hlasů,25-POSITION_VOTES-a,1.03
 2026-09-18,2718427746,Die Linke,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.07
 2026-09-18,2708125753,AfD,Nejvíc hlasů získá,25-POSITION_VOTES-a,9.5
-2026-09-18,2708125754,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.4
+2026-09-18,2708125754,Die Linke,Nejvíc hlasů získá,25-POSITION_VOTES-a,1.3999999999999997
 2026-09-18,2708125756,BSW,Nejvíc hlasů získá,25-POSITION_VOTES-a,400.0
 2026-09-18,2708125757,B'90/Grüne,Nejvíc hlasů získá,25-POSITION_VOTES-a,25.0
 2026-09-18,2708125758,SPD,Nejvíc hlasů získá,25-POSITION_VOTES-a,75.0
@@ -12,11 +12,11 @@ date,id,name,event_name,selection_id,odd
 2026-09-18,2718427742,SPD,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,25.0
 2026-09-18,2718427743,B'90/Grüne,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,6.5
 2026-09-18,2718427744,BSW,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,250.0
-2026-09-18,2718427745,CDU,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.35
+2026-09-18,2718427745,CDU,Umístění do 2. místa podle počtu hlasů,25-POSITION_VOTES-a,1.3500000000000003
 2026-09-18,2708125755,CDU,Nejvíc hlasů získá,25-POSITION_VOTES-a,3.0
 2026-09-18,2718433446,CDU,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.05
 2026-09-18,2718433448,SPD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,5.0
-2026-09-18,2718433449,AfD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.4
+2026-09-18,2718433449,AfD,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,1.3999999999999997
 2026-09-18,2718433450,FDP,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,150.0
 2026-09-18,2718433451,B'90/Grüne,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,2.1
 2026-09-18,2718433452,BSW,Umístění do 3. místa podle počtu hlasů,25-POSITION_VOTES-a,88.0
