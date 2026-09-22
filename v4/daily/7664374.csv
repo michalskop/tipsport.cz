@@ -1,16 +1,16 @@
 date,id,name,event_name,selection_id,odd
-2026-09-22,2715915726,218 a více,Počet mandátů Demokratické strany ve Sněmovně reprezentantů po volbách 2026,25-GENERAL_QUESTION_TOTAL-a,1.0350000000000001
+2026-09-22,2715915726,218 a více,Počet mandátů Demokratické strany ve Sněmovně reprezentantů po volbách 2026,25-GENERAL_QUESTION_TOTAL-a,1.0333333333333334
 2026-09-22,2715915720,Ne,"Demokraté většina v Senátu, Republikáni většina ve Sněmovně reprezentantů po volbách do Kongresu 2026",25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-09-22,2715827206,Méně než 50,Počet mandátů Republikánské strany v Senátu po volbách 2026,25-GENERAL_QUESTION_TOTAL-a,1.46
-2026-09-22,2715827207,50 a více,Počet mandátů Republikánské strany v Senátu po volbách 2026,25-GENERAL_QUESTION_TOTAL-a,2.495
-2026-09-22,2715915717,Ano,"Demokraté většina v Senátu, Demokraté většina ve Sněmovně reprezentantů po volbách do Kongresu 2026",25-GENERAL_QUESTION_YES_NO-a,1.48
-2026-09-22,2715915719,Ano,"Demokraté většina v Senátu, Republikáni většina ve Sněmovně reprezentantů po volbách do Kongresu 2026",25-GENERAL_QUESTION_YES_NO-a,84.0
+2026-09-22,2715827206,Méně než 50,Počet mandátů Republikánské strany v Senátu po volbách 2026,25-GENERAL_QUESTION_TOTAL-a,1.4466666666666665
+2026-09-22,2715827207,50 a více,Počet mandátů Republikánské strany v Senátu po volbách 2026,25-GENERAL_QUESTION_TOTAL-a,2.533333333333333
+2026-09-22,2715915717,Ano,"Demokraté většina v Senátu, Demokraté většina ve Sněmovně reprezentantů po volbách do Kongresu 2026",25-GENERAL_QUESTION_YES_NO-a,1.4666666666666668
+2026-09-22,2715915719,Ano,"Demokraté většina v Senátu, Republikáni většina ve Sněmovně reprezentantů po volbách do Kongresu 2026",25-GENERAL_QUESTION_YES_NO-a,85.33333333333333
 2026-09-22,2715915718,Ne,"Demokraté většina v Senátu, Demokraté většina ve Sněmovně reprezentantů po volbách do Kongresu 2026",25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-09-22,2715915721,Ano,"Republikáni většina v Senátu, Demokraté většina ve Sněmovně reprezentantů po volbách do Kongresu 2026",25-GENERAL_QUESTION_YES_NO-a,3.0
 2026-09-22,2715915722,Ne,"Republikáni většina v Senátu, Demokraté většina ve Sněmovně reprezentantů po volbách do Kongresu 2026",25-GENERAL_QUESTION_YES_NO-a,1.0
 2026-09-22,2715915723,Ne,"Republikáni většina v Senátu, Republikáni většina ve Sněmovně reprezentantů po volbách do Kongresu 2026",25-GENERAL_QUESTION_YES_NO-a,1.0
-2026-09-22,2715915724,Ano,"Republikáni většina v Senátu, Republikáni většina ve Sněmovně reprezentantů po volbách do Kongresu 2026",25-GENERAL_QUESTION_YES_NO-a,8.25
-2026-09-22,2715915725,Méně než 218,Počet mandátů Demokratické strany ve Sněmovně reprezentantů po volbách 2026,25-GENERAL_QUESTION_TOTAL-a,8.29
+2026-09-22,2715915724,Ano,"Republikáni většina v Senátu, Republikáni většina ve Sněmovně reprezentantů po volbách do Kongresu 2026",25-GENERAL_QUESTION_YES_NO-a,8.5
+2026-09-22,2715915725,Méně než 218,Počet mandátů Demokratické strany ve Sněmovně reprezentantů po volbách 2026,25-GENERAL_QUESTION_TOTAL-a,8.396666666666667
 2026-09-21,2715915721,Ano,"Republikáni většina v Senátu, Demokraté většina ve Sněmovně reprezentantů po volbách do Kongresu 2026",25-GENERAL_QUESTION_YES_NO-a,3.0
 2026-09-21,2715827207,50 a více,Počet mandátů Republikánské strany v Senátu po volbách 2026,25-GENERAL_QUESTION_TOTAL-a,2.38
 2026-09-21,2715915717,Ano,"Demokraté většina v Senátu, Demokraté většina ve Sněmovně reprezentantů po volbách do Kongresu 2026",25-GENERAL_QUESTION_YES_NO-a,1.52
