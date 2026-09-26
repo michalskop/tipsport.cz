@@ -1,4 +1,8 @@
 date,id,name,odd,event_name,selection_id
+2026-09-26T10:32:53,2477702729,Ano,50.0,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a
+2026-09-26T10:32:53,2477702730,Ne,1.0,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a
+2026-09-26T10:32:53,2725643346,Ne,1.0,PS vysloví nedůvěru Vládě ČR v hlasování do 2.10.2026,25-GENERAL_QUESTION_YES_NO-a
+2026-09-26T10:32:53,2725643347,Ano,100.0,PS vysloví nedůvěru Vládě ČR v hlasování do 2.10.2026,25-GENERAL_QUESTION_YES_NO-a
 2026-09-26T00:16:40,2477702729,Ano,50.0,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a
 2026-09-26T00:16:40,2477702730,Ne,1.0,V roce 2026 se v Česku uskuteční předčasné volby do PS,25-GENERAL_QUESTION_YES_NO-a
 2026-09-26T00:16:40,2725643346,Ne,1.0,PS vysloví nedůvěru Vládě ČR v hlasování do 2.10.2026,25-GENERAL_QUESTION_YES_NO-a
