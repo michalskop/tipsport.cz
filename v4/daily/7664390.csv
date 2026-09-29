@@ -1,11 +1,21 @@
 date,id,name,event_name,selection_id,odd
-2026-09-28,2728284405,Ano,Nejvíc hlasů získá AS,25-POSITION_PARTICIPANT_VOTES-a,1.0
+2026-09-29,2728284405,Ano,Nejvíc hlasů získá AS,25-POSITION_PARTICIPANT_VOTES-a,1.0
+2026-09-29,2728284406,Ne,Nejvíc hlasů získá AS,25-POSITION_PARTICIPANT_VOTES-a,25.0
+2026-09-29,2728290133,Ano,Umístění SV do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.25
+2026-09-29,2728288739,Ano,Umístění PRO do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,2.2
+2026-09-29,2728288738,Ne,Umístění PRO do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
+2026-09-29,2728288737,Ano,Umístění LPV do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.07
+2026-09-29,2728288736,Ne,Umístění LPV do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
+2026-09-29,2728284408,Ano,Umístění LPV do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,2.0
+2026-09-29,2728284407,Ne,Umístění LPV do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.7
+2026-09-29,2728290134,Ne,Umístění SV do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
 2026-09-28,2728284406,Ne,Nejvíc hlasů získá AS,25-POSITION_PARTICIPANT_VOTES-a,25.0
-2026-09-28,2728284407,Ne,Umístění LPV do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.7
-2026-09-28,2728284408,Ano,Umístění LPV do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,2.0
-2026-09-28,2728288736,Ne,Umístění LPV do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
-2026-09-28,2728288737,Ano,Umístění LPV do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.07
-2026-09-28,2728288738,Ne,Umístění PRO do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
-2026-09-28,2728288739,Ano,Umístění PRO do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,2.2
-2026-09-28,2728290133,Ano,Umístění SV do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.25
 2026-09-28,2728290134,Ne,Umístění SV do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
+2026-09-28,2728290133,Ano,Umístění SV do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.25
+2026-09-28,2728288739,Ano,Umístění PRO do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,2.2
+2026-09-28,2728288738,Ne,Umístění PRO do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
+2026-09-28,2728288737,Ano,Umístění LPV do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.07
+2026-09-28,2728288736,Ne,Umístění LPV do 3. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.0
+2026-09-28,2728284408,Ano,Umístění LPV do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,2.0
+2026-09-28,2728284407,Ne,Umístění LPV do 2. místa podle počtu hlasů,25-POSITION_PARTICIPANT_VOTES-a,1.7
+2026-09-28,2728284405,Ano,Nejvíc hlasů získá AS,25-POSITION_PARTICIPANT_VOTES-a,1.0
