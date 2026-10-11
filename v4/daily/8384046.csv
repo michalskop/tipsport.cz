@@ -1,20 +1,24 @@
 date,id,name,event_name,selection_id,odd
+2026-10-11,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-10-11,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-10-11,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.6
+2026-10-11,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,2.16
 2026-10-10,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-10-10,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-10-10,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.6000000000000003
 2026-10-10,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,2.16
-2026-10-09,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-10-09,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-10-09,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.6000000000000003
 2026-10-09,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,2.16
+2026-10-09,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-10-09,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-10-08,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-10-08,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-10-08,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.6000000000000003
 2026-10-08,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,2.16
-2026-10-07,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-10-07,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.95
 2026-10-07,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.74
+2026-10-07,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.95
 2026-10-07,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-10-07,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-10-06,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-10-06,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-10-06,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
@@ -27,10 +31,10 @@ date,id,name,event_name,selection_id,odd
 2026-10-04,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-10-04,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-10-04,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-10-03,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-10-03,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-10-03,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-10-03,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-10-03,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-10-03,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-10-02,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-10-02,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-10-02,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
@@ -43,9 +47,9 @@ date,id,name,event_name,selection_id,odd
 2026-09-30,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-30,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-30,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-09-29,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-29,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-29,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-09-29,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-29,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-28,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-28,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
@@ -55,14 +59,14 @@ date,id,name,event_name,selection_id,odd
 2026-09-27,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-27,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-27,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-09-26,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-26,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-26,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-26,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-09-25,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-09-26,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-25,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-25,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-25,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-09-25,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-24,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-24,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-24,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
@@ -92,8 +96,8 @@ date,id,name,event_name,selection_id,odd
 2026-09-18,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-18,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-17,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-09-17,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-17,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-09-17,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-17,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-16,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-16,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
@@ -107,25 +111,25 @@ date,id,name,event_name,selection_id,odd
 2026-09-14,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-14,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-14,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-09-13,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-13,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-13,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-09-13,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-13,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-12,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-12,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-12,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-12,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-09-11,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-11,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-11,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-11,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-09-11,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-10,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-10,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-10,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-10,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-09,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-09-09,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-09,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-09-09,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-09,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-08,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-08,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
@@ -135,18 +139,18 @@ date,id,name,event_name,selection_id,odd
 2026-09-07,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-07,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-07,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-09-06,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-09-06,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-06,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-06,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-09-06,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-09-06,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-05,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-05,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-05,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-05,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-04,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-04,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-09-04,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-04,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-09-04,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-03,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-03,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-03,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
@@ -157,12 +161,12 @@ date,id,name,event_name,selection_id,odd
 2026-09-02,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-01,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-09-01,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-09-01,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.815
 2026-09-01,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.8675000000000002
+2026-09-01,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.815
 2026-08-31,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.7733333333333334
 2026-08-31,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.9133333333333333
-2026-08-31,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-31,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-08-31,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-30,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-30,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-30,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
@@ -171,14 +175,14 @@ date,id,name,event_name,selection_id,odd
 2026-08-29,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-29,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-29,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-08-28,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-08-28,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-28,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-28,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-08-27,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-08-27,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-08-27,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-08-28,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-08-28,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-27,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-08-27,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-08-27,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-08-27,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-26,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-26,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-26,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
@@ -188,13 +192,13 @@ date,id,name,event_name,selection_id,odd
 2026-08-25,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-25,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-24,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-08-24,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-24,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-24,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-08-24,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-08-23,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-23,2679135404,Ano,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
-2026-08-23,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-08-23,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-23,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
+2026-08-23,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-22,2679135407,Ano,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-22,2679135406,Ne,Celkový vítěz SuperStar bude z Česka,25-GENERAL_QUESTION_YES_NO-a,1.84
 2026-08-22,2679135405,Ne,Celkový vítěz SuperStar bude muž,25-GENERAL_QUESTION_YES_NO-a,1.84
