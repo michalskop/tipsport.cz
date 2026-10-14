@@ -1,107 +1,150 @@
 date,id,name,event_name,selection_id,odd
-2026-10-13,2741784620,Vašica Jiří,Kdo získá více hlasů (Bazala Josef x Vašica Jiří),25-BETTER_OF_VOTES-a,18.0
+2026-10-14,2741784620,Vašica Jiří,Kdo získá více hlasů (Bazala Josef x Vašica Jiří),25-BETTER_OF_VOTES-a,18.0
+2026-10-14,2741669561,Brzobohatá Andrea,Kdo získá více hlasů (Kašpar Michael x Brzobohatá Andrea),25-BETTER_OF_VOTES-a,30.0
+2026-10-14,2741669559,Volfová Jitka,Kdo získá více hlasů (Půta Martin x Volfová Jitka),25-BETTER_OF_VOTES-a,6.21
+2026-10-14,2741669558,Půta Martin,Kdo získá více hlasů (Půta Martin x Volfová Jitka),25-BETTER_OF_VOTES-a,1.08
+2026-10-14,2741669557,Paták Petr,Kdo získá více hlasů (Sucharda Šípová Adéla x Paták Petr),25-BETTER_OF_VOTES-a,1.65
+2026-10-14,2741669556,Sucharda Šípová Adéla,Kdo získá více hlasů (Sucharda Šípová Adéla x Paták Petr),25-BETTER_OF_VOTES-a,2.08
+2026-10-14,2741669555,Čižinský Jan,Kdo získá více hlasů (Padevět Jiří x Čižinský Jan),25-BETTER_OF_VOTES-a,30.0
+2026-10-14,2741669554,Padevět Jiří,Kdo získá více hlasů (Padevět Jiří x Čižinský Jan),25-BETTER_OF_VOTES-a,1.0
+2026-10-14,2741669553,Smoljak David,Kdo získá více hlasů (Smoljak David x Pecková Dagmar),25-BETTER_OF_VOTES-a,1.01
+2026-10-14,2741669552,Pecková Dagmar,Kdo získá více hlasů (Smoljak David x Pecková Dagmar),25-BETTER_OF_VOTES-a,12.0
+2026-10-14,2741669551,Láska Václav,Kdo získá více hlasů (Láska Václav x Sáblík Radko),25-BETTER_OF_VOTES-a,1.23
+2026-10-14,2741669550,Sáblík Radko,Kdo získá více hlasů (Láska Václav x Sáblík Radko),25-BETTER_OF_VOTES-a,3.65
+2026-10-14,2741647705,Daňhová Barbora,Kdo získá více hlasů (Štěpánek Petr x Daňhová Barbora),25-BETTER_OF_VOTES-a,20.0
+2026-10-14,2741647704,Štěpánek Petr,Kdo získá více hlasů (Štěpánek Petr x Daňhová Barbora),25-BETTER_OF_VOTES-a,1.01
+2026-10-14,2741647703,Kozár Michal,Kdo získá více hlasů (Med Ladislav x Kozár Michal),25-BETTER_OF_VOTES-a,7.43
+2026-10-14,2741647702,Med Ladislav,Kdo získá více hlasů (Med Ladislav x Kozár Michal),25-BETTER_OF_VOTES-a,1.05
+2026-10-14,2741647701,Kantorová Lucie,Kdo získá více hlasů (Řehka Karel x Kantorová Lucie),25-BETTER_OF_VOTES-a,22.0
+2026-10-14,2741647700,Řehka Karel,Kdo získá více hlasů (Řehka Karel x Kantorová Lucie),25-BETTER_OF_VOTES-a,1.01
+2026-10-14,2741647699,Trešl Ivo,Kdo získá více hlasů (Trešl Ivo x Mikoláš Jaroslav),25-BETTER_OF_VOTES-a,1.01
+2026-10-14,2741647698,Mikoláš Jaroslav,Kdo získá více hlasů (Trešl Ivo x Mikoláš Jaroslav),25-BETTER_OF_VOTES-a,15.0
+2026-10-14,2741647696,Plevný Miroslav,Kdo získá více hlasů (Plevný Miroslav x Tsoukernik Sandra),25-BETTER_OF_VOTES-a,1.01
+2026-10-14,2741669560,Kašpar Michael,Kdo získá více hlasů (Kašpar Michael x Brzobohatá Andrea),25-BETTER_OF_VOTES-a,1.0
+2026-10-14,2741647697,Tsoukernik Sandra,Kdo získá více hlasů (Plevný Miroslav x Tsoukernik Sandra),25-BETTER_OF_VOTES-a,18.0
+2026-10-14,2741784599,Dvořák Martin,Kdo získá více hlasů (Dvořák Martin x Ceralová Petrofová Zuzana),25-BETTER_OF_VOTES-a,1.65
+2026-10-14,2741784610,Škurek Martin,Kdo získá více hlasů (Ošťádal Marek x Škurek Martin),25-BETTER_OF_VOTES-a,10.0
+2026-10-14,2741784600,Ceralová Petrofová Zuzana,Kdo získá více hlasů (Dvořák Martin x Ceralová Petrofová Zuzana),25-BETTER_OF_VOTES-a,2.08
+2026-10-14,2741784618,Mitáček Ivo,Kdo získá více hlasů (Goláň Tomáš x Mitáček Ivo),25-BETTER_OF_VOTES-a,4.31
+2026-10-14,2741784617,Goláň Tomáš,Kdo získá více hlasů (Goláň Tomáš x Mitáček Ivo),25-BETTER_OF_VOTES-a,1.17
+2026-10-14,2741784616,Kazík Petr,Kdo získá více hlasů (Brzyszkowská Lenka x Kazík Petr),25-BETTER_OF_VOTES-a,3.48
+2026-10-14,2741784615,Brzyszkowská Lenka,Kdo získá více hlasů (Brzyszkowská Lenka x Kazík Petr),25-BETTER_OF_VOTES-a,1.25
+2026-10-14,2741784614,Baránková Vilamová Lucie,Kdo získá více hlasů (Šimetka Ondřej x Baránková Vilamová Lucie),25-BETTER_OF_VOTES-a,13.0
+2026-10-14,2741784613,Šimetka Ondřej,Kdo získá více hlasů (Šimetka Ondřej x Baránková Vilamová Lucie),25-BETTER_OF_VOTES-a,1.01
+2026-10-14,2741784612,Korč Petr,Kdo získá více hlasů (Pešatová Helena x Korč Petr),25-BETTER_OF_VOTES-a,2.22
+2026-10-14,2741784611,Pešatová Helena,Kdo získá více hlasů (Pešatová Helena x Korč Petr),25-BETTER_OF_VOTES-a,1.57
+2026-10-14,2741784619,Bazala Josef,Kdo získá více hlasů (Bazala Josef x Vašica Jiří),25-BETTER_OF_VOTES-a,1.01
+2026-10-14,2741784609,Ošťádal Marek,Kdo získá více hlasů (Ošťádal Marek x Škurek Martin),25-BETTER_OF_VOTES-a,1.02
+2026-10-14,2741784604,Třetina Tomáš,Kdo získá více hlasů (Třetina Tomáš x Kyněra Jiří),25-BETTER_OF_VOTES-a,1.02
+2026-10-14,2741784608,Navařík Jakub,Kdo získá více hlasů (Navařík Jakub x Vrána Petr),25-BETTER_OF_VOTES-a,1.55
+2026-10-14,2741784602,Šmarda Michal,Kdo získá více hlasů (Klement Josef x Šmarda Michal),25-BETTER_OF_VOTES-a,2.89
+2026-10-14,2741784603,Kyněra Jiří,Kdo získá více hlasů (Třetina Tomáš x Kyněra Jiří),25-BETTER_OF_VOTES-a,9.38
+2026-10-14,2741784601,Klement Josef,Kdo získá více hlasů (Klement Josef x Šmarda Michal),25-BETTER_OF_VOTES-a,1.35
+2026-10-14,2741784605,Papoušek Zdeněk,Kdo získá více hlasů (Papoušek Zdeněk x Zitterbart Karel),25-BETTER_OF_VOTES-a,1.02
+2026-10-14,2741784606,Zitterbart Karel,Kdo získá více hlasů (Papoušek Zdeněk x Zitterbart Karel),25-BETTER_OF_VOTES-a,10.0
+2026-10-14,2741784607,Vrána Petr,Kdo získá více hlasů (Navařík Jakub x Vrána Petr),25-BETTER_OF_VOTES-a,2.26
 2026-10-13,2741669561,Brzobohatá Andrea,Kdo získá více hlasů (Kašpar Michael x Brzobohatá Andrea),25-BETTER_OF_VOTES-a,30.0
+2026-10-13,2741669553,Smoljak David,Kdo získá více hlasů (Smoljak David x Pecková Dagmar),25-BETTER_OF_VOTES-a,1.01
 2026-10-13,2741669559,Volfová Jitka,Kdo získá více hlasů (Půta Martin x Volfová Jitka),25-BETTER_OF_VOTES-a,6.1066666666666665
 2026-10-13,2741669558,Půta Martin,Kdo získá více hlasů (Půta Martin x Volfová Jitka),25-BETTER_OF_VOTES-a,1.0833333333333333
 2026-10-13,2741669557,Paták Petr,Kdo získá více hlasů (Sucharda Šípová Adéla x Paták Petr),25-BETTER_OF_VOTES-a,1.6499999999999997
 2026-10-13,2741669556,Sucharda Šípová Adéla,Kdo získá více hlasů (Sucharda Šípová Adéla x Paták Petr),25-BETTER_OF_VOTES-a,2.08
 2026-10-13,2741669555,Čižinský Jan,Kdo získá více hlasů (Padevět Jiří x Čižinský Jan),25-BETTER_OF_VOTES-a,30.0
 2026-10-13,2741669554,Padevět Jiří,Kdo získá více hlasů (Padevět Jiří x Čižinský Jan),25-BETTER_OF_VOTES-a,1.0
-2026-10-13,2741669553,Smoljak David,Kdo získá více hlasů (Smoljak David x Pecková Dagmar),25-BETTER_OF_VOTES-a,1.01
+2026-10-13,2741669560,Kašpar Michael,Kdo získá více hlasů (Kašpar Michael x Brzobohatá Andrea),25-BETTER_OF_VOTES-a,1.0
+2026-10-13,2741647705,Daňhová Barbora,Kdo získá více hlasů (Štěpánek Petr x Daňhová Barbora),25-BETTER_OF_VOTES-a,20.0
+2026-10-13,2741669552,Pecková Dagmar,Kdo získá více hlasů (Smoljak David x Pecková Dagmar),25-BETTER_OF_VOTES-a,12.0
 2026-10-13,2741669551,Láska Václav,Kdo získá více hlasů (Láska Václav x Sáblík Radko),25-BETTER_OF_VOTES-a,1.2366666666666666
 2026-10-13,2741669550,Sáblík Radko,Kdo získá více hlasů (Láska Václav x Sáblík Radko),25-BETTER_OF_VOTES-a,3.5933333333333333
-2026-10-13,2741647705,Daňhová Barbora,Kdo získá více hlasů (Štěpánek Petr x Daňhová Barbora),25-BETTER_OF_VOTES-a,20.0
 2026-10-13,2741647704,Štěpánek Petr,Kdo získá více hlasů (Štěpánek Petr x Daňhová Barbora),25-BETTER_OF_VOTES-a,1.01
 2026-10-13,2741647703,Kozár Michal,Kdo získá více hlasů (Med Ladislav x Kozár Michal),25-BETTER_OF_VOTES-a,7.43
 2026-10-13,2741647702,Med Ladislav,Kdo získá více hlasů (Med Ladislav x Kozár Michal),25-BETTER_OF_VOTES-a,1.05
 2026-10-13,2741647701,Kantorová Lucie,Kdo získá více hlasů (Řehka Karel x Kantorová Lucie),25-BETTER_OF_VOTES-a,22.0
 2026-10-13,2741647700,Řehka Karel,Kdo získá více hlasů (Řehka Karel x Kantorová Lucie),25-BETTER_OF_VOTES-a,1.01
+2026-10-13,2741784600,Ceralová Petrofová Zuzana,Kdo získá více hlasů (Dvořák Martin x Ceralová Petrofová Zuzana),25-BETTER_OF_VOTES-a,2.1333333333333333
 2026-10-13,2741647699,Trešl Ivo,Kdo získá více hlasů (Trešl Ivo x Mikoláš Jaroslav),25-BETTER_OF_VOTES-a,1.01
-2026-10-13,2741647698,Mikoláš Jaroslav,Kdo získá více hlasů (Trešl Ivo x Mikoláš Jaroslav),25-BETTER_OF_VOTES-a,15.0
-2026-10-13,2741647697,Tsoukernik Sandra,Kdo získá více hlasů (Plevný Miroslav x Tsoukernik Sandra),25-BETTER_OF_VOTES-a,18.0
-2026-10-13,2741647696,Plevný Miroslav,Kdo získá více hlasů (Plevný Miroslav x Tsoukernik Sandra),25-BETTER_OF_VOTES-a,1.01
-2026-10-13,2741669560,Kašpar Michael,Kdo získá více hlasů (Kašpar Michael x Brzobohatá Andrea),25-BETTER_OF_VOTES-a,1.0
-2026-10-13,2741669552,Pecková Dagmar,Kdo získá více hlasů (Smoljak David x Pecková Dagmar),25-BETTER_OF_VOTES-a,12.0
 2026-10-13,2741784599,Dvořák Martin,Kdo získá více hlasů (Dvořák Martin x Ceralová Petrofová Zuzana),25-BETTER_OF_VOTES-a,1.6166666666666665
 2026-10-13,2741784610,Škurek Martin,Kdo získá více hlasů (Ošťádal Marek x Škurek Martin),25-BETTER_OF_VOTES-a,10.0
-2026-10-13,2741784600,Ceralová Petrofová Zuzana,Kdo získá více hlasů (Dvořák Martin x Ceralová Petrofová Zuzana),25-BETTER_OF_VOTES-a,2.1333333333333333
+2026-10-13,2741784601,Klement Josef,Kdo získá více hlasů (Klement Josef x Šmarda Michal),25-BETTER_OF_VOTES-a,1.4000000000000001
+2026-10-13,2741784613,Šimetka Ondřej,Kdo získá více hlasů (Šimetka Ondřej x Baránková Vilamová Lucie),25-BETTER_OF_VOTES-a,1.01
+2026-10-13,2741647697,Tsoukernik Sandra,Kdo získá více hlasů (Plevný Miroslav x Tsoukernik Sandra),25-BETTER_OF_VOTES-a,18.0
+2026-10-13,2741784620,Vašica Jiří,Kdo získá více hlasů (Bazala Josef x Vašica Jiří),25-BETTER_OF_VOTES-a,18.0
+2026-10-13,2741784619,Bazala Josef,Kdo získá více hlasů (Bazala Josef x Vašica Jiří),25-BETTER_OF_VOTES-a,1.01
 2026-10-13,2741784618,Mitáček Ivo,Kdo získá více hlasů (Goláň Tomáš x Mitáček Ivo),25-BETTER_OF_VOTES-a,3.8633333333333333
 2026-10-13,2741784617,Goláň Tomáš,Kdo získá více hlasů (Goláň Tomáš x Mitáček Ivo),25-BETTER_OF_VOTES-a,1.2133333333333332
 2026-10-13,2741784616,Kazík Petr,Kdo získá více hlasů (Brzyszkowská Lenka x Kazík Petr),25-BETTER_OF_VOTES-a,3.6333333333333333
 2026-10-13,2741784615,Brzyszkowská Lenka,Kdo získá více hlasů (Brzyszkowská Lenka x Kazík Petr),25-BETTER_OF_VOTES-a,1.2333333333333334
 2026-10-13,2741784614,Baránková Vilamová Lucie,Kdo získá více hlasů (Šimetka Ondřej x Baránková Vilamová Lucie),25-BETTER_OF_VOTES-a,13.0
-2026-10-13,2741784613,Šimetka Ondřej,Kdo získá více hlasů (Šimetka Ondřej x Baránková Vilamová Lucie),25-BETTER_OF_VOTES-a,1.01
 2026-10-13,2741784612,Korč Petr,Kdo získá více hlasů (Pešatová Helena x Korč Petr),25-BETTER_OF_VOTES-a,2.2
-2026-10-13,2741784611,Pešatová Helena,Kdo získá více hlasů (Pešatová Helena x Korč Petr),25-BETTER_OF_VOTES-a,1.58
-2026-10-13,2741784619,Bazala Josef,Kdo získá více hlasů (Bazala Josef x Vašica Jiří),25-BETTER_OF_VOTES-a,1.01
-2026-10-13,2741784609,Ošťádal Marek,Kdo získá více hlasů (Ošťádal Marek x Škurek Martin),25-BETTER_OF_VOTES-a,1.02
-2026-10-13,2741784604,Třetina Tomáš,Kdo získá více hlasů (Třetina Tomáš x Kyněra Jiří),25-BETTER_OF_VOTES-a,1.02
-2026-10-13,2741784608,Navařík Jakub,Kdo získá více hlasů (Navařík Jakub x Vrána Petr),25-BETTER_OF_VOTES-a,1.5166666666666666
 2026-10-13,2741784602,Šmarda Michal,Kdo získá více hlasů (Klement Josef x Šmarda Michal),25-BETTER_OF_VOTES-a,2.6966666666666668
-2026-10-13,2741784603,Kyněra Jiří,Kdo získá více hlasů (Třetina Tomáš x Kyněra Jiří),25-BETTER_OF_VOTES-a,9.38
-2026-10-13,2741784601,Klement Josef,Kdo získá více hlasů (Klement Josef x Šmarda Michal),25-BETTER_OF_VOTES-a,1.4000000000000001
-2026-10-13,2741784605,Papoušek Zdeněk,Kdo získá více hlasů (Papoušek Zdeněk x Zitterbart Karel),25-BETTER_OF_VOTES-a,1.02
-2026-10-13,2741784606,Zitterbart Karel,Kdo získá více hlasů (Papoušek Zdeněk x Zitterbart Karel),25-BETTER_OF_VOTES-a,10.0
+2026-10-13,2741784611,Pešatová Helena,Kdo získá více hlasů (Pešatová Helena x Korč Petr),25-BETTER_OF_VOTES-a,1.58
+2026-10-13,2741784609,Ošťádal Marek,Kdo získá více hlasů (Ošťádal Marek x Škurek Martin),25-BETTER_OF_VOTES-a,1.02
+2026-10-13,2741784608,Navařík Jakub,Kdo získá více hlasů (Navařík Jakub x Vrána Petr),25-BETTER_OF_VOTES-a,1.5166666666666666
 2026-10-13,2741784607,Vrána Petr,Kdo získá více hlasů (Navařík Jakub x Vrána Petr),25-BETTER_OF_VOTES-a,2.3466666666666662
-2026-10-12,2741784611,Pešatová Helena,Kdo získá více hlasů (Pešatová Helena x Korč Petr),25-BETTER_OF_VOTES-a,1.5866666666666667
-2026-10-12,2741784603,Kyněra Jiří,Kdo získá více hlasů (Třetina Tomáš x Kyněra Jiří),25-BETTER_OF_VOTES-a,9.38
-2026-10-12,2741784604,Třetina Tomáš,Kdo získá více hlasů (Třetina Tomáš x Kyněra Jiří),25-BETTER_OF_VOTES-a,1.02
-2026-10-12,2741784605,Papoušek Zdeněk,Kdo získá více hlasů (Papoušek Zdeněk x Zitterbart Karel),25-BETTER_OF_VOTES-a,1.02
-2026-10-12,2741784606,Zitterbart Karel,Kdo získá více hlasů (Papoušek Zdeněk x Zitterbart Karel),25-BETTER_OF_VOTES-a,10.0
-2026-10-12,2741784607,Vrána Petr,Kdo získá více hlasů (Navařík Jakub x Vrána Petr),25-BETTER_OF_VOTES-a,2.6
-2026-10-12,2741784602,Šmarda Michal,Kdo získá více hlasů (Klement Josef x Šmarda Michal),25-BETTER_OF_VOTES-a,2.28
-2026-10-12,2741784608,Navařík Jakub,Kdo získá více hlasů (Navařík Jakub x Vrána Petr),25-BETTER_OF_VOTES-a,1.4266666666666665
-2026-10-12,2741784609,Ošťádal Marek,Kdo získá více hlasů (Ošťádal Marek x Škurek Martin),25-BETTER_OF_VOTES-a,1.0233333333333334
-2026-10-12,2741784610,Škurek Martin,Kdo získá více hlasů (Ošťádal Marek x Škurek Martin),25-BETTER_OF_VOTES-a,9.536666666666667
-2026-10-12,2741784615,Brzyszkowská Lenka,Kdo získá více hlasů (Brzyszkowská Lenka x Kazík Petr),25-BETTER_OF_VOTES-a,1.1766666666666665
-2026-10-12,2741784612,Korč Petr,Kdo získá více hlasů (Pešatová Helena x Korč Petr),25-BETTER_OF_VOTES-a,2.19
-2026-10-12,2741784613,Šimetka Ondřej,Kdo získá více hlasů (Šimetka Ondřej x Baránková Vilamová Lucie),25-BETTER_OF_VOTES-a,1.01
-2026-10-12,2741784614,Baránková Vilamová Lucie,Kdo získá více hlasů (Šimetka Ondřej x Baránková Vilamová Lucie),25-BETTER_OF_VOTES-a,13.0
-2026-10-12,2741784616,Kazík Petr,Kdo získá více hlasů (Brzyszkowská Lenka x Kazík Petr),25-BETTER_OF_VOTES-a,4.276666666666666
-2026-10-12,2741784617,Goláň Tomáš,Kdo získá více hlasů (Goláň Tomáš x Mitáček Ivo),25-BETTER_OF_VOTES-a,1.2966666666666666
-2026-10-12,2741784618,Mitáček Ivo,Kdo získá více hlasů (Goláň Tomáš x Mitáček Ivo),25-BETTER_OF_VOTES-a,3.19
-2026-10-12,2741784619,Bazala Josef,Kdo získá více hlasů (Bazala Josef x Vašica Jiří),25-BETTER_OF_VOTES-a,1.01
-2026-10-12,2741784620,Vašica Jiří,Kdo získá více hlasů (Bazala Josef x Vašica Jiří),25-BETTER_OF_VOTES-a,16.333333333333332
-2026-10-12,2741784600,Ceralová Petrofová Zuzana,Kdo získá více hlasů (Dvořák Martin x Ceralová Petrofová Zuzana),25-BETTER_OF_VOTES-a,2.4066666666666667
-2026-10-12,2741784601,Klement Josef,Kdo získá více hlasů (Klement Josef x Šmarda Michal),25-BETTER_OF_VOTES-a,1.5666666666666667
-2026-10-12,2741784599,Dvořák Martin,Kdo získá více hlasů (Dvořák Martin x Ceralová Petrofová Zuzana),25-BETTER_OF_VOTES-a,1.5
+2026-10-13,2741784606,Zitterbart Karel,Kdo získá více hlasů (Papoušek Zdeněk x Zitterbart Karel),25-BETTER_OF_VOTES-a,10.0
+2026-10-13,2741784605,Papoušek Zdeněk,Kdo získá více hlasů (Papoušek Zdeněk x Zitterbart Karel),25-BETTER_OF_VOTES-a,1.02
+2026-10-13,2741784604,Třetina Tomáš,Kdo získá více hlasů (Třetina Tomáš x Kyněra Jiří),25-BETTER_OF_VOTES-a,1.02
+2026-10-13,2741784603,Kyněra Jiří,Kdo získá více hlasů (Třetina Tomáš x Kyněra Jiří),25-BETTER_OF_VOTES-a,9.38
+2026-10-13,2741647698,Mikoláš Jaroslav,Kdo získá více hlasů (Trešl Ivo x Mikoláš Jaroslav),25-BETTER_OF_VOTES-a,15.0
+2026-10-13,2741647696,Plevný Miroslav,Kdo získá více hlasů (Plevný Miroslav x Tsoukernik Sandra),25-BETTER_OF_VOTES-a,1.01
 2026-10-12,2741647696,Plevný Miroslav,Kdo získá více hlasů (Plevný Miroslav x Tsoukernik Sandra),25-BETTER_OF_VOTES-a,1.01
-2026-10-12,2741669551,Láska Václav,Kdo získá více hlasů (Láska Václav x Sáblík Radko),25-BETTER_OF_VOTES-a,1.2266666666666666
-2026-10-12,2741647697,Tsoukernik Sandra,Kdo získá více hlasů (Plevný Miroslav x Tsoukernik Sandra),25-BETTER_OF_VOTES-a,17.0
-2026-10-12,2741647698,Mikoláš Jaroslav,Kdo získá více hlasů (Trešl Ivo x Mikoláš Jaroslav),25-BETTER_OF_VOTES-a,15.0
-2026-10-12,2741647699,Trešl Ivo,Kdo získá více hlasů (Trešl Ivo x Mikoláš Jaroslav),25-BETTER_OF_VOTES-a,1.01
-2026-10-12,2741647700,Řehka Karel,Kdo získá více hlasů (Řehka Karel x Kantorová Lucie),25-BETTER_OF_VOTES-a,1.01
-2026-10-12,2741647701,Kantorová Lucie,Kdo získá více hlasů (Řehka Karel x Kantorová Lucie),25-BETTER_OF_VOTES-a,21.333333333333332
-2026-10-12,2741647703,Kozár Michal,Kdo získá více hlasů (Med Ladislav x Kozár Michal),25-BETTER_OF_VOTES-a,7.43
-2026-10-12,2741647704,Štěpánek Petr,Kdo získá více hlasů (Štěpánek Petr x Daňhová Barbora),25-BETTER_OF_VOTES-a,1.01
-2026-10-12,2741647705,Daňhová Barbora,Kdo získá více hlasů (Štěpánek Petr x Daňhová Barbora),25-BETTER_OF_VOTES-a,20.0
-2026-10-12,2741669550,Sáblík Radko,Kdo získá více hlasů (Láska Václav x Sáblík Radko),25-BETTER_OF_VOTES-a,3.703333333333333
-2026-10-12,2741647702,Med Ladislav,Kdo získá více hlasů (Med Ladislav x Kozár Michal),25-BETTER_OF_VOTES-a,1.05
-2026-10-12,2741669552,Pecková Dagmar,Kdo získá více hlasů (Smoljak David x Pecková Dagmar),25-BETTER_OF_VOTES-a,12.0
-2026-10-12,2741669557,Paták Petr,Kdo získá více hlasů (Sucharda Šípová Adéla x Paták Petr),25-BETTER_OF_VOTES-a,1.6933333333333334
-2026-10-12,2741669553,Smoljak David,Kdo získá více hlasů (Smoljak David x Pecková Dagmar),25-BETTER_OF_VOTES-a,1.01
-2026-10-12,2741669560,Kašpar Michael,Kdo získá více hlasů (Kašpar Michael x Brzobohatá Andrea),25-BETTER_OF_VOTES-a,1.0
+2026-10-12,2741669561,Brzobohatá Andrea,Kdo získá více hlasů (Kašpar Michael x Brzobohatá Andrea),25-BETTER_OF_VOTES-a,30.0
 2026-10-12,2741669559,Volfová Jitka,Kdo získá více hlasů (Půta Martin x Volfová Jitka),25-BETTER_OF_VOTES-a,5.583333333333333
 2026-10-12,2741669558,Půta Martin,Kdo získá více hlasů (Půta Martin x Volfová Jitka),25-BETTER_OF_VOTES-a,1.1033333333333333
-2026-10-12,2741669561,Brzobohatá Andrea,Kdo získá více hlasů (Kašpar Michael x Brzobohatá Andrea),25-BETTER_OF_VOTES-a,30.0
+2026-10-12,2741669557,Paták Petr,Kdo získá více hlasů (Sucharda Šípová Adéla x Paták Petr),25-BETTER_OF_VOTES-a,1.6933333333333334
 2026-10-12,2741669556,Sucharda Šípová Adéla,Kdo získá více hlasů (Sucharda Šípová Adéla x Paták Petr),25-BETTER_OF_VOTES-a,2.02
 2026-10-12,2741669555,Čižinský Jan,Kdo získá více hlasů (Padevět Jiří x Čižinský Jan),25-BETTER_OF_VOTES-a,30.0
 2026-10-12,2741669554,Padevět Jiří,Kdo získá více hlasů (Padevět Jiří x Čižinský Jan),25-BETTER_OF_VOTES-a,1.0
+2026-10-12,2741669553,Smoljak David,Kdo získá více hlasů (Smoljak David x Pecková Dagmar),25-BETTER_OF_VOTES-a,1.01
+2026-10-12,2741669551,Láska Václav,Kdo získá více hlasů (Láska Václav x Sáblík Radko),25-BETTER_OF_VOTES-a,1.2266666666666666
+2026-10-12,2741669550,Sáblík Radko,Kdo získá více hlasů (Láska Václav x Sáblík Radko),25-BETTER_OF_VOTES-a,3.703333333333333
+2026-10-12,2741647705,Daňhová Barbora,Kdo získá více hlasů (Štěpánek Petr x Daňhová Barbora),25-BETTER_OF_VOTES-a,20.0
+2026-10-12,2741647704,Štěpánek Petr,Kdo získá více hlasů (Štěpánek Petr x Daňhová Barbora),25-BETTER_OF_VOTES-a,1.01
+2026-10-12,2741647703,Kozár Michal,Kdo získá více hlasů (Med Ladislav x Kozár Michal),25-BETTER_OF_VOTES-a,7.43
+2026-10-12,2741647702,Med Ladislav,Kdo získá více hlasů (Med Ladislav x Kozár Michal),25-BETTER_OF_VOTES-a,1.05
+2026-10-12,2741647701,Kantorová Lucie,Kdo získá více hlasů (Řehka Karel x Kantorová Lucie),25-BETTER_OF_VOTES-a,21.333333333333332
+2026-10-12,2741647700,Řehka Karel,Kdo získá více hlasů (Řehka Karel x Kantorová Lucie),25-BETTER_OF_VOTES-a,1.01
+2026-10-12,2741647699,Trešl Ivo,Kdo získá více hlasů (Trešl Ivo x Mikoláš Jaroslav),25-BETTER_OF_VOTES-a,1.01
+2026-10-12,2741647698,Mikoláš Jaroslav,Kdo získá více hlasů (Trešl Ivo x Mikoláš Jaroslav),25-BETTER_OF_VOTES-a,15.0
+2026-10-12,2741647697,Tsoukernik Sandra,Kdo získá více hlasů (Plevný Miroslav x Tsoukernik Sandra),25-BETTER_OF_VOTES-a,17.0
+2026-10-12,2741784620,Vašica Jiří,Kdo získá více hlasů (Bazala Josef x Vašica Jiří),25-BETTER_OF_VOTES-a,16.333333333333332
+2026-10-12,2741669560,Kašpar Michael,Kdo získá více hlasů (Kašpar Michael x Brzobohatá Andrea),25-BETTER_OF_VOTES-a,1.0
+2026-10-12,2741669552,Pecková Dagmar,Kdo získá více hlasů (Smoljak David x Pecková Dagmar),25-BETTER_OF_VOTES-a,12.0
+2026-10-12,2741784599,Dvořák Martin,Kdo získá více hlasů (Dvořák Martin x Ceralová Petrofová Zuzana),25-BETTER_OF_VOTES-a,1.5
+2026-10-12,2741784610,Škurek Martin,Kdo získá více hlasů (Ošťádal Marek x Škurek Martin),25-BETTER_OF_VOTES-a,9.536666666666667
+2026-10-12,2741784600,Ceralová Petrofová Zuzana,Kdo získá více hlasů (Dvořák Martin x Ceralová Petrofová Zuzana),25-BETTER_OF_VOTES-a,2.4066666666666667
+2026-10-12,2741784618,Mitáček Ivo,Kdo získá více hlasů (Goláň Tomáš x Mitáček Ivo),25-BETTER_OF_VOTES-a,3.19
+2026-10-12,2741784617,Goláň Tomáš,Kdo získá více hlasů (Goláň Tomáš x Mitáček Ivo),25-BETTER_OF_VOTES-a,1.2966666666666666
+2026-10-12,2741784616,Kazík Petr,Kdo získá více hlasů (Brzyszkowská Lenka x Kazík Petr),25-BETTER_OF_VOTES-a,4.276666666666666
+2026-10-12,2741784615,Brzyszkowská Lenka,Kdo získá více hlasů (Brzyszkowská Lenka x Kazík Petr),25-BETTER_OF_VOTES-a,1.1766666666666665
+2026-10-12,2741784614,Baránková Vilamová Lucie,Kdo získá více hlasů (Šimetka Ondřej x Baránková Vilamová Lucie),25-BETTER_OF_VOTES-a,13.0
+2026-10-12,2741784613,Šimetka Ondřej,Kdo získá více hlasů (Šimetka Ondřej x Baránková Vilamová Lucie),25-BETTER_OF_VOTES-a,1.01
+2026-10-12,2741784612,Korč Petr,Kdo získá více hlasů (Pešatová Helena x Korč Petr),25-BETTER_OF_VOTES-a,2.19
+2026-10-12,2741784611,Pešatová Helena,Kdo získá více hlasů (Pešatová Helena x Korč Petr),25-BETTER_OF_VOTES-a,1.5866666666666667
+2026-10-12,2741784619,Bazala Josef,Kdo získá více hlasů (Bazala Josef x Vašica Jiří),25-BETTER_OF_VOTES-a,1.01
+2026-10-12,2741784609,Ošťádal Marek,Kdo získá více hlasů (Ošťádal Marek x Škurek Martin),25-BETTER_OF_VOTES-a,1.0233333333333334
+2026-10-12,2741784604,Třetina Tomáš,Kdo získá více hlasů (Třetina Tomáš x Kyněra Jiří),25-BETTER_OF_VOTES-a,1.02
+2026-10-12,2741784608,Navařík Jakub,Kdo získá více hlasů (Navařík Jakub x Vrána Petr),25-BETTER_OF_VOTES-a,1.4266666666666665
+2026-10-12,2741784602,Šmarda Michal,Kdo získá více hlasů (Klement Josef x Šmarda Michal),25-BETTER_OF_VOTES-a,2.28
+2026-10-12,2741784603,Kyněra Jiří,Kdo získá více hlasů (Třetina Tomáš x Kyněra Jiří),25-BETTER_OF_VOTES-a,9.38
+2026-10-12,2741784601,Klement Josef,Kdo získá více hlasů (Klement Josef x Šmarda Michal),25-BETTER_OF_VOTES-a,1.5666666666666667
+2026-10-12,2741784605,Papoušek Zdeněk,Kdo získá více hlasů (Papoušek Zdeněk x Zitterbart Karel),25-BETTER_OF_VOTES-a,1.02
+2026-10-12,2741784606,Zitterbart Karel,Kdo získá více hlasů (Papoušek Zdeněk x Zitterbart Karel),25-BETTER_OF_VOTES-a,10.0
+2026-10-12,2741784607,Vrána Petr,Kdo získá více hlasů (Navařík Jakub x Vrána Petr),25-BETTER_OF_VOTES-a,2.6
 2026-10-11,2741669551,Láska Václav,Kdo získá více hlasů (Láska Václav x Sáblík Radko),25-BETTER_OF_VOTES-a,1.2
 2026-10-11,2741669559,Volfová Jitka,Kdo získá více hlasů (Půta Martin x Volfová Jitka),25-BETTER_OF_VOTES-a,4.6
 2026-10-11,2741669558,Půta Martin,Kdo získá více hlasů (Půta Martin x Volfová Jitka),25-BETTER_OF_VOTES-a,1.15
 2026-10-11,2741669557,Paták Petr,Kdo získá více hlasů (Sucharda Šípová Adéla x Paták Petr),25-BETTER_OF_VOTES-a,2.08
 2026-10-11,2741669556,Sucharda Šípová Adéla,Kdo získá více hlasů (Sucharda Šípová Adéla x Paták Petr),25-BETTER_OF_VOTES-a,1.65
 2026-10-11,2741669555,Čižinský Jan,Kdo získá více hlasů (Padevět Jiří x Čižinský Jan),25-BETTER_OF_VOTES-a,30.0
+2026-10-11,2741669560,Kašpar Michael,Kdo získá více hlasů (Kašpar Michael x Brzobohatá Andrea),25-BETTER_OF_VOTES-a,1.0
 2026-10-11,2741669554,Padevět Jiří,Kdo získá více hlasů (Padevět Jiří x Čižinský Jan),25-BETTER_OF_VOTES-a,1.0
 2026-10-11,2741669553,Smoljak David,Kdo získá více hlasů (Smoljak David x Pecková Dagmar),25-BETTER_OF_VOTES-a,1.01
 2026-10-11,2741669552,Pecková Dagmar,Kdo získá více hlasů (Smoljak David x Pecková Dagmar),25-BETTER_OF_VOTES-a,13.0
-2026-10-11,2741669560,Kašpar Michael,Kdo získá více hlasů (Kašpar Michael x Brzobohatá Andrea),25-BETTER_OF_VOTES-a,1.0
-2026-10-11,2741647697,Tsoukernik Sandra,Kdo získá více hlasů (Plevný Miroslav x Tsoukernik Sandra),25-BETTER_OF_VOTES-a,15.0
+2026-10-11,2741647703,Kozár Michal,Kdo získá více hlasů (Med Ladislav x Kozár Michal),25-BETTER_OF_VOTES-a,7.43
 2026-10-11,2741669550,Sáblík Radko,Kdo získá více hlasů (Láska Václav x Sáblík Radko),25-BETTER_OF_VOTES-a,3.94
 2026-10-11,2741647705,Daňhová Barbora,Kdo získá více hlasů (Štěpánek Petr x Daňhová Barbora),25-BETTER_OF_VOTES-a,20.0
 2026-10-11,2741647704,Štěpánek Petr,Kdo získá více hlasů (Štěpánek Petr x Daňhová Barbora),25-BETTER_OF_VOTES-a,1.01
-2026-10-11,2741647703,Kozár Michal,Kdo získá více hlasů (Med Ladislav x Kozár Michal),25-BETTER_OF_VOTES-a,7.43
 2026-10-11,2741647702,Med Ladislav,Kdo získá více hlasů (Med Ladislav x Kozár Michal),25-BETTER_OF_VOTES-a,1.05
 2026-10-11,2741647701,Kantorová Lucie,Kdo získá více hlasů (Řehka Karel x Kantorová Lucie),25-BETTER_OF_VOTES-a,20.0
 2026-10-11,2741647700,Řehka Karel,Kdo získá více hlasů (Řehka Karel x Kantorová Lucie),25-BETTER_OF_VOTES-a,1.01
@@ -109,9 +152,9 @@ date,id,name,event_name,selection_id,odd
 2026-10-11,2741647698,Mikoláš Jaroslav,Kdo získá více hlasů (Trešl Ivo x Mikoláš Jaroslav),25-BETTER_OF_VOTES-a,15.0
 2026-10-11,2741784599,Dvořák Martin,Kdo získá více hlasů (Dvořák Martin x Ceralová Petrofová Zuzana),25-BETTER_OF_VOTES-a,1.27
 2026-10-11,2741669561,Brzobohatá Andrea,Kdo získá více hlasů (Kašpar Michael x Brzobohatá Andrea),25-BETTER_OF_VOTES-a,30.0
-2026-10-11,2741784610,Škurek Martin,Kdo získá více hlasů (Ošťádal Marek x Škurek Martin),25-BETTER_OF_VOTES-a,8.61
+2026-10-11,2741647697,Tsoukernik Sandra,Kdo získá více hlasů (Plevný Miroslav x Tsoukernik Sandra),25-BETTER_OF_VOTES-a,15.0
 2026-10-11,2741784600,Ceralová Petrofová Zuzana,Kdo získá více hlasů (Dvořák Martin x Ceralová Petrofová Zuzana),25-BETTER_OF_VOTES-a,3.34
-2026-10-11,2741784612,Korč Petr,Kdo získá více hlasů (Pešatová Helena x Korč Petr),25-BETTER_OF_VOTES-a,2.68
+2026-10-11,2741784601,Klement Josef,Kdo získá více hlasů (Klement Josef x Šmarda Michal),25-BETTER_OF_VOTES-a,1.65
 2026-10-11,2741784620,Vašica Jiří,Kdo získá více hlasů (Bazala Josef x Vašica Jiří),25-BETTER_OF_VOTES-a,13.0
 2026-10-11,2741784619,Bazala Josef,Kdo získá více hlasů (Bazala Josef x Vašica Jiří),25-BETTER_OF_VOTES-a,1.01
 2026-10-11,2741784618,Mitáček Ivo,Kdo získá více hlasů (Goláň Tomáš x Mitáček Ivo),25-BETTER_OF_VOTES-a,2.89
@@ -120,8 +163,9 @@ date,id,name,event_name,selection_id,odd
 2026-10-11,2741784615,Brzyszkowská Lenka,Kdo získá více hlasů (Brzyszkowská Lenka x Kazík Petr),25-BETTER_OF_VOTES-a,1.11
 2026-10-11,2741784614,Baránková Vilamová Lucie,Kdo získá více hlasů (Šimetka Ondřej x Baránková Vilamová Lucie),25-BETTER_OF_VOTES-a,13.0
 2026-10-11,2741784613,Šimetka Ondřej,Kdo získá více hlasů (Šimetka Ondřej x Baránková Vilamová Lucie),25-BETTER_OF_VOTES-a,1.01
+2026-10-11,2741784612,Korč Petr,Kdo získá více hlasů (Pešatová Helena x Korč Petr),25-BETTER_OF_VOTES-a,2.68
 2026-10-11,2741784611,Pešatová Helena,Kdo získá více hlasů (Pešatová Helena x Korč Petr),25-BETTER_OF_VOTES-a,1.4
-2026-10-11,2741784601,Klement Josef,Kdo získá více hlasů (Klement Josef x Šmarda Michal),25-BETTER_OF_VOTES-a,1.65
+2026-10-11,2741784610,Škurek Martin,Kdo získá více hlasů (Ošťádal Marek x Škurek Martin),25-BETTER_OF_VOTES-a,8.61
 2026-10-11,2741784609,Ošťádal Marek,Kdo získá více hlasů (Ošťádal Marek x Škurek Martin),25-BETTER_OF_VOTES-a,1.03
 2026-10-11,2741784608,Navařík Jakub,Kdo získá více hlasů (Navařík Jakub x Vrána Petr),25-BETTER_OF_VOTES-a,1.4
 2026-10-11,2741784607,Vrána Petr,Kdo získá více hlasů (Navařík Jakub x Vrána Petr),25-BETTER_OF_VOTES-a,2.68
