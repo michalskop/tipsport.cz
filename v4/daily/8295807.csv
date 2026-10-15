@@ -1,4 +1,6 @@
 date,id,name,event_name,selection_id,odd
+2026-10-15,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.22
+2026-10-15,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,3.74
 2026-09-20,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.03
 2026-09-20,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,9.0
 2026-09-19,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.03
@@ -19,8 +21,8 @@ date,id,name,event_name,selection_id,odd
 2026-09-10,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.5
 2026-09-09,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.16
 2026-09-09,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.45
-2026-09-08,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.16
 2026-09-08,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.45
+2026-09-08,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.16
 2026-09-07,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.16
 2026-09-07,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.45
 2026-09-06,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.16
@@ -29,8 +31,8 @@ date,id,name,event_name,selection_id,odd
 2026-09-05,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.45
 2026-09-04,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.1733333333333331
 2026-09-04,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.283333333333334
-2026-09-03,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.18
 2026-09-03,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.2
+2026-09-03,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.18
 2026-09-02,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.1066666666666667
 2026-09-02,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,5.773333333333333
 2026-09-01,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.07
@@ -59,10 +61,10 @@ date,id,name,event_name,selection_id,odd
 2026-08-21,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,6.373333333333332
 2026-08-20,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.09
 2026-08-20,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,6.0
-2026-08-19,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.09
 2026-08-19,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,6.0
-2026-08-18,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.09
+2026-08-19,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.09
 2026-08-18,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,6.0
+2026-08-18,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.09
 2026-08-17,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.1266666666666667
 2026-08-17,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,5.153333333333333
 2026-08-16,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.17
@@ -77,8 +79,8 @@ date,id,name,event_name,selection_id,odd
 2026-08-12,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.31
 2026-08-11,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.17
 2026-08-11,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.31
-2026-08-10,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.17
 2026-08-10,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.31
+2026-08-10,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.17
 2026-08-09,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.31
 2026-08-09,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.17
 2026-08-08,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.17
@@ -95,10 +97,10 @@ date,id,name,event_name,selection_id,odd
 2026-08-03,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.31
 2026-08-02,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.17
 2026-08-02,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.31
-2026-08-01,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.17
 2026-08-01,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.31
-2026-07-31,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.31
+2026-08-01,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.17
 2026-07-31,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.17
+2026-07-31,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.31
 2026-07-30,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.17
 2026-07-30,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.31
 2026-07-29,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.17
@@ -113,8 +115,8 @@ date,id,name,event_name,selection_id,odd
 2026-07-25,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.31
 2026-07-24,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.31
 2026-07-24,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.17
-2026-07-23,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.31
 2026-07-23,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.17
+2026-07-23,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.31
 2026-07-22,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.17
 2026-07-22,2659612830,Ne,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,4.31
 2026-07-21,2659612831,Ano,Vítěz Andersson Magdalena,25-POSITION_PLAYER-a,1.17
