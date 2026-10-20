@@ -1,4 +1,6 @@
 date,id,name,event_name,selection_id,odd
+2026-10-20,2735090268,Lula da Silva Luiz Inácio,Vítěz,25-WINNER_NWAY-a,4.2
+2026-10-20,2735090267,Bolsonaro Flavio,Vítěz,25-WINNER_NWAY-a,1.18
 2026-10-19,2735090268,Lula da Silva Luiz Inácio,Vítěz,25-WINNER_NWAY-a,4.45
 2026-10-19,2735090267,Bolsonaro Flavio,Vítěz,25-WINNER_NWAY-a,1.165
 2026-10-18,2735090268,Lula da Silva Luiz Inácio,Vítěz,25-WINNER_NWAY-a,4.7
@@ -9,8 +11,8 @@ date,id,name,event_name,selection_id,odd
 2026-10-16,2735090267,Bolsonaro Flavio,Vítěz,25-WINNER_NWAY-a,1.17
 2026-10-15,2735090268,Lula da Silva Luiz Inácio,Vítěz,25-WINNER_NWAY-a,5.133333333333333
 2026-10-15,2735090267,Bolsonaro Flavio,Vítěz,25-WINNER_NWAY-a,1.14
-2026-10-14,2735090267,Bolsonaro Flavio,Vítěz,25-WINNER_NWAY-a,1.06
 2026-10-14,2735090268,Lula da Silva Luiz Inácio,Vítěz,25-WINNER_NWAY-a,7.599999999999999
+2026-10-14,2735090267,Bolsonaro Flavio,Vítěz,25-WINNER_NWAY-a,1.06
 2026-10-13,2735090268,Lula da Silva Luiz Inácio,Vítěz,25-WINNER_NWAY-a,7.2
 2026-10-13,2735090267,Bolsonaro Flavio,Vítěz,25-WINNER_NWAY-a,1.07
 2026-10-12,2735090268,Lula da Silva Luiz Inácio,Vítěz,25-WINNER_NWAY-a,6.400000000000001
@@ -21,8 +23,8 @@ date,id,name,event_name,selection_id,odd
 2026-10-10,2735090267,Bolsonaro Flavio,Vítěz,25-WINNER_NWAY-a,1.1
 2026-10-09,2735090268,Lula da Silva Luiz Inácio,Vítěz,25-WINNER_NWAY-a,6.0
 2026-10-09,2735090267,Bolsonaro Flavio,Vítěz,25-WINNER_NWAY-a,1.1
-2026-10-08,2735090268,Lula da Silva Luiz Inácio,Vítěz,25-WINNER_NWAY-a,5.833333333333333
 2026-10-08,2735090267,Bolsonaro Flavio,Vítěz,25-WINNER_NWAY-a,1.1066666666666667
+2026-10-08,2735090268,Lula da Silva Luiz Inácio,Vítěz,25-WINNER_NWAY-a,5.833333333333333
 2026-10-07,2735090268,Lula da Silva Luiz Inácio,Vítěz,25-WINNER_NWAY-a,5.400000000000001
 2026-10-07,2735090267,Bolsonaro Flavio,Vítěz,25-WINNER_NWAY-a,1.12
 2026-10-06,2735090268,Lula da Silva Luiz Inácio,Vítěz,25-WINNER_NWAY-a,4.95
@@ -47,8 +49,8 @@ date,id,name,event_name,selection_id,odd
 2026-09-27,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.62
 2026-09-26,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.13
 2026-09-26,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.62
-2026-09-25,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.25
 2026-09-25,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.5599999999999998
+2026-09-25,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.25
 2026-09-24,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.31
 2026-09-24,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.53
 2026-09-23,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.285
@@ -93,12 +95,12 @@ date,id,name,event_name,selection_id,odd
 2026-09-04,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.05
 2026-09-03,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.67
 2026-09-03,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.05
-2026-09-02,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.6133333333333333
 2026-09-02,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.1599999999999997
-2026-09-01,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.5
+2026-09-02,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.6133333333333333
 2026-09-01,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.38
-2026-08-31,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.5
+2026-09-01,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.5
 2026-08-31,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.38
+2026-08-31,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.5
 2026-08-30,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.5
 2026-08-30,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.38
 2026-08-29,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.5
@@ -109,8 +111,8 @@ date,id,name,event_name,selection_id,odd
 2026-08-27,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.61
 2026-08-26,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.42
 2026-08-26,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.61
-2026-08-25,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.42
 2026-08-25,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.61
+2026-08-25,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.42
 2026-08-24,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.61
 2026-08-24,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.42
 2026-08-23,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.42
@@ -123,22 +125,22 @@ date,id,name,event_name,selection_id,odd
 2026-08-20,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.61
 2026-08-19,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.42
 2026-08-19,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.61
-2026-08-18,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.42
 2026-08-18,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.61
-2026-08-17,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.61
+2026-08-18,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.42
 2026-08-17,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.42
+2026-08-17,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.61
 2026-08-16,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.42
 2026-08-16,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.61
 2026-08-15,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.42
 2026-08-15,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.61
 2026-08-14,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.42
 2026-08-14,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.61
-2026-08-13,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.42
 2026-08-13,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.61
+2026-08-13,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.42
 2026-08-12,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.61
 2026-08-12,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.42
-2026-08-11,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.61
 2026-08-11,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.42
+2026-08-11,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.61
 2026-08-10,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.42
 2026-08-10,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.61
 2026-08-09,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.42
@@ -149,10 +151,10 @@ date,id,name,event_name,selection_id,odd
 2026-08-07,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.61
 2026-08-06,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.42
 2026-08-06,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.61
-2026-08-05,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.4466666666666665
 2026-08-05,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.533333333333333
-2026-08-04,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.38
+2026-08-05,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.4466666666666665
 2026-08-04,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.5
+2026-08-04,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.38
 2026-08-03,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.5
 2026-08-03,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.38
 2026-08-02,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.5
@@ -163,8 +165,8 @@ date,id,name,event_name,selection_id,odd
 2026-07-31,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.33
 2026-07-30,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.33
 2026-07-30,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.5200000000000002
-2026-07-29,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.33
 2026-07-29,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.5200000000000002
+2026-07-29,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.33
 2026-07-28,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.5200000000000002
 2026-07-28,2655590776,Ne,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,2.33
 2026-07-27,2655590777,Ano,Vítěz Lula da Silva Luiz Inácio,25-POSITION_PLAYER-a,1.5200000000000002
