@@ -1,0 +1,5 @@
+date,id,name,event_name,selection_id,odd
+2026-10-23,2754292651,Méně než 45.35%,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.94
+2026-10-23,2754292652,45.35% a více,Volební účast v procentech,25-TOTAL_ELECTION_PARTICIPATION-a,1.75
+2026-10-23,2754292653,Ne,Bratislavský kraj bude mít nejnižší procentuální volební účast ze všech krajů SR,25-GENERAL_QUESTION_YES_NO-a,3.48
+2026-10-23,2754292654,Ano,Bratislavský kraj bude mít nejnižší procentuální volební účast ze všech krajů SR,25-GENERAL_QUESTION_YES_NO-a,1.25
